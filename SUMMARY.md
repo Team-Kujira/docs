@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Kujira Docs](README.md)
 * [Run a Node](run-a-node.md)
