@@ -167,7 +167,7 @@ After=network.target
 [Service]
 Type=simple
 User=kuji
-ExecStart=/home/kuji/go/bin/kujirad start  
+ExecStart=/home/kuji/go/bin/kujirad start --log-level error 
 Restart=on-abort
 
 [Install]
@@ -193,3 +193,41 @@ LimitNOFILE=65535
              └─18490 /home/kuji/go/bin/kujirad start
 ...
 ```
+
+Once your node is synced. it is time to make it a validator.
+this can be done on a seperate machine if preferred.
+
+create a key that will be the validators key. I have chosen the creative name of 'validator'
+```
+kurjiad keys add validator
+```
+copy the seed phrase and put it somewhere safe.
+you will need to also make note of the address "kujira..." and use that in the faucet to get some coins.
+you can check your balance via
+```
+ kujirad query bank balances kujira....
+ ```
+
+The next part is associating your node with your account, creating the validator
+``` 
+
+export PUBKEY=$( kujirad tendermint show-validator)
+kujirad tx staking create-validator --moniker=*your moniker* \
+ --amount=1000000ukuji \
+        --gas-prices=1ukuji \
+        --pubkey=$PUBKEY \
+         --from=validator \
+        --yes \
+        --node=tcp://localhost:26657 \
+        --chain-id=harpoon-1 \
+        --commission-max-change-rate=0.01 \
+        --commission-max-rate=0.20 \
+        --commission-rate=0.10 \
+        --min-self-delegation=1
+```
+now your node should be present. 
+```
+kujirad query staking validators|grep details
+```
+please remember to also back up  .kujira/config/priv_validator_key.json
+if you lose this, you are toast.
