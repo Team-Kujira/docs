@@ -231,3 +231,34 @@ kujirad query staking validators|grep details
 ```
 please remember to also back up  .kujira/config/priv_validator_key.json
 if you lose this, you are toast.
+
+
+## Tips
+### disk utilization
+to help manage the disk size you can prune the blocks being kept. for this I use prime numbers pick your own 
+in app.toml
+```
+pruning = "custom"
+
+# These are applied if and only if the pruning strategy is custom.
+pruning-keep-recent = "809"
+pruning-keep-every = "0"
+pruning-interval = "43"
+```
+you should also check what you are indexing
+```
+index-events = ["tx.hash", "tx.height"]
+```
+### adding more peers.
+you should modify /etc/security/limits.conf 
+and add
+```
+*                soft    nofile          65535
+*                hard    nofile          65535
+```
+you can then modify the config.yaml to increase connections. This may cost you more in ingress/egress charges.
+```
+max_open_connections = 1900
+max_num_inbound_peers = 50
+max_num_outbound_peers = 50
+```
