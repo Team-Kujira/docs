@@ -199,18 +199,17 @@ this can be done on a seperate machine if preferred.
 
 create a key that will be the validators key. I have chosen the creative name of 'validator'
 ```
-kurjiad keys add validator
+kujirad keys add validator
 ```
 copy the seed phrase and put it somewhere safe.
 you will need to also make note of the address "kujira..." and use that in the faucet to get some coins.
 you can check your balance via
 ```
- kujirad query bank balances kujira....
- ```
+kujirad query bank balances kujira....
+```
 
 The next part is associating your node with your account, creating the validator
-``` 
-
+```
 export PUBKEY=$( kujirad tendermint show-validator)
 kujirad tx staking create-validator --moniker=*your moniker* \
  --amount=1000000ukuji \
