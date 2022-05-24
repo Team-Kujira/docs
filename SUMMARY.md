@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Page 1](README.md)
-* [KUJI testnet](kuji-testnet.md)
+* [Run a Node](run-a-node.md)
