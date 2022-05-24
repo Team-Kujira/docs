@@ -67,7 +67,7 @@ Time to unzip and prep the source code
 
 ## Now we build!
 
-Time to ignite the build sequence
+Time to ignite the build sequence (using the `kuji` user created above)
 
 1. Ensure go is in our path (also add it to the end of your `.bashrc` file)
 
@@ -92,7 +92,7 @@ Cosmos SDK's version is: stargate - v0.45.4
 
 ## Running the test net
 
-If the build succeed you should now have the `kujirad` cli in your path.
+If the build succeed you should now have the `kujirad` cli in your path (of the `kuji` user).
 
 Try invoking with `kujirad` and you should see output like
 
@@ -156,7 +156,7 @@ And then a whole bunch of log messages while your node is catching up. If this i
 
 ## Registering as a service
 
-Drop out of the `kuji` user if you're still in that terminal session. Write `exit` or type `ctrl+d` on your keyboard
+Drop out of the `kuji` user if you're still in that terminal session. Write `exit` or type `ctrl+d` on your keyboard.
 
 1. Create a service definition file in `/etc/systemd/system/kujirad.service`. Example file that fits with our kuijrad install and kuji runtime user:
 
