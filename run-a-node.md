@@ -3,6 +3,7 @@
 This guide assumes you're running on Ubuntu 22.04 LTS - the commands will probably work just fine on 20.04 LTS or Debian.
 
 Download the zip file from Discord, and ensure that you have `ssh` and `scp` available on your own machine.
+Link to Discord message containing the file: https://discord.com/channels/970650215801569330/976895823319289897/978610761133883414
 
 ## Basic Machine setup
 
