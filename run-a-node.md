@@ -112,16 +112,10 @@ kujirad init <moniker name> --chain-id ${CHAIN_ID}
 
 Replacing `<moniker name>` with your desired name.
 
-1. Place the `genesis.json` file from the downloaded zip
+1. Fetch the genesis `genesis.json` file
 
 ```
-cp $HOME/kujira-core-bundle/genesis.json $HOME/.kujira/config/
-```
-
-1. Place the `addressbook` from the downloaded zip
-
-```
-cp $HOME/kujira-core-bundle/addrbook.json $HOME/.kujira/config/
+wget https://github.com/Team-Kujira/networks/blob/master/testnet/harpoon-2.json -O $HOME/.kujira/config/genesis.json
 ```
 
 Now try to start the network
