@@ -31,13 +31,6 @@ Ignite CLI source hash:	83cee38e68fe3dd7cdf48a1a7881ac553a281042
 ...
 ```
 
-## Download the zip file with the kuji source
-
-Download the file
-
-```bash
-wget https://cdn.discordapp.com/attachments/976895823319289897/978610761226125382/kujira-core.zip -O /tmp/kujira-core.zip
-```
 ## Get the testnet up and running
 
 First off we add a new non-root user that can run the network
@@ -52,12 +45,11 @@ And we assume the user
 sudo su -l kuji
 ```
 
-Time to unzip and prep the source code
+Time to grab the code
 
-1. `mv /tmp/kujira-core.zip $HOME`
-2. `cd $HOME && unzip kujira-core.zip && mv kujira-core kujira-core-bundle`
-3. `mkdir kujira-core`
-4. `cd kujira-core && git init && git remote add bundle ../kujira-core-bundle/kujira-core.bundle && git pull bundle master`
+```bash
+git clone https://github.com/Team-Kujira/core kujira-core
+```
 
 ## Now we build!
 
@@ -69,8 +61,8 @@ Time to ignite the build sequence (using the `kuji` user created above)
 export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:$(go env GOPATH)/bin
 ```
-
-1. `ignite chain build`
+2. move into the source folder `cd $HOME/kujira-core`
+3. `ignite chain build`
 
 A successful build produces output like
 
