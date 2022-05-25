@@ -2,9 +2,6 @@
 
 This guide assumes you're running on Ubuntu 22.04 LTS - the commands will probably work just fine on 20.04 LTS or Debian.
 
-Download the zip file from Discord, and ensure that you have `ssh` and `scp` available on your own machine.
-Link to Discord message containing the file: https://discord.com/channels/970650215801569330/976895823319289897/978610761133883414
-
 ## Basic Machine setup
 
 1. ssh into your node
@@ -34,19 +31,16 @@ Ignite CLI source hash:	83cee38e68fe3dd7cdf48a1a7881ac553a281042
 ...
 ```
 
-## Get the zip to the machine
+## Download the zip file with the kuji source
 
-From your local machine you need copy the downloaded zip onto the server. Use `scp` for this:
+Download the file
 
 ```bash
-scp kujira-core.zip <user>@<ip or host>:/tmp
+wget https://cdn.discordapp.com/attachments/976895823319289897/978610761226125382/kujira-core.zip -O /tmp/kujira-core.zip
 ```
-
-Replacing the `<user>` with your linux machine's user and the `<ip or host>` with the provisioned IP from your cloud provider
-
 ## Get the testnet up and running
 
-Now we're back on the server. First off we add a new non-root user that can run the network
+First off we add a new non-root user that can run the network
 
 ```
 sudo useradd -m kuji
