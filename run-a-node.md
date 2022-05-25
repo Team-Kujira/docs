@@ -69,7 +69,7 @@ Time to unzip and prep the source code
 
 Time to ignite the build sequence (using the `kuji` user created above)
 
-1. Ensure go is in our path (also add it to the end of your `.bashrc` file)
+1. Ensure go is in our path (also add it to the end of your `.bashrc` or `/etc/profile` file)
 
 ```
 export PATH=$PATH:/usr/local/go/bin
@@ -168,8 +168,9 @@ After=network.target
 [Service]
 Type=simple
 User=kuji
-ExecStart=/home/kuji/go/bin/kujirad start --log-level error 
-Restart=on-abort
+ExecStart=/home/kuji/go/bin/kujirad start
+Restart=always
+RestartSec=3
 
 [Install]
 WantedBy=multi-user.target
@@ -200,7 +201,7 @@ this can be done on a seperate machine if preferred.
 
 create a key that will be the validators key. I have chosen the creative name of 'validator'
 ```
-kujirad keys add validator
+kujirad keys add <validator>
 ```
 copy the seed phrase and put it somewhere safe.
 you will need to also make note of the address "kujira..." and use that in the faucet to get some coins.
@@ -216,18 +217,19 @@ kujirad tx staking create-validator --moniker=*your moniker* \
  --amount=1000000ukuji \
         --gas-prices=1ukuji \
         --pubkey=$PUBKEY \
-         --from=validator \
+         --from=<your validator name> \
         --yes \
         --node=tcp://localhost:26657 \
         --chain-id=harpoon-1 \
         --commission-max-change-rate=0.01 \
         --commission-max-rate=0.20 \
         --commission-rate=0.10 \
-        --min-self-delegation=1
+        --min-self-delegation=1 \
+        --details=<Some Information about the validator>
 ```
 now your node should be present. 
 ```
-kujirad query staking validators|grep details
+kujirad query staking validators|grep moniker
 ```
 please remember to also back up  .kujira/config/priv_validator_key.json
 if you lose this, you are toast.
