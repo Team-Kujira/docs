@@ -115,7 +115,7 @@ Replacing `<moniker name>` with your desired name.
 1. Fetch the genesis `genesis.json` file
 
 ```
-wget https://github.com/Team-Kujira/networks/blob/master/testnet/harpoon-2.json -O $HOME/.kujira/config/genesis.json
+wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/harpoon-2.json -O $HOME/.kujira/config/genesis.json
 ```
 
 Now try to start the network
