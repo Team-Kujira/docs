@@ -21,8 +21,8 @@ export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:$(go env GOPATH)/bin
 ```
 
-1. get the ignite cli `curl https://get.ignite.com/cli! | bash` (check out their site: https://docs.ignite.com/)
-2. check that ignite works `ignite version` - should produce output like
+3. get the ignite cli `curl https://get.ignite.com/cli! | sudo bash` (check out their site: https://docs.ignite.com/)
+4. check that ignite works `ignite version` - should produce output like
 
 ```
 Ignite CLI version:	v0.21.2
