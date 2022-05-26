@@ -14,14 +14,14 @@ First off we install go 1.18.x
 
 1. `wget https://go.dev/dl/go1.18.2.linux-amd64.tar.gz`
 2. extract the runtime `sudo tar -C /usr/local -xzf go1.18.2.linux-amd64.tar.gz`
-3. Add go to your path
+3. Add go to your path (also add it to the end of your `.bashrc` file)
 
 ```
 export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:$(go env GOPATH)/bin
 ```
 
-1. get the ignite cli `curl https://get.ignite.com/cli! | bash` (chek out their site: https://docs.ignite.com/)
+1. get the ignite cli `curl https://get.ignite.com/cli! | bash` (check out their site: https://docs.ignite.com/)
 2. check that ignite works `ignite version` - should produce output like
 
 ```
@@ -48,21 +48,15 @@ sudo su -l kuji
 Time to grab the code
 
 ```bash
-git clone https://github.com/Team-Kujira/core kujira-core
+git clone https://github.com/Team-Kujira/core $HOME/kujira-core
 ```
 
 ## Now we build!
 
 Time to ignite the build sequence (using the `kuji` user created above)
 
-1. Ensure go is in our path (also add it to the end of your `.bashrc` file)
-
-```
-export PATH=$PATH:/usr/local/go/bin
-export PATH=$PATH:$(go env GOPATH)/bin
-```
-2. move into the source folder `cd $HOME/kujira-core`
-3. `ignite chain build`
+1. move into the source folder `cd $HOME/kujira-core`
+2. `ignite chain build`
 
 A successful build produces output like
 
@@ -106,16 +100,17 @@ Now we can initialize and join the network
 1. Initialize
 
 ```
-export CHAIN_ID=harpoon-1
-kujirad init <moniker name> --chain-id ${CHAIN_ID}
+export CHAIN_ID=harpoon-3
+export MONIKER_NAME="<moniker name>"
+kujirad init "${MONIKER_NAME}" --chain-id ${CHAIN_ID}
 ```
 
 Replacing `<moniker name>` with your desired name.
 
-1. Fetch the genesis `genesis.json` file
+2. Fetch the genesis `genesis.json` file
 
 ```
-wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/harpoon-2.json -O $HOME/.kujira/config/genesis.json
+wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/harpoon-3.json -O $HOME/.kujira/config/genesis.json
 ```
 
 Now try to start the network
@@ -148,7 +143,7 @@ After=network.target
 [Service]
 Type=simple
 User=kuji
-ExecStart=/home/kuji/go/bin/kujirad start --log-level error 
+ExecStart=/home/kuji/go/bin/kujirad start --log_level error 
 Restart=on-abort
 
 [Install]
@@ -192,14 +187,16 @@ kujirad query bank balances kujira....
 The next part is associating your node with your account, creating the validator
 ```
 export PUBKEY=$( kujirad tendermint show-validator)
-kujirad tx staking create-validator --moniker=*your moniker* \
+export CHAIN_ID=harpoon-3
+export MONIKER_NAME="<your moniker>"
+kujirad tx staking create-validator --moniker="${MONIKER_NAME}" \
  --amount=1000000ukuji \
         --gas-prices=1ukuji \
         --pubkey=$PUBKEY \
          --from=validator \
         --yes \
         --node=tcp://localhost:26657 \
-        --chain-id=harpoon-1 \
+        --chain-id=${CHAIN_ID} \
         --commission-max-change-rate=0.01 \
         --commission-max-rate=0.20 \
         --commission-rate=0.10 \
@@ -209,7 +206,7 @@ now your node should be present.
 ```
 kujirad query staking validators|grep details
 ```
-please remember to also back up  .kujira/config/priv_validator_key.json
+please remember to also back up  $HOME/.kujira/config/priv_validator_key.json
 if you lose this, you are toast.
 
 
