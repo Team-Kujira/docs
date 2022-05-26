@@ -143,7 +143,7 @@ After=network.target
 [Service]
 Type=simple
 User=kuji
-ExecStart=/home/kuji/go/bin/kujirad start --log-level error 
+ExecStart=/home/kuji/go/bin/kujirad start --log_level error 
 Restart=on-abort
 
 [Install]
