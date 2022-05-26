@@ -14,11 +14,12 @@ First off we install go 1.18.x
 
 1. `wget https://go.dev/dl/go1.18.2.linux-amd64.tar.gz`
 2. extract the runtime `sudo tar -C /usr/local -xzf go1.18.2.linux-amd64.tar.gz`
-3. Add go to your path (also add it to the end of your `.bashrc` file)
+3. Add go to your path
 
 ```
-export PATH=$PATH:/usr/local/go/bin
-export PATH=$PATH:$(go env GOPATH)/bin
+echo "export PATH=$PATH:/usr/local/go/bin" >> ~/.bashrc
+echo "export PATH=$PATH:$(go env GOPATH)/bin" >> ~/.bashrc
+. ~/.bashrc
 ```
 
 3. get the ignite cli `curl https://get.ignite.com/cli! | sudo bash` (check out their site: https://docs.ignite.com/)
