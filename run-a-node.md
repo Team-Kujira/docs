@@ -112,6 +112,11 @@ Replacing `<moniker name>` with your desired name.
 ```
 wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/harpoon-3.json -O $HOME/.kujira/config/genesis.json
 ```
+3. Download the `addrbook.json` file
+
+```
+wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/addrbook.json -O $HOME/.kujira/config/addrbook.json
+```
 
 Now try to start the network
 
