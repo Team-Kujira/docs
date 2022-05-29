@@ -15,6 +15,7 @@ First off we install go 1.18.x
 1. `wget https://go.dev/dl/go1.18.2.linux-amd64.tar.gz`
 2. extract the runtime `sudo tar -C /usr/local -xzf go1.18.2.linux-amd64.tar.gz`
 3. Add go to your path (also add it to the end of your `.bashrc` file)
+4. Run `source ~/.profile` and/or `source ~/.bashrc`
 
 ```
 export PATH=$PATH:/usr/local/go/bin
