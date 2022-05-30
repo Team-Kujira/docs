@@ -11,9 +11,8 @@ This guide assumes you're running on Ubuntu 22.04 LTS - the commands will probab
 ### Golang
 
 First off we install go 1.18.x
-```
-curl -fsSL https://go.dev/dl/go1.18.2.linux-amd64.tar.gz | sudo tar -C /usr/local -xz
-```
+1. `wget https://go.dev/dl/go1.18.2.linux-amd64.tar.gz`
+2. extract the runtime `sudo tar -C /usr/local -xzf go1.18.2.linux-amd64.tar.gz`
 
 ## Get the testnet up and running
 
@@ -22,11 +21,12 @@ curl -fsSL https://go.dev/dl/go1.18.2.linux-amd64.tar.gz | sudo tar -C /usr/loca
 sudo useradd -m kuji
 sudo su -s /bin/bash -l kuji
 ```
-2. Add go to your path (add these lines to `~/.bashrc` for persistence)
+2. Add go to your path (add these lines to `~/.profile` or `~/.bashrc`)
 ```
 export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:$(go env GOPATH)/bin
 ```
+4. Run `source ~/.profile` and/or `source ~/.bashrc`
 3. Time to grab the code
 ```bash
 git clone https://github.com/Team-Kujira/core $HOME/kujira-core
@@ -90,6 +90,11 @@ Replacing `<moniker name>` with your desired name.
 
 ```
 wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/harpoon-3.json -O $HOME/.kujira/config/genesis.json
+```
+3. Download the `addrbook.json` file
+
+```
+wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/addrbook.json -O $HOME/.kujira/config/addrbook.json
 ```
 
 Now try to start the network
