@@ -8,46 +8,26 @@ This guide assumes you're running on Ubuntu 22.04 LTS - the commands will probab
 2. update your machine `sudo apt update && sudo apt dist-upgrade -y`. Answer yes / ok to the prompts
 3. install required tools tools `sudo apt install build-essential git unzip curl wget`
 
-### Golang and ignite
+### Golang
 
 First off we install go 1.18.x
-
 1. `wget https://go.dev/dl/go1.18.2.linux-amd64.tar.gz`
 2. extract the runtime `sudo tar -C /usr/local -xzf go1.18.2.linux-amd64.tar.gz`
-3. Add go to your path (also add it to the end of your `.bashrc` file)
-4. Run `source ~/.profile` and/or `source ~/.bashrc`
 
+## Get the testnet up and running
+
+1. create the kuji user and switch to it
+```
+sudo useradd -m kuji
+sudo su -s /bin/bash -l kuji
+```
+2. Add go to your path (add these lines to `~/.profile` or `~/.bashrc`)
 ```
 export PATH=$PATH:/usr/local/go/bin
 export PATH=$PATH:$(go env GOPATH)/bin
 ```
-
-1. get the ignite cli `curl https://get.ignite.com/cli! | bash` (check out their site: https://docs.ignite.com/)
-2. check that ignite works `ignite version` - should produce output like
-
-```
-Ignite CLI version:	v0.21.2
-Ignite CLI build date:	2022-05-16T18:58:45Z
-Ignite CLI source hash:	83cee38e68fe3dd7cdf48a1a7881ac553a281042
-...
-```
-
-## Get the testnet up and running
-
-First off we add a new non-root user that can run the network
-
-```
-sudo useradd -m kuji
-```
-
-And we assume the user
-
-```
-sudo su -l kuji
-```
-
-Time to grab the code
-
+4. Run `source ~/.profile` and/or `source ~/.bashrc`
+3. Time to grab the code
 ```bash
 git clone https://github.com/Team-Kujira/core $HOME/kujira-core
 ```
@@ -56,19 +36,17 @@ git clone https://github.com/Team-Kujira/core $HOME/kujira-core
 
 Time to ignite the build sequence (using the `kuji` user created above)
 
-1. move into the source folder `cd $HOME/kujira-core`
-2. `ignite chain build`
-
-A successful build produces output like
-
+1. move into the source folder 
 ```
-Cosmos SDK's version is: stargate - v0.45.4
-
-
-🛠️  Building proto...
-📦 Installing dependencies...
-🛠️  Building the blockchain...
-🗃  Installed. Use with: kujirad
+cd $HOME/kujira-core
+```
+2. build and install `kujirad`
+```
+make install
+```
+3. verify your binary is working
+```
+kujirad version
 ```
 
 ## Running the test net
