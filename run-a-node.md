@@ -217,7 +217,7 @@ and add
 *                soft    nofile          65535
 *                hard    nofile          65535
 ```
-you can then modify the config.yaml to increase connections. This may cost you more in ingress/egress charges.
+you can then modify the config.toml to increase connections. This may cost you more in ingress/egress charges.
 ```
 max_open_connections = 1900
 max_num_inbound_peers = 50
