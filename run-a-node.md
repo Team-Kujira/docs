@@ -163,6 +163,12 @@ kujirad keys add validator
 ```
 copy the seed phrase and put it somewhere safe.
 you will need to also make note of the address "kujira..." and use that in the faucet to get some coins.
+
+If you already have a wallet, restore it using a seed phrase:
+```
+kujirad keys add validator --recover 
+```
+
 you can check your balance via
 ```
 kujirad query bank balances kujira....
