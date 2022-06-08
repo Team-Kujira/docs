@@ -30,6 +30,7 @@ export PATH=$PATH:$(go env GOPATH)/bin
 3. Time to grab the code
 ```bash
 git clone https://github.com/Team-Kujira/core $HOME/kujira-core
+git checkout v0.3.0
 ```
 
 ## Now we build!
