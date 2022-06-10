@@ -106,7 +106,8 @@ First, find the location of the binary you want to use:
 which kujirad
 ```
 
-Then use the path returned to copy it to the directory Cosmovisor expects. Let's assume the previous command returned `/home/your-user/go/bin/junod`:
+Then use the path returned to copy it to the directory Cosmovisor expects. Let's assume the previous command returned `/home/your-user/go/bin/
+kujirad`:
 
 ```bash
 cp /home/<your-user>/go/bin/kujirad $DAEMON_HOME/cosmovisor/genesis/bin
@@ -116,7 +117,7 @@ Once you're done, check the folder structure looks correct using a tool like `tr
 
 ## Set up service
 
-Commands sent to Cosmovisor are sent to the underlying binary. For example, `cosmovisor version` is the same as typing `junod version`.
+Commands sent to Cosmovisor are sent to the underlying binary. For example, `cosmovisor version` is the same as typing `kujirad version`.
 
 Nevertheless, just as we would manage `kujirad` using a process manager, we would like to make sure Cosmovisor is automatically restarted if something happens, for example an error or reboot.
 
