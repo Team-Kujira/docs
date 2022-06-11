@@ -30,22 +30,23 @@ export PATH=$PATH:$(go env GOPATH)/bin
 3. Time to grab the code
 ```bash
 git clone https://github.com/Team-Kujira/core $HOME/kujira-core
-git checkout v0.3.0
+cd $HOME/kujira-core
+git checkout v0.4.0
 ```
 
 ## Now we build!
 
 Time to ignite the build sequence (using the `kuji` user created above)
 
-1. move into the source folder 
+1. Move into the source folder 
 ```
 cd $HOME/kujira-core
 ```
-2. build and install `kujirad`
+2. Build and install `kujirad`
 ```
 make install
 ```
-3. verify your binary is working
+3. Verify your binary is working
 ```
 kujirad version
 ```
@@ -80,7 +81,7 @@ Now we can initialize and join the network
 1. Initialize
 
 ```
-export CHAIN_ID=harpoon-3
+export CHAIN_ID=harpoon-4
 export MONIKER_NAME="<moniker name>"
 kujirad init "${MONIKER_NAME}" --chain-id ${CHAIN_ID}
 ```
@@ -90,7 +91,7 @@ Replacing `<moniker name>` with your desired name.
 2. Fetch the genesis `genesis.json` file
 
 ```
-wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/harpoon-3.json -O $HOME/.kujira/config/genesis.json
+wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/harpoon-4.json -O $HOME/.kujira/config/genesis.json
 ```
 3. Download the `addrbook.json` file
 
@@ -130,12 +131,10 @@ Type=simple
 User=kuji
 ExecStart=/home/kuji/go/bin/kujirad start --log_level error 
 Restart=on-abort
+LimitNOFILE=65535 
 
 [Install]
 WantedBy=multi-user.target
-
-[Service]
-LimitNOFILE=65535  
 ```
 
 1. Reload your systemctl `sudo systemctl daemon-reload` and enable the service `sudo systemctl enable kujirad`
