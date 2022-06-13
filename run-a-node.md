@@ -14,30 +14,41 @@ sudo apt update && sudo apt dist-upgrade -y
 sudo apt install build-essential git unzip curl wget
 ```
 
-### Install Golang
-
-1. Download `go` 1.18.x
-```
-wget https://go.dev/dl/go1.18.2.linux-amd64.tar.gz
-```
-2. Extract the runtime
-```
-sudo tar -C /usr/local -xzf go1.18.2.linux-amd64.tar.gz
-```
 
 ## Prepare testnet environment
 
-1. Create the `kuji` user and switch to it
+Create the `kuji` user and switch to it
 ```
 sudo useradd -m kuji
 sudo su -s /bin/bash -l kuji
 ```
-2. Add go to your path (add these lines to `~/.profile` or `~/.bashrc`)
+
+### Install Golang
+
+1. Download `go` 1.18.x
 ```
-export PATH=$PATH:/usr/local/go/bin
-export PATH=$PATH:$(go env GOPATH)/bin
+# remove old go version
+sudo rm -rvf /usr/local/go/
+
+# download recent go version
+wget https://golang.org/dl/go1.18.3.linux-amd64.tar.gz
+
+# install go
+sudo tar -C /usr/local -xzf go1.18.3.linux-amd64.tar.gz
+
+# remove unneeded installer
+rm go1.18.3.linux-amd64.tar.gz
+
+# source go
+cat <<EOF >> ~/.profile
+export GOROOT=/usr/local/go
+export GOPATH=$HOME/go
+export GO111MODULE=on
+export PATH=$PATH:/usr/local/go/bin:$HOME/go/bin
+EOF
+source ~/.profile
+go version
 ```
-3. Run `source ~/.profile` and/or `source ~/.bashrc`
 
 ## Now we build!
 
