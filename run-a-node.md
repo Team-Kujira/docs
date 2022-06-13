@@ -181,7 +181,7 @@ kujirad status 2>&1 | jq .SyncInfo
 ## Create the validator
 
 Once your node has synced, it's time to create a validator.
-It can be done on a seperate machine if preferred.
+It can be done on a separate machine if preferred.
 
 Create a key that will be the validators key.
 ```
@@ -200,11 +200,11 @@ kujirad query bank balances kujira....
 The next part is associating your node with your account, creating the validator
 ```
 export PUBKEY=$(kujirad tendermint show-validator)
-export CHAIN_ID=harpoon-3
+export CHAIN_ID=harpoon-4
 export MONIKER_NAME="<your moniker>"
 ```
 ```
-kujirad tx staking create-validator
+kujirad tx staking create-validator \
 --moniker="${MONIKER_NAME}" \
 --amount=1000000ukuji \
 --gas-prices=1ukuji \
