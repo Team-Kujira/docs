@@ -200,7 +200,7 @@ kujirad query bank balances kujira....
 The next part is associating your node with your account, creating the validator
 ```
 export PUBKEY=$(kujirad tendermint show-validator)
-export CHAIN_ID=harpoon-3
+export CHAIN_ID=harpoon-4
 export MONIKER_NAME="<your moniker>"
 ```
 ```
