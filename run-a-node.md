@@ -113,6 +113,18 @@ wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/harpo
 wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/addrbook.json -O $HOME/.kujira/config/addrbook.json
 ```
 
+Fix your gas fee settings in `$HOME/.kujira/config/app.toml`
+
+```bash
+sed -i "s/^minimum-gas-prices *=.*/minimum-gas-prices = \"0.00125ukuji\"/;" $HOME/.kujira/config/app.toml
+```
+
+And update the commit times in `$HOME/.kujira/config/config.toml`
+
+```bash
+sed -i "s/^timeout_commit *=.*/timeout_commit = \"1500ms\"/;" $HOME/.kujira/config/config.toml
+```
+
 Now start the node
 ```bash
 $ kujirad start
@@ -192,7 +204,7 @@ kujirad status 2>&1 | jq .SyncInfo
 ## Create the validator
 
 Once your node has synced, it's time to create a validator.
-It can be done on a seperate machine if preferred.
+It can be done on a separate machine if preferred.
 
 Create a key that will be the validators key.
 ```
@@ -215,7 +227,7 @@ export CHAIN_ID=harpoon-4
 export MONIKER_NAME="<your moniker>"
 ```
 ```
-kujirad tx staking create-validator
+kujirad tx staking create-validator \
 --moniker="${MONIKER_NAME}" \
 --amount=1000000ukuji \
 --gas-prices=1ukuji \
