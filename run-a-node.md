@@ -102,6 +102,18 @@ wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/harpo
 wget https://raw.githubusercontent.com/Team-Kujira/networks/master/testnet/addrbook.json -O $HOME/.kujira/config/addrbook.json
 ```
 
+Fix your gas fee settings in `$HOME/.kujira/config/app.toml`
+
+```bash
+sed -i "s/^minimum-gas-prices *=.*/minimum-gas-prices = \"0.00125ukuji\"/;" $HOME/.kujira/config/app.toml
+```
+
+And update the commit times in `$HOME/.kujira/config/config.toml`
+
+```bash
+sed -i "s/^timeout_commit *=.*/timeout_commit = \"1500ms\"/;" $HOME/.kujira/config/config.toml
+```
+
 Now start the node
 ```bash
 $ kujirad start
