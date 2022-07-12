@@ -8,7 +8,8 @@
 
 ## dApps
 
-* [FIN](dapps/fin.md)
+* [FIN](dapps/fin/README.md)
+  * [Coingecko API](dapps/fin/coingecko-api.md)
 * [ORCA](dapps/orca.md)
 * [BLUE](dapps/blue.md)
 
