@@ -24,6 +24,6 @@ Leverage Rust’s expressive type system and Cosmwasm’s best in class architec
 
 With 50K+ active users and a very engaged Twitter, Discord and Telegram community, this is a welcoming home to hit the ground running in.
 
-#### Built to Last
+### Built to Last
 
 A long term view for real-world use, revenue, and sustainability for builders, validators and users alike.
