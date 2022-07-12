@@ -1,5 +1,28 @@
 # Table of contents
 
-* [Kujira Docs](README.md)
-* [Run a Node](run-a-node.md)
-* [Cosmovisor Setup](setting-up-cosmovisor.md)
+## Introduction
+
+* [Grown-Up DeFi](README.md)
+* [Why Kujira](introduction/why-kujira.md)
+* [Our Mission](introduction/our-mission.md)
+
+## dApps
+
+* [FIN](dapps/fin.md)
+* [ORCA](dapps/orca.md)
+* [BLUE](dapps/blue.md)
+
+## Validators
+
+* [Run a Node](validators/run-a-node.md)
+* [Cosmovisor Setup](validators/setting-up-cosmovisor.md)
+
+## Governance
+
+* [Vote on Proposals](governance/vote-on-proposals.md)
+* [Submit a Proposal](governance/submit-a-proposal.md)
+
+## Tokenomics
+
+* [KUJI Token](tokenomics/kuji-token.md)
+* [Staking](tokenomics/staking.md)
