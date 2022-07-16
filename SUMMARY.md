@@ -12,6 +12,7 @@
   * [Coingecko API](dapps/fin/coingecko-api.md)
 * [ORCA](dapps/orca.md)
 * [BLUE](dapps/blue.md)
+* [Finder](dapps/finder.md)
 
 ## Validators
 
