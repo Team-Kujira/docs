@@ -16,7 +16,10 @@
 
 ## Validators
 
-* [Run a Node](validators/run-a-node.md)
+* [Run a Node](validators/run-a-node/README.md)
+  * [Create a validator](validators/run-a-node/run-a-node.md)
+  * [Oracle Price Feeder](validators/run-a-node/oracle-price-feeder.md)
+  * [Tips](validators/run-a-node/tips.md)
 * [Cosmovisor Setup](validators/setting-up-cosmovisor.md)
 
 ## Governance
