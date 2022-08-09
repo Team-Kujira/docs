@@ -1,0 +1,9 @@
+cd kujira-core
+git fetch --tags && git checkout v0.5.0
+make build && make install
+# this will return commit 89470bd1ec8e3dd8cd3e8c7a9856e527b2c7f079
+kujirad version --long
+
+mkdir -p $DAEMON_HOME/cosmovisor/upgrades/v0.5.0/bin && cp $HOME/go/bin/kujirad $DAEMON_HOME/cosmovisor/upgrades/v0.5.0/bin
+# this will return v0.5.0
+$DAEMON_HOME/cosmovisor/upgrades/v0.5.0/bin/kujirad version
