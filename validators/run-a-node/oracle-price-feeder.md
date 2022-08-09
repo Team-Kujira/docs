@@ -68,7 +68,7 @@ dir = "~/.kujira"
 ```toml
 [keyring]
 backend = "file"
-dir = "~/.kujira/keyring-file"
+dir = "~/.kujira/"
 ```
 
 #### PASS
