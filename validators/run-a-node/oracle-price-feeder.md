@@ -4,7 +4,15 @@ As a validator in the active set, you will be required to use the Oracle Price F
 
 ## Installation
 
-```
+
+
+```bash
+# If you have core cloned in this directory already, you can skip this step
+# Alternatively, once you have cloned oracle-price-feeder, you can change the `replace`
+# directive here https://github.com/Team-Kujira/oracle-price-feeder/blob/master/go.mod#L5
+git clone git@github.com:Team-Kujira/core.git
+
+
 git clone git@github.com:Team-Kujira/oracle-price-feeder.git
 cd oracle-price-feeder
 make install
