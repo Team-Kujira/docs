@@ -64,11 +64,22 @@ dir = "~/.kujira"
 ```
 
 #### FILE
+##### Create a file keyring
+```bash
+kujirad keys add oracle
+mkdir ~/.kujira/keyring-file
+mv ~/.kujira/*.address ~/.kujira/*.info ~/.kujira/keyring-file
+```
+##### Set the password variable
+```bash
+export PRICE_FEEDER_PASS=<keyring_password>
+```
 
+##### Update config.toml
 ```toml
 [keyring]
 backend = "file"
-dir = "~/.kujira/"
+dir = "~/.kujira"
 ```
 
 #### PASS
