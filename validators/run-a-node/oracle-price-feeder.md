@@ -99,7 +99,7 @@ Depending on your infrastructure you may have a different preference for your ke
 [keyring]
 backend = "os"
 # dir is ignored for os
-dir = "~/.kujira"
+dir = ""
 ```
 
 #### FILE
@@ -118,7 +118,7 @@ export PRICE_FEEDER_PASS=<keyring_password>
 ```toml
 [keyring]
 backend = "file"
-dir = "~/.kujira"
+dir = "/home/kuji/.kujira"
 ```
 
 #### PASS
@@ -137,7 +137,7 @@ export PRICE_FEEDER_PASS=...
 [keyring]
 backend = "pass"
 # dir is ignored for pass
-dir = "~/.kujira"
+dir = ""
 ```
 
 ### RPC Endpoints
