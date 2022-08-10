@@ -1,10 +1,8 @@
 # Oracle Price Feeder
 
-As a validator in the active set, you will be required to use the Oracle Price Feeder to submit prices.&#x20;
+As a validator in the active set, you will be required to use the Oracle Price Feeder to submit prices.
 
 ## Installation
-
-
 
 ```bash
 # If you have core cloned in this directory already, you can skip this step
@@ -44,8 +42,9 @@ quote = "USD"
 ```
 
 **NOTE:** It is important that currency pairs in this config exactly match those in the currently configured whitelist for the chain:
-- Testnet: [harpoon-4](https://lcd.harpoon.kujira.setten.io/oracle/params)
-- Mainnet: [kaiyo-1](https://lcd.kaiyo.kujira.setten.io/oracle/params)
+
+* Testnet: [harpoon-4](https://lcd.harpoon.kujira.setten.io/oracle/params)
+* Mainnet: [kaiyo-1](https://lcd.kaiyo.kujira.setten.io/oracle/params)
 
 You can also query the oracle params using `kujirad`
 
@@ -58,6 +57,7 @@ kujirad query oracle params
 It is possible to overwrite default provider endpoints (e.g. to point to an alternate mirror) by specifying them in `[[provider_endpoints]]`.
 
 #### Example for Binance.US
+
 ```
 [[provider_endpoints]]
 name = "binance"
@@ -67,7 +67,7 @@ websocket = "stream.binance.us:9443"
 
 ### Addresses & Voting Delegate
 
-The price-feeder submits transactions on behalf of your validator that contain prices of specified denoms.  The feeder account will need enough funding to pay for gas for these automatic vote transactions perpetually.  Due to how this is performed by price-feeder, it's highly recommended to use a delegate feeder account rather than the validator account as the feeder wallet key is potentially more exposed.
+The price-feeder submits transactions on behalf of your validator that contain prices of specified denoms. The feeder account will need enough funding to pay for gas for these automatic vote transactions perpetually. Due to how this is performed by price-feeder, it's highly recommended to use a delegate feeder account rather than the validator account as the feeder wallet key is potentially more exposed.
 
 ```
 [account]
@@ -89,7 +89,7 @@ kujirad tx oracle set-feeder kujira1243.....
 
 ### Keyring Backend
 
-Depending on your infrastructure you may have a different preference for your keyring backend.  If you are running price-feeder on a separate account or separate server, you can experiment with different keyring backends without any risk to your running validator - however, you risk corrupting your validator keys if you are not using a separate account or server for price-feeder (again, this configuration is not recommended)
+Depending on your infrastructure you may have a different preference for your keyring backend. If you are running price-feeder on a separate account or separate server, you can experiment with different keyring backends without any risk to your running validator - however, you risk corrupting your validator keys if you are not using a separate account or server for price-feeder (again, this configuration is not recommended)
 
 [https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L55-L57](https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L55-L57)
 
@@ -98,23 +98,28 @@ Depending on your infrastructure you may have a different preference for your ke
 ```toml
 [keyring]
 backend = "os"
-# dir is ignored for os
-dir = ""
+# dir is ignored for os
+dir = "/home/kuji/.kujira"
 ```
 
 #### FILE
-##### Create a file keyring
+
+**Create a file keyring**
+
 ```bash
 kujirad keys add oracle
 mkdir ~/.kujira/keyring-file
 mv ~/.kujira/*.address ~/.kujira/*.info ~/.kujira/keyring-file
 ```
-##### Set the password variable
+
+**Set the password variable**
+
 ```bash
 export PRICE_FEEDER_PASS=<keyring_password>
 ```
 
-##### Update config.toml
+**Update config.toml**
+
 ```toml
 [keyring]
 backend = "file"
@@ -123,11 +128,11 @@ dir = "/home/kuji/.kujira"
 
 #### PASS
 
-You may need to install `pass` first:&#x20;
+You may need to install `pass` first:
 
 [https://www.passwordstore.org](https://www.passwordstore.org)
 
-And then set your passphrase to env&#x20;
+And then set your passphrase to env
 
 ```
 export PRICE_FEEDER_PASS=...  
@@ -136,8 +141,8 @@ export PRICE_FEEDER_PASS=...
 ```toml
 [keyring]
 backend = "pass"
-# dir is ignored for pass
-dir = ""
+# dir is ignored for pass
+dir = "/home/kuji/.kujira"
 ```
 
 ### RPC Endpoints
@@ -155,9 +160,9 @@ tmrpc_endpoint = "http://localhost:26657"
 
 ### Telemtry & Prometheus
 
-Telemetry is provided by the [Cosmos SDK Telemetry module](https://github.com/cosmos/cosmos-sdk/blob/main/docs/core/telemetry.md).  To query metrics from a running price-feeder, pipe the output into jq
+Telemetry is provided by the [Cosmos SDK Telemetry module](https://github.com/cosmos/cosmos-sdk/blob/main/docs/core/telemetry.md). To query metrics from a running price-feeder, pipe the output into jq
 
-```curl "http://localhost:7171/api/v1/metrics" | jq```
+`curl "http://localhost:7171/api/v1/metrics" | jq`
 
 To publish price-feeder metrics in prometheus format, the config.toml must include the `prometheus_retention` flag
 
@@ -175,7 +180,7 @@ type = "prometheus"
 prometheus_retention = 120
 ```
 
-Example scrape_config in Prometheus:
+Example scrape\_config in Prometheus:
 
 ```
 scrape_configs:
@@ -210,11 +215,10 @@ If everything is set up correctly, the process will start to collect prices, and
 12:25PM INF skipping until next voting period current_vote_period=6404 module=oracle previous_vote_period=6404 vote_period=14
 ```
 
-
-
-You will likely also want to set up this price feeder as a system service. This will be the same process as [setting up the chain core](./#register-the-node-as-a-service).&#x20;
+You will likely also want to set up this price feeder as a system service. This will be the same process as [setting up the chain core](./#register-the-node-as-a-service).
 
 Example systemd service using `file` keyring backend
+
 ```
 [Unit]
 Description=Price Feeder
