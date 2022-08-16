@@ -31,3 +31,9 @@
 
 * [KUJI Token](tokenomics/kuji-token.md)
 * [Staking](tokenomics/staking.md)
+
+## Brand Assets
+
+* [Colours](brand-assets/colours.md)
+* [Logo Options](brand-assets/logo-options.md)
+* [Fonts](brand-assets/fonts.md)
