@@ -34,6 +34,6 @@
 
 ## Brand Assets
 
-* [Colours](brand-assets/colours.md)
+* [Colors](brand-assets/colors.md)
 * [Logo Options](brand-assets/logo-options.md)
 * [Fonts](brand-assets/fonts.md)

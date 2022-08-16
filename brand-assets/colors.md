@@ -1,6 +1,10 @@
-# Colours
+---
+description: Standard colours used across the Kujira dApps.
+---
 
-### Primary Colours
+# Colors
+
+### Primary Colors
 
 Primary UI element colours across Kujira dApps
 
@@ -14,7 +18,7 @@ Primary UI element colours across Kujira dApps
 | `#1e92e6` | Blue       | <img src="../.gitbook/assets/color-blue.png" alt="" data-size="line">      |
 | `#1c6599` | Dark Blue  | <img src="../.gitbook/assets/color-darkblue.png" alt="" data-size="line">  |
 
-### Notification Colours
+### Notification Colors
 
 Used for warnings and notifications
 
