@@ -1,5 +1,5 @@
 ---
-description: Standard colours used across the Kujira dApps.
+description: Standard colors used across the Kujira dApps.
 ---
 
 # Colors
