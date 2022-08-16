@@ -6,7 +6,7 @@ description: Standard colours used across the Kujira dApps.
 
 ### Primary Colors
 
-Primary UI element colours across Kujira dApps
+Primary UI element colors across Kujira dApps
 
 | HEX       | Name       | Preview                                                                    |
 | --------- | ---------- | -------------------------------------------------------------------------- |
