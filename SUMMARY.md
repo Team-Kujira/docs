@@ -16,10 +16,10 @@
 
 ## Developers
 
-* [Smart Contracts](developers/fin/README.md)
-  * [Token Factory](developers/fin/blue.md)
-  * [Price Oracle](developers/fin/finder.md)
-  * [Scheduler](developers/fin/scheduler.md)
+* [Smart Contracts](developers/smart-contracts/README.md)
+  * [Token Factory](developers/smart-contracts/blue.md)
+  * [Price Oracle](developers/smart-contracts/finder.md)
+  * [Scheduler](developers/smart-contracts/scheduler.md)
 * [dApp Front Ends](developers/dapp-front-ends.md)
 
 ## Validators
