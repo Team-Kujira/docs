@@ -5,7 +5,7 @@ As a validator in the active set, you will be required to use the Oracle Price F
 ## Installation
 
 ```bash
-git clone git@github.com:Team-Kujira/oracle-price-feeder.git
+git clone https://github.com/Team-Kujira/oracle-price-feeder.git
 cd oracle-price-feeder
 make install
 ```
