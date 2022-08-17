@@ -14,6 +14,14 @@
 * [BLUE](dapps/blue.md)
 * [Finder](dapps/finder.md)
 
+## Developers
+
+* [Smart Contracts](developers/fin/README.md)
+  * [Token Factory](developers/fin/blue.md)
+  * [Price Oracle](developers/fin/finder.md)
+  * [Scheduler](developers/fin/scheduler.md)
+* [dApp Front Ends](developers/dapp-front-ends.md)
+
 ## Validators
 
 * [Run a Node](validators/run-a-node/README.md)
