@@ -17,8 +17,8 @@
 ## Developers
 
 * [Smart Contracts](developers/smart-contracts/README.md)
-  * [Token Factory](developers/smart-contracts/blue.md)
-  * [Price Oracle](developers/smart-contracts/finder.md)
+  * [Token Factory](developers/smart-contracts/token-factory.md)
+  * [Price Oracle](developers/smart-contracts/oracle.md)
   * [Scheduler](developers/smart-contracts/scheduler.md)
 * [dApp Front Ends](developers/dapp-front-ends.md)
 

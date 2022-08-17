@@ -83,12 +83,12 @@ You can now move on to building the UI for your newly deployed smart contract
 
 ## Custom Modules
 
-{% content-ref url="finder.md" %}
-[finder.md](finder.md)
+{% content-ref url="oracle.md" %}
+[oracle.md](oracle.md)
 {% endcontent-ref %}
 
-{% content-ref url="blue.md" %}
-[blue.md](blue.md)
+{% content-ref url="token-factory.md" %}
+[token-factory.md](token-factory.md)
 {% endcontent-ref %}
 
 {% content-ref url="scheduler.md" %}
