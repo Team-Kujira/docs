@@ -1,6 +1,6 @@
 # Smart Contracts
 
-The Kujira blockchain is fully enbled with CosmWASM v1.0 and IBC v3 support, allowing you as a developer to build Rust-based smart contracts that interact with the home .
+The Kujira blockchain is fully enabled with CosmWASM v1.0 and IBC v3 support, allowing you as a developer to build Rust-based smart contracts that interact with the home.
 
 ## Getting Started
 
@@ -18,7 +18,7 @@ make install
 
 ### Deployment
 
-You're now ready to store your code on-chain
+You're now ready to store your code on-chain:
 
 ```bash
 cargo run-script optimize
@@ -75,7 +75,7 @@ Upon the vote passing, the contract will be instantiated and the instance of the
 kujirad query wasm list-contract-by-code 4
 ```
 
-You can now move on to building the UI for your newly deployed smart contract
+You can now move on to building the UI for your newly deployed smart contract.
 
 {% content-ref url="../dapp-front-ends.md" %}
 [dapp-front-ends.md](../dapp-front-ends.md)

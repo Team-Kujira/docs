@@ -1,6 +1,6 @@
 # Price Oracle
 
-Every 30 seconds, all 75 validators in the Kujira active set are required to post a transaction containing the current price for a range of assets, aggregated from a number of sources. This creates an on-chain source of truth which can be queried from a UI front-end, the CLI and also in smart contracts
+Every 30 seconds, all 75 validators in the Kujira active set are required to post a transaction containing the current price for a range of assets, aggregated from a number of sources. This creates an on-chain source of truth which can be queried from a UI front-end, the CLI and also in smart contracts.
 
 ### REST
 
@@ -16,7 +16,7 @@ kujirad query oracle exchange-rates
 
 ### CosmWASM
 
-The kujira-rs package provides queryable bindings to fetch current exchange rates inside your smart contracts
+The kujira-rs package provides queryable bindings to fetch current exchange rates inside your smart contracts:
 
 {% embed url="https://docs.rs/kujira/0.7.5/kujira/msg/enum.KujiraMsg.html" %}
 
