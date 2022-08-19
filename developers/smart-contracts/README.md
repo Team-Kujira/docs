@@ -77,8 +77,8 @@ kujirad query wasm list-contract-by-code 4
 
 You can now move on to building the UI for your newly deployed smart contract.
 
-{% content-ref url="../dapp-front-ends.md" %}
-[dapp-front-ends.md](../dapp-front-ends.md)
+{% content-ref url="../dapp-front-ends/" %}
+[dapp-front-ends](../dapp-front-ends/)
 {% endcontent-ref %}
 
 ## Custom Modules

@@ -78,7 +78,7 @@ kujirad version
 
 ## Running the node
 
-If the build succeed you should now have the `kujirad` cli in your path (of the `kuji` user).
+If the build succeeds, you should now have the `kujirad` cli in your path (of the `kuji` user).
 
 Try invoking with `kujirad` and you should see output like
 

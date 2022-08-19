@@ -20,7 +20,10 @@
   * [Token Factory](developers/smart-contracts/token-factory.md)
   * [Price Oracle](developers/smart-contracts/oracle.md)
   * [Scheduler](developers/smart-contracts/scheduler.md)
-* [dApp Front Ends](developers/dapp-front-ends.md)
+* [dApp Front Ends](developers/dapp-front-ends/README.md)
+  * [Fin](developers/dapp-front-ends/fin.md)
+  * [Orca](developers/dapp-front-ends/orca.md)
+  * [Blue](developers/dapp-front-ends/blue.md)
 
 ## Validators
 

@@ -2,7 +2,7 @@
 
 ### Disk utilization
 
-To help manage the disk size you can prune the blocks being kept. for this I use prime numbers pick your own in `app.toml`
+To help manage the disk size you can prune the blocks being kept. For this I use prime numbers- pick your own in `app.toml`
 
 ```
 pruning = "custom"

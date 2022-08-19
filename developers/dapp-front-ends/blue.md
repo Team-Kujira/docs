@@ -1,0 +1,3 @@
+# Blue
+
+Perfection takes time.
