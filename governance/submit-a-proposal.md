@@ -50,3 +50,8 @@ Where proposal.json contains:
       --timeout-height uint      Set a block timeout height to prevent the tx from being committed past a certain height
   -y, --yes                      Skip tx broadcasting prompt confirmation
 ```
+Once a proposal is submitted, there is a deposit window of 24h. in which a threshold of 10.000 KUJI needs to be reached from the proposer's or any community member's wallet for the proposal to be deposited on chain and start the voting period (48h.) 
+
+Team Kujira enabled a UI on https://blue.kujira.app/govern under each proposal to facilitate users to support the ones they believe in with the deposit amount required.
+
+The KUJI tokens deposited need to be liquid (not staked) and are returned to each wallet after the 10.000 KUJI threshold is reached. If the 10.000 KUJI threshold is not met during the 24h. deposit period, the deposited tokens are burned. 
