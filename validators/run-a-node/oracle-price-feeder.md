@@ -152,7 +152,7 @@ rpc_timeout = "100ms"
 tmrpc_endpoint = "http://localhost:26657"
 ```
 
-### Telemtry & Prometheus
+### Telemetry & Prometheus
 
 Telemetry is provided by the [Cosmos SDK Telemetry module](https://github.com/cosmos/cosmos-sdk/blob/main/docs/core/telemetry.md). To query metrics from a running price-feeder, pipe the output into jq
 
@@ -168,7 +168,7 @@ enable_hostname = true
 enable_hostname_label = true
 enable_service_label = true
 enabled = true
-global_labels = [["chain-id", "harpoon-4"]]
+global_labels = [["chain_id", "kaiyo-1/harpoon-4"]]
 service_name = "price-feeder"
 type = "prometheus"
 prometheus_retention = 120
