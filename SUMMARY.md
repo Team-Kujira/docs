@@ -24,6 +24,7 @@
   * [Fin](developers/dapp-front-ends/fin.md)
   * [Orca](developers/dapp-front-ends/orca.md)
   * [Blue](developers/dapp-front-ends/blue.md)
+* [Core Module Accounts](developers/core-module-accounts.md)
 
 ## Validators
 
