@@ -1,4 +1,4 @@
-# ORCA
+# 🐬 ORCA
 
 ### Liquidate multiple assets across the whole of Cosmos at the click of a button. No bots, no code, no problems.
 

@@ -1,4 +1,4 @@
-# Oracle Price Feeder
+# 🥙 Oracle Price Feeder
 
 As a validator in the active set, you will be required to use the Oracle Price Feeder to submit prices.
 

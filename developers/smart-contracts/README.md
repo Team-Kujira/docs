@@ -1,4 +1,4 @@
-# Smart Contracts
+# 💡 Smart Contracts
 
 The Kujira blockchain is fully enabled with CosmWASM v1.0 and IBC v3 support, allowing you as a developer to build Rust-based smart contracts that interact with the home.
 

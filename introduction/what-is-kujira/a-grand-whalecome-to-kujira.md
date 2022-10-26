@@ -1,0 +1,13 @@
+# 🎊 A Grand Whalecome to Kujira
+
+To understand just why Kujira, the Japanese word for whale, best captures our mission and driving values, we turn to our origin story...
+
+Back in May 2021, due to widespread use of heightened leverage on [Anchor Protocol](https://twitter.com/anchor\_protocol?lang=en), [Terra](https://docs.terra.money/) LUNA endured a liquidation cascade causing the price of LUNA to drop from $16 to $4 over the course of a week. Many retail investors who used leverage to grow their wealth had large chunks of their assets wiped out and liquidated at large discounts by a handful of elites. Liquidations were first come, first serve, and only those few who ran expensive bots competing on speed were able to buy liquidated assets. These individuals collectively liquidated over a billion dollars worth of LUNA at up to a 30% discount – weakening Anchor’s capital efficiency and leaving LUNA susceptible to sudden flash crashes.
+
+Inspired, Team Kujira created [ORCA](https://orca.kujira.app/), the first decentralized liquidations platform. Available to retail and institutional investors alike, the protocol provided a fair playing field, preventing paying more for better or faster liquidations. In less than four months, we opened up Anchor liquidations to over 50,000 users who did not need advanced bots, blockchain coding expertise, or more than a few minutes at a time to utilize the service.
+
+At the same time, we noticed inherent weakness in DeFi markets and the need for a sustainable foundation that would allow investors to make money in all market environments and provide a robust infrastructure layer. Our thesis was validated by multiple [black swan](https://www.investopedia.com/articles/trading/11/black-swan-events-investing.asp) events in 2022 including the collapses of Terra, 3AC, and various centralized exchanges.
+
+Four days after UST depegged, we introduced FIN$$-$$Terra’s first decentralized, permissionless, 100% on-chain, non-FIFO order book style token exchange. Two days later, after the Terra blockchain was halted, we decided to launch our own semi-permissioned Cosmos sovereign chain. And so, we built and launched a new L1 in six weeks and relaunched FIN three days later.
+
+_We believe that everyone deserves to be a_[ _whale_](https://www.investopedia.com/terms/b/bitcoin-whale.asp). Whales have access to large amounts of funds, strategic market information, and time. This is why Kuijra is an ever-growing suite of interconnected dApps that among other utilities gives our users highly detailed analytics (information) as well as automated innovation (time) to bridge this gap.

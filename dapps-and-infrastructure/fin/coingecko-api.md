@@ -1,4 +1,4 @@
-# Coingecko API
+# 🔘 Coingecko API
 
 This documents the REST endpoints to query live data from the FIN markets for our Coingecko integration.
 

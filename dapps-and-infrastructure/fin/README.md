@@ -1,4 +1,4 @@
-# FIN
+# 📊 FIN
 
 ### Cosmos' first decentralized, permissionless, 100% on-chain order book style token exchange.
 

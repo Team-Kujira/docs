@@ -1,4 +1,4 @@
-# Token Factory
+# 🏭 Token Factory
 
 The Token Factory allows you to create your own native denoms, as recognised by the Cosmos SDK Bank Module.&#x20;
 

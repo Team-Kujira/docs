@@ -1,3 +1,3 @@
-# Blue
+# 🔷 BLUE
 
 Perfection takes time.

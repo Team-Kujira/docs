@@ -1,0 +1,3 @@
+# 🗼 SENATE
+
+Perfection takes time.

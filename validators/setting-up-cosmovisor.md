@@ -1,4 +1,4 @@
-# Setting up Cosmovisor
+# 🕶 Cosmovisor Setup
 
 Setting up Cosmovisor is relatively straightforward. However, it does expect certain environment variables and folder structure to be set.
 
@@ -59,6 +59,7 @@ In the `.profile` file, usually located at `~/.profile`, add:
 export DAEMON_NAME=kujirad
 export DAEMON_HOME=$HOME/.kujira
 ```
+
 Then source your profile to have access to these variables:
 
 ```bash
@@ -106,8 +107,7 @@ First, find the location of the binary you want to use:
 which kujirad
 ```
 
-Then use the path returned to copy it to the directory Cosmovisor expects. Let's assume the previous command returned `/home/your-user/go/bin/
-kujirad`:
+Then use the path returned to copy it to the directory Cosmovisor expects. Let's assume the previous command returned `/home/your-user/go/bin/ kujirad`:
 
 ```bash
 cp /home/<your-user>/go/bin/kujirad $DAEMON_HOME/cosmovisor/genesis/bin
