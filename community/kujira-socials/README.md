@@ -16,14 +16,14 @@ Furthermore, our socials are linked at the bottom of the webpage on [blue.kujira
 
 Here are links to a more detailed breakdown covering each of our socials:
 
-### [Discord](https://app.gitbook.com/o/MN0hnJUd0BNCPpxWSUty/s/yPeco0BDFBM85kKY4Hkl/\~/changes/9ChJPVGDZIkroXpq9uyv/community/kujira-socials/discord)
+### [Discord](discord.md)
 
-### [Telegram](https://app.gitbook.com/o/MN0hnJUd0BNCPpxWSUty/s/yPeco0BDFBM85kKY4Hkl/\~/changes/9ChJPVGDZIkroXpq9uyv/community/kujira-socials/telegram)
+### [Telegram](./#telegram)
 
-### [Twitter](https://app.gitbook.com/o/MN0hnJUd0BNCPpxWSUty/s/yPeco0BDFBM85kKY4Hkl/\~/changes/9ChJPVGDZIkroXpq9uyv/community/kujira-socials/twitter)
+### [Twitter](./#twitter)
 
-### [Reddit](https://app.gitbook.com/o/MN0hnJUd0BNCPpxWSUty/s/yPeco0BDFBM85kKY4Hkl/\~/changes/9ChJPVGDZIkroXpq9uyv/community/kujira-socials/reddit)
+### [Reddit](./#reddit)
 
-### [Instagram](https://app.gitbook.com/o/MN0hnJUd0BNCPpxWSUty/s/yPeco0BDFBM85kKY4Hkl/\~/changes/9ChJPVGDZIkroXpq9uyv/community/kujira-socials/instagram)
+### [Instagram](./#instagram)
 
-### [Medium](https://app.gitbook.com/o/MN0hnJUd0BNCPpxWSUty/s/yPeco0BDFBM85kKY4Hkl/\~/changes/9ChJPVGDZIkroXpq9uyv/community/kujira-socials/medium)
+### [Medium](./#medium)

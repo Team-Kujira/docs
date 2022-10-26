@@ -1,6 +1,6 @@
 # 🥩 Staking
 
-Staking is a core component of the Kujira blockchain. It is also a fundamental aspect driving KUJI's underlying value proposition which can be read more about [here](broken-reference). It is also an important part of securing the Kujira blockchain that revolves around bonding KUJI to specific validators.
+Staking is a core component of the Kujira blockchain. It is also a fundamental aspect driving KUJI's underlying value proposition which can be read more about [here](staking-overview.md). It is also an important part of securing the Kujira blockchain that revolves around bonding KUJI to specific validators.
 
 Before diving deeper into Staking, it first helps to discuss Kujira blockchain consensus.&#x20;
 

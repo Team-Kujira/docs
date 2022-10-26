@@ -4,6 +4,6 @@ Staking KUJI with a Kujira validator will earn you a basket of apex assets over 
 
 Kujira does not rely on inflationary tokens in order to incentivize staking. We are [sustainable](kuji-sustainability.md). Revenue (including gas) from Kujira’s internal dApps such as ORCA and FIN is sent back to stakers, as well as a portion of revenue from each external protocol that launches on the chain.
 
-Please navigate here if you would like to stake your KUJI [https://blue.kujira.app/stak](https://blue.kujira.app/stake)e.  &#x20;
+Please navigate [here](https://blue.kujira.app/stake) if you would like to stake your KUJI.  &#x20;
 
 A more detailed explanation on the nuances of KUJI staking can be found [here](../../governance/staking/).

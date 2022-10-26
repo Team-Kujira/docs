@@ -31,3 +31,8 @@ A long term view for real-world use, revenue, and sustainability for builders, v
 ### Better Tokenomics
 
 All projects launching on Kujira can propose to list their token on FIN, our CLOB DEX. Thus, tokens are not needed for liquidity pools although protocols can source liquidity however they want. Furthermore, as KUJI stakers receive a proportional share of every cent of Kuijra protocol revenue, Kujira projects with tokens on FIN are constantly ‘airdropped’ to all KUJI stakers. This advertising lessens any need for inflationary incentives.
+
+### Sophisticated On-Chain Price Oracle
+
+Kujira's [price oracle](../../validators/run-a-node/oracle-price-feeder.md) is submitted by all 75 active validators as a part of Kujira's [consensus](../../governance/staking/#consensus) mechanism. The prices are measured by at least 3 independent sources as well guaranteeing reliability, stability, and high quality performance over time. Our oracle can also be directly queried by protocols in their smart contracts giving them a solid edge against developers based on other blockchains.&#x20;
+

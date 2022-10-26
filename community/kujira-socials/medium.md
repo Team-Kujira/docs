@@ -82,4 +82,6 @@ Past articles can be found below:
 
 [Weekly Roundup by Team Kujira: Episode 6](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-6-81ab9ac51812)
 
-Weekly Roundup by Team Kujira: Episode 7
+[Weekly Roundup by Team Kujira: Episode 7](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-7-2267f584859f)
+
+[Weekly Roundup by Team Kujira: Episode 8](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-8-8aa443ad464c)

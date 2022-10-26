@@ -3,8 +3,8 @@
 ## 🎆 Introduction
 
 * [🐋 What is Kujira](README.md)
-  * [🎊 A Grand Whalecome to Kujira](introduction/what-is-kujira/a-grand-whalecome-to-kujira.md)
   * [📱 Appchain Ecosystem](introduction/what-is-kujira/appchain-ecosystem.md)
+  * [🎊 A Grand Whalecome to Kujira](introduction/what-is-kujira/a-grand-whalecome-to-kujira.md)
   * [🎓 Grown-Up DeFi (GUD)](introduction/what-is-kujira/grown-up-defi-gud.md)
 * [✨ Why Kujira](introduction/why-kujira/README.md)
   * [💻 User and Developer Experience](introduction/why-kujira/user-and-developer-experience.md)
@@ -116,8 +116,8 @@
 * [📚 Terminology & Methods](help-center/terminology-and-methods.md)
 * [⚠ Common Error Messages](help-center/common-error-messages.md)
 
-## Brand Assets
+## ™ Brand Assets
 
-* [Colors](brand-assets/colors.md)
-* [Logo Options](brand-assets/logo-options.md)
-* [Fonts](brand-assets/fonts.md)
+* [🇰🇲 Colors](brand-assets/colors.md)
+* [💮 Logo Options](brand-assets/logo-options.md)
+* [🔡 Fonts](brand-assets/fonts.md)
