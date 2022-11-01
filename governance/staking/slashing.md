@@ -8,7 +8,7 @@ Slashing occurs under each of the following circumstances:&#x20;
 
 **Double Signing**: A validator signs two different blocks with the same chain ID at the same height
 
-Make sure validators you delegate to are protected against Double Signing. This suffers the most severe slashing penalty of 0.05% of the validator's and each delegator's staked positions.&#x20;
+Make sure validators you delegate to are protected against Double Signing. This suffers the most severe slashing penalty of 5% of the validator's and each delegator's staked positions.&#x20;
 
 **Downtime**: A Validator cannot be reached and is unresponsive for a period of time.&#x20;
 
