@@ -4,7 +4,7 @@ description: Wield the first 100% decentralised order book exchange on Cosmos.
 
 # 📊 FIN
 
-For a demo trading bot on Fin, check out [https://github.com/TeamKujira/fin-bot-demo](https://github.com/TeamKujira/fin-bot-demo).
+For a demo trading bot on Fin, check out [https://github.com/TeamKujira/fin-bot-demo](https://github.com/Team-Kujira/fin-bot-demo).
 
 
 
