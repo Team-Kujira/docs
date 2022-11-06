@@ -32,23 +32,38 @@ None
 
 #### Sample Reponse
 
-```
+```json
 {
-  "tickers": [
-    {
-      "ask": "0.3950",
-      "base_currency": "KUJI",
-      "base_volume": "2091945.3229",
-      "bid": "0.3900",
-      "high": "1.4755",
-      "last_price": "0.3900",
-      "low": "0.2910",
-      "pool_id": "kujira14hj2tavq8fpesdwxxcu44rty3hh90vhujrvcmstl4zr3txmfvw9sl4e867",
-      "target_currency": "axlUSDC",
-      "target_volume": "868587.7620",
-      "ticker_id": "KUJI_axlUSDC"
-    }
-  ]
+  "asks": [
+    [
+      "1.0650000000",
+      "83.8864970000"
+    ],
+    [
+      "1.0660000000",
+      "888.0000000000"
+    ],
+    [
+      "1.0670000000",
+      "4145.2413890000"
+    ]
+  ],
+  "bids": [
+    [
+      "1.0610000000",
+      "79.7181120000"
+    ],
+    [
+      "1.0600000000",
+      "235.2562910000"
+    ],
+    [
+      "1.0580000000",
+      "0.0000020000"
+    ]
+  ],
+  "ticker_id":"KUJI_axlUSDC",
+  "timestamp":1667742512184
 }
 ```
 
@@ -60,7 +75,7 @@ None
 
 #### Sample Response
 
-```
+```json
 {
   "tickers": [
     {
