@@ -29,7 +29,9 @@ export PUBKEY=$(kujirad tendermint show-validator)
 kujirad tx staking create-validator \
 --moniker="${MONIKER_NAME}" \
 --amount=1000000ukuji \
---gas-prices=1ukuji \
+--gas=auto \
+--gas-prices=0.00125ukuji \
+--gas-adjustment=1.5 \
 --pubkey=$PUBKEY \
 --from=validator \
 --yes \
