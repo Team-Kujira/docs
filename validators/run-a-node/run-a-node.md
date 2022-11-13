@@ -118,7 +118,7 @@ sed -i 's/^seeds =.*/seeds = "[email protected]rg:31897,[email protected]:11856"
 
 The node is now ready to go.
 
-1. (Optional) [Statesync](/run-a-node/state-sync.md) if you want a head start over syncing from scratch.
+1. (Optional) [Statesync](/validators/run-a-node/state-sync.md) if you want a head start over syncing from scratch.
 
 2. Start syncing blocks
 
