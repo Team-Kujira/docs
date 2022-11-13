@@ -11,7 +11,7 @@ submit oracle votes to perform this duty.
 - `price-feeder` needs access to a running node's RPC and gRPC ports.
   This guide assumes you have it on the same machine and uses `localhost`
   with default ports 26657 and 9090. Change these in `config.toml` as needed.
-- This guide assumes you are configuring the oracle for a mainnet (kaiyo-1) validator.
+- This guide assumes you are configuring the oracle for a mainnet (`kaiyo-1`) validator.
 
 ## User setup
 Best practice is to run node software on an isolated unprivileged user.
