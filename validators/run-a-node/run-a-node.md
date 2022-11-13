@@ -60,7 +60,7 @@ go version
 sudo su -l kuji
 ```
 
-2. Download the project code and checkout to testnet branch
+2. Download the project code and checkout to mainnet branch
 
 ```bash
 git clone https://github.com/Team-Kujira/core $HOME/kujira-core
