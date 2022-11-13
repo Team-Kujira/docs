@@ -1,6 +1,10 @@
 # 🛠 Create a validator
 
+##Introduction
+
 Once your node has synced, it's time to create a validator. It can be done on a separate machine if preferred.
+
+## Add validator wallet
 
 1. Create the wallet and a password for the keyring. Replace `<wallet>` with any name you like, just make sure to remember it!
 
