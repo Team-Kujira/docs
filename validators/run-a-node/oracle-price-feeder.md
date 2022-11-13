@@ -1,19 +1,23 @@
 # 🥙 Oracle Price Feeder
 
 ## Introduction
+
 Validators are required to submit price feeds for the on-chain oracle.
 The `price-feeder` app can get price data from multiple providers and
 submit oracle votes to perform this duty.
 
 
 ## Requirements
+
 - This guide assumes you are running Ubuntu 22.04.
 - `price-feeder` needs access to a running node's RPC and gRPC ports.
   This guide assumes you have it on the same machine and uses `localhost`
   with default ports 26657 and 9090. Change these in `config.toml` as needed.
 - This guide assumes you are configuring the oracle for a mainnet (`kaiyo-1`) validator.
 
+
 ## User setup
+
 Best practice is to run node software on an isolated unprivileged user.
 We'll create the `kujioracle` user in this guide; if your username is different 
 change it wherever it appears.
@@ -25,6 +29,7 @@ sudo useradd -m -s /bin/bash kujioracle
 
 
 ## Build environment setup
+
 If you've already followed the [Run a node](/validators/run-a-node/run-a-node.md) guide, the only steps 
 you need in this section are **Install go toolchain** #2 and #3. Repeating the 
 others won't hurt if you want to be safe.
@@ -57,6 +62,7 @@ go version  # should output "go version go1.18.5 linux/amd64"
 
 
 ## Build `price-feeder`
+
 1. Login as `kujioracle` (skip if you're already logged in).
 ```bash
 sudo su -l kujioracle
@@ -77,6 +83,8 @@ cd oracle-price-feeder
 make install
 price-feeder version
 ```
+
+
 ## Configure `price-feeder`
 
 ### Create a wallet
@@ -107,7 +115,6 @@ The transaction should be sent from the validator wallet so run on a node where 
 ```bash
 kujirad tx oracle set-feeder <oracle_wallet> --from <validator_wallet> --fees 250ukuji
 ```
-
 
 ### Create the config
 1. Login as `kujioracle` (skip if you're already logged in).
@@ -174,7 +181,6 @@ sudo su -l kujioracle
     websocket = "stream.binance.us:9443"
     ```
 
-
 #### Configure the currency pairs
 The `[[currency_pairs]]` provided in the config above is only an example, each validator
 should modify this to submit prices for the denoms whitelisted by the chain. Keep an eye
@@ -190,10 +196,11 @@ You can also query the oracle params using `kujirad`
 ```
 kujirad query oracle params
 ```
+
+
 ## Advanced Setup
 
 ### Provider Endpoints
-
 It is possible to overwrite default provider endpoints (e.g. to point to an alternate mirror) by specifying them in `[[provider_endpoints]]`.
 
 #### Example for Binance.US
@@ -206,7 +213,6 @@ websocket = "stream.binance.us:9443"
 ```
 
 ### Addresses & Voting Delegate
-
 The price-feeder submits transactions on behalf of your validator that contain prices of specified denoms. The feeder account will need enough funding to pay for gas for these automatic vote transactions perpetually. Due to how this is performed by price-feeder, it's highly recommended to use a delegate feeder account rather than the validator account as the feeder wallet key is potentially more exposed.
 
 ```
@@ -286,7 +292,6 @@ dir = "/home/kuji/.kujira"
 ```
 
 ### RPC Endpoints
-
 If price-feeder is running on the same server as your node and your node is using default ports, the default RPC configuration should work.
 
 If you are running a different node configuration, you may need to edit these RPC settings to match your infrastructure.
@@ -299,7 +304,6 @@ tmrpc_endpoint = "http://localhost:26657"
 ```
 
 ### Telemetry & Prometheus
-
 Telemetry is provided by the [Cosmos SDK Telemetry module](https://github.com/cosmos/cosmos-sdk/blob/main/docs/core/telemetry.md). To query metrics from a running price-feeder, pipe the output into jq
 
 `curl "http://localhost:7171/api/v1/metrics" | jq`
@@ -334,7 +338,9 @@ scrape_configs:
         labels: {}
 ```
 
+
 ## Run `price-feeder`
+
 1. Login as `kujioracle` (skip if you're already logged in).
 ```bash
 sudo su -l kujioracle
@@ -345,6 +351,7 @@ echo <keyring_password> | price-feeder ~/config.toml
 ```
 
 ## Create a service
+
 A systemd service will keep `price-feeder` running in the background and restart it if it stops.
 
 1. Create the service file with `sudo` using your favorite text editor. 
