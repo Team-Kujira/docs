@@ -1,6 +1,6 @@
 # 🛠 Create a validator
 
-##Introduction
+## Introduction
 
 Once your node has synced, it's time to create a validator. It can be done on a separate machine if preferred.
 
