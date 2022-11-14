@@ -36,3 +36,6 @@ All projects launching on Kujira can propose to list their token on FIN, our CLO
 
 Kujira's [price oracle](../../validators/run-a-node/oracle-price-feeder.md) is submitted by all 75 active validators as a part of Kujira's [consensus](../../governance/staking/#consensus) mechanism. The prices are measured by at least 3 independent sources as well guaranteeing reliability, stability, and high quality performance over time. Our oracle can also be directly queried by protocols in their smart contracts giving them a solid edge against developers based on other blockchains.&#x20;
 
+### Cryptographically Verifiable On-Chain Randomness via Entropy Beacon
+
+Entropic Labs's [Entropy Beacon](../../developers/smart-contracts/entropy-beacon.md) is a decentralized source of randomness for blockchain developers. Beacon provides secure random number generation in trustless on-chain environments, the first to do so on Cosmos-based blockchains.&#x20;
