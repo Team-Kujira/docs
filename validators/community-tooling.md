@@ -25,3 +25,12 @@ RPC / API / State Sync / Guides / Data snapshots
 * Daily updated addrbook.json: http://snapshots.autostake.net/kaiyo-1/addrbook.json
 * Seed Node: http://snapshots.autostake.net/kaiyo-1/seed.txt
 * Peer Node: http://snapshots.autostake.net/kaiyo-1/peer.txt
+
+***
+
+### Inter Blockchain Services
+
+* Endpoints : [RPC](https://kujira-rpc.ibs.team/) [API](https://kujira-api.ibs.team/) 
+* Relayers hermes configuration : [Details](https://github.com/Inter-Blockchain-Service/Relayers)
+* StateSync script for fresh VPS or existing node [StateSync scripts](https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Kujira)
+* Peer : d7c5f6099886bc3b770cdc4cdc16e69d17dc9442@185.249.227.231:28656
