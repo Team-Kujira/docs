@@ -38,4 +38,4 @@ Kujira's [price oracle](../../validators/run-a-node/oracle-price-feeder.md) is s
 
 ### Cryptographically Verifiable On-Chain Randomness via Entropy Beacon
 
-Entropic Labs's [Entropy Beacon](../../developers/smart-contracts/entropy-beacon.md) is a decentralized source of randomness for blockchain developers. Beacon provides secure random number generation in trustless on-chain environments, the first to do so on Cosmos-based blockchains. Furthermore, as part of our feegrant program, protocols consuming randomness do not need to take on any extra fees or pass them to users.
+Entropic Labs' [Entropy Beacon](../../developers/smart-contracts/entropy-beacon.md) is a decentralized source of randomness for blockchain developers. Beacon provides secure random number generation in trustless on-chain environments, the first to do so on Cosmos-based blockchains. Furthermore, as part of our feegrant program, protocols consuming randomness do not need to take on any extra fees or pass them to users.

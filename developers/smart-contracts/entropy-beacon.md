@@ -24,15 +24,15 @@ An on-chain entropy beacon opens up hundreds of previously unachievable usecases
 
 ### How it works
 
-Beacon uses VRF Cryptography to enforce generated random numbers are verifiably unbiased. A more detailed explanation can be found[ here](https://entropiclabs.io/beacon/docs/how-it-works/) in Entropic Labs's docs.
+Beacon uses VRF Cryptography to enforce generated random numbers are verifiably unbiased. A more detailed explanation can be found[ here](https://entropiclabs.io/beacon/docs/how-it-works/) in Entropic Labs' docs.
 
 ### Quickstart
 
-For developers looking to develop contracts that utilize the Entropy Beacon, Entropic Labs's docs have a substantive explanation covering everything you need to know from start to finish right [here](https://entropiclabs.io/beacon/docs/quickstart/).
+For developers looking to develop contracts that utilize the Entropy Beacon, Entropic Labs' docs have a substantive explanation covering everything you need to know from start to finish right [here](https://entropiclabs.io/beacon/docs/quickstart/).
 
 ### Integration
 
-Furthermore, for developers looking to integrate the Entropy Beacon into existing smart contracts, Entropic Labs's docs also have a substantive explanation on this topic that you can find [here](https://entropiclabs.io/beacon/docs/integration/).&#x20;
+Furthermore, for developers looking to integrate the Entropy Beacon into existing smart contracts, Entropic Labs' docs also have a substantive explanation on this topic that you can find [here](https://entropiclabs.io/beacon/docs/integration/).&#x20;
 
 ### Mainnet Address
 
