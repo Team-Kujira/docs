@@ -10,9 +10,9 @@ Let's cover a few main aspects of the Entropy Beacon below:
 
 It is currently impossible to generate completely unpredictable random numbers on-chain. Beacon intends to provide a secure, unpredictable, cheap random number generator.
 
-### Incentivized Submissions
+### Free Submissions
 
-Using a bounty model for on-chain entropy requests, Beacon encourages entropy submitters to engage in free-market competition, minimizing overall fees in a decentralized manner.
+When smart contracts need on-chain entropy, they request it from the Beacon. Off-chain workers pick up the request, generate it, and call the Beacon contract. At this point, the Entropy Beacon uses gas to call the callback function on the requesting contract. Kuijra has set up a feegrant paid from a protocol wallet to incentivize off-chain workers to call the function and cover Beacon gas fees. As a result, protocols consuming randomness do not need to take on any extra fees or pass them to users.
 
 ### Streamlined Development
 
