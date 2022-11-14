@@ -2,7 +2,7 @@
 description: Logo options and usage examples
 ---
 
-# Logo Options
+# 💮 Logo Options
 
 ### Kujira Network Logo
 
