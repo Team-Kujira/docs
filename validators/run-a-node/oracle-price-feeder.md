@@ -67,14 +67,14 @@ go version  # should output "go version go1.18.5 linux/amd64"
 ```bash
 sudo su -l kujioracle
 ```
-2. Build `kujirad` v0.6.4. We'll use the binary to create the keyring file.
+2. Build `kujirad` v0.7.1. We'll use the binary to create the keyring file.
 ```bash
 git clone https://github.com/Team-Kujira/core
 cd core
-git checkout v0.6.4
+git checkout v0.7.1
 make install
 cd ..
-kujirad version  # should output "0.6.4"
+kujirad version  # should output "0.7.1"
 ```
 3. Build `price-feeder`.
 ```bash
