@@ -65,14 +65,14 @@ sudo su -l kuji
 ```bash
 git clone https://github.com/Team-Kujira/core $HOME/kujira-core
 cd $HOME/kujira-core
-git checkout v0.6.4
+git checkout v0.7.1
 make install
 ```
 
 3. Verify your binary is working
 
 ```
-kujirad version #should output v0.6.4
+kujirad version #should output v0.7.1
 ```
 
 ## Configure chain
