@@ -54,15 +54,15 @@ RPC / API / State Sync / Guides / Data snapshots
 
 ### Polkachu Node Services
 
-- https://polkachu.com/networks/kujira
-- Node Installation Guide: https://polkachu.com/installation/kujira
-- State-Sync: https://polkachu.com/state_sync/kujira
-- Daily pruned snapshots: https://polkachu.com/tendermint_snapshots/kujira
-- Daily updated addrbook.json: https://polkachu.com/addrbooks/kujira
-- Live Peers: https://polkachu.com/live_peers/kujira
-- Seed: https://polkachu.com/seeds/kujira
-- Genesis Mirror Download: https://polkachu.com/genesis/kujira
-- RPC Endpoint: https://kujira-rpc.polkachu.com/
-- API Endpoint: https://kujira-api.polkachu.com/
+- Node Service Summary Page: [https://polkachu.com/networks/kujira](https://polkachu.com/networks/kujira)
+- [Node Installation Guide](https://polkachu.com/installation/kujira)
+- [State-Sync](https://polkachu.com/state_sync/kujira)
+- [Daily Pruned Snapshots](https://polkachu.com/tendermint_snapshots/kujira)
+- [Daily Updated addrbook.json](https://polkachu.com/addrbooks/kujira)
+- [Live Peers](https://polkachu.com/live_peers/kujira)
+- [Seed](https://polkachu.com/seeds/kujira)
+- [Genesis Mirror Download](https://polkachu.com/genesis/kujira)
+- [Selected CLI Command Cheatsheet](https://polkachu.com/cheatsheets/kujira)
+- [RPC Endpoint](https://kujira-rpc.polkachu.com)
+- [API Endpoint](https://kujira-api.polkachu.com)
 - gRPC Endpoint: kujira-grpc.polkachu.com:11890
-- Selected CLI Command Cheatsheet: https://polkachu.com/cheatsheets/kujira
