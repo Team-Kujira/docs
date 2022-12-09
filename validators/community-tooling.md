@@ -49,3 +49,11 @@ RPC / API / State Sync / Guides / Data snapshots
 * Api Endpoint: https://api-kujira.nodeist.net/
 * Useful Scripts: https://nodeist.net/kujira/Tools/
 * How to Stake? : https://nodeist.net/kujira/Howtostake/
+
+***
+
+### ghostinnet
+
+* [RPC](https://kujira.rpc.ghostinnet.com/) / [API](https://kujira.lcd.ghostinnet.com/) / [Statesync](https://github.com/gitn17/Statesync/blob/main/Kujira/README.md)
+
+***
