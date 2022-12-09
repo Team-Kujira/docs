@@ -34,3 +34,18 @@ RPC / API / State Sync / Guides / Data snapshots
 * Relayers hermes configuration : [Details](https://github.com/Inter-Blockchain-Service/Relayers)
 * StateSync script for fresh VPS or existing node [StateSync scripts](https://github.com/Inter-Blockchain-Service/Cosmos-StateSync/tree/main/Kujira)
 * Peer : d7c5f6099886bc3b770cdc4cdc16e69d17dc9442@185.249.227.231:28656
+
+***
+
+### Nodeist Node Services
+
+* https://nodeist.net/kujira/
+* Setup Guide: https://nodeist.net/kujira/Setup/
+* Daily pruned snapshots: https://nodeist.net/kujira/Snapshot/
+* Daily updated addrbook.json: https://nodeist.net/kujira/Addrbook/
+* Live Peers: https://nodeist.net/kujira/Livepeers/
+* Genesis File: https://nodeist.net/kujira/Genesis/
+* RPC Endpoint: https://rpc-kujira.nodeist.net/
+* Api Endpoint: https://api-kujira.nodeist.net/
+* Useful Scripts: https://nodeist.net/kujira/Tools/
+* How to Stake? : https://nodeist.net/kujira/Howtostake/
