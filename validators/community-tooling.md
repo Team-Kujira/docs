@@ -15,6 +15,7 @@ RPC / API / State Sync / Guides / Data snapshots
 * Daily snapshots, state-sync, public endpoints and peering services - [services.kjnodes.com](https://services.kjnodes.com/home/mainnet/kujira)
 * Free Telegram bot to monitor health status of your Kujira Price Feeder - [🤖 Kujira Oracle Monitoring bot | kjnodes](https://t.me/kjnodes\_oracle\_bot)
 * Free Telegram bot that will notify you when new proposal kicks in - [🤖 Proposal Bot | kjnodes](https://t.me/kjnodes\_proposal\_bot)
+* Daily snapshots, state-sync, genesis file, public endpoints, peering, addrbook services - [nodeist.net](https://nodeist.net/kujira)
 
 ***
 
