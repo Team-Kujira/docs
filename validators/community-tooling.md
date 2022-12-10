@@ -66,3 +66,11 @@ RPC / API / State Sync / Guides / Data snapshots
 - [RPC Endpoint](https://kujira-rpc.polkachu.com)
 - [API Endpoint](https://kujira-api.polkachu.com)
 - gRPC Endpoint: kujira-grpc.polkachu.com:11890
+
+***
+
+### ghostinnet
+
+* [RPC](https://kujira.rpc.ghostinnet.com/) / [API](https://kujira.lcd.ghostinnet.com/) / [Statesync](https://github.com/gitn17/Statesync/blob/main/Kujira/README.md)
+
+***
