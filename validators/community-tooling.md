@@ -74,3 +74,9 @@ RPC / API / State Sync / Guides / Data snapshots
 * [RPC](https://kujira.rpc.ghostinnet.com/) / [API](https://kujira.lcd.ghostinnet.com/) / [Statesync](https://github.com/gitn17/Statesync/blob/main/Kujira/README.md)
 
 ***
+
+### Crypto Chemistry
+
+* Price Oracle Monitor supporting Discord and PagerDuty alerts - [Price Oracle Monitor](https://github.com/Crypto-Chemistry/price-oracle-monitor) 
+
+***
