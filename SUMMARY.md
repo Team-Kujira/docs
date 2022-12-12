@@ -9,6 +9,7 @@
 * [✨ Why Kujira](introduction/why-kujira/README.md)
   * [💻 User and Developer Experience](introduction/why-kujira/user-and-developer-experience.md)
   * [⚖ Values](introduction/why-kujira/values/README.md)
+    * [👥 Principles](introduction/why-kujira/values/principles.md)
     * [📖 The Kujira Commandments](introduction/why-kujira/values/the-kujira-commandments.md)
     * [🎁 Charity](introduction/why-kujira/values/charity.md)
     * [🌟 Integrity](introduction/why-kujira/values/integrity.md)
