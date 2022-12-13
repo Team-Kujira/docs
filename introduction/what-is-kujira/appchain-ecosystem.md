@@ -1,6 +1,6 @@
-# 📱 Appchain Ecosystem
+# 📱 Ecosystem
 
-Kujira is a Cosmos blockchain ecosystem driven first and foremost by its suite of synergistic, ground-breaking, and sustainable decentralized applications & infrastructure. Directly built by ‘Team Kujira’ is a bevy of high quality products:
+Kujira is a blockchain ecosystem driven first and foremost by its suite of synergistic, ground-breaking, and sustainable decentralized applications & infrastructure. Directly built by ‘Team Kujira’ is a bevy of high quality products:
 
 $$\bullet$$ [ORCA](https://orca.kujira.app/), the world’s first public marketplace for liquidated collateral
 

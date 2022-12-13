@@ -3,7 +3,7 @@
 ## 🎆 Introduction
 
 * [🐋 What is Kujira](README.md)
-  * [📱 Appchain Ecosystem](introduction/what-is-kujira/appchain-ecosystem.md)
+  * [📱 Ecosystem](introduction/what-is-kujira/appchain-ecosystem.md)
   * [🎊 A Grand Whalecome to Kujira](introduction/what-is-kujira/a-grand-whalecome-to-kujira.md)
   * [🎓 Grown-Up DeFi (GUD)](introduction/what-is-kujira/grown-up-defi-gud.md)
 * [✨ Why Kujira](introduction/why-kujira/README.md)
@@ -14,7 +14,7 @@
     * [🎁 Charity](introduction/why-kujira/values/charity.md)
     * [🌟 Integrity](introduction/why-kujira/values/integrity.md)
     * [🌳 Sustainability](introduction/why-kujira/values/sustainability.md)
-* [👨💻 👨💻 👨💻 Who are Team Kujira](introduction/who-are-team-kujira.md)
+* [👨💻 👨💻 👨💻 👨💻 Who are Team Kujira](introduction/who-are-team-kujira.md)
 
 ## 🏝 Kujira Ecosystem
 
@@ -48,7 +48,7 @@
 
 * [💡 Smart Contracts](developers/smart-contracts/README.md)
   * [🏭 Token Factory](developers/smart-contracts/token-factory.md)
-  * [🧙♂ 🧙♂ 🧙♂ Price Oracle](developers/smart-contracts/oracle.md)
+  * [🧙♂ 🧙♂ 🧙♂ 🧙♂ Price Oracle](developers/smart-contracts/oracle.md)
   * [🗓 Scheduler](developers/smart-contracts/scheduler.md)
   * [🎲 Entropy Beacon](developers/smart-contracts/entropy-beacon.md)
 * [💠 Core Module Accounts](developers/core-module-accounts.md)
@@ -65,8 +65,8 @@
 * [KUJI Token](tokenomics/kuji-token/README.md)
   * [💱 Staking KUJI](tokenomics/kuji-token/staking.md)
   * [🥇 KUJI Tiers](tokenomics/kuji-token/kuji-tiers.md)
-  * [👨🌾 👨🌾 👨🌾 👨🌾 KUJI Sustainability](tokenomics/kuji-token/kuji-sustainability.md)
-  * [👩✈ 👩✈ 👩✈ 👩✈ Kujira Governance](tokenomics/kuji-token/kujira-governance.md)
+  * [👨🌾 👨🌾 👨🌾 👨🌾 👨🌾 KUJI Sustainability](tokenomics/kuji-token/kuji-sustainability.md)
+  * [👩✈ 👩✈ 👩✈ 👩✈ 👩✈ Kujira Governance](tokenomics/kuji-token/kujira-governance.md)
 
 ## 🤖 Validators
 
@@ -99,7 +99,7 @@
 
 * [🕹 Overview](our-venture-builder-program/overview.md)
 
-## 🤼♂ 🤼♂ 🤼♂ Community
+## 🤼♂ 🤼♂ 🤼♂ 🤼♂ Community
 
 * [👫 Kujira Socials](community/kujira-socials/README.md)
   * [🎶 Discord](community/kujira-socials/discord.md)
@@ -113,7 +113,7 @@
 
 ## ⛑ Help Center
 
-* [🧑🏫 🧑🏫 🧑🏫 Kujira Academy](help-center/kujira-academy.md)
+* [🧑🏫 🧑🏫 🧑🏫 🧑🏫 Kujira Academy](help-center/kujira-academy.md)
 * [❓ FAQ](help-center/faq.md)
 * [🧰 Handy Tools](help-center/handy-tools.md)
 * [📚 Terminology & Methods](help-center/terminology-and-methods.md)
@@ -121,6 +121,6 @@
 
 ## ™ Brand Assets
 
-* [🇰🇲 🇰🇲 🇰🇲 Colors](brand-assets/colors.md)
+* [🇰🇲 🇰🇲 🇰🇲 🇰🇲 Colors](brand-assets/colors.md)
 * [💮 Logo Options](brand-assets/logo-options.md)
 * [🔡 Fonts](brand-assets/fonts.md)
