@@ -1,4 +1,4 @@
-# Community Tooling
+# ⚙ Community Tooling
 
 ***
 
@@ -54,18 +54,18 @@ RPC / API / State Sync / Guides / Data snapshots
 
 ### Polkachu Node Services
 
-- Node Service Summary Page: [https://polkachu.com/networks/kujira](https://polkachu.com/networks/kujira)
-- [Node Installation Guide](https://polkachu.com/installation/kujira)
-- [State-Sync](https://polkachu.com/state_sync/kujira)
-- [Daily Pruned Snapshots](https://polkachu.com/tendermint_snapshots/kujira)
-- [Daily Updated addrbook.json](https://polkachu.com/addrbooks/kujira)
-- [Live Peers](https://polkachu.com/live_peers/kujira)
-- [Seed](https://polkachu.com/seeds/kujira)
-- [Genesis Mirror Download](https://polkachu.com/genesis/kujira)
-- [Selected CLI Command Cheatsheet](https://polkachu.com/cheatsheets/kujira)
-- [RPC Endpoint](https://kujira-rpc.polkachu.com)
-- [API Endpoint](https://kujira-api.polkachu.com)
-- gRPC Endpoint: kujira-grpc.polkachu.com:11890
+* Node Service Summary Page: [https://polkachu.com/networks/kujira](https://polkachu.com/networks/kujira)
+* [Node Installation Guide](https://polkachu.com/installation/kujira)
+* [State-Sync](https://polkachu.com/state\_sync/kujira)
+* [Daily Pruned Snapshots](https://polkachu.com/tendermint\_snapshots/kujira)
+* [Daily Updated addrbook.json](https://polkachu.com/addrbooks/kujira)
+* [Live Peers](https://polkachu.com/live\_peers/kujira)
+* [Seed](https://polkachu.com/seeds/kujira)
+* [Genesis Mirror Download](https://polkachu.com/genesis/kujira)
+* [Selected CLI Command Cheatsheet](https://polkachu.com/cheatsheets/kujira)
+* [RPC Endpoint](https://kujira-rpc.polkachu.com)
+* [API Endpoint](https://kujira-api.polkachu.com)
+* gRPC Endpoint: kujira-grpc.polkachu.com:11890
 
 ***
 
@@ -77,6 +77,6 @@ RPC / API / State Sync / Guides / Data snapshots
 
 ### Crypto Chemistry
 
-* Price Oracle Monitor supporting Discord and PagerDuty alerts - [Price Oracle Monitor](https://github.com/Crypto-Chemistry/price-oracle-monitor) 
+* Price Oracle Monitor supporting Discord and PagerDuty alerts - [Price Oracle Monitor](https://github.com/Crypto-Chemistry/price-oracle-monitor)
 
 ***

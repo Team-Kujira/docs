@@ -1,4 +1,4 @@
-# 🏦 Kujira Wallet
+# 📻 SONAR (Wallet)
 
 Making waves soon...&#x20;
 

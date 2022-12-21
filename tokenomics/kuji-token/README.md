@@ -2,7 +2,7 @@
 description: $KUJI is the native token on the Kujira Network
 ---
 
-# KUJI Token
+# 🉐 KUJI Token
 
 ### Total Supply
 

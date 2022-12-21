@@ -1,10 +1,10 @@
-# Run a Node
+# 🐎 Run a Node
 
-This guide assumes you're running on Ubuntu 22.04 LTS - the commands will probably work just fine on 20.04 LTS or Debian.
+This guide assumes you're running on Ubuntu 22.04 LTS - the commands will probably work just fine on 20.04 LTS or Debian.&#x20;
 
 ## Basic machine setup
 
-1. SSH into your node
+1. SSH into your node&#x20;
 2. Update your machine (Answer yes / ok to the prompts)
 
 ```

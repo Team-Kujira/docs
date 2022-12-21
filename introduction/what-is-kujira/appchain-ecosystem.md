@@ -12,7 +12,7 @@ $$\bullet$$ [FINDER](https://finder.kujira.app/), a tool to search for present a
 
 $$\bullet$$ [USK](https://blue.kujira.app/mint), a decentralized over-collateralized stablecoin only backed by uncensorable collateral
 
-$$\bullet$$ [The Kujira Wallet](../../dapps-and-infrastructure/kujira-wallet.md), an upcoming sleek, next generation Cosmos wallet which will be available on $$\space \space \space$$various desktop and mobile platforms
+$$\bullet$$ [Sonar](../../dapps-and-infrastructure/kujira-wallet.md), an upcoming sleek, next generation Cosmos wallet which will be available on various     $$\space \space \space$$desktop and mobile platforms
 
 $$\bullet$$ [The Kujira Senate](../../dapps-and-infrastructure/senate.md), a new powerful governance mechanism that will springboard decentralization   $$\space \space \space$$and make Kujira substantially more agile                          &#x20;
 
