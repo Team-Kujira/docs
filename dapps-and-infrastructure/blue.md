@@ -1,34 +1,40 @@
+---
+description: Kujira Ecosystem Dashboard
+---
+
 # 🔷 BLUE
 
-### Your KUJI Dashboard. Bond KUJI, Vote on Governance, Swap KUJI, Bridge to Kujira Network, and claim rewards; all in one place.
-
-This is the heart of the Kujira ecosystem. The place where you help shape the future of the protocol via governance. It's also where you can stake KUJI in order to earn a portion of every cent of Kujira's revenue.
+BLUE is your all-in-one dashboard for the Kujira ecosystem. Here, you can bond [KUJI,](../tokenomics/kuji-token/) vote on governance, swap KUJI, bridge to the Kujira network, and claim rewards. This is the hub of the Kujira protocol, where you can shape its future through governance and earn a portion of Kujira's revenue by staking KUJI.
 
 [https://blue.kujira.app/](https://blue.kujira.app/)&#x20;
 
-### Dashboard
+## Dashboard
 
-The OG: [https://blue.kujira.app/](https://blue.kujira.app/)&#x20;
+The BLUE dashboard provides key analytics for the Kujira blockchain, including:
 
-The BLUE dashboard contains useful key Kuijra blockchain analytics including KUJI price, the KUJI tokens fully diluted value, the total liquid supply, the KUJI APR (calculated over a 30 day range), the current block height, the average block time, the total number of Kujira network transactions,  the overall chain inflation %, the overall token release schedule, you personal amount of staked KUJI, as well as a graphical break down of the total KUJI supply including the treasury.
+* KUJI price
+* Fully diluted value (FDV) of KUJI
+* Total liquid supply of KUJI
+* KUJI annual percentage rate (APR) over a 30-day range
+* Current block height
+* Average block time
+* Total number of Kujira network transactions
+* Inflation percentage
+* Token release schedule
+* Personal amount of staked KUJI
+* Graphical breakdown of total KUJI supply, including the treasury
 
-The KUJI price on the BLUE dashboard (and wallet tab) pulls directly from Coin Gecko's API.&#x20;
+The KUJI price on the BLUE dashboard is sourced from Coin Gecko's API. The FDV of the KUJI token is calculated as the maximum supply of KUJI tokens after token vesting is finished, multiplied by the current KUJI token price. The liquid supply refers to the unstaked portion of the circulating KUJI supply that is not locked up in a smart contract. The current block height represents the total number of blocks produced by the Kujira blockchain. The average block time is the average amount of time it takes to produce a new block. The number of Kujira network transactions can give an estimate of total network activity. The inflation percentage is the amount of new KUJI tokens created over time and is also a measure of existing token holder dilution. Kujira has no inflation and the inflation percentage is always 0%.
 
-The fully diluted value (FDV) of the KUJI token is calculated as the maximum supply of KUJI tokens after token vesting finishes multiplied by the current KUJI token price. Given that the max supply is \~ 122.4 million tokens, at a KUJI price of $1.20, the FDV would be equal to \~ 122.4 \* 1.2 = 146.88 million dollars. Inflationary crypto tokens often have high emissions. Their current market values-- regularly determined based on short-term token supply mechanics--may exceed future growth. KUJI sidesteps this issue. It is not inflationary, and derives value from adoption.
+Wallet
 
-The liquid supply refers to the unstaked portion of the circulating KUJI supply and not locked up in some smart contract. The smaller the circulating liquid supply, the more difficult it is to purchase large amounts of KUJI.
+The wallet tab has several useful features, including the ability to:
 
-The current block height represents the total number of blocks produced by the [consensus algorithm](../governance/staking/#consensus) of the Kujira blockchain.
-
-The average block time represents the average amount of time spent on average to produce a new block.
-
-The number of Kujira network transactions can help give a rough estimate of total network activity.
-
-Inflation % is the amount of new KUJI tokens created over time -- it is also a measure existing token holder dilution. Kujira has no inflation and the inflation percentage is always 0.
-
-### Wallet
-
-The wallet tab has a few nifty features including the ability to create new vesting contracts involving any token on the Kujira blockchain, send token balances to other wallets, display the amount of each of your Kujira token balances (as well as your overall token dollar balance), display your total amount of staked KUJI, and allow for auto-conversion of user-selected assets on the Kujira blockchain to KUJI.
+* Create new vesting contracts for any token on the Kujira blockchain
+* Send token balances to other wallets
+* Display the amount of each of your Kujira token balances and your overall token dollar balance
+* Display your total amount of staked KUJI
+* Allow for the auto-conversion of user-selected assets on the Kujira blockchain to KUJI.
 
 #### Creating Vesting Contracts
 
@@ -36,15 +42,15 @@ The wallet tab has a few nifty features including the ability to create new vest
 
 ### Swap
 
-This tab is a lite interface for performing a simple swap between any tokens. This is accomplished by placing [FIN](fin/) market orders behind the scenes. Swaps are currently limited between [FIN](fin/) market pairs.
-
-To trade between two assets without a direct [FIN](fin/) pair, first trade for [USK](usk-stablecoin.md) or axlUSDC as necessary depending on the target asset, and then directly trade for the target asset using the BLUE swap UI. At maximum, you may need to make up to 3 trades.
+This tab is a lite interface for performing a simple swap between any tokens. This is accomplished by placing [FIN](fin/) market orders behind the scenes. Swaps are currently limited to [FIN](fin/) market pairs. To trade between two assets without a direct [FIN](fin/) pair, you can first trade for [USK](usk-stablecoin.md) or axlUSDC as necessary, depending on the target asset using the BLUE swap UI. At most, you may need to make up to 3 trades.
 
 ### IBC / Bridge
 
+The IBC (Inter-Blockchain Communication) / Bridge tab is where you can connect to other networks and transfer assets between them.
+
 ### Mint
 
-The Mint tab is where USK is minted.&#x20;
+The Mint tab is where you can mint [USK](usk-stablecoin.md), which is a stablecoin pegged to the value of the US dollar.
 
 ### Stake
 

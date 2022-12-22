@@ -1,9 +1,11 @@
 # 🎁 Charity
 
-We care about giving back to others and helping those who are disadvantaged. It underscores an important piece of our underlying ethos. There are numerous examples where the team and others in our community have risen to the occasion and helped others and we are very proud.
+Charity is an important aspect of the Kujira ecosystem. We believe in giving back to others and supporting disadvantaged communities. Our team and community have demonstrated this commitment through various charitable initiatives.
 
-Furthermore, back on Terra, Kujira joined the Angel Alliance, a Terra charity alliance that was headed by Angel Protocol at the time. And as part of our commitment to charity, based on the outcome of our second governance vote, we contributed approximately 0.2% of our genesis supply (131000 KUJI) to Angel Protocol, meant to perpetually generate staking revenue for those in need.
+Here are a few examples of our charitable efforts:
 
-More recently, AQUA, a charity DAO, building on [Juno](https://docs.junonetwork.io/juno/readme), dedicated to ending the world water crisis has decided to airdrop 1.5% of their total supply to KUJI stakers. We stand in solidarity with such efforts and happy to cheer on AQUA's vision.
+* Kujira joined the Angel Alliance, a charity alliance on the Terra blockchain, headed by Angel Protocol. As part of our commitment to charity, we contributed approximately 0.2% of our genesis supply (131000 KUJI) to Angel Protocol. These funds will be used to generate staking revenue for those in need.
+* AQUA, a charity DAO building on Kujira, is dedicated to ending the global water crisis. AQUA has decided to airdrop 1.5% of their total supply to KUJI stakers as a show of solidarity with their vision.
+* We will be involved in various other charity-focused efforts in the future. Stay tuned for updates.
 
-We will be involved in various other charity focused efforts over time. Stay tuned.&#x20;
+We are proud of the charitable efforts of our team and community, and we will continue to support and participate in initiatives that align with our values.

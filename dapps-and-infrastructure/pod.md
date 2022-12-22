@@ -1,17 +1,21 @@
 ---
-description: Decentralization Enhancing Staking UI built for the Cosmos
+description: Staking UI for Cosmos Network
 ---
 
 # 📿 POD
 
-We have carefully created a customized staking UI to help promote network decentralization across all Cosmos network chains.
+POD is a custom staking user interface (UI) designed to support decentralization on the Cosmos network, a proof-of-stake (PoS) blockchain.
 
-Network decentralization on a proof of stake (PoS) blockchain can be measured in part by the Nakamoto coefficient. The smallest number of validators colluding together that could seize control of the network is a PoS blockchain's Nakamoto Coefficient. The more uniform the distribution of validator delegations, the larger the network's Nakamoto coefficient.
+## Measuring Decentralization
 
-It is often the case that individuals who do not necessarily know better tend to assume that validators with larger delegations happen to be inherently better or more superior to delegate to. However, this can create issues in network security, complicate decentralization, and may be misguided at best as that validator's values and actions may conflict greatly with one's own.&#x20;
+Decentralization on a PoS blockchain can be evaluated using the Nakamoto coefficient, which measures the minimum number of validators that could potentially collude to take control of the network. The more evenly distributed validator delegations are, the higher the Nakamoto coefficient of the network.
 
-In POD, validators that have far more voting power than the equal power threshold (that is synonymous with perfect decentralization with uniformly distributed delegations across the validator set) are colored in red with a bar showing what percentage of overall voting power they currently control. Validators with medium voting power exceeding the equal power threshold having voting power bars highlighted in yellow. Finally, validators whose voting power is smaller than the equal power threshold are colored blue.
+## Validation Power
 
-In reality, validators have different levels of technical expertise, different values and levels of community participation and value add that attract differing amounts of people. As a result, it is difficult to achieve perfect decentralization. And decentralization is simply one value on the scale balanced against others such as network value add, promoting community projects and tooling, voting to protect the network, as well as various other tasks, etc. &#x20;
+It is common for people to assume that validators with larger delegations are inherently superior to delegate to, but this can lead to security issues and undermine decentralization. In POD, we have designed a system to highlight validators with voting power that is disproportionate to the equal power threshold (which represents perfect decentralization with uniformly distributed delegations across the validator set). Validators with voting power above the equal power threshold are shown in red with a bar indicating their percentage of overall voting power. Validators with medium voting power above the threshold are highlighted in yellow, while those with voting power below the threshold are colored blue.
 
-This is why at Kujira we have taken it upon ourselves seriously to create a staking UI that pushes decentralization forward. We will continue to make improvements to POD with time as we listen to feedback from our users and innovate.&#x20;
+## Achieving Decentralization
+
+In reality, validators have different levels of technical expertise, values, and levels of community engagement and value, which attracts different numbers of people. As a result, it is challenging to achieve perfect decentralization. Decentralization is just one factor to consider, balanced against others such as network value, supporting community projects and tools, voting to protect the network, and various other tasks.
+
+That's why at Kujira, we have taken it upon ourselves to create POD, a staking UI that advances decentralization. We will continue to improve POD over time by listening to feedback from our users and innovating.

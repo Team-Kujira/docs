@@ -1,9 +1,9 @@
 # 🌟 Integrity
 
-We pride ourselves on our high integrity in every facet of Kujira.
+## Key points about Kujira's commitment to integrity:
 
-Perhaps this was demonstrated most strongly when the Terra network collapsed and many constituents were deeply affected. We maintained constant and clear communication with all of our users 24/7 throughout the aftermath of the UST peg collapse.
-
-Four days after the initial depeg, we even released our brand new CLOB dex, FIN, and two days after that, when the Terra chain halted, we [revealed our decision](https://medium.com/team-kujira/the-future-of-kujira-485d43c4729c) to move to our own sovereign Cosmos chain.
-
-We were able to launch the Kujira chain in just six weeks. Within two months of launch, the KUJI token’s valuation was already back above pre-depeg levels on Terra.
+* Kujira values honesty and transparency in all of its actions
+* When the Terra network experienced a collapse, Kujira maintained clear communication with its users and worked quickly to find a solution
+* Kujira launched FIN, a new CLOB dex, just four days after the UST peg collapse
+* When the Terra chain halted, Kujira moved to its own sovereign Cosmos chain, which it launched in just six weeks
+* Within two months of launch, the KUJI token's valuation was already back above pre-depeg levels on Terra, demonstrating Kujira's resilience and commitment to its users.
