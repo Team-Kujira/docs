@@ -1,3 +1,7 @@
+---
+description: 'FIN: A DEX Built to Last'
+---
+
 # 🗒 Overview
 
 As a key product in the Kujira ecosystem, FIN is an orderbook-style decentralized exchange (DEX) that allows for the trading of assets on different blockchains. FIN has already seen impressive volume, with over $30M since July.

@@ -1,15 +1,8 @@
 # 💱 Staking KUJI
 
-Staking KUJI on the Kujira Network with a Kujira validator allows users to earn a basket of apex assets over time. All fees collected on the network are paid directly to stakers through the validators, rather than being converted to KUJI first. This makes it easy for users to accumulate a diversified staking yield rather than just more KUJI. Kujira is also adding the option to redeem staking rewards as KUJI based on popular demand.
+Staking KUJI with a Kujira validator will earn you a basket of apex assets over time. All fees that are collected are paid to stakers through our validators. They are not converted to KUJI first, which means that it is easy to accumulate a diversified staking yield rather than just more KUJI. We are adding an option to redeem staking rewards as KUJI as well based on popular demand.&#x20;
 
-Some key points about staking KUJI on the Kujira Network include:
-
-* Earn a basket of apex assets by staking KUJI with a Kujira validator
-* Fees collected on the network are paid directly to stakers through the validators
-* Easy to accumulate a diversified staking yield
-* Option to redeem staking rewards as KUJI
-* Kujira is [sustainable](../../introduction/why-kujira/values/sustainability.md) and does not rely on inflationary tokens to incentivize staking
-* Revenue from Kujira's internal dApps, such as ORCA and FIN, as well as a portion of revenue from each external protocol that launches on the chain, is sent back to stakers
+Kujira does not rely on inflationary tokens in order to incentivize staking. We are [sustainable](kuji-sustainability.md). Revenue (including gas) from Kujira’s internal dApps such as ORCA and FIN is sent back to stakers, as well as a portion of revenue from each external protocol that launches on the chain.
 
 Please navigate [here](https://blue.kujira.app/stake) if you would like to stake your KUJI.  &#x20;
 
