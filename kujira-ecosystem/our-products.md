@@ -2,7 +2,7 @@
 
 ### Overview
 
-At the moment, we offer a few key first-party products that allow our users to participate in the decentralized financial ecosystem based on their risk appetites and expected return.
+At the moment, we offer several key first-party products that allow our users to participate in the decentralized financial ecosystem based on their risk appetites and expected return.
 
 Follow any of the links below to learn a bit more about our product offerings:
 
@@ -24,9 +24,9 @@ Follow any of the links below to learn a bit more about our product offerings:
 
 [POD](../dapps-and-infrastructure/pod.md)
 
-[USK Stablecoin](../dapps-and-infrastructure/usk-stablecoin.md)
+[SONAR Wallet](../dapps-and-infrastructure/kujira-wallet.md)
 
-[Wallet](../dapps-and-infrastructure/kujira-wallet.md)
+[USK Stablecoin](../dapps-and-infrastructure/usk-stablecoin.md)
 
 ###
 
