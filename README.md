@@ -17,5 +17,3 @@ Some key points about Kujira include:
 * Inclusive of all blockchains and networks, and offers products that do not require participants to risk more than they can afford to lose
 * Aims to allow retail investors to access opportunities previously only available to the wealthy and elite
 * Mission is to help people generate income regardless of market direction
-
-In conclusion, Kujira is a decentralized ecosystem that is focused on providing sustainable FinTech solutions, innovative and user-friendly products, and a range of tools for people of all levels of crypto experience. It aims to transform payment infrastructure and allow retail investors to access previously exclusive opportunities. Kujira is inclusive of all blockchains and networks and aims to help people generate income regardless of market direction.
