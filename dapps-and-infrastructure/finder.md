@@ -1,11 +1,15 @@
 # 🔎 FINDER
 
-FINDER is the Kujira Network's official 1st party blockchain explorer. An important piece of blockchain infrastructure,  Finder's webpage allows you to track addresses, transactions, validators and more, on Kujira.&#x20;
+FINDER is the official blockchain explorer for the Kujira Network. It is an essential piece of infrastructure that allows users to track addresses, transactions, validators, and more on the Kujira Network.
 
-FINDER can be used on both mainnet and testnet. The majority of users probably want to use mainnet exclusively. However, developers may get a lot of benefit out of using FINDER on testnet to verify transactions and track other useful information. The desired network can be toggled in the upper right corner.
+Some key points about FINDER include:
 
-Multiple addresses can be bookmarked and named simply by searching for them and then clicking on the bookmark sign in the upper righthand corner. These saved addresses correspond to your cookies so you may need to recreate them if you delete your local cookies.
+* Can be used on both mainnet and testnet
+* Mainnet is intended for the majority of users, while testnet is useful for developers to verify transactions and track other information
+* Allows users to bookmark and name multiple addresses by searching for them and clicking the bookmark icon in the upper right corner
+* Saved addresses correspond to cookies, so they may need to be recreated if cookies are deleted
+* Users can view saved addresses by clicking the bookmark button next to the search bar
 
-To view saved addresses you can click the bookmark button directly beside the search bar.&#x20;
+FINDER is a valuable tool for anyone using the Kujira Network, whether for mainnet or testnet purposes. It allows users to easily track and manage their addresses and transactions, making it an important part of the Kujira ecosystem.
 
-Try [Finder](https://finder.kujira.app/kaiyo-1/) out for yourself!
+Try [FINDER](https://finder.kujira.app/kaiyo-1/) out for yourself!

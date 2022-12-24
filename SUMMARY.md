@@ -113,9 +113,6 @@
 
 * [🧑🏫 🧑🏫 Kujira Academy](help-center/kujira-academy.md)
 * [❓ FAQ](help-center/faq.md)
-* [🧰 Handy Tools](help-center/handy-tools.md)
-* [📚 Terminology & Methods](help-center/terminology-and-methods.md)
-* [⚠ Common Error Messages](help-center/common-error-messages.md)
 
 ## ™ Brand Assets
 

@@ -18,6 +18,6 @@ $$\bullet$$ [The Kujira Senate](../../dapps-and-infrastructure/senate.md), a new
 
 [$$\bullet$$ POD](../../dapps-and-infrastructure/pod.md), a decentralization enhancing staking UI built for Cosmos Network
 
-$$\bullet$$ [GHOST,](../../dapps-and-infrastructure/ghost.md) ??? ???? ?? ????? ??
+$$\bullet$$ [GHOST,](broken-reference) ??? ???? ?? ????? ??
 
 Similar to how [ByteDance](https://en.wikipedia.org/wiki/ByteDance) and [Microsoft Office](https://en.wikipedia.org/wiki/Microsoft\_Office) both quickly built global empires with their application suites, we believe in the effectiveness and value proposition of an appchain. Tight-knit, high-quality decentralized applications are composable primitives. They can be combined to create an emergent variety of attractive financial technologies. That is why we encourage other builders who share our core values to come build their own applications on Kujira. Be part of a movement that wants to revolutionize DeFi, making it more sustainable and accessible to retail investors, while providing informative educational content to raise awareness and allow individuals to be  responsible for their investments.
