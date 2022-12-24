@@ -4,6 +4,8 @@ description: Governance Structure for Kujira Blockchain
 
 # 🗼 SENATE
 
+## [https://blue.kujira.app/senate](https://blue.kujira.app/senate)
+
 The Kujira Senate is a new governance structure for the Kujira blockchain that aims to facilitate validating on the platform, represent the values of the community, and support the stability and growth of the ecosystem. It is composed of up to 9 experts elected by the staking community and is accountable, transparent, and democratic.
 
 ## Role of the Senate
@@ -19,5 +21,7 @@ The Kujira Senate aims to enhance decentralization by amplifying the voices of e
 ## Implementation
 
 The Kujira Senate will be implemented through two new smart contracts: a CW-4 "Group" contract and a CW-3 "Multisig" contract. The next steps for the Kujira Senate include building out the technical infrastructure and onboarding the first Senators. This marks the beginning of a new chapter in Kujira's governance structure.
+
+## [https://blue.kujira.app/senate](https://blue.kujira.app/senate)
 
 \

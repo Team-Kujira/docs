@@ -1,3 +1,0 @@
-# 🔷 BLUE
-
-Perfection takes time.

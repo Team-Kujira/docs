@@ -1,3 +1,0 @@
-# 📿 POD
-
-Perfection takes time.

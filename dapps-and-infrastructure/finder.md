@@ -1,5 +1,7 @@
 # 🔎 FINDER
 
+## [https://finder.kujira.app/](https://finder.kujira.app/kaiyo-1/)
+
 FINDER is the official blockchain explorer for the Kujira Network. It is an essential piece of infrastructure that allows users to track addresses, transactions, validators, and more on the Kujira Network.
 
 Some key points about FINDER include:
@@ -12,4 +14,4 @@ Some key points about FINDER include:
 
 FINDER is a valuable tool for anyone using the Kujira Network, whether for mainnet or testnet purposes. It allows users to easily track and manage their addresses and transactions, making it an important part of the Kujira ecosystem.
 
-Try [FINDER](https://finder.kujira.app/kaiyo-1/) out for yourself!
+## [https://finder.kujira.app/](https://finder.kujira.app/kaiyo-1/)

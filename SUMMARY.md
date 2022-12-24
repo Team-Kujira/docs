@@ -52,10 +52,6 @@
 * [💠 Core Module Accounts](developers/core-module-accounts.md)
 * [🎛 dApp Front Ends](developers/dapp-front-ends/README.md)
   * [📊 FIN](developers/dapp-front-ends/fin.md)
-  * [🐬 ORCA](developers/dapp-front-ends/orca.md)
-  * [🔷 BLUE](developers/dapp-front-ends/blue.md)
-  * [📿 POD](developers/dapp-front-ends/pod.md)
-  * [🏹 BOW](developers/dapp-front-ends/bow.md)
 * [✉ Contacting the Team](developers/contacting-the-team.md)
 
 ## 🪙 Tokenomics
