@@ -6,4 +6,4 @@ To create a proposal, you will need to select a base asset and a quote asset for
 
 After you have submitted your proposal, it will enter the deposit phase. During this phase, a minimum deposit must be provided by one or more addresses before the proposal can move on to the voting stage. It is important to note that not all tokens may be eligible for listing on FIN.
 
-After a proposal passes community governance, the team will create a token pair UI on FIN and an initial phase of limit order buys and sells will take place to gather initial liquidity. Once sufficient liquidity is placed, trading will begin.
+After the community governance process approves a proposal, the team will set up a token pair user interface on FIN, and begin allowing limit order buys and sells to gather initial liquidity. Once there is enough liquidity, trading will commence.
