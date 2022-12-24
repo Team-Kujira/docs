@@ -1,3 +1,0 @@
-# 👻 GHOST
-
-What am I? Who am I? Wen am I? Coming soon...

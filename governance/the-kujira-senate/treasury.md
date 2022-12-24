@@ -1,7 +1,5 @@
 # 💰 Treasury
 
-The Treasury is a basket of different tokens that the [Kujira Senate](../../dapps-and-infrastructure/senate.md) can use to fund projects, partnerships, and improve the Kuijra network by working directly for the community.
+The Treasury is a collection of tokens that the [Kujira Senate](../../dapps-and-infrastructure/senate.md) uses to fund projects, partnerships, and other initiatives that benefit the community. It is replenished through the community fund, which accumulates 2% of network fees from gas and transactions on the Kuijra network's first-party dApps, as well as from revenue share on third-party Kujira dApps. These funds are transferred to the treasury through governance, ensuring that it has a sustainable source of funding over time.
 
-The community fund accumulates funds as 2% of network fees (both from gas and transactions on our first party dApps and from revenue share on all third party Kujira dApps). These funds will transferred periodically to the treasury via governance. This allows the treasury to slowly refill and function as a sustainable entity over time, especially as network usage and adoption increase.&#x20;
-
-Since fees on the Kujira network are paid using the in-demand network assets actually being traded or bidded on, the treasury accumulates multiple distinct assets. This gives it the flexibility to be diversified and resilient over time.
+As the Kuijra network's fees are paid using the assets being traded or bid on, the treasury is able to accumulate a diverse range of tokens. This gives it the flexibility to adapt to changes in market demand and remain resilient in the long term.
