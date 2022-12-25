@@ -2,15 +2,17 @@
 description: Submit a community pool spend proposal
 ---
 
-# 🗄 Submit a Proposal
+# 🗄 Submit a Governance Proposal
 
-Submit a community pool spend proposal along with an initial deposit. The proposal details must be supplied via a JSON file.
+As a member of the Kujira community, you have the opportunity to submit proposals for consideration by the network. One type of proposal is a community pool spend proposal, which involves requesting funds from the community pool for a specific purpose.
+
+To submit a community pool spend proposal, you will need to provide a JSON file with the proposal details and an initial deposit. Here is an example of the command to use:
 
 Example:
 
 `$ kujirad tx gov submit-proposal community-pool-spend <path/to/proposal.json> --from=<key_or_address>`
 
-Where proposal.json contains:
+Where proposal.json contains the following information:
 
 ```
 {
@@ -25,6 +27,8 @@ Where proposal.json contains:
 `kujirad tx gov submit-proposal community-pool-spend [proposal-file] [flags]`
 
 ### Options
+
+There are several options and flags that can be used with this command, including --account-number, --broadcast-mode, --dry-run, --fee-account, --fees, --from, --gas, --gas-adjustment, --gas-prices, --generate-only, --keyring-backend, --keyring-dir, --ledger, --node, --note, --offline, --output, --sequence, --sign-mode, --timeout-height, and --yes.
 
 ```
   -a, --account-number uint      The account number of the signing account (offline mode only)
@@ -51,8 +55,6 @@ Where proposal.json contains:
   -y, --yes                      Skip tx broadcasting prompt confirmation
 ```
 
-Once a proposal is submitted, there is a deposit window of 24h. in which a threshold of 10.000 KUJI needs to be reached from the proposer's or any community member's wallet for the proposal to be deposited on chain and start the voting period (48h.)
+Once a proposal is submitted, there is a 24-hour deposit window during which a threshold of 10,000 KUJI must be reached from the proposer's wallet or any other community member's wallet in order for the proposal to be deposited on-chain and the voting period (48 hours) to begin. The KUJI tokens deposited must be liquid (not staked) and will be returned to the wallet after the threshold is met. If the threshold is not met during the deposit period, the deposited tokens will be burned.
 
-There UI on https://blue.kujira.app/govern under each proposal allows users to support the ones they believe in with the deposit amount required.
-
-The KUJI tokens deposited need to be liquid (not staked) and are returned to each wallet after the 10.000 KUJI threshold is reached. If the 10.000 KUJI threshold is not met during the 24h. deposit period, the deposited tokens are burned.
+Users can support proposals they believe in by depositing the required amount through the UI on https://blue.kujira.app/govern. Simply navigate to the proposal and use the deposit feature to contribute.

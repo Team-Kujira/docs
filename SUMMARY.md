@@ -13,7 +13,7 @@
     * [🎁 Charity](introduction/why-kujira/values/charity.md)
     * [🌟 Integrity](introduction/why-kujira/values/integrity.md)
     * [🌳 Sustainability](introduction/why-kujira/values/sustainability.md)
-* [👨💻 👨💻 Who are Team Kujira](introduction/who-are-team-kujira.md)
+* [👨💻 👨💻 Meet Team Kujira](introduction/who-are-team-kujira.md)
 
 ## 🏝 Kujira Ecosystem
 
@@ -58,7 +58,7 @@
 
 * [🉐 KUJI Token](tokenomics/kuji-token/README.md)
   * [💱 Staking KUJI](tokenomics/kuji-token/staking.md)
-  * [🥇 KUJI Tiers](tokenomics/kuji-token/kuji-tiers.md)
+  * [🥇 Staking Tiers and Symbols on BLUE, FIN, and ORCA](tokenomics/kuji-token/kuji-tiers.md)
   * [👨🌾 👨🌾 KUJI Sustainability](tokenomics/kuji-token/kuji-sustainability.md)
   * [👩✈ 👩✈ Kujira Governance](tokenomics/kuji-token/kujira-governance.md)
 
@@ -82,7 +82,7 @@
   * [❌ Slashing](governance/staking/slashing.md)
   * [🍡 Staking UI](governance/staking/staking-ui.md)
 * [📋 Vote on Proposals](governance/vote-on-proposals.md)
-* [🗄 Submit a Proposal](governance/submit-a-proposal.md)
+* [🗄 Submit a Governance Proposal](governance/submit-a-proposal.md)
 * [🗼 The Kujira Senate](governance/the-kujira-senate/README.md)
   * [💰 Treasury](governance/the-kujira-senate/treasury.md)
 * [⚔ Discord Governance Forum](governance/discord-governance-forum.md)

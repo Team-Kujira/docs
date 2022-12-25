@@ -2,9 +2,7 @@
 
 ### Overview
 
-At the moment, we offer several key first-party products that allow our users to participate in the decentralized financial ecosystem based on their risk appetites and expected return.
-
-Follow any of the links below to learn a bit more about our product offerings:
+Kujira offers several key first-party products that allow users to participate in the decentralized financial ecosystem based on their risk appetite and expected return. Here is an overview of our current product offerings:
 
 ### dApps
 
