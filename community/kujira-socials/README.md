@@ -1,29 +1,21 @@
 ---
 description: >-
-  To facilitate communication with our community, we employ different social
-  media that are run and maintained by Team Kujira and volunteer moderators.
+  To stay in touch with our community, Team Kujira and volunteer moderators use
+  a variety of social media channels.
 ---
 
-# 👫 Kujira Socials
+# 👫 Kujira Social Media
 
-### Socials
+Our main social media channels include:
 
-We have a few 1st party socials that we use to inform and stay in touch with our community. Our Twitter has the largest number of followers and is often used for short announcements or other more informal community engagement. Our Medium contains detailed, professional entries on new announcements, tutorials on our products, a weekly roundup of ecosystem activity, and general educational content relating to our product suite. Our Telegram and Discord are the easiest ways to directly reach out to the team as well as the community and chat or ask questions. Our Instagram shares news and announcements focusing more on visual media whereas our Reddit focuses on longer in-depth entries and encourages community participation/content.
+$$\bull$$ [Twitter](./#twitter): This platform is used for short announcements and informal community engagement. It has the largest number of followers among our channels.
 
-We have a LinkTree that can be found on our Twitter account that includes all of our socials.
+$$\bullet$$ [Medium](./#medium): This platform contains detailed, professional entries on new announcements, tutorials on our products, a weekly roundup of ecosystem activity, and general educational content related to our product suite.
 
-Furthermore, our socials are linked at the bottom of the webpage on [blue.kujira.app](https://blue.kujira.app/swap)
+$$\bullet$$ [Telegram](./#telegram) and [Discord](discord.md): These platforms offer easy ways to directly reach out to the team and the community, chat, and ask questions.
 
-Here are links to a more detailed breakdown covering each of our socials:
+$$\bullet$$ [Instagram](./#instagram): This platform shares news and announcements with a focus on visual media.
 
-### [Discord](discord.md)
+$$\bullet$$ [Reddit](./#reddit): this platform features longer, in-depth entries and encourages community participation and content.
 
-### [Telegram](./#telegram)
-
-### [Twitter](./#twitter)
-
-### [Reddit](./#reddit)
-
-### [Instagram](./#instagram)
-
-### [Medium](./#medium)
+All of our social media channels can be accessed through the LinkTree on our Twitter account, or by following the links at the bottom right of the webpage on [blue.kujira.app](https://blue.kujira.app/swap). For more information on each of our social media channels, visit the detailed breakdown linked above.

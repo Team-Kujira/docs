@@ -95,7 +95,7 @@
 
 ## 🤼♂ 🤼♂ Community
 
-* [👫 Kujira Socials](community/kujira-socials/README.md)
+* [👫 Kujira Social Media](community/kujira-socials/README.md)
   * [🎶 Discord](community/kujira-socials/discord.md)
   * [📬 Telegram](community/kujira-socials/telegram.md)
   * [🐥 Twitter](community/kujira-socials/twitter.md)

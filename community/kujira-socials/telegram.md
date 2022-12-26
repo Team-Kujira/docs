@@ -1,8 +1,8 @@
 # 📬 Telegram
 
-Along with our Discord, Telegram is the primary means of directly communicating with the team (and experienced & friendly chat moderators), asking for support on technical issues, (on occasion **polite** requests or recommendations for new features or modifications to existing features), engaging with the community in a relatively informal setting, or hearing the latest announcements from the team before they go live anywhere else. There are 3 official Telegram chats.&#x20;
+Telegram is one of the primary ways to directly communicate with the Kujira team and experienced chat moderators, as well as engage with the community in a more informal setting. It is also a useful platform for receiving updates and announcements from the team. Kujira has three official Telegram chats.
 
-Important note: on Telegram for most crypto projects there are many scammers who impersonate team members & moderators and direct message users who ask for help/support in chats to target them for hacks via social engineering. Team members will never direct message you first. If they message you in private, it will only be after letting you know that they will do so first in chat. Kujira Team members have the tag Team next to their name when they send messages in chat and other moderators have Kujira fren as a tag when they send messages in the chat. _**It is generally recommended that you message moderators or team members yourself first after they ask you to private message them in one of the main chats**_ as pretenders can still attempt to message you in private to deceive you.
+often scammers on Telegram who impersonate team members and moderators in an attempt to hack users through social engineering. Team members and moderators will always have the tags "Team" or "Kujira fren" next to their names when sending messages in chat. If a team member or moderator asks you to private message them, _**it's generally recommended that you message them first after they request it in one of the main chats**_, as imposters may still try to message you privately to deceive you.
 
 ### Main Chat
 

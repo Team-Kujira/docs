@@ -4,9 +4,11 @@ description: >-
   technology
 ---
 
-# 🧑🏫 Kujira Academy
+# 🧑🏫 🧑🏫 Kujira Academy
 
-We want to make Kujira accessible to everyone. After we bring people into our fold, we want to allow them to keep learning so that they can make the most of decentralized finance and everything else Kujira has to offer. Kujira Academy is a space for people to inform themselves about many useful DeFi concepts that can help them make the most of everything Kujira has to offer.
+Welcome to Kujira Academy, where our goal is to make blockchain technology accessible to everyone. We understand that navigating the world of decentralized finance (DeFi) can be overwhelming, which is why we've created Kujira Academy as a resource for learning about all things DeFi.
+
+Whether you're just starting out with blockchain or are an experienced user looking to delve deeper into DeFi concepts, Kujira Academy has something for you. Our comprehensive guide covers the ins and outs of blockchain technology, helping you make the most of everything Kujira has to offer.
 
 ## Security
 

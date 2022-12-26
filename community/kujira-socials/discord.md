@@ -1,12 +1,22 @@
 # 🎶 Discord
 
-The Kujira Discord is a community hub containing many channels for different types of activity. We will detail a few aspects of the Discord below though much can be found out simply by exploring our Discord which is contained at [https://discord.gg/teamkujira](https://discord.gg/teamkujira).
+The Kujira Discord is a community hub that offers many channels for various types of activity. It can be accessed at [https://discord.gg/teamkujira](https://discord.gg/teamkujira). Along with Telegram, Discord is the primary way to:
 
-Along with our Telegram, Discord is the primary means of directly communicating with the team (and experienced & friendly chat moderators), asking for support on technical issues, (on occasion polite requests or recommendations for new features or modifications to existing features), engaging with the community in a relatively informal setting, or hearing the latest announcements from the team before they go live anywhere else. The easiest way to request for support on our Discord is to create a Support Ticket. Further, details below. Important note: on Discord for most crypto projects there are many scammers who impersonate team members & moderators and direct message users who ask for help/support in chats to target them for hacks via social engineering. Team members will never direct message you first. If they message you in private, it will only be after letting you know that they will do so first in chat. Kujira Team members have the role Team next to their name when they send messages in any of the Kujira Discord channels and other moderators will have Admin, Moderator, or Community Moderator roles when they send messages in the chat. _**It is generally recommended that you message moderators or team members yourself first after they ask you to private message them in one of the main chats**_ as pretenders can still attempt to message you in private to deceive you.
+$$\bullet$$ Directly communicate with the team (and experienced & friendly chat moderators)
+
+&#x20;$$\bullet$$ Ask for technical support&#x20;
+
+$$\bullet$$ Make polite requests or recommendations for new features or modifications&#x20;
+
+$$\bullet$$ Engage with the community in a more informal setting&#x20;
+
+$$\bullet$$ Receive the latest announcements from the team before they are released elsewhere
+
+To request support on Discord, you can create a Support Ticket in the #help channel. It's important to note that on Discord (as with many crypto projects), there are often scammers who impersonate team members and moderators in an attempt to hack users through social engineering. Team members and moderators will always have the roles "Team," "Admin," "Moderator," or "Community Moderator" next to their names when sending messages in any of the Kujira Discord channels. If a team member or moderator asks you to private message them, _**it's generally recommended that you message them first after they request it in one of the main chats**_, as imposters may still try to message you privately to deceive you.&#x20;
 
 ### Roles
 
-Roles are used on the Kujira Discord to group community members and assign different permissions.&#x20;
+The Kujira Discord uses roles to group community members and assign different permissions. To participate in the Discord, you will need to go through a simple verification process. You may need to temporarily enable direct messages from unknown accounts as part of this process.
 
 ### Verify
 
@@ -14,45 +24,61 @@ Anyone can participate in the Kujira Discord after a simple verification process
 
 ### Main Chat
 
-The Main chat channels are places for people to discuss certain topics and/or socialize. Discord easily allows for multi-thread discussions across separate channels and this is where the experience shines. There are many useful chats that can be found here including general chat, price chat, validator-shopping, hackathon, developer, feedback, lounge-3, and memes among others.&#x20;
+The Kujira Discord offers many channels for various types of activity, including the Main chat channels where you can discuss various topics and socialize with other members. Some of the channels available in the Main chat group include:
+
+$$\bullet$$ General Chat
+
+$$\bullet$$ Price Chat
+
+$$\bullet$$ Validator-shopping
+
+$$\bullet$$ Hackathon
+
+$$\bullet$$ Developer
+
+$$\bullet$$ Feedback
+
+$$\bullet$$ Lounge-3
+
+$$\bullet$$ Memes
 
 ### Support Tickets
 
-Kujira community members can directly request for help to moderators and team members by creating support tickets in the #help channel which can be within the Assistance channels group.
+Kujira community members can also directly request help from moderators and team members by creating a Support Ticket in the #help channel, which can be found in the Assistance channels group.
 
 ### Social Posts
 
-This channel can be found within the initial Welcome channel chats. It links to new Tweets, Medium articles, Instagram entries, and more by Team Kujira in real time as they go live.
+The Social Posts channel under the Welcome channel group links to new tweets, Medium articles, Instagram posts, and other updates from Team Kujira in real time.
 
 ### Content Creation
 
-This is where we encourage eager Kujira Content Creators to strut their stuff: share their content, suggest content ideas, and collaborate in Kujira fashion.
+In the Content Creation channels, you can share your content, suggest ideas, and collaborate with other Kujira content creators.
 
 ### Our dApps
 
-These are chats for users to discover our main protocols and have users comment or ask questions about them.&#x20;
+The dApps channels allow you to learn about our main protocols and ask questions about them.
 
 ### Protocols&#x20;
 
-These channels are spaces for Kujira protocols to market themselves and engage directly with the Kujira community.&#x20;
+The Protocols channels are for Kujira protocols to market themselves and engage with the community.
 
 ### NFT Projects
 
-These channels are spaces for Kujira affiliated projects to market themselves and connect directly with the Kujira community.
+These channels are spaces for Kujira-affiliated NFT projects to market themselves and connect directly with the Kujira community.
 
 ### Validators
 
-There is a wide host of validator chats where validators discuss technical aspects of validating on Kujira and collaborate on securing testnet and mainnet on the Kujira chain.
+The Validators channels are for validators to discuss technical aspects of validating on Kujira and collaborate on securing the testnet and mainnet on the Kujira chain.
 
 ### Communities
 
-These chats are for our community members to speak in different languages and make merry. &#x20;
+The Communities channels are for community members to communicate in different languages and socialize.
 
 ### Governance
 
-Contains channels with proposal announcements and proposal discussions for the community to keep tabs on and participate in.&#x20;
+Under the Governance channels, you can find proposal announcements and discussions, as well as a public forum for the community to discuss new proposals before they are put up for voting.&#x20;
 
 ### Governance Forum&#x20;
 
-A public forum for the community to discuss new proposals before they go up for voting. This can be used as one platform among others to discuss with the Kujira Senate about Kujira Governance.&#x20;
+The Governance Forum can be used as one platform (among others) to discuss Kujira Governance with the Kujira Senate.&#x20;
 
