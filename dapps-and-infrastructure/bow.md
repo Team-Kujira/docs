@@ -22,6 +22,5 @@ To use BOW, connect your wallet to the Pools tab and top up on the Swap tab if n
 
 BOW offers several benefits to the ecosystem, including an on-chain solution for market making that doesn't rely on a third party and the ability to incentivize pool depth through fees and rewards. It also provides a stable and deep order book for traders, leading to higher volume and stability.
 
-[https://bow.kujira.app/](https://bow.kujira.app/)\
-.
+[https://bow.kujira.app/](https://bow.kujira.app/).
 -
