@@ -4,7 +4,7 @@ Kujira is a blockchain ecosystem driven first and foremost by its suite of syner
 
 $$\bullet$$ [ORCA](https://orca.kujira.app/), the world’s first public marketplace for liquidated collateral
 
-$$\bullet$$ [FIN](https://fin.kujira.app/), Cosmos’ first decentralized, permissionless, 100% on-chain, fair matching order book style                   $$\space \space \space$$token exchange&#x20;
+$$\bullet$$ [FIN](https://fin.kujira.app/), Cosmos’ first decentralized, permissionless, 100% on-chain, fair matching order book style                                  token exchange&#x20;
 
 $$\bullet$$ [BLUE](https://blue.kujira.app/), the heart of the Kujira ecosystem$$-$$a hub containing a KUJI dashboard, KUJI staking, $$\space \space \space \space \space$$$$\space \space \space$$governance voting, KUJI swapping, Kujira Network bridging / IBC'ing, and rewards claiming
 
