@@ -18,7 +18,7 @@
 * [🗃 Our Products](kujira-ecosystem/our-products.md)
 * [🐳 Wider Ecosystem](kujira-ecosystem/wider-ecosystem.md)
 * [🎟 How to Participate](kujira-ecosystem/how-to-participate.md)
-* [💰 How to Deposit Assets into the Ecosystem](kujira-ecosystem/how-to-deposit-assets-into-the-ecosystem.md)
+* [💰 Moving Funds to Kujira](kujira-ecosystem/how-to-deposit-assets-into-the-ecosystem.md)
 * [🚢 Shipping Lane](kujira-ecosystem/shipping-lane.md)
 * [🔐 Security](kujira-ecosystem/security.md)
 * [🎦 Media Coverage](kujira-ecosystem/media-coverage.md)
@@ -91,7 +91,7 @@
 
 * [🕹 Overview](our-venture-builder-program/overview.md)
 
-## 🤼♂ 🤼♂ Community
+## 🤼♂ 🤼♂  Community
 
 * [👫 Kujira Social Media](community/kujira-socials/README.md)
   * [🎶 Discord](community/kujira-socials/discord.md)
@@ -105,7 +105,7 @@
 
 ## ⛑ Help Center
 
-* [🧑🏫 🧑🏫 Kujira Academy](help-center/kujira-academy.md)
+* [🧑🏫 🧑🏫  Kujira Academy](help-center/kujira-academy.md)
 * [❓ FAQ](help-center/faq.md)
 
 ## ™ Brand Assets
