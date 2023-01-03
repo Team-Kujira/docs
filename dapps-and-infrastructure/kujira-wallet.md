@@ -2,7 +2,7 @@
 
 ## INTRODUCTION
 
-Kujira is excited to announce Sonar, a native mobile wallet app that aims to provide users with a seamless and intuitive experience for interacting with blockchain technology. Sonar is more than just a wallet for sending and receiving tokens, but rather a framework for a real payments platform for on-the-ground vendors, e-commerce merchants, and everyday users. It is integrated into key Kujira protocols that focus on payments and commerce, and has a goal of providing a transparent asset experience, allowing users to move their assets between different chains without having to worry about the underlying network.
+Kujira is excited to announce [Sonar](https://mobile.twitter.com/SonarWallet), a native mobile wallet app that aims to provide users with a seamless and intuitive experience for interacting with blockchain technology. Sonar is more than just a wallet for sending and receiving tokens, but rather a framework for a real payments platform for on-the-ground vendors, e-commerce merchants, and everyday users. It is integrated into key Kujira protocols that focus on payments and commerce, and has a goal of providing a transparent asset experience, allowing users to move their assets between different chains without having to worry about the underlying network.
 
 ## FEATURES
 

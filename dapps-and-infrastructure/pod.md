@@ -4,6 +4,8 @@ description: Staking UI for Cosmos Network
 
 # 📿 POD
 
+## [https://pod.kujira.app/](https://pod.kujira.app/)
+
 POD is a custom staking user interface (UI) designed to support decentralization on the Cosmos network, a proof-of-stake (PoS) blockchain.
 
 ## Measuring Decentralization
@@ -19,3 +21,5 @@ It is common for people to assume that validators with larger delegations are in
 In reality, validators have different levels of technical expertise, values, and levels of community engagement and value, which attracts different numbers of people. As a result, it is challenging to achieve perfect decentralization. Decentralization is just one factor to consider, balanced against others such as network value, supporting community projects and tools, voting to protect the network, and various other tasks.
 
 That's why at Kujira, we have taken it upon ourselves to create POD, a staking UI that advances decentralization. We will continue to improve POD over time by listening to feedback from our users and innovating.
+
+## [https://pod.kujira.app/](https://pod.kujira.app/)
