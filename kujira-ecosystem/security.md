@@ -10,55 +10,97 @@ Security is essential for decentralized finance and decentralized commerce to ru
 
 To protect yourself and your assets, it is important to familiarize yourself with the following security concepts:
 
-**What is a Private Key?:**                                                                                        [https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key](https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key)
+**What is a Private Key?**
 
-These are the keys that give you access to your crypto wallet. Learn about the difference between private and public keys and how to keep them safe with this guide from Ledger.
+****[https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key](https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key)
 
-**What is a smart contract security audit?:**                                    [https://academy.binance.com/en/articles/what-is-a-smart-contract-security-audit](https://academy.binance.com/en/articles/what-is-a-smart-contract-security-audit)
+Private keys are the keys that give you access to your cryptocurrency wallet. In this guide by Ledger, you can learn about the difference between private and public keys, and how to keep your private keys safe.
 
-These audits provide an extra layer of security by having a professional third party scrutinize the code behind smart contracts.
+**What is a Smart Contract Security Audit?**
 
-**General Security principles:**                                                   [https://academy.binance.com/en/articles/general-security-principles](https://academy.binance.com/en/articles/general-security-principles)
+****[https://academy.binance.com/en/articles/what-is-a-smart-contract-security-audit](https://academy.binance.com/en/articles/what-is-a-smart-contract-security-audit)
 
-Keep yourself safe in the world of cryptocurrency by understanding the mental framework necessary to avoid scams.
+A smart contract security audit is a process where the code behind smart contracts is scrutinized by a professional third party to provide an additional layer of security. Binance Academy's guide covers what a smart contract security audit is and why it is important.
 
-**5 common crypto scams and how to avoid them:**                                    [https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them](https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them)
+**General Security Principles**
 
-Be aware of common scams in the crypto world, such as giveaway scams on social media, and learn how to avoid them.
+****[https://academy.binance.com/en/articles/general-security-principles](https://academy.binance.com/en/articles/general-security-principles)
 
-**How to secure your crypto:**                                                          [https://academy.binance.com/en/articles/how-to-secure-your-cryptocurrency](https://academy.binance.com/en/articles/how-to-secure-your-cryptocurrency)
+Security is an important aspect of the cryptocurrency world, as there have been many instances of major exploits. Binance Academy's guide covers general principles for maintaining security in the world of crypto.
 
-Follow best practices for keeping your crypto assets safe, such as the well-known phrase "not your keys, not your crypto."
+**5 Common Crypto Scams and How to Avoid Them**
 
-**What are cookies?:** [https://academy.binance.com/en/articles/what-are-cookies](https://academy.binance.com/en/articles/what-are-cookies)
+****[https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them](https://academy.binance.com/en/articles/5-common-cryptocurrency-scams-and-how-to-avoid-them)
 
-Learn about what cookies are used for and the potential risks associated with them in this article.
+There are many scams that target cryptocurrency users, including giveaway scams, phishing attacks, and more. Binance Academy's guide covers some of the most common crypto scams and how to protect yourself from them.
 
-**How to spot scams in DeFi:**                                                                                         [https://academy.binance.com/en/articles/how-to-spot-scams-in-decentralized-finance-defi](https://academy.binance.com/en/articles/how-to-spot-scams-in-decentralized-finance-defi)&#x20;
+**How to Secure Your Crypto**
 
-As the DeFi market grows, so does the incentive for scammers to target users. Know the red flags to look out for before investing.
+****[https://academy.binance.com/en/articles/how-to-secure-your-cryptocurrency](https://academy.binance.com/en/articles/how-to-secure-your-cryptocurrency)
 
-**How to stay safe on Discord:** [https://www.ledger.com/academy/how-to-stay-safe-on-discord](https://www.ledger.com/academy/how-to-stay-safe-on-discord)
+"Not your keys, not your crypto" is a well-known phrase in the crypto community, but there are many other ways to keep your crypto assets safe. Binance Academy's guide covers various methods for securing your cryptocurrency.
 
-Protect yourself while using Discord by following the advice in this article, especially if you are new to the platform or easily swayed by offers from unfamiliar sources.
+**What are Cookies?**
 
-**What are rug pulls:** [https://www.ledger.com/academy/what-is-a-rug-pull](https://www.ledger.com/academy/what-is-a-rug-pull)
+[https://academy.binance.com/en/articles/what-are-cookies](https://academy.binance.com/en/articles/what-are-cookies)
 
-Find out what a rug pull is and how to protect yourself from this type of scam.Find out what a rug pull is and how to protect yourself from this type of scam.
+Cookies are small pieces of data that are stored by your web browser. In this article, Binance Academy covers what cookies are used for and the potential risks associated with them.
 
-#### Crypto scams
+**How to Spot Scams in DeFi**
 
-Crypto scams can take many forms, including imposter scams, phishing scams, phone scams, giveaway scams, investment scams, and computer malware scams. This is not an exhaustive list, but as a crypto market participant, it is important to be aware of these common scams and how to avoid them. Stay safe out there!
+****[https://academy.binance.com/en/articles/how-to-spot-scams-in-decentralized-finance-defi](https://academy.binance.com/en/articles/how-to-spot-scams-in-decentralized-finance-defi)&#x20;
 
-**Imposter Scams:** [https://support.kraken.com/hc/en-us/articles/4660909653908-Impostor-scams](https://support.kraken.com/hc/en-us/articles/4660909653908-Impostor-scams)
+As the total value locked (TVL) in decentralized finance (DeFi) increases, so does the incentive for scammers to target DeFi users. Binance Academy's guide covers some red flags to watch out for when investing in DeFi to help you protect yourself from scams.
 
-**Phishing scams:**                                                                                                                 [https://support.kraken.com/hc/en-us/articles/115012482687-Beware-of-phishing-scams](https://support.kraken.com/hc/en-us/articles/115012482687-Beware-of-phishing-scams)
+**How to Stay Safe on Discord**
 
-**Phone scams:**                                                                                                               [https://support.kraken.com/hc/en-us/articles/115012482487-Beware-of-phone-scams](https://support.kraken.com/hc/en-us/articles/115012482487-Beware-of-phone-scams)
+****[https://www.ledger.com/academy/how-to-stay-safe-on-discord](https://www.ledger.com/academy/how-to-stay-safe-on-discord)
 
-**Crypto Giveaway scams:**                                                                     [https://support.kraken.com/hc/en-us/articles/360057159411-Beware-of-crypto-giveaway-scams](https://support.kraken.com/hc/en-us/articles/360057159411-Beware-of-crypto-giveaway-scams)
+Discord is a popular communication platform for the crypto community, but it is important to stay safe while using it. Ledger Academy's guide covers some best practices for staying safe on Discord, including how to protect yourself from phishing attacks and scams.
 
-**Different investment scams:**                                                                                                          [https://support.kraken.com/hc/en-us/articles/360056707972-Beware-of-investment-scams](https://support.kraken.com/hc/en-us/articles/360056707972-Beware-of-investment-scams)
+**What are Rug Pulls**
 
-**Computer malware scams:**                                                                                                                                                                                                                                                                                                                                                                                                      [https://support.kraken.com/hc/en-us/articles/360057212951-Beware-of-computer-malware](https://support.kraken.com/hc/en-us/articles/360057212951-Beware-of-computer-malware)
+****[https://www.ledger.com/academy/what-is-a-rug-pull](https://www.ledger.com/academy/what-is-a-rug-pull)
+
+A rug pull is a type of exit scam where a project's creators suddenly withdraw all of the funds from the project, leaving investors with nothing. Ledger Academy's guide covers what rug pulls are and how to protect yourself from them.
+
+#### Crypto Scams
+
+In this section, you will find six examples of common scams in the cryptocurrency world and how to best avoid them. Please note that this is not an exhaustive list, and as a participant in the crypto market, you may encounter other types of scams.
+
+**Imposter Scams**
+
+[https://support.kraken.com/hc/en-us/articles/4660909653908-Impostor-scams](https://support.kraken.com/hc/en-us/articles/4660909653908-Impostor-scams)&#x20;
+
+Imposter scams occur when scammers pretend to be a legitimate entity, such as a well-known cryptocurrency exchange or a celebrity, in order to trick you into sending them money or personal information. Kraken's guide covers how to identify and avoid imposter scams.
+
+**Phishing Scams**
+
+****[https://support.kraken.com/hc/en-us/articles/115012482687-Beware-of-phishing-scams](https://support.kraken.com/hc/en-us/articles/115012482687-Beware-of-phishing-scams)
+
+Phishing scams are attempts by scammers to trick you into giving them your personal information or login credentials by pretending to be a legitimate entity, such as a bank or a cryptocurrency exchange. Kraken's guide covers how to recognize and avoid phishing scams.
+
+**Phone Scams**
+
+****[https://support.kraken.com/hc/en-us/articles/115012482487-Beware-of-phone-scams](https://support.kraken.com/hc/en-us/articles/115012482487-Beware-of-phone-scams)
+
+Phone scams are attempts by scammers to trick you into giving them personal information or money over the phone. Kraken's guide covers how to recognize and avoid phone scams.
+
+**Crypto Giveaway Scams**
+
+****[https://support.kraken.com/hc/en-us/articles/360057159411-Beware-of-crypto-giveaway-scams](https://support.kraken.com/hc/en-us/articles/360057159411-Beware-of-crypto-giveaway-scams)
+
+Crypto giveaway scams are attempts by scammers to trick you into sending them money or personal information by claiming to be giving away free cryptocurrency. Kraken's guide covers how to recognize and avoid crypto giveaway scams.
+
+**Different Investment Scams**
+
+****[https://support.kraken.com/hc/en-us/articles/360056707972-Beware-of-investment-scams](https://support.kraken.com/hc/en-us/articles/360056707972-Beware-of-investment-scams)
+
+There are many different types of investment scams in the crypto world, including Ponzi schemes, pyramid schemes, and more. Kraken's guide covers how to recognize and avoid different types of investment scams.
+
+**Computer Malware Scams**
+
+****[https://support.kraken.com/hc/en-us/articles/360057212951-Beware-of-computer-malware](https://support.kraken.com/hc/en-us/articles/360057212951-Beware-of-computer-malware)
+
+Computer malware scams are attempts by scammers to trick you into installing malware on your computer, which can be used to steal your personal information or login credentials. Kraken's guide covers how to recognize and avoid computer malware scams.
 
