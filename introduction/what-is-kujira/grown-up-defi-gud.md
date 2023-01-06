@@ -8,7 +8,7 @@ description: The next evolution of decentralized finance
 
 At Kujira, we believe that DeFi can be a respected and aboveboard part of the financial system, and we are committed to building technologies that revolutionize the way the world thinks about finance.
 
-But we also believe that DeFi needs to mature in order to realize its full potential. That's why we have adopted a set of principles that guide our approach to building GUD:
+But we also believe that DeFi needs to mature in order to realize its full potential. That is why we have adopted a set of principles that guide our approach to building GUD:
 
 * Decentralized finance can and should be ethical. We will not advertise large, unrealistic, unsustainable yields, and we will always be transparent about our practices.
 * We will never embrace endlessly inflationary governance tokens that do not derive underlying value from revenue generation. We believe that DeFi needs a rigorous foundation that will not crumble even as leverage is wiped out of the system.
