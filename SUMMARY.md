@@ -19,7 +19,7 @@
 * [🐳 Wider Ecosystem](kujira-ecosystem/wider-ecosystem.md)
 * [🎟 How to Participate](kujira-ecosystem/how-to-participate.md)
 * [💰 Moving Funds to Kujira](kujira-ecosystem/how-to-deposit-assets-into-the-ecosystem.md)
-* [🚢 Shipping Lane](kujira-ecosystem/shipping-lane.md)
+* [🚢 Shipping Lane                                                \`](kujira-ecosystem/shipping-lane.md)
 * [🔐 Security](kujira-ecosystem/security.md)
 * [🎦 Media Coverage](kujira-ecosystem/media-coverage.md)
 * [🔗 Links](kujira-ecosystem/links.md)
