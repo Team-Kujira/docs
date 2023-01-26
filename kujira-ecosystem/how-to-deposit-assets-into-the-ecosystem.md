@@ -44,6 +44,10 @@ If you held KUJI tokens on Terra Classic and held them during the snapshot (13th
 
 Experienced users with funds already in DeFi
 
+### Gravity Bridging
+
+The Gravity Bridge is a purpose-built, fully decentralized, trustless blockchain which bridges assets between the Ethereum and Cosmos ecosystems. Ethereum and EVM compatible tokens can be transferred across the Gravity Bridge to a Cosmos wallet and then onto other Cosmos wallets or DEXs (such as FIN or Gravity DEX). Cosmos SDK based blockchains can similarly send tokens across Gravity Bridge to the Ethereum ecosystem, making them available for transfer or potentially trading on Uniswap or other ETH DEXs. [https://bridge.blockscape.network/](https://bridge.blockscape.network/)
+
 ### Axelar Bridging
 
 The Axelar Bridge is a decentralized network that enables cross-chain communication and asset transfers between different blockchain networks. It utilizes Gateway smart contracts, validators, and relayer servers to facilitate cross-chain transactions and pass messages between chains. The Axelar Bridge aims to provide a secure and efficient way for users to access a wider range of assets and utilize the benefits of the Axelar network, including low fees and improved trade execution. [https://satellite.money/](https://satellite.money/)

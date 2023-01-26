@@ -4,7 +4,7 @@ description: >-
   technology
 ---
 
-# 🧑🏫 🧑🏫  Kujira Academy
+# 🧑🏫 🧑🏫 Kujira Academy
 
 Welcome to Kujira Academy, where our goal is to make blockchain technology accessible to everyone. We understand that navigating the world of decentralized finance (DeFi) can be overwhelming, which is why we've created Kujira Academy as a resource for learning about all things DeFi.
 
@@ -400,4 +400,4 @@ This article explains the differences between three metrics used to describe the
 
 ## Moving Forward
 
-As the Kujira ecosystem grows, we will continue to add new articles and guides on various DeFi and payment concepts that are relevant to the platform. These articles will cover a range of topics, including strategies for leveraging the most out of the Kujira ecosystem, as well as important concepts related to investing in cryptocurrency and projects on the Kujira platform.
+As the Kujira ecosystem expands, we plan to publish additional articles and guides on various DeFi and payment concepts that are relevant to our platform. These resources will cover a wide range of topics, including strategies for maximizing the benefits of the Kujira ecosystem and key concepts related to investing in cryptocurrency and projects on our platform.
