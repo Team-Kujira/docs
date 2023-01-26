@@ -58,7 +58,7 @@ The Axelar Bridge subtab allows anyone to bridge native assets from all integrat
 
 #### Gravity Bridge
 
-The Gravity Bridge subtab is a simple interface with two main functions. First, users can bridge supported assets (KUJI, USK, PAXG) from Ethereum into Kujira using the Gravity Bridge. Second, users can bridge supported assets (KUJI, USK, gPAXG) from the Gravity Bridge to Ethereum. This can be accomplished by using the Cosmos IBC Transfer tab to send a supported asset to the Gravity Bridge blockchain and then using the Gravity Bridge interface to bridge the asset over to Ethereum.
+The Gravity Bridge subtab is a simple interface with two main functions. First, users can bridge supported assets (KUJI, USK, PAXG) from Ethereum into Kujira using the Gravity Bridge. Second, users can bridge supported assets (KUJI, USK, gPAXG) from the Gravity Bridge to Ethereum. This can be accomplished by using the Cosmos IBC Transfer tab to send a supported asset to the Gravity Bridge blockchain and then using the Gravity Bridge interface on BLUE to bridge the asset over to Ethereum.
 
 #### Nomic Bridge
 
