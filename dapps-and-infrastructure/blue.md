@@ -48,6 +48,22 @@ This tab is a lite interface for performing a simple swap between any tokens. Th
 
 The IBC (Inter-Blockchain Communication) / Bridge tab is where you can connect to other networks and transfer assets between them.
 
+#### Cosmos IBC Transfer
+
+This subtab allows anyone to bridge assets over from any Cosmos blockchain to Kujira or vice-versa using IBC almost instantly.
+
+#### Axelar Bridge
+
+The Axelar Bridge subtab allows anyone to bridge native assets from all integrated blockchains (including Ethereum, BNB, Polygon, Avalanche, Moonbeam, etc.) to Kujira as Axelar wrapped assets via a simple interface.&#x20;
+
+#### Gravity Bridge
+
+The Gravity Bridge subtab is a simple interface with two main functions. First, users can bridge supported assets (KUJI, USK, PAXG) from Ethereum into Kujira using the Gravity Bridge. Second, users can bridge supported assets (KUJI, USK, gPAXG) from the Gravity Bridge to Ethereum. This can be accomplished by using the Cosmos IBC Transfer tab to send a supported asset to the Gravity Bridge blockchain and then using the Gravity Bridge interface to bridge the asset over to Ethereum.
+
+#### Nomic Bridge
+
+The Nomic Bridge subtab is a simple interface which allows Nomic Bitcoin (nBTC) to be bridged from the Nomic blockchain to Kujira. (This is currently only available on Testnet.)&#x20;
+
 ### Mint
 
 The Mint tab is where you can mint [USK](usk-stablecoin.md), which is a stablecoin pegged to the value of the US dollar.
