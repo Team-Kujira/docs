@@ -6,7 +6,7 @@ description: Kujira Ecosystem Dashboard
 
 ## [https://blue.kujira.app/](https://blue.kujira.app/)&#x20;
 
-BLUE is your all-in-one dashboard for the Kujira ecosystem. Here, you can bond [KUJI,](../tokenomics/kuji-token/) vote on governance, swap KUJI, bridge to the Kujira network, and claim rewards. This is the hub of the Kujira protocol, where you can shape its future through governance and earn a portion of Kujira's revenue by staking KUJI.
+BLUE is your all-in-one dashboard for the Kujira ecosystem. Here, you can bond [KUJI,](../../tokenomics/kuji-token/) vote on governance, swap KUJI, bridge to the Kujira network, and claim rewards. This is the hub of the Kujira protocol, where you can shape its future through governance and earn a portion of Kujira's revenue by staking KUJI.
 
 ## Dashboard
 
@@ -42,7 +42,7 @@ The wallet tab has several useful features, including the ability to:
 
 ### Swap
 
-This tab is a lite interface for performing a simple swap between any tokens. This is accomplished by placing [FIN](fin/) market orders behind the scenes. Swaps are currently limited to [FIN](fin/) market pairs. To trade between two assets without a direct [FIN](fin/) pair, you can first trade for [USK](usk-stablecoin.md) or axlUSDC as necessary, depending on the target asset using the BLUE swap UI. At most, you may need to make up to 3 trades.
+This tab is a lite interface for performing a simple swap between any tokens. This is accomplished by placing [FIN](../fin/) market orders behind the scenes. Swaps are currently limited to [FIN](../fin/) market pairs. To trade between two assets without a direct [FIN](../fin/) pair, you can first trade for [USK](../usk-stablecoin.md) or axlUSDC as necessary, depending on the target asset using the BLUE swap UI. At most, you may need to make up to 3 trades.
 
 ### IBC / Bridge
 
@@ -66,7 +66,7 @@ The Nomic Bridge subtab is a simple interface which allows Nomic Bitcoin (nBTC) 
 
 ### Mint
 
-The Mint tab is where you can mint [USK](usk-stablecoin.md), which is a stablecoin pegged to the value of the US dollar.
+The Mint tab is where you can mint [USK](../usk-stablecoin.md), which is a stablecoin pegged to the value of the US dollar.
 
 ### Stake
 
