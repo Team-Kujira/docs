@@ -22,6 +22,6 @@ Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, 
 
 Jan [@JPTG119](https://twitter.com/JPTG119) | Responsible for media and marketing at Kujira
 
-Kuji Peruggi [@KujiPeruggi](https://twitter.com/KujiPeruggi) | Creates high quality written content for Kujira
+KP [@KPeruggi](https://twitter.com/KujiPeruggi)| Creates high quality written content for Kujira
 
 Tnut [@Teeznutz11](https://twitter.com/Teeznutz11) | Biz dev involved in something special TBA later on                                                       &#x20;
