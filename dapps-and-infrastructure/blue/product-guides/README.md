@@ -24,7 +24,7 @@ description: >-
 
 [how-to-unstake-kuji.md](how-to-unstake-kuji.md "mention")
 
-[how-to-check-the-status-of-governance-proposals-and-or-vote..md](how-to-check-the-status-of-governance-proposals-and-or-vote..md "mention")
+[how-to-check-the-status-of-governance-proposals-and-or-vote.md](how-to-check-the-status-of-governance-proposals-and-or-vote.md "mention")
 
 [how-to-nominate-a-candidate-for-the-senate.md](how-to-nominate-a-candidate-for-the-senate.md "mention")
 

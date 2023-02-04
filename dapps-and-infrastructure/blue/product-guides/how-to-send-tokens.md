@@ -18,7 +18,7 @@ description: Follow these steps to Send tokens from your wallet to a Kujira addr
 * If you would like to send tokens to more than one recipient, click + add recipient
 * Otherwise, next enter a wallet address you would like to send those tokens to
 * Then enter the token send amount limited by the token balance
-* Finally, if you’d like the sent tokens to vest over time–they must be sent to an empty clean wallet with no past transaction history–you would select the vesting end time by choosing a year, month, day, hour, and minute based on your local time.
+* Finally, if you’d like the sent tokens to vest over time–they must be sent to an empty wallet with no past transaction history. You would select the vesting end time by choosing a year, month, day, hour, and minute based on your local time.
 * Otherwise simply leave the vesting field blank and click the rectangular BLUE box at the bottom right that says Send “ ” Tokens
 
 <figure><img src="https://lh3.googleusercontent.com/hnmBPP_aTr09D7VSZ1HtqIgExHqM_iHCgQBJLlU5SmD5VnJbHf35HfVoeQDjSYf2sHtyGEQkQ8eS7GdZ96kIjCUaqv_35M5USq0ELaPUIEz5aXS_XkwVLualmDAz-SJ_66Pw7ixNE4aHygqqCdmUPK4" alt=""><figcaption></figcaption></figure>

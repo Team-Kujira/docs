@@ -22,7 +22,7 @@ description: >-
 <figure><img src="https://lh3.googleusercontent.com/3vMRTLDu_swJZ7yfcPVsSXac5tFcE3GbK94he6iJ7FJyrAjXwdqWIsrcT1IBojgAD81jv9vSNhT60tLOzWOmbWnHpYCxW5JJ5XnbDQxIsT7izgUn7KbDWCU3hQNZWpSJdID-JCPL-_isSaN2DbeaTws" alt=""><figcaption></figcaption></figure>
 
 * Select the BLUE ‘Redelegate’ button, enter an amount of KUJI that you would like to redelegate away to another validator.
-* Next, enter the name of the validator that you would like to redelegate to (stake with instead). You must type in at least 3 letters before a submenu of chooseable validators with corresponding names will appear. Select the corresponding validator.
+* Next, enter the name of the validator that you would like to redelegate to (stake with instead). You must type in at least 3 letters before a submenu of chooseable validators with corresponding names will appear. Select the validator you are looking for.
 
 \
 

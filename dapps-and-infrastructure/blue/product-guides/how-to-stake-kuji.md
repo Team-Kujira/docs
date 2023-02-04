@@ -21,7 +21,7 @@ description: This guide will teach you how to stake KUJI on BLUE.
 
 <figure><img src="https://lh5.googleusercontent.com/f_UwbZCsPvhtsQibe-BT2iIzOZCctu02muaCagWaZpRRE542BN3iMv8rFa_OTA4BTyGijh3EuZgT-gviKsvHGoEeqeZH3L7UHplg2lxyYARrBgqmF5ZUMGKkOhKe3VqqtjbvdZExLlOUkckDbNlKHLY" alt=""><figcaption></figcaption></figure>
 
-* If you are comfortable with your choices, select the gray ‘Confirm’ button and pay gas fees to finish staking your KUJI. (This will also automatically claim any previously unclaimed staking rewards).
+* Once you are satisfied with your selection, select the gray ‘Confirm’ button and pay gas fees to finish staking your KUJI. (This will also automatically claim any previously unclaimed staking rewards).
 * If you are unsatisfied with the validator selection and would like to select validators to stake with manually, navigate to the top middle and select ‘Cancel Selection’. Next, click on any individual validator of interest.&#x20;
 
 <figure><img src="https://lh3.googleusercontent.com/oQ3w8c7vbvUgp0h_WLGGnU0WCEbmQXoiwaiqqq7Bptye-xqlrjx-SqtRHPSZfry0i9CDwH-rLZaTClOkbB4Bvs9QFUmQuTBn8MGDBzmdpBLWKqdyS6Gv_aegjdQd8qP15WvbGGyJT-e58CxpB0DZvTg" alt=""><figcaption></figcaption></figure>

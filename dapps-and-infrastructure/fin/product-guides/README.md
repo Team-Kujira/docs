@@ -6,7 +6,7 @@ description: >-
 
 # Product Guides
 
-[how-to-buy-kuji-using-axlusd.md](how-to-buy-kuji-using-axlusd.md "mention")
+[how-to-buy-kuji-using-axlusdc.md](how-to-buy-kuji-using-axlusdc.md "mention")
 
 [how-to-sell-atom-for-usk.md](how-to-sell-atom-for-usk.md "mention")
 

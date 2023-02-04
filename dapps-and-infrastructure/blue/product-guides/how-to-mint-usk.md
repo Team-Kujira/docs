@@ -20,4 +20,4 @@ description: Follow these steps to mint USK using different type of collateral o
 <figure><img src="https://lh5.googleusercontent.com/t6BK9O2StELCwX4-je-56T21KGB5G1d55LLq1mQ1tCdsCztnvggnam_0XWl14LXt9J1W7M7AENFjKbsjTBTR5YqmI5t5DHEQW8OtdIqIO0fujA0vumKH8BNZDHgfdTkH3sDjjs_gWlAm0VibpqE1d5g" alt=""><figcaption></figcaption></figure>
 
 * To the right, a New LTV (loan-to-value threshold), total amount of USK currently borrowed (minted), and a liquidation price for the asset you’re supplying as collateral. The supplied collateral will be liquidated if it drops below the stated liquidation price. The current value of the asset is displayed higher up under ‘Collateral Price’. Furthermore, a mint fee as well as the current interest rate are displayed as well.
-* Finally, if you are comfortable with all the conditions, select the BLUE ‘Open Position’ button and pay gas fees to complete the mint process.
+* Finally, if you are comfortable with the setup, select the BLUE ‘Open Position’ button and pay gas fees to complete the mint process.

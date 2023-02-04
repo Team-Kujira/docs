@@ -1,8 +1,8 @@
-# How to Buy KUJI using axlUSD
+# How to Buy KUJI Using axlUSDC
 
 * Navigate to [fin.kujira.ap](https://fin.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)
-* Select the first pair in the list: it says Kuji axlUSDC
+* Select the first pair in the list: it says KUJI / axlUSDC
 
 <figure><img src="https://lh5.googleusercontent.com/PC20fBsrmQrO-Mj2QAzbHXPP2Ub586uP6UCMht4PheCmuHg6dXeWdJDSD16WA0YL7lmueZ1tXgDF6sYoeE0bQuKyqpyV3Uo3wO1PRliLPCVJ9U1LXzBvZ8QxMvI78TiGi1V4hCQreztyKuX9qXotv9A" alt=""><figcaption></figcaption></figure>
 

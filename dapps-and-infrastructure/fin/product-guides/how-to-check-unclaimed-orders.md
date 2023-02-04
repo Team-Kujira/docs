@@ -4,7 +4,7 @@ description: >-
   been filled.
 ---
 
-# How to check Unclaimed orders
+# How to Check Unclaimed Orders
 
 * Navigate to [fin.kujira.app](https://fin.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)
@@ -13,8 +13,8 @@ description: >-
 
 <figure><img src="https://lh4.googleusercontent.com/E8sNVyfdvDcFKuR2dNBXqk9UOO6yU7GfXu6Ewn1hz3qTmocFvwM2C_xYcF6lAsFTRQ_iQk03zmw9mWcGy87aOLWyh3erhb-vCAcnxfvMDJ6jGOjq6VL2YcG2g6cJByntDBJq4TOBCHx24dQOlP500Lo" alt=""><figcaption></figcaption></figure>
 
-* Click on the pair to open the market and check under Filled Order Tabs to see your pending orders.
+* Click on the pair to open the market and check under Filled Order Tabs to see your pending orders
 
 <figure><img src="https://lh3.googleusercontent.com/O0kVYTsnWgM1ETwlp8GgRd7jZXI2_XjUSYGgcRohEj51PsD0Se-CQId0_hxb6ozX1U4cf5p-GYGZ3YLL5EYFNcBJNozdat6kvAuqhK7lvmQgUFShE422tupfuAQ8PEbhcbfrYfMQ2NsaV7FFocPmHjo" alt=""><figcaption></figcaption></figure>
 
-* Click the “Claim” button and confirm the transaction.
+* Click the “Claim” button and confirm the transaction. Then pay gas fees to finish the process
