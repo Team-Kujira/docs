@@ -16,11 +16,8 @@ BOW uses an internal algorithm to automatically place orders on FIN pairs based 
 
 ## Using BOW
 
-To use BOW, connect your wallet to the Pools tab and top up on the Swap tab if necessary. Choose the pool you'd like to participate in, deposit the desired amount of tokens, and create LP tokens. Holding LP tokens earns you a share of the fees from transactions using that pair, which can be further increased by staking the LP tokens on the Stake tab.
+To use BOW, connect your wallet to the Pools tab and top up on the Swap tab if necessary. Choose the pool you'd like to participate in, deposit the desired amount of tokens, and create liquidity provider (LP) tokens. Holding LP tokens earns you a share of the fees from transactions using that pair, which can be further increased by staking the LP tokens on the Stake tab.
 
 ## Benefits of BOW
 
 BOW offers several benefits to the ecosystem, including an on-chain solution for market making that doesn't rely on a third party and the ability to incentivize pool depth through fees and rewards. It also provides a stable and deep order book for traders, leading to higher volume and stability.
-
-[https://bow.kujira.app/](https://bow.kujira.app/).
--

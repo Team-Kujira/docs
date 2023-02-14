@@ -4,7 +4,7 @@ description: >-
   most common interactions with ORCA
 ---
 
-# Product Guides
+# 📖 Product Guides
 
 [how-to-bid-on-collateral.md](how-to-bid-on-collateral.md "mention")
 

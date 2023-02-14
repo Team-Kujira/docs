@@ -4,7 +4,7 @@ description: >-
   most common interactions with POD
 ---
 
-# Product Guides
+# 📖 Product Guides
 
 [how-to-stake-any-cosmos-layer-1-token.md](how-to-stake-any-cosmos-layer-1-token.md "mention")
 

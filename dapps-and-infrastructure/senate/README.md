@@ -22,6 +22,4 @@ The Kujira Senate aims to enhance decentralization by amplifying the voices of e
 
 The Kujira Senate will be implemented through two new smart contracts: a CW-4 "Group" contract and a CW-3 "Multisig" contract. The next steps for the Kujira Senate include building out the technical infrastructure and onboarding the first Senators. This marks the beginning of a new chapter in Kujira's governance structure.
 
-## [https://blue.kujira.app/senate](https://blue.kujira.app/senate)
-
 \

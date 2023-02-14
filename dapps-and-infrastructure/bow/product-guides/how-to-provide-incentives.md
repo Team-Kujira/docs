@@ -4,7 +4,7 @@ description: >-
   and can be followed on any pool to provide incentives.
 ---
 
-# How to Provide Incentives
+# 📰 How to Provide Incentives
 
 * Navigate to [bow.kujira.app](https://bow.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

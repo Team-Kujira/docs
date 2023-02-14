@@ -4,7 +4,7 @@ description: >-
   on DOT/USK pool. You can use these steps to check the schedule on any pool.
 ---
 
-# How to Check the Reward Schedule of a Pool
+# 📰 How to Check the Reward Schedule of a Pool
 
 * Navigate to [bow.kujira.app](https://bow.kujira.app/)
 * Click the Pools button on the top left

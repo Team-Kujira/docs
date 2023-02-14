@@ -13,5 +13,3 @@ Some key points about FINDER include:
 * Users can view saved addresses by clicking the bookmark button next to the search bar
 
 FINDER is a valuable tool for anyone using the Kujira Network, whether for mainnet or testnet purposes. It allows users to easily track and manage their addresses and transactions, making it an important part of the Kujira ecosystem.
-
-## [https://finder.kujira.app/](https://finder.kujira.app/kaiyo-1/)

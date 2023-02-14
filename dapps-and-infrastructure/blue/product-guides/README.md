@@ -4,7 +4,7 @@ description: >-
   most common interactions with BLUE
 ---
 
-# Product Guides
+# 📖 Product Guides
 
 [how-to-send-tokens.md](how-to-send-tokens.md "mention")
 

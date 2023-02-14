@@ -18,13 +18,13 @@ Kujira offers several key first-party products that allow users to participate i
 
 [FINDER](../dapps-and-infrastructure/finder/)
 
-[Kujira Senate](../dapps-and-infrastructure/senate.md)
+[Kujira Senate](../dapps-and-infrastructure/senate/)
 
 [POD](../dapps-and-infrastructure/pod/)
 
 [SONAR Wallet](../dapps-and-infrastructure/kujira-wallet.md)
 
-[USK Stablecoin](../dapps-and-infrastructure/usk-stablecoin.md)
+[USK Stablecoin](../dapps-and-infrastructure/usk-stablecoin/)
 
 ###
 

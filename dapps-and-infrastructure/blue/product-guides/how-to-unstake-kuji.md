@@ -4,7 +4,7 @@ description: >-
   weeks to complete and you will not receive rewards during the process.
 ---
 
-# How to Unstake KUJI
+# 📰 How to Unstake KUJI
 
 * Navigate to [blue.kujira.app/stake](https://blue.kujira.app/stake)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

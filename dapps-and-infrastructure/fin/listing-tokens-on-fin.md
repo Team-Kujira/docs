@@ -1,6 +1,6 @@
 # 📋 Listing tokens on FIN
 
-FIN offers a user interface at https://fin.kujira.app/listing that allows community members to propose the launch of a new token pair on the FIN platform. In order to use this feature, you must have a Sonar or Keplr wallet and be connected.
+FIN offers a user interface at [https://fin.kujira.app/listing](https://fin.kujira.app/listing) that allows community members to propose the launch of a new token pair on the FIN platform. In order to use this feature, you must have a Sonar or Keplr wallet and be connected.
 
 To create a proposal, you will need to select a base asset and a quote asset for the proposed token pair. The base asset is the asset that is being traded, while the quote asset is the asset being used to price the base asset. For example, if the base asset is KUJI and the quote asset is USK, then the price of KUJI would be quoted in USK.
 

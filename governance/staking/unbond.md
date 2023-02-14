@@ -6,7 +6,7 @@ This delay helps secure and protect the Kujira network by aligning stakers' gove
 
 This can be done by navigating to a validator that you have staked with, selecting that validator, and then clicking the unstake button.
 
-&#x20;![](<../../.gitbook/assets/image (4).png>)
+&#x20;![](<../../.gitbook/assets/image (4) (1).png>)
 
 Next, simply enter an amount of KUJI tokens to unstake and click the blue Unstake KUJI button at the bottom to initiate the unstake process.&#x20;
 

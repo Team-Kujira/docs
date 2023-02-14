@@ -4,7 +4,7 @@ description: >-
   most common interactions with FIN
 ---
 
-# Product Guides
+# 📖 Product Guides
 
 [how-to-buy-kuji-using-axlusdc.md](how-to-buy-kuji-using-axlusdc.md "mention")
 

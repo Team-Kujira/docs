@@ -4,7 +4,7 @@ description: >-
   determined pair on FIN.
 ---
 
-# How to Look at Your History
+# 📰 How to Look at Your History
 
 * Navigate to [fin.kujira.app](https://fin.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar). Make sure this wallet corresponds to the account you used to perform certain trades on FIN

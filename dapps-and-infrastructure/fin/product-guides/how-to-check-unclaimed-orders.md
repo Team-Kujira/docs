@@ -4,7 +4,7 @@ description: >-
   been filled.
 ---
 
-# How to Check Unclaimed Orders
+# 📰 How to Check Unclaimed Orders
 
 * Navigate to [fin.kujira.app](https://fin.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

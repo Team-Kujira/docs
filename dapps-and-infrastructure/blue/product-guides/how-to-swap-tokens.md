@@ -2,7 +2,7 @@
 description: Follow these steps to Swap tokens using the BLUE swap interface.
 ---
 
-# How to Swap tokens
+# 📰 How to Swap tokens
 
 * Navigate to [blue.kujira.app/swap](https://blue.kujira.app/swap)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)\

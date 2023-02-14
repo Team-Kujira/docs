@@ -1,6 +1,6 @@
 # 🥇 Staking Tiers and Symbols on BLUE, FIN, and ORCA
 
-If you are a user of Kujira's BLUE, FIN, or ORCA apps, you may have noticed some symbols located at the top right corner of each app. <img src="../../.gitbook/assets/image (10).png" alt="" data-size="line">&#x20;
+If you are a user of Kujira's BLUE, FIN, or ORCA apps, you may have noticed some symbols located at the top right corner of each app. <img src="../../.gitbook/assets/image (10) (1).png" alt="" data-size="line">&#x20;
 
 These symbols are tied to the amount of KUJI that a user has staked across all Kujira validators on the mainnet. Specifically, the symbols will light up as follows:
 

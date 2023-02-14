@@ -4,7 +4,7 @@ description: >-
   BOW.
 ---
 
-# How to View LP positions
+# 📰 How to View LP positions
 
 * Navigate to [bow.kujira.app](https://bow.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

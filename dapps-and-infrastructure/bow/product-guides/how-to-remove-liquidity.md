@@ -2,7 +2,7 @@
 description: Follow these steps to check remove liquidity from a pool on BOW.
 ---
 
-# How to Remove Liquidity
+# 📰 How to Remove Liquidity
 
 * Navigate to [bow.kujira.app](https://bow.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

@@ -4,7 +4,7 @@ description: >-
   candidates.
 ---
 
-# How to view information on Senate candidates
+# 📰 How to View Information on Senate Candidates
 
 * Navigate to [blue.kujira.app/senate](https://blue.kujira.app/senate)
 * Click the green underlined text ‘here’ to see a detailed Medium article on all the Senate candidates based on their submitted applications

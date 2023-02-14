@@ -71,7 +71,7 @@ Alternatively, you can deposit USDC directly from a centralized exchange (CEX) i
 
 ### Nomic Bridging
 
-The nomic bridge is a design for a Bitcoin sidechain that enables decentralized networks to manage reserves of Bitcoin and use custom application code and smart contracts. It uses the Tendermint consensus protocol and timestamps the sidechain on the Bitcoin blockchain for security and BFT finality. It also includes mechanisms to prevent loss of funds and disincentivize malicious behavior.
+The Nomic bridge is a design for a Bitcoin sidechain that enables decentralized networks to manage reserves of Bitcoin and use custom application code and smart contracts. It uses the Tendermint consensus protocol and timestamps the sidechain on the Bitcoin blockchain for security and BFT finality. It also includes mechanisms to prevent loss of funds and disincentivize malicious behavior.
 
 ### IBC Bridging
 
