@@ -12,7 +12,7 @@ Open orders are limit orders (market orders fill instantly so they are never ope
 
 Each open order for a trading pair comes with the following associated information: the date when the order was first placed in local time, the associated trading pair, whether the order is a buy or a sell, the price of the [base asset](./#fin-trading-pair-notation) in terms of the [quote asset](./#fin-trading-pair-notation), the amount of the base asset initially supplied or demanded with the limit order, the amount of the base asset already filled from the limit order, and the remaining amount of the base asset still to be filled from the limit order.
 
-&#x20;                                        ![](<../../../.gitbook/assets/image (36).png>)
+&#x20;                                        ![](<../../../.gitbook/assets/image (34).png>)
 
 Open orders can be sorted by each information type by tapping or clicking on the top of each category. Tapping or clicking it more times will alternate the open orders listed between ascending and descending order.
 
@@ -26,7 +26,7 @@ For the sake of maximum convenience for users, trading pairs with unclaimed fill
 
 Much like open orders, each filled order for a trading pair comes with the following associated information: the date when the order was first placed in local time, the associated trading pair, whether the order is a buy or a sell, the amount of the base asset initially supplied or demanded by the order, the price of the [base](./#fin-trading-pair-notation)[ asset](./#fin-trading-pair-notation) in terms of the [quote](./#fin-trading-pair-notation)[ asset](./#fin-trading-pair-notation), the percentage of the base asset already filled from the total amount specified by the order, and the amount of the base asset currently filled that is available to claim from FIN into the user's wallet.
 
-&#x20;                                         ![](<../../../.gitbook/assets/image (37).png>)
+&#x20;                                         ![](<../../../.gitbook/assets/image (5).png>)
 
 Filled orders can be sorted by each information type by tapping or clicking on the top of each category. Tapping or clicking it more times will alternate the open orders listed between ascending and descending order.
 
@@ -36,7 +36,7 @@ Furthermore, filled orders can be claimed at any time (although any unfilled par
 
 This tab in the FIN personal order activity user interface contains detailed information for all past market orders and claimed limit orders uniquely specific to each FIN trading pair.
 
-&#x20;                                            ![](<../../../.gitbook/assets/image (11).png>)
+&#x20;                                            ![](<../../../.gitbook/assets/image (23).png>)
 
 The history tab contains the order # (out of FIN's total transactions, which # transaction was it), the date using local time, the price the asset was purchased or sold at, the amount of the [base asset](./#fin-trading-pair-notation) and [quote asset](./#fin-trading-pair-notation) exchanged, the specific action taken (submitting an order or claiming an order), and a link to the the associated transaction on [FINDER](../../finder/) to verify all the involved specifics.
 

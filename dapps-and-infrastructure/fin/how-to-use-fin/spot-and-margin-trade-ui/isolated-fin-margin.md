@@ -2,7 +2,7 @@
 
 ## Overview
 
-Isolated FIN Margin is a type of margin product that allows leverage trading of up to 2.5X on certain FIN trading pairs. All compatible FIN pairs have a 2.5X logo:<img src="../../../../.gitbook/assets/image (41).png" alt="" data-size="line">
+Isolated FIN Margin is a type of margin product that allows leverage trading of up to 2.5X on certain FIN trading pairs. All compatible FIN pairs have a 2.5X logo:<img src="../../../../.gitbook/assets/image (4).png" alt="" data-size="line">
 
 Margin is allowed on most [USK](../../../usk-stablecoin.md) collateral types when paired with USK on FIN. Currently margin is only unavailable for gPAXG (Paxos Gold bridged over to Kujira using [Gravity Bridge](../../../../kujira-ecosystem/how-to-deposit-assets-into-the-ecosystem.md#gravity-bridging)). All margin liquidations are handled by ORCA. Read more specifics about how this process works [here](../../../orca/basics/lending-markets/usk-lending-markets/isolated-fin-margin.md#liquidation-mechanism).
 
@@ -16,11 +16,11 @@ It is advisable to acquire knowledge about hedging and risk management. Even wit
 
 To use isolated margin on a suitable FIN trading pair, first navigate to the 'Isolated Margin tab:
 
-&#x20;                                     ![](<../../../../.gitbook/assets/image (17).png>)
+&#x20;                                     ![](<../../../../.gitbook/assets/image (35).png>)
 
 To create a FIN margin position, first navigate to a FIN trading pair that has isolated margin trading available. Next, select an amount of USK to leverage and a leverage factor to use to gain exposure to a corresponding amount of the [base asset](../price-chart-and-charting-tools.md#fin-price-charts) equal to the product of the current asset pair exchange rate, the USK amount, and the selected leverage factor for as long as the margin position is open.
 
-&#x20;                                        ![](<../../../../.gitbook/assets/image (35).png>)
+&#x20;                                        ![](<../../../../.gitbook/assets/image (29).png>)
 
 A projected daily interest rate, the current base asset oracle price, the projected base asset entry price, as well as the margin position liquidation price are all displayed as part of the trading UI and can be examined in detail before deciding to open the long position.
 

@@ -10,7 +10,7 @@ All FIN pairs allow spot trading and use a simple fee structure. FIN charges dif
 
 FIN pairs without isolated margin trading typically have a UI split between limit and market orders.
 
-&#x20;                                 ![](<../../../../.gitbook/assets/image (22).png>)
+&#x20;                                 ![](<../../../../.gitbook/assets/image (1).png>)
 
 ### Placing Orders
 
@@ -26,7 +26,7 @@ Upon selecting a FIN trading pair, the FIN trade UI defaults to the spot limit o
 
 &#x20;As a non-zero amount of [quote asset](../#fin-trading-pair-notation) to spend or [base asset](../#fin-trading-pair-notation) to sell is entered into the UI, corresponding information will be listed below: the total amount of the quote asset or base asset that is available in a user's wallet to spend on a trade, the estimated amount of acquired base asset or quote asset respectively after spending quote assets or selling base assets, the effective average exchange rate between the quote and base asset, total fees that would be spent, and estimated slippage. The UI also has a handy mechanism for automatically selecting 25%, 50%, 75%, or 100% of the relevant quote asset to spend or base asset to sell as part of the trade.&#x20;
 
-&#x20;                                             ![](<../../../../.gitbook/assets/image (19).png>)
+&#x20;                                             ![](<../../../../.gitbook/assets/image (18).png>)
 
 When performing a market order to spend quote assets (or sell base assets), corresponding FIN trading fees are always 0.15% taken off from what would have been the total purchased base assets (or received quote assets). This mechanism leverages the fact that FIN is an orderbook and that every trade on the platform needs to be made between two parties. Each party pays fees in terms of the asset they would have received.
 
