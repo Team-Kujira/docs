@@ -10,7 +10,7 @@ BOW helps create liquidity for FIN and is responsible for placing some of these 
 
 For heightened experience, FIN only displays limit orders sufficiently close to the current FIN market price to most closely reflect short-term trading pair demand or supply.
 
-&#x20;                                           ![](<../../../.gitbook/assets/image (23).png>)
+&#x20;                                           ![](<../../../.gitbook/assets/image (44).png>)
 
 There are 3 different orderbook views: the default buy and sell limit order views, with limit sells in red and limit buys in green; the second limit sell view, only showing red limit sells (showing more of the sell side of the orderbook); and the third limit buy view, only showing green limit buys (showing more of the buy side of the orderbook). The 3 different views have different uses to understand more extreme order predictions for short or long-term price changes, especially for large limit orders.
 
@@ -26,7 +26,7 @@ Recent FIN trading activity for a specific pair is also captured on the top righ
 
 Building on this understanding of maker/taker orders, it is easier to explain the details of the FIN recent trading activity UI. This UI only displays taker orders i.e. (market and limit) buys and sells that removed liquidity from the FIN orderbook. Buys are displayed in green text whereas sells are displayed in red text. Three additional pieces of data are stored for each recent taker order: the price of the base asset in terms of the quote asset; the amount of the base asset purchased or sold; and the _local_ time in hours, minutes, and seconds when the order was placed.&#x20;
 
-&#x20;                                             ![](<../../../.gitbook/assets/image (40).png>)
+&#x20;                                             ![](<../../../.gitbook/assets/image (46).png>)
 
 The recent trading activity shows the latest 25 FIN transactions, more transactions can be seen on external third parties such as Coinhall. Transaction history can give traders a better idea of orderbook flow over a period of time--especially in conjunction with recently released announcements or news.&#x20;
 

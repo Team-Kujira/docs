@@ -4,7 +4,7 @@
 
 Two important aspects of the FIN trading experience is the search tool and the selected view which can be found on the top left corner of the FIN UI. As FIN grows and hundreds of token pairs are onboarded over time, it would be difficult for users to find specific pairs, see new activity, or conveniently browse through their favorites. As such, we have given users two handy tools to make the FIN experience better for users and partner protocols alike.
 
-&#x20;                                               ![](<../../../.gitbook/assets/image (18).png>)
+&#x20;                                               ![](<../../../.gitbook/assets/image (45).png>)
 
 ## Search
 
@@ -40,6 +40,6 @@ This view is an exhaustive list of all FIN token pairs and can be used to discov
 
 The favorites view contains all favorited token pairs by a specific user for quick and easy access. To add or remove pairs from this view, simply navigate to any token pair on FIN from some other view and click on the black star with a gray border to the left of the pair on the UI. Favorited pairs will be filled in with gray. &#x20;
 
-&#x20;                                               ![](<../../../.gitbook/assets/image (20).png>)
+&#x20;                                               ![](<../../../.gitbook/assets/image (14).png>)
 
 Furthermore, for every trading pair, simply click on the silver BOW or gold CALC circles to directly navigate to the corresponding BOW liquidity pool or CALC UI that allows users to dollar cost average (DCA) into or out of the trading pair. &#x20;

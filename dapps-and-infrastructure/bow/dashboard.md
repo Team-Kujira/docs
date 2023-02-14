@@ -12,7 +12,7 @@ The BOW dashboard displays all active BOW liquidity provision (LP) token positio
 
 Additional information is displayed for each active pair like this:
 
-&#x20;                                     <img src="../../.gitbook/assets/image (30).png" alt="" data-size="original">
+&#x20;                                     <img src="../../.gitbook/assets/image (8).png" alt="" data-size="original">
 
 ### APR
 

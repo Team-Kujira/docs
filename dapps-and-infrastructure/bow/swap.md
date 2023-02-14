@@ -4,7 +4,7 @@
 
 ## Simple Token Swap User Interface
 
-The BOW 'Swap' tab (much like the BLUE 'Swap' tab) is a simple token swap user interface. Token swaps occur by placing [FIN](../fin/) market orders or fixed price limit orders behind the scenes. Swaps are currently limited to [FIN](../fin/) token pairs. To trade between two assets without a direct [FIN](../fin/) pair, you can first trade for [USK](../usk-stablecoin/) or axlUSDC as necessary, depending on the target asset, using the BOW swap UI. At most, you may need to make up to 3 trades.
+The BOW 'Swap' tab (much like the BLUE 'Swap' tab) is a simple token swap user interface. Token swaps occur by placing [FIN](../fin/) market orders or fixed price limit orders behind the scenes. Swaps are currently limited to [FIN](../fin/) token pairs. To trade between two assets without a direct [FIN](../fin/) pair, you can first trade for [USK](../usk-stablecoin.md) or axlUSDC as necessary, depending on the target asset, using the BOW swap UI. At most, you may need to make up to 3 trades.
 
 ## How to Swap Tokens
 

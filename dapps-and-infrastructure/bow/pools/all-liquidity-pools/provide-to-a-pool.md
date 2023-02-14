@@ -8,7 +8,7 @@ The 'provide' tab for each liquidity pool contains a user interface for providin
 
 This section of the 'Provide' tab contains a connected wallet's LP token balance for that particular liquidity pool as well as its current dollar value and breakdown into component provided assets. LP tokens are acquired by providing liquidity and converting each asset from the token pair into some amount of LP tokens. Remember to stake any unstaked LP tokens on the '[Stake](stake-lp-with-a-pool.md)' page to obtain incentives and maximize rewards!
 
-&#x20;                                              ![](<../../../../.gitbook/assets/image (26).png>)
+&#x20;                                              ![](<../../../../.gitbook/assets/image (43).png>)
 
 ## Deposit Liquidity
 
@@ -16,10 +16,10 @@ Use the deposit UI to provide liquidity to a specific BOW liquidity pool. Adding
 
 The number of LP tokens to be minted by depositing said liquidity are displayed further down in the deposit UI. Lower slippage reduces fees, but may take longer (or be impossible) to execute depending on circumstance.   &#x20;
 
-&#x20;                                     ![](<../../../../.gitbook/assets/image (17).png>)
+&#x20;                                     ![](<../../../../.gitbook/assets/image (9).png>)
 
 ## Withdraw Liquidity
 
 Use the withdraw UI to remove liquidity from a specific BOW liquidity pool. Withdrawing liquidity is immediate with no lock up. To withdraw LP tokens from a particular pool, simply enter an amount of LP tokens to withdraw. The estimated return upon converting those LP tokens back to their component assets is displayed further down in the UI.
 
-&#x20;                                     ![](<../../../../.gitbook/assets/image (34).png>)
+&#x20;                                     ![](<../../../../.gitbook/assets/image (38).png>)

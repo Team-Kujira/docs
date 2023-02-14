@@ -8,4 +8,4 @@ These delegations allow our genesis validators to generate extra revenue indefin
 
 It is important to note that, while most of our delegations have not been removed, we reserve the right to do so in extreme cases where a genesis validator fails to uphold their duties or acts in a way that goes against the values and interests of the Kujira community. This is a last resort and would only be used in the most serious of circumstances.
 
-As the Kujira chain matures, we may see new validators join the set. In the future, [the Kujira Senate](../dapps-and-infrastructure/senate/) will likely play a more central role in making decisions about delegations and other matters related to validators.
+As the Kujira chain matures, we may see new validators join the set. In the future, [the Kujira Senate](../dapps-and-infrastructure/senate.md) will likely play a more central role in making decisions about delegations and other matters related to validators.

@@ -14,6 +14,6 @@ Navigate to any of these more detailed pages to understand everything BLUE has t
 * [Wallet](wallet.md) (View token balances, send tokens, automatically convert small balances to KUJI)
 * [Swap](../bow/swap.md) (Simple token swap user interface)
 * [IBC / Bridge](ibc-bridge.md) (Transfer tokens from other blockchains to and from the Kujira blockchain)
-* [Mint](mint.md) (Mint [USK](../usk-stablecoin/), Kujira's native stablecoin, using acceptable collateral)
+* [Mint](mint.md) (Mint [USK](../usk-stablecoin.md), Kujira's native stablecoin, using acceptable collateral)
 * [Stake](stake.md) (Bond KUJI with validators to earn rewards and vote on governance proposals)
 * [Govern](govern.md) (Vote on governance proposals, review past proposals, track Kujira Senate activity)

@@ -1,2 +1,0 @@
-# 💹 USK Lending Markets
-

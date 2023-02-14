@@ -8,7 +8,7 @@ For the time being, Governance proposals can be assigned to two discrete categor
 
 ## Senate
 
-This tab has the 9 Kujira senators listed each with links to their keybase.io. It is also possible to nominate Senators on this tab. Furthermore, there is a [link](https://medium.com/team-kujira/kujira-governance-grows-up-ca8b7c87753b) to reading more about the role of the Senate. More up to date information can also be found in the Senate [section](../senate/) of the docs.
+This tab has the 9 Kujira senators listed each with links to their keybase.io. It is also possible to nominate Senators on this tab. Furthermore, there is a [link](https://medium.com/team-kujira/kujira-governance-grows-up-ca8b7c87753b) to reading more about the role of the Senate. More up to date information can also be found in the Senate [section](../senate.md) of the docs.
 
 On the right side of the page, there is a detailed breakdown of the Senate Treasury (Community Pool) in terms of every asset and the amount of each asset in the Treasury wallet as well as the current total dollar value of the fund. Furthermore, there is a link to the wallet address on FINDER on the bottom right for the sake of transparency.&#x20;
 

@@ -13,7 +13,7 @@ Kujira's USK stablecoin is a decentralized stablecoin that is soft-pegged to the
 * Mint USK by depositing collateral on the Kujira platform
 * Manage USK through the platform's dashboard
 * Maintain a low loan-to-value (LTV) ratio to avoid the risk of liquidation
-* In the event of a liquidation, collateral is put up for auction on [ORCA](../orca/)
+* In the event of a liquidation, collateral is put up for auction on [ORCA](orca/)
 * Users can bid on the collateral to help protect the stablecoin and obtain the collateral at a discount
 
 USK is designed to be sustainable, robust, and usable for payments and commerce. Its codebase is written in Rust, which is a more robust and expressive language than Solidity or JavaScript. Rust is also inherently built to be safer (bug-resistant) and is increasingly used for financial applications due to its level of safety guarantees. As a native Cosmos stablecoin, USK has the potential to drive value accrual for ATOM and can be used for other purposes in the future. It is integrated into the ORCA platform to allow for seamless and publicly accessible liquidations. The USK mechanism is intended to be sovereign, uncensorable, and revenue-generating, and it is intended to provide a secure and reliable foundation for decentralized finance.
@@ -31,4 +31,4 @@ Here's a more detailed breakdown describing USK mechanics:
 2. [USK minting and ORCA liquidation guide](https://medium.com/team-kujira/testnet-usk-minting-orca-liquidation-bids-4f1215e9677b)
 3. [Minting USK and managing your position](https://medium.com/team-kujira/team-kujira-minting-usk-and-managing-your-position-6ba405bf1301)
 
-Refer to the [transparency](transparency.md) article to see more information about tracking USK's mechanics and health in action!
+Refer to the [transparency](usk-stablecoin/transparency.md) article to see more information about tracking USK's mechanics and health in action!

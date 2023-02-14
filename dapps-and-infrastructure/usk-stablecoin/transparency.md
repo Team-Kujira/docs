@@ -16,7 +16,7 @@ In the meantime, [ORCA](../orca/) contains information about each USK liquidatio
 
 ## How to track USK liquidation backstop health
 
-By navigating to [ORCA](../orca/), each USK liquidation market can be analyzed in-depth for all collateral types. At any point in time, there is only some proportion of backing collateral (if any) actually at risk of liquidation to preserve USK's status of being 166% collaterized. The analytics tab shows two charts, 'The Cumulative Collateral by Risk Ratio' chart and the 'Collateral by Risk Ratio' chart which measure the amount of USK actually at risk of liquidation. The concept behind 'risk ratio' as well as other basic ORCA concepts are explained [here](../orca/basics.md).&#x20;
+By navigating to [ORCA](../orca/), each USK liquidation market can be analyzed in-depth for all collateral types. At any point in time, there is only some proportion of backing collateral (if any) actually at risk of liquidation to preserve USK's status of being 166% collaterized. The analytics tab shows two charts, 'The Cumulative Collateral by Risk Ratio' chart and the 'Collateral by Risk Ratio' chart which measure the amount of USK actually at risk of liquidation. The concept behind 'risk ratio' as well as other basic ORCA concepts are explained [here](../orca/basics/).&#x20;
 
 The 'Ratio of Pools to Locked Collateral value' gives us an idea of the ratio of funds locked in ORCA to liquidate USK backing collateral, but generally is healthy even at low numbers as long as a corresponding amount of backing collateral is at risk.&#x20;
 

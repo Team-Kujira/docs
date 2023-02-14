@@ -24,7 +24,7 @@ Furthermore, at present we have basic ORCA liquidation analytics available for a
 
 ## 1st Party Integrations
 
-FIN, ORCA, and USK all have co-integrations. USK relies on ORCA as a liquidation settlement layer. You can read more [here](../usk-stablecoin/). FIN will be using ORCA in the near future to support Kuijra Futures.
+FIN, ORCA, and USK all have co-integrations. USK relies on ORCA as a liquidation settlement layer. You can read more [here](../usk-stablecoin.md). FIN will be using ORCA in the near future to support Kuijra Futures.
 
 ## Audit
 

@@ -2,7 +2,7 @@
 
 ## Overview
 
-The Mint tab is where you can mint [USK](../usk-stablecoin/), which is a stablecoin pegged to the value of the US dollar, for a yearly 1% fee on all minted USK.
+The Mint tab is where you can mint [USK](../usk-stablecoin.md), which is a stablecoin pegged to the value of the US dollar, for a yearly 1% fee on all minted USK.
 
 ## Utility
 

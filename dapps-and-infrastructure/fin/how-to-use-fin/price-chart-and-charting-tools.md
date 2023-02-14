@@ -8,7 +8,7 @@ Another important aspect of the FIN experience is the price chart as well as FIN
 
 FIN price charts are similar to other trading view charts.
 
-&#x20;                                     ![](<../../../.gitbook/assets/image (27).png>)
+&#x20;                                     ![](<../../../.gitbook/assets/image (12).png>)
 
 Overall trading activity over the course of a selected time period (default of 1 hour) is summarized and represented either as a green or red bar depending on whether there was more buy or sell demand in aggregate over that selected time period. Price changes are reflected over time.
 
