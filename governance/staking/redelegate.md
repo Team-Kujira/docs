@@ -12,6 +12,6 @@ Redelegation occurs on [the staking page](https://blue.kujira.app/stake) within 
 
 Next search for a new validator that you would like to redelegate to as seen in the picture below&#x20;
 
-![](<../../.gitbook/assets/image (7) (1).png>)
+![](<../../.gitbook/assets/image (7).png>)
 
 Finally click Redelegate KUJI to finish the process.&#x20;

@@ -8,7 +8,7 @@ To build the Kujira of tomorrow, we need to attract the best builders around the
 
 The venture-builder program has two parts, with the first part being in-person. Nothing is quite like interacting in person, and we believe this will be a competitive advantage over other ecosystems. With this in mind, we have already begun looking for office space in Lisbon, Portugal -- the epicenter of crypto in Europe. As a builder, you will directly with the core Kujira team. We will be bringing in the best advisers and mentors from both the web2 and web3 worlds. More detailed information to come.&#x20;
 
-![](<../.gitbook/assets/image (2) (1).png>)
+![](<../.gitbook/assets/image (2) (1) (1).png>)
 
 Additionally, we are in the process of ironing out final details for our "virtual" accelerator program. Inspired by Near's "[Open Web Collective](https://www.openwebcollective.com)", Binance's "[Most Valuable Builders](https://www.bnbchain.org/en/bsc-mvb-program)" program and Polygon's "[PolygonLeap](https://www.polygonleap2021.com/)" program, we will be partnering with teams from all over the world who want to build on Kujira.
 

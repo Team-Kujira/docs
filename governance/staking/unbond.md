@@ -10,6 +10,6 @@ This can be done by navigating to a validator that you have staked with, selecti
 
 Next, simply enter an amount of KUJI tokens to unstake and click the blue Unstake KUJI button at the bottom to initiate the unstake process.&#x20;
 
-&#x20; ![](<../../.gitbook/assets/image (9) (1).png>)
+&#x20; ![](<../../.gitbook/assets/image (9).png>)
 
 While KUJI tokens are in the process of unstaking, no staking rewards are earned on them.&#x20;
