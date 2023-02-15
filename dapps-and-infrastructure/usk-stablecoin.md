@@ -1,7 +1,7 @@
 ---
 description: >-
   An over-collateralized Cosmos stablecoin soft-pegged to the USD and initially
-  backed by $ATOM, $DOT, $wBNB, & $wETH
+  backed by $ATOM, $DOT, $wBNB, $wETH, $gPAXG, and $LUNA
 ---
 
 # 🐎 USK Stablecoin
