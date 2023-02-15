@@ -106,7 +106,7 @@
     * [📰 How to Redelegate any Cosmos L1 Token](dapps-and-infrastructure/pod/product-guides/how-to-redelegate-any-cosmos-l1-token.md)
     * [📰 How to Unstake any Cosmos L1 Token](dapps-and-infrastructure/pod/product-guides/how-to-unstake-any-cosmos-l1-token.md)
 * [🗼 SENATE](dapps-and-infrastructure/senate.md)
-  * [🫂 Senate Members](dapps-and-infrastructure/senate/senate-members.md)
+  * [🫂 Senators](dapps-and-infrastructure/senate/senators.md)
   * [📜 Constitution](dapps-and-infrastructure/senate/constitution.md)
   * [🗝 Treasury](dapps-and-infrastructure/senate/treasury.md)
   * [📧 Contacting the Senate](dapps-and-infrastructure/senate/contacting-the-senate.md)

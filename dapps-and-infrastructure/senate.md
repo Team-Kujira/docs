@@ -14,12 +14,21 @@ The Senate is responsible for casting votes on proposals related to requests for
 
 Initially, the Senate will be limited to community spend proposals, such as grants for research, development, marketing, and community initiatives. It will also review and decide on the Kujira Community Pool's budget, including the allocation of resources and the distribution of funds. The Senate will not be involved in decisions related to the core protocol or changes to the network parameters.
 
-## Enhancing Decentralization
+## Enhancing decentralization
 
 The Kujira Senate aims to enhance decentralization by amplifying the voices of elected representatives and allowing those with knowledge, experience, and the trust of the community to have an impact, even if they do not have a large stake of KUJI. It will also help to streamline the governance process and bring together community and team values. Validators' roles will evolve to include participating in governance discussions, voting on proposals, and interacting with the Senate.
 
 ## Implementation
 
 The Kujira Senate will be implemented through two new smart contracts: a CW-4 "Group" contract and a CW-3 "Multisig" contract. The next steps for the Kujira Senate include building out the technical infrastructure and onboarding the first Senators. This marks the beginning of a new chapter in Kujira's governance structure.
+
+## Explore more aspects of the Senate
+
+* Senators
+* Constitution
+* Treasury
+* Contacting the Senate
+* Past Proposals
+* Transparency
 
 \
