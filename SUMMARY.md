@@ -119,7 +119,6 @@
   * [📱 Use Cases](dapps-and-infrastructure/usk-stablecoin/use-cases.md)
   * [✨ Transparency](dapps-and-infrastructure/usk-stablecoin/transparency.md)
   * [🖨 How to Mint USK](dapps-and-infrastructure/usk-stablecoin/how-to-mint-usk.md)
-  * [🎗 ORCA Integration](dapps-and-infrastructure/usk-stablecoin/orca-integration.md)
 
 ## 🛠 Developers
 
