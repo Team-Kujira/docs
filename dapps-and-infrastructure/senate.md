@@ -24,11 +24,19 @@ The Kujira Senate will be implemented through two new smart contracts: a CW-4 "G
 
 ## Explore more aspects of the Senate
 
-* Senators
-* Constitution
-* Treasury
-* Contacting the Senate
-* Past Proposals
-* Transparency
+* [Senators](senate/senators.md)
+* [Constitution](senate/constitution.md)
+* [Treasury](senate/treasury.md)
+* [Contacting the Senate](senate/contacting-the-senate.md)
+* [Past Proposals](senate/past-proposals.md)
+* [Transparency](senate/transparency.md)
 
-\
+## High-level Links
+
+* [Senate Link Tree](https://heather-bandana-e21.notion.site/Links-to-all-the-Senate-documents-ac6e808eb3d3491f94f8450cb9575b1f)
+* [Senate Constitution Document](https://heather-bandana-e21.notion.site/Kujira-Senate-Constitution-v0-1-604e5850cfdd41718634e04cf23119fa)
+* [Grant Application Form](https://docs.google.com/forms/d/e/1FAIpQLSfHmfZ8R46FOi0d4dMM9-IUnmUyUlc9dB5rqKyoB2Wghs4jAA/viewform)
+* [Senate Constitution Document](https://heather-bandana-e21.notion.site/Kujira-Senate-Constitution-v0-1-604e5850cfdd41718634e04cf23119fa)
+* [Senate Framework](https://heather-bandana-e21.notion.site/The-Senate-framework-b52b1d888fe649f69361fe1f4809c380)
+* [Senate Discord Forum](https://discord.com/channels/970650215801569330/1021059072050597920)
+* [Senate Twitter Account](https://twitter.com/KujiraSenate)\
