@@ -2,7 +2,7 @@
 
 ## Overview
 
-This entry introduces a high level summary about Kujira's native stablecoin USK. A substantially more technical deep dive into USK's mechanism and underlying mechanics can be found in the '[Technical Specifics](technical-specifics.md)' entry. The ins and outs of minting USK can be explored in '[How to Mint USK](how-to-mint-usk.md)'. The '[Transparency](transparency.md)' entry provides helpful links and explanations to verify USK mint/burn events and check USK health and collateral makeup. USK use cases can be explored at length in the '[Use cases](use-cases.md)' entry.
+This entry provides a high level summary about Kujira's native stablecoin USK. A substantially more technical deep dive into USK's mechanism and underlying mechanics can be found in the '[Technical Specifics](technical-specifics.md)' entry. The ins and outs of minting USK can be explored in '[How to Mint USK](how-to-mint-usk.md)'. The '[Transparency](transparency.md)' entry provides helpful links and explanations to verify USK mint/burn events and check USK health and collateral makeup. USK use cases can be explored at length in the '[Use cases](use-cases.md)' entry.
 
 ## Purpose
 
