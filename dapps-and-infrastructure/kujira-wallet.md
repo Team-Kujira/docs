@@ -20,4 +20,4 @@ Kujira is excited to announce [Sonar](https://mobile.twitter.com/SonarWallet), a
 
 Making waves soon...&#x20;
 
-Live teaser [here](https://twitter.com/TeamKujira/status/1585000267279667200?s=20\&t=GqHj5hDbRL2vrkfxkC34pA).
+Live teaser [here](https://twitter.com/TeamKujira/status/1585000267279667200?s=20\&t=GqHj5hDbRL2vrkfxkC34pA). Sonar V1 February 22nd 2023 walkthrough [here](https://twitter.com/TeamKujira/status/1628490478713798656?s=20).

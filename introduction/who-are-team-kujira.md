@@ -12,9 +12,11 @@ Hans [@codehans1](https://twitter.com/codehans1) | Hen, central back-end & smart
 
 ### Core Team
 
-Dan Tanaka [@dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev at Kujira
-
 Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager and runs the Rorcual validator with a partner
+
+Amit @const\_amit | Core team Smart Contract Wizard&#x20;
+
+Dan Tanaka [@dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev at Kujira
 
 Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Researches, strategizes, and innovates at Kujira / KujiDAO cofounder
 
