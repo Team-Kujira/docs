@@ -1,7 +1,7 @@
 ---
 description: >-
-  Following these steps you will learn how to incentivase ATOM/USK pool on BOW
-  and can be followed on any pool to provide incentives.
+  Following these steps you will learn how to incentivize the ATOM/USK pool on
+  BOW. These steps can be followed on any pool to provide incentives.
 ---
 
 # 📰 How to Provide Incentives
@@ -19,7 +19,7 @@ description: >-
 
 <figure><img src="https://lh4.googleusercontent.com/GaOKv0UjHG__20uuIQgt-pW1cFzUONtseCNnR8MG35efJnx_t7btEExtBMdWkSETG2h0wTDRqCPclvOm8MGXN1PC9cv9aH7O8ptsCeN1nJ0pyWxCnEZW5oeKQjA18puUfVyPpsmZkQFumE8Nd4Dy1f8" alt=""><figcaption></figcaption></figure>
 
-* Next, select a Distribution Start and End date to control the distribution rate of the provided incentives
-* Next, select the Incentive type. Decreasing linearly decreases the amount of provided rewards over time–whereas fixed provides the same amount of daily rewards across the entire distribution period
+* Next, select a distribution start and end date to control the distribution rate of the provided incentives
+* Next, select the Incentive type. 'Decreasing linearly' decreases the amount of provided rewards over time–whereas 'fixed' provides the same amount of daily rewards across the entire distribution period
 * Next, toggle both acknowledgements to confirm that you understand this incentivizing is a one-way transaction, with any submitted tokens being distributed to LP stakers–and that incentivizing incurs a fee of 10 USK
-* Finally, click the blue ‘Incentivise Pool’ button and pay gas fees to finish the process
+* Finally, click the blue ‘Incentivize Pool’ button and pay gas fees to finish the process
