@@ -14,7 +14,7 @@ Hans [@codehans1](https://twitter.com/codehans1) | Hen, central back-end & smart
 
 Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager and runs the Rorcual validator with a partner
 
-Amit @const\_amit | Core team Smart Contract Wizard&#x20;
+Amit [@const\_amit](https://twitter.com/const\_amit) | Core team Smart Contract Wizard&#x20;
 
 Dan Tanaka [@dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev at Kujira
 
