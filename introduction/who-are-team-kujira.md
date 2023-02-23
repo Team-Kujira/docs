@@ -18,7 +18,7 @@ Amit @const\_amit | Core team Smart Contract Wizard&#x20;
 
 Dan Tanaka [@dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev at Kujira
 
-Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Researches, strategizes, and innovates at Kujira / KujiDAO cofounder
+Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Research, strategy, & innovation at Kujira / KujiDAO cofounder/ Senator
 
 Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, moderator, advisor, involved behind the scenes
 
