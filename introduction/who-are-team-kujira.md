@@ -4,19 +4,19 @@ Team Kujira is a dedicated group of individuals working to build and grow the Ku
 
 ### Our 3 Founders
 
-Brett [@cryptoslang1](https://twitter.com/cryptoslang1) | Golden retriever, central front-end developer for Kujira
+Brett [@Cryptoslang1](https://twitter.com/cryptoslang1) | Golden retriever, central front-end developer for Kujira
 
-Dove [@deadrightdove](https://twitter.com/deadrightdove) | Dove, CEO and public face of Kujira
+Dove [@Deadrightdove](https://twitter.com/deadrightdove) | Dove, CEO and public face of Kujira
 
-Hans [@codehans1](https://twitter.com/codehans1) | Hen, central back-end & smart contract developer for Kujira                                                                                                                          &#x20;
+Hans [@Codehans1](https://twitter.com/codehans1) | Hen, central back-end & smart contract developer for Kujira                                                                                                                          &#x20;
 
 ### Core Team
 
 Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager and runs the Rorcual validator with a partner
 
-Amit [@const\_amit](https://twitter.com/const\_amit) | Core team Smart Contract Wizard&#x20;
+Amit [@Const\_amit](https://twitter.com/const\_amit) | Core team Smart Contract Wizard&#x20;
 
-Dan Tanaka [@dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev at Kujira
+Dan Tanaka [@Dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev at Kujira
 
 Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Research, strategy, & innovation at Kujira / KujiDAO cofounder/ Senator
 
