@@ -21,4 +21,4 @@ The Senate may engage in activities outside of the scope of the Constitution for
 * For funding requests of less than $250K, the Senate may create a governance proposal to initiate a funding transfer without further consulting the community. For requests of more than $250K, Senate will advise requestors to submit an on-chain governance proposal for KUJI stakers with a link included to the published opinions of the The Senate to make the final decision. For certain community grant requests under $250K that are endorsed by the Senate, the Senate may still seek the opinion of KUJI stakers via an on-chain governance proposal.&#x20;
 * Detailed rules for converting KUJI tokens held by the Senate multisig to stablecoins can also be found in the constitution.
 
-The Constitution can be read in full detail [here](https://dorian-hurricane-f7c.notion.site/Kujira-Senate-Constitution-v0-1-6bcc718eff9d4075a2dba4dc7a8becc4). &#x20;
+The Constitution can be read in full detail [here](https://www.notion.so/Kujira-Senate-Constitution-v0-2-488737bf7e434707ac862590a2b18197).

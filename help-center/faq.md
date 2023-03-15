@@ -34,7 +34,7 @@ Staking is a very important part of securing the Kujira network. It is thus equa
 
 ### How do I bring money onto the Kujira network?&#x20;
 
-The easiest way to do this is to use FIN. A detailed explanation can be found [here](https://medium.com/team-kujira/how-to-buy-kuji-on-fin-485172f23eea).&#x20;
+There are plenty of ways to do this. A detailed explanation can be found [here](../kujira-ecosystem/how-to-deposit-assets-into-the-ecosystem.md).
 
 ### I am stuck and want to ask for help who do I talk to?
 

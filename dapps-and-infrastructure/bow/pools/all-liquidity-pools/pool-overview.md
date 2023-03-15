@@ -18,7 +18,7 @@ This eponymous view is BOW's namesake. Unlike AMMs (automatic market makers) or 
 
 Like a curved bow, the majority of active liquidity is at the edges (highest and lowest prices), which minimizes the amount of liquidity necessary to create a deep trading experience around each token pair.
 
-## Incentive Release Charts
+## Incentive Release Schedule
 
 Each liquidity pool's 'Pool Overview' page contains a detailed breakdown of the pool's incentive release schedule over time. The same incentive can be provided multiple times for the same pool and even partially overlap overlap in their provision. For each pool, every available active incentive's schedule will be displayed in various charts. Each chart has a start and end date, the number of tokens to be released in total, and a graph showing the approximate of token incentives of that type being released on a specific day (from that specific provision) across all staked LPers.&#x20;
 

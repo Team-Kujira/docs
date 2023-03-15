@@ -27,7 +27,7 @@
 ## 🚞 dApps & Infrastructure
 
 * [🔢 Basics](dapps-and-infrastructure/basics.md)
-* [🔷 BLUE](dapps-and-infrastructure/blue/README.md)
+* [🔷 BLUE (Central Hub)](dapps-and-infrastructure/blue/README.md)
   * [📊 Dashboard](dapps-and-infrastructure/blue/dashboard.md)
   * [👜 Wallet](dapps-and-infrastructure/blue/wallet.md)
   * [🔀 Swap](dapps-and-infrastructure/blue/swap.md)
@@ -48,7 +48,7 @@
     * [📰 How to Check the Status of Governance Proposals and/or Vote](dapps-and-infrastructure/blue/product-guides/how-to-check-the-status-of-governance-proposals-and-or-vote.md)
     * [📰 How to Nominate a Candidate for the Senate](dapps-and-infrastructure/blue/product-guides/how-to-nominate-a-candidate-for-the-senate.md)
     * [📰 How to View Information on Senate Candidates](dapps-and-infrastructure/blue/product-guides/how-to-view-information-on-senate-candidates.md)
-* [🎀 BOW](dapps-and-infrastructure/bow/README.md)
+* [🎀 BOW (Liquidity Engine)](dapps-and-infrastructure/bow/README.md)
   * [📊 Dashboard](dapps-and-infrastructure/bow/dashboard.md)
   * [🤽 Pools](dapps-and-infrastructure/bow/pools/README.md)
     * [🎬 Featured Pools](dapps-and-infrastructure/bow/pools/featured-pools.md)
@@ -63,7 +63,7 @@
     * [📰 How to Remove Liquidity](dapps-and-infrastructure/bow/product-guides/how-to-remove-liquidity.md)
     * [📰 How to Provide Incentives](dapps-and-infrastructure/bow/product-guides/how-to-provide-incentives.md)
     * [📰 How to Check the Reward Schedule of a Pool](dapps-and-infrastructure/bow/product-guides/how-to-check-the-reward-schedule-of-a-pool.md)
-* [📊 FIN](dapps-and-infrastructure/fin/README.md)
+* [📊 FIN (DEX)](dapps-and-infrastructure/fin/README.md)
   * [🗒 Overview](dapps-and-infrastructure/fin/overview.md)
   * [📝 How to Use FIN](dapps-and-infrastructure/fin/how-to-use-fin/README.md)
     * [🔭 Search and Filter by View](dapps-and-infrastructure/fin/how-to-use-fin/search-and-filter-by-view.md)
@@ -83,12 +83,12 @@
     * [📰 How to Check Unclaimed Orders](dapps-and-infrastructure/fin/product-guides/how-to-check-unclaimed-orders.md)
     * [📰 How to Navigate to BOW Pools](dapps-and-infrastructure/fin/product-guides/how-to-navigate-to-bow-pools.md)
     * [📰 How to Look at Your History](dapps-and-infrastructure/fin/product-guides/how-to-look-at-your-history.md)
-* [🔎 FINDER](dapps-and-infrastructure/finder/README.md)
+* [🔎 FINDER (Explorer)](dapps-and-infrastructure/finder/README.md)
   * [📖 Product Guides](dapps-and-infrastructure/finder/product-guides/README.md)
     * [📰 How to View a Wallet's Balance](dapps-and-infrastructure/finder/product-guides/how-to-view-the-balance-of-a-wallet.md)
     * [📰 How to Bookmark Wallets for Tracking](dapps-and-infrastructure/finder/product-guides/how-to-bookmark-wallets-for-tracking.md)
     * [📰 How to View and Manage Bookmarked Wallets](dapps-and-infrastructure/finder/product-guides/how-to-view-and-manage-bookmarked-wallets.md)
-* [🐬 ORCA](dapps-and-infrastructure/orca/README.md)
+* [🐬 ORCA (Liquidations)](dapps-and-infrastructure/orca/README.md)
   * [🔢 Basics](dapps-and-infrastructure/orca/basics/README.md)
     * [🚛 Lending Markets](dapps-and-infrastructure/orca/basics/lending-markets/README.md)
       * [📈 Analytics](dapps-and-infrastructure/orca/basics/lending-markets/analytics.md)
@@ -100,12 +100,12 @@
     * [📰 How to Bid on Collateral](dapps-and-infrastructure/orca/product-guides/how-to-bid-on-collateral.md)
     * [📰 How to View Active Bids on Collateral](dapps-and-infrastructure/orca/product-guides/how-to-view-active-bids-on-collateral.md)
     * [📰 How to View the Analytics on a Liquidation Market](dapps-and-infrastructure/orca/product-guides/how-to-view-the-analytics-on-a-liquidation-market.md)
-* [📿 POD](dapps-and-infrastructure/pod/README.md)
+* [📿 POD (Cross-chain Staking)](dapps-and-infrastructure/pod/README.md)
   * [📖 Product Guides](dapps-and-infrastructure/pod/product-guides/README.md)
     * [📰 How to Stake any Cosmos Layer 1 Token](dapps-and-infrastructure/pod/product-guides/how-to-stake-any-cosmos-layer-1-token.md)
     * [📰 How to Redelegate any Cosmos L1 Token](dapps-and-infrastructure/pod/product-guides/how-to-redelegate-any-cosmos-l1-token.md)
     * [📰 How to Unstake any Cosmos L1 Token](dapps-and-infrastructure/pod/product-guides/how-to-unstake-any-cosmos-l1-token.md)
-* [🗼 SENATE](dapps-and-infrastructure/senate.md)
+* [🗼 SENATE (Grant Management)](dapps-and-infrastructure/senate.md)
   * [🫂 Senators](dapps-and-infrastructure/senate/senators.md)
   * [📜 Constitution](dapps-and-infrastructure/senate/constitution.md)
   * [🗝 Treasury](dapps-and-infrastructure/senate/treasury.md)
@@ -113,7 +113,7 @@
   * [📑 Past Proposals](dapps-and-infrastructure/senate/past-proposals.md)
   * [✨ Transparency](dapps-and-infrastructure/senate/transparency.md)
 * [📻 SONAR (Wallet)](dapps-and-infrastructure/kujira-wallet.md)
-* [🐎 USK Stablecoin](dapps-and-infrastructure/usk-stablecoin.md)
+* [🐎 USK (Stablecoin)](dapps-and-infrastructure/usk-stablecoin.md)
   * [🔢 Basics](dapps-and-infrastructure/usk-stablecoin/basics.md)
   * [📚 Technical Specifics](dapps-and-infrastructure/usk-stablecoin/technical-specifics.md)
   * [📱 Use Cases](dapps-and-infrastructure/usk-stablecoin/use-cases.md)
@@ -122,6 +122,7 @@
 
 ## 🛠 Developers
 
+* [🏠 Developer Kickstart Page](developers/developer-kickstart-page.md)
 * [💡 Smart Contracts](developers/smart-contracts/README.md)
   * [🏭 Token Factory](developers/smart-contracts/token-factory.md)
   * [🧙♂ 🧙♂ Price Oracle](developers/smart-contracts/oracle.md)
@@ -182,11 +183,15 @@
   * [📰 Medium](community/kujira-socials/medium.md)
   * [🎥 YouTube](community/kujira-socials/youtube.md)
 * [📺 Kuji Kast](community/kuji-kast.md)
+* [📣 Kujira Amplifier](community/kujira-amplifier.md)
 
 ## ⛑ Help Center
 
 * [🧑🏫 🧑🏫 Kujira Academy](help-center/kujira-academy.md)
 * [❓ FAQ](help-center/faq.md)
+* [🧰 Handy Tools](help-center/handy-tools.md)
+* [📒 Glossary](help-center/glossary.md)
+* [⚠ Common Error Messages](help-center/common-error-messages.md)
 
 ## ™ Brand Assets
 
