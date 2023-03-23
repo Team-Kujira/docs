@@ -4,7 +4,7 @@
 
 For a specific liquidity pool, in addition to the basic header contained in the 'Overview', 'Provide', and 'Stake' pages), the 'pool overview' page contains corresponding information on that pool's current existing FIN spread for that token pair, BOW's strategy for that specific pool, detailed information about withdrawing liquidity, providing liquidity, staking LP tokens, links for the token pair on FIN, the liquidity pool on FINDER, and the pool's incentive contract on FINDER, the spread of active marketing making bids (both size and price), as well as detailed charts of the incentive release schedule over time. &#x20;
 
-&#x20;                                           ![](<../../../../.gitbook/assets/image (5).png>)
+&#x20;                                           ![](<../../../../.gitbook/assets/image (5) (2).png>)
 
 &#x20;                                           ![](<../../../../.gitbook/assets/image (18).png>)
 
@@ -26,7 +26,7 @@ Incentives can either be provided as one of two types: decreasing or fixed (as r
 
 #### &#x20;                                                ![](<../../../../.gitbook/assets/image (14).png>) &#x20;
 
-#### &#x20;                                                 ![](../../../../.gitbook/assets/image.png)
+#### &#x20;                                                 ![](<../../../../.gitbook/assets/image (5).png>)
 
 Decreasing incentives linearly reduce from the start to finish of a provision period. The total amount of remaining incentives can be calculated using the triangle area rule 1/2\*base\*height. The remaining incentives are shaded in green.
 

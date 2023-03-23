@@ -70,18 +70,28 @@ We have also begun a weekly roundup of Kujira ecosystem activity.
 
 Past articles can be found below:
 
-[Weekly Roundup by Team Kujira: Episode 1](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-1-b75e68c7c1e)
+[Weekly Roundup by Team Kujira: Episode 1](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-1-b75e68c7c1e) [Weekly Roundup by Team Kujira: Episode 2](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-2-611f99ba77ba)
 
-[Weekly Roundup by Team Kujira: Episode 2](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-2-611f99ba77ba)
+[Weekly Roundup by Team Kujira: Episode 3](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-3-65c1e3ec9968) [Weekly Roundup by Team Kujira: Episode 4](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-4-98340887bbe)
 
-[Weekly Roundup by Team Kujira: Episode 3](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-3-65c1e3ec9968)
+[Weekly Roundup by Team Kujira: Episode 5](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-5-e524cbb8d1bc) [Weekly Roundup by Team Kujira: Episode 6](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-6-81ab9ac51812)
 
-[Weekly Roundup by Team Kujira: Episode 4](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-4-98340887bbe)
+[Weekly Roundup by Team Kujira: Episode 7](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-7-2267f584859f) [Weekly Roundup by Team Kujira: Episode 8](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-8-8aa443ad464c)
 
-[Weekly Roundup by Team Kujira: Episode 5](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-5-e524cbb8d1bc)
+[Weekly Roundup by Team Kujira: Episode 9](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-9-32a19c410e1d) [Weekly Roundup by Team Kujira: Episode 10](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-10-b9fc4f4c06b9)
 
-[Weekly Roundup by Team Kujira: Episode 6](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-6-81ab9ac51812)
+[Weekly Roundup by Team Kujira: Episode 11](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-11-61e3762065b4) [Weekly Roundup by Team Kujira: Episode 12](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-12-b656df0b75e0)
 
-[Weekly Roundup by Team Kujira: Episode 7](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-7-2267f584859f)
+[Weekly Roundup by Team Kujira: Episode 13](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-13-a42da521fb3d) [Weekly Roundup by Team Kujira: Episode 14](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-14-27cb12f7869d)
 
-[Weekly Roundup by Team Kujira: Episode 8](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-8-8aa443ad464c)
+[Weekly Roundup by Team Kujira: Episode 15](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-15-acd6b74599cc) [Weekly Roundup by Team Kujira: Episode 16](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-16-81f89b259cb8)
+
+[Weekly Roundup by Team Kujira: Episode 17](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-17-6e94d34ec839) [Weekly Roundup by Team Kujira: Episode 18](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-18-480650ede238)
+
+[Weekly Roundup by Team Kujira: Episode 19](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-19-f908a3a046bb) [Weekly Roundup by Team Kujira: Episode 20](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-20-52d361f2902)
+
+[Weekly Roundup by Team Kujira: Episode 21](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-21-dae1a176f2d6) [Weekly Roundup by Team Kujira: Episode 22](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-22-dfddeeb63a76)
+
+[Weekly Roundup by Team Kujira: Episode 23](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-23-ac9a5f607ada) [Weekly Roundup by Team Kujira: Episode 24](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-24-554324d33557)
+
+[Weekly Roundup by Team Kujira: Episode 25](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-25-41cc5eed7a10) [Weekly Roundup by Team Kujira: Episode 26](https://medium.com/team-kujira/weekly-roundup-by-team-kujira-ep-26-b0f48fcd5745)

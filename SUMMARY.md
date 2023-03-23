@@ -88,6 +88,7 @@
     * [📰 How to View a Wallet's Balance](dapps-and-infrastructure/finder/product-guides/how-to-view-the-balance-of-a-wallet.md)
     * [📰 How to Bookmark Wallets for Tracking](dapps-and-infrastructure/finder/product-guides/how-to-bookmark-wallets-for-tracking.md)
     * [📰 How to View and Manage Bookmarked Wallets](dapps-and-infrastructure/finder/product-guides/how-to-view-and-manage-bookmarked-wallets.md)
+* [👻 GHOST (Money Market)](dapps-and-infrastructure/ghost-money-market.md)
 * [🐬 ORCA (Liquidations)](dapps-and-infrastructure/orca/README.md)
   * [🔢 Basics](dapps-and-infrastructure/orca/basics/README.md)
     * [🚛 Lending Markets](dapps-and-infrastructure/orca/basics/lending-markets/README.md)
@@ -111,8 +112,9 @@
   * [🗝 Treasury](dapps-and-infrastructure/senate/treasury.md)
   * [📧 Contacting the Senate](dapps-and-infrastructure/senate/contacting-the-senate.md)
   * [📑 Past Proposals](dapps-and-infrastructure/senate/past-proposals.md)
+  * [📝 Past Meetings](dapps-and-infrastructure/senate/past-meetings.md)
   * [✨ Transparency](dapps-and-infrastructure/senate/transparency.md)
-* [📻 SONAR (Wallet)](dapps-and-infrastructure/kujira-wallet.md)
+* [📻 SONAR (Multichain Wallet)](dapps-and-infrastructure/kujira-wallet.md)
 * [🐎 USK (Stablecoin)](dapps-and-infrastructure/usk-stablecoin.md)
   * [🔢 Basics](dapps-and-infrastructure/usk-stablecoin/basics.md)
   * [📚 Technical Specifics](dapps-and-infrastructure/usk-stablecoin/technical-specifics.md)
@@ -140,6 +142,7 @@
   * [🥇 Staking Tiers and Symbols on BLUE, FIN, and ORCA](tokenomics/kuji-token/kuji-tiers.md)
   * [👨🌾 👨🌾 KUJI Sustainability](tokenomics/kuji-token/kuji-sustainability.md)
   * [👩✈ 👩✈ Kujira Governance](tokenomics/kuji-token/kujira-governance.md)
+  * [🤝 Lending and Borrowing KUJI](tokenomics/kuji-token/lending-and-borrowing-kuji.md)
 
 ## 🤖 Validators
 
@@ -184,6 +187,9 @@
   * [🎥 YouTube](community/kujira-socials/youtube.md)
 * [📺 Kuji Kast](community/kuji-kast.md)
 * [📣 Kujira Amplifier](community/kujira-amplifier.md)
+* [⛑ Kujira Support](community/kujira-support/README.md)
+  * [🎟 Support Ticket System](community/kujira-support/support-ticket-system.md)
+  * [🤖 Cosmobot](community/kujira-support/cosmobot.md)
 
 ## ⛑ Help Center
 
