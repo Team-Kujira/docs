@@ -187,7 +187,7 @@
   * [🎥 YouTube](community/kujira-socials/youtube.md)
 * [📺 Kuji Kast](community/kuji-kast.md)
 * [📣 Kujira Amplifier](community/kujira-amplifier.md)
-* [⛑ Kujira Support](community/kujira-support/README.md)
+* [🦼 Kujira Support](community/kujira-support/README.md)
   * [🎟 Support Ticket System](community/kujira-support/support-ticket-system.md)
   * [🤖 Cosmobot](community/kujira-support/cosmobot.md)
 
