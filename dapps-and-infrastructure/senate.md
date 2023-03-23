@@ -2,7 +2,7 @@
 description: Governance Structure for Kujira Blockchain
 ---
 
-# 🗼 SENATE
+# 🗼 SENATE (Grant Management)
 
 ## [https://blue.kujira.app/senate](https://blue.kujira.app/senate)
 
@@ -28,7 +28,7 @@ The Kujira Senate will be implemented through two new smart contracts: a CW-4 "G
 * [Constitution](senate/constitution.md)
 * [Treasury](senate/treasury.md)
 * [Contacting the Senate](senate/contacting-the-senate.md)
-* [Past Proposals](senate/past-proposals.md)
+* [Past Proposals](senate/past-senate-proposals.md)
 * [Transparency](senate/transparency.md)
 
 ## High-level Links

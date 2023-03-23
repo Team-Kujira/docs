@@ -10,7 +10,7 @@ There are currently two types of ORCA markets in the works: lending markets and 
 
 In the future, once cross-chain markets launch, there will be further differentiation between Kujira native lending markets and cross-chain lending markets. ORCA has been redesigned for the Kujira blockchain to bring decentralized community liquidations to all EVM and RUST based projects increasing accessibility and fairness for everyone.
 
-&#x20;                                ![](<../../../.gitbook/assets/image (46).png>)&#x20;
+&#x20;                                ![](<../../../.gitbook/assets/image (46) (1).png>)&#x20;
 
 Each landing page ORCA market displays information about the collateral type being bidded on, the denomination bids can be made in, the market type, the total value locked in the market that can be bid on, the total amount of current ORCA bid liquidity for that market, the max possible discount via ORCA for that market, and the total sum of an individual's currently active bids for that market.
 
