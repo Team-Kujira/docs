@@ -70,7 +70,7 @@ sudo su -l kujioracle
 ```bash
 git clone https://github.com/Team-Kujira/core
 cd core
-git checkout v0.7.1
+git checkout v0.8.5
 make install
 cd ..
 kujirad version  # should output "0.7.1"
