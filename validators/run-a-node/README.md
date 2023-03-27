@@ -61,7 +61,7 @@ go version
 ```bash
 git clone https://github.com/Team-Kujira/core $HOME/kujira-core
 cd $HOME/kujira-core
-git checkout v0.6.4
+git checkout v0.8.5
 ```
 
 1. Build and install `kujirad` (using the `kuji` user created above)
