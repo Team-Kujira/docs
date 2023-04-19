@@ -177,6 +177,12 @@
 
 ## 🤼♂ 🤼♂ Community
 
+* [📣 Kujira Amplifier](community/kujira-amplifier.md)
+* [✈ Kujira Communities](community/kujira-communities.md)
+* [📺 Kuji Kast](community/kuji-kast.md)
+* [🦼 Kujira Support](community/kujira-support/README.md)
+  * [🎟 Support Ticket System](community/kujira-support/support-ticket-system.md)
+  * [🤖 Cosmobot](community/kujira-support/cosmobot.md)
 * [👫 Kujira Social Media](community/kujira-socials/README.md)
   * [🎶 Discord](community/kujira-socials/discord.md)
   * [📬 Telegram](community/kujira-socials/telegram.md)
@@ -185,11 +191,6 @@
   * [🖼 Instagram](community/kujira-socials/instagram.md)
   * [📰 Medium](community/kujira-socials/medium.md)
   * [🎥 YouTube](community/kujira-socials/youtube.md)
-* [📺 Kuji Kast](community/kuji-kast.md)
-* [📣 Kujira Amplifier](community/kujira-amplifier.md)
-* [🦼 Kujira Support](community/kujira-support/README.md)
-  * [🎟 Support Ticket System](community/kujira-support/support-ticket-system.md)
-  * [🤖 Cosmobot](community/kujira-support/cosmobot.md)
 
 ## ⛑ Help Center
 
