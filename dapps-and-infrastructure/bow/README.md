@@ -2,13 +2,13 @@
 description: Kujira's Revolutionary Liquidity Hub
 ---
 
-# 🎀 BOW
+# 🎀 BOW (Liquidity Engine)
 
 ## [https://bow.kujira.app/](https://bow.kujira.app/)
 
 ## Market Making Framework for FIN Orderbook DEX
 
-BOW is Kujira's latest product, a framework that ensures optimal trading conditions for pairs on FIN, Kujira's on-chain orderbook DEX. It aims to attract liquidity providers by offering yield for adding to the depth of a given trading pair, which narrows the price spread and ensures deep order books for traders. BOW also enables protocols to further incentivize pool depth by allocating token rewards to liquidity providers.
+BOW is a framework ensuring optimal trading conditions for pairs on [FIN](../fin/), Kujira's on-chain orderbook DEX. It aims to attract liquidity providers by offering yield for adding to the depth of a given trading pair, which narrows the price spread and ensures deep order books for traders. BOW also enables protocols to further incentivize pool depth by allocating token rewards to liquidity providers.
 
 ## How BOW Works
 
