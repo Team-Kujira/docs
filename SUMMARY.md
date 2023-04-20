@@ -203,5 +203,7 @@
 ## ™ Brand Assets
 
 * [🇰🇲 🇰🇲 Colors](brand-assets/colors.md)
-* [💮 Logo Options](brand-assets/logo-options.md)
+* [💮 Logo Options](brand-assets/logo-options/README.md)
+  * [Product Logos](brand-assets/logo-options/product-logos.md)
+  * [Legacy Logos](brand-assets/logo-options/legacy-logos.md)
 * [🔡 Fonts](brand-assets/fonts.md)

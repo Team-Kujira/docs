@@ -14,7 +14,7 @@ Whether you're just starting out with blockchain or are an experienced user look
 
 **What is a Private Key?**                            &#x20;
 
-****[https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key](https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key)
+[https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key](https://www.ledger.com/academy/basic-basics/owning-and-using-it/what-is-a-private-key)
 
 Private keys are the keys that give you access to your cryptocurrency wallet. In this guide by Ledger, you can learn about the difference between private and public keys, and how to keep your private keys safe.
 
@@ -44,7 +44,7 @@ There are many scams that target cryptocurrency users, including giveaway scams,
 
 **What are Cookies?**
 
-****[https://academy.binance.com/en/articles/what-are-cookies](https://academy.binance.com/en/articles/what-are-cookies)
+[https://academy.binance.com/en/articles/what-are-cookies](https://academy.binance.com/en/articles/what-are-cookies)
 
 Cookies are small pieces of data that are stored by your web browser. In this article, Binance Academy covers what cookies are used for and the potential risks associated with them.
 
@@ -202,7 +202,7 @@ Proof of Work (PoW) is a consensus mechanism used by some blockchains, including
 
 **Crypto Market Capitalization Explained**
 
-****[https://academy.binance.com/en/articles/crypto-market-capitalization-explained](https://academy.binance.com/en/articles/crypto-market-capitalization-explained)
+[https://academy.binance.com/en/articles/crypto-market-capitalization-explained](https://academy.binance.com/en/articles/crypto-market-capitalization-explained)
 
 Market capitalization, or "market cap," is a term used to describe the current market value of an asset. In the crypto world, it is often used to assess the value of a cryptocurrency. However, Binance Academy's guide explains that market cap can be a misleading metric, and the diluted market cap may be a more accurate reflection of an asset's value.
 
@@ -372,7 +372,7 @@ This article explains the differences between three metrics used to describe the
 
 **Order Book Explained for Beginners**
 
-****[Order Book Explained for Beginners](https://learn.bybit.com/en/trading/order-book-explained-for-beginners/) - An order book is a record of buy and sell orders for a particular token or asset, organized by price level. This article explains order books in more detail and how they are used in trading.
+[Order Book Explained for Beginners](https://learn.bybit.com/en/trading/order-book-explained-for-beginners/) - An order book is a record of buy and sell orders for a particular token or asset, organized by price level. This article explains order books in more detail and how they are used in trading.
 
 **Market Orders**
 
@@ -388,7 +388,7 @@ This article explains the differences between three metrics used to describe the
 
 **Bid-ask Spread and Slippage Explained**
 
-****[Bid-ask Spread and Slippage Explained](https://academy.binance.com/en/articles/bid-ask-spread-and-slippage-explained) - The bid-ask spread is the difference between the highest price that a buyer is willing to pay for an asset and the lowest price that a seller is willing to accept for the asset. Slippage is the difference between the expected price of a trade and the price at which the trade is actually executed. This article explains the bid-ask spread and slippage in more detail and how they can impact traders.
+[Bid-ask Spread and Slippage Explained](https://academy.binance.com/en/articles/bid-ask-spread-and-slippage-explained) - The bid-ask spread is the difference between the highest price that a buyer is willing to pay for an asset and the lowest price that a seller is willing to accept for the asset. Slippage is the difference between the expected price of a trade and the price at which the trade is actually executed. This article explains the bid-ask spread and slippage in more detail and how they can impact traders.
 
 **Depth of Market**
 

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="81px" height="80px" viewBox="0 0 81 80" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <g id="symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kujira-fin" transform="translate(-285.000000, 0.000000)" fill="#E53935" fill-rule="nonzero">
+            <g id="Group" transform="translate(285.168553, 0.000000)">
+                <path d="M40,0 C62.09139,0 80,17.90861 80,40 C80,62.09139 62.09139,80 40,80 C17.90861,80 0,62.09139 0,40 C0,17.90861 17.90861,0 40,0 Z M40,3.73333333 C19.9704731,3.73333333 3.73333333,19.9704731 3.73333333,40 C3.73333333,60.0295269 19.9704731,76.2666667 40,76.2666667 C60.0295269,76.2666667 76.2666667,60.0295269 76.2666667,40 C76.2666667,19.9704731 60.0295269,3.73333333 40,3.73333333 Z" id="Oval"></path>
+                <g id="FIN-Copy" transform="translate(15.812000, 30.662000)">
+                    <polygon id="Path" points="3.976 18.676 0 18.676 0 0 13.216 0 13.216 3.5 3.976 3.5 3.976 7.42 13.02 7.42 13.02 10.92 3.976 10.92"></polygon>
+                    <polygon id="Path" points="23.964 18.676 19.988 18.676 19.988 0 23.964 0"></polygon>
+                    <polygon id="Path" points="48.376 18.676 44.54 18.676 35.636 6.496 35.636 18.676 31.66 18.676 31.66 0 35.748 0 44.4 11.732 44.4 0 48.376 0"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

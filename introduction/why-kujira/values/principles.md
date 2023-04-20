@@ -26,7 +26,7 @@ We're building the future of DeFi with valuable, synergistic technology and part
 
 We support projects with substance and longevity for the benefit of our community.
 
-****
+
 
 **We are open-minded and focused on growth.**
 
