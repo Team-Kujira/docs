@@ -1,7 +1,5 @@
 ---
-description: >-
-  Community Infrastructure and Decentralized Applications (Built by our
-  Community)
+description: Community Infrastructure and Decentralized Applications
 ---
 
 # 🐳 Wider Ecosystem

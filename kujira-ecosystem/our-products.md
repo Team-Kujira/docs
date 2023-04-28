@@ -1,12 +1,12 @@
 ---
-description: Core Infrastructure and Decentralized Applications (Built by Team Kujira)
+description: Core Infrastructure and Decentralized Applications
 ---
 
 # 🗃 Our Products
 
 ### Overview
 
-Kujira offers an complete base layer of high quality composable first-party products that allow users to participate in the decentralized financial ecosystem based on their risk appetite and expected return.&#x20;
+Kujira offers a complete base layer of high quality composable first-party products that allow users to participate in the decentralized financial ecosystem based on their risk appetite and expected return.&#x20;
 
 ### dApps
 
