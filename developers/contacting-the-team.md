@@ -4,7 +4,7 @@ The two best ways of contacting the team are either through emailing them direct
 
 ### Email
 
-The team can be reached at [hello@kujira.app](http://hello@kujira.app). Dan Tanaka can be reached at dan@kujira.app
+Dan Tanaka can be reached at dan@kujira.app
 
 ### Telegram/Discord/Twitter
 
