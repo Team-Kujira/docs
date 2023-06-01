@@ -37,3 +37,8 @@ January 11, 2023 [Episode 15](https://www.youtube.com/watch?v=epplzLfkJ6w): DLOY
 January 16, 2023 [Episode 16](https://www.youtube.com/watch?v=EIG7qlPzZ7w): KUJI STORY
 
 February 8, 2023 [Episode 17](https://www.youtube.com/watch?v=hKs52EB6N9M): An Intro To... Maya Protocol!
+
+March 1, 2023 [Episode 18](https://www.youtube.com/watch?v=oYq0RfhlAHg): The future of NFTs? (Ghosts In The Chain)
+
+March 23, 2023 [Episode 19](https://www.youtube.com/watch?v=JOxcol9WcZk): GUINNESS WORLD RECORD Attempt (Cream Crackers Challenge)
+
