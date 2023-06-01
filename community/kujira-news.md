@@ -4,7 +4,7 @@ description: Kujira alpha 24/7
 
 # 🗞 Kujira News
 
-The Kujira ecosystem always thrives. Articles, calls, governance proposals, new features, threads, etc. There's action every day and you probably can't track it all.
+The Kujira ecosystem is frenetic. Articles, calls, governance proposals, new features, threads, etc. There's action every day and you probably can't track it all.
 
 [Kujira News](https://t.me/KujiNews) aggregates Kujira updates _for you_. It tells you when something happens, with sources, so you don't have to track it yourself, but can verify anything shared.&#x20;
 
