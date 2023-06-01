@@ -74,7 +74,7 @@ Ghost Games is almost done with milestone 1 and are just waiting on initial peer
 
 **May 26, 2023 Senate Meeting 19:** Rekt Quests came on to present their product in detail to Senators. Senators discussed various nuances of the product, possible short-term or continuing costs, and requested information about user retention and target audience. Finally, Senators discussed what types of tasks would be possible to incentivize and what approaches the team has seen the most success with. The Senate voted shortly after the meeting and decided to fund the product.&#x20;
 
-**May 31, 2023 Senate Meeting 20:**  Mike came on to present MantaDAO's detailed liquidity strategy and provided context around his thought process and goals. Senators, armed with community feedback, considered various pros and cons of different approaches and continued the overall MantaDAO grant discussion over the course of 70 minutes. The Senate continues to be in favor of a grant for MantaDAO.
+**May 31, 2023 Senate Meeting 20:**  Mike came on to present MantaDAO's detailed liquidity strategy and provided context around his thought process and goals. Senators, armed with community feedback, considered various pros and cons of different approaches and continued the overall MantaDAO grant discussion over the course of 70 minutes.
 
 
 
