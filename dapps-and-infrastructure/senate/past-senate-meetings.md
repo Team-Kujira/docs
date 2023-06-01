@@ -71,3 +71,10 @@ Senators briefly discussed a Blend status update, but will probably resume relat
 **May 24, 2023 Senate Meeting 18:** The Senate discussed the community's feedback on Ryan's Senator stipend Discord post and after a long discussion decided to table the topic for the time being. Furthermore, the Senate collectively decided to draft up new standards and internal criteria to help with increased participation, communication, and transparency towards the community.
 
 Ghost Games is almost done with milestone 1 and are just waiting on initial peer review results--and have already started working on their frontend. The Senate also discussed a variety of tasks that may make sense for Rekt Quests and planned to meet with their team on Friday May 26th.
+
+**May 26, 2023 Senate Meeting 19:** Rekt Quests came on to present their product in detail to Senators. Senators discussed various nuances of the product, possible short-term or continuing costs, and requested information about user retention and target audience. Finally, Senators discussed what types of tasks would be possible to incentivize and what approaches the team has seen the most success with. The Senate voted shortly after the meeting and decided to fund the product.&#x20;
+
+**May 31, 2023 Senate Meeting 20:**  Mike came on to present MantaDAO's detailed liquidity strategy and provided context around his thought process and goals. Senators, armed with community feedback, considered various pros and cons of different approaches and continued the overall MantaDAO grant discussion over the course of 70 minutes. The Senate continues to be in favor of a grant for MantaDAO.
+
+
+

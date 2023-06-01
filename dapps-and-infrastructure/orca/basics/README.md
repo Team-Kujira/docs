@@ -6,9 +6,9 @@ This section will cover various basics of navigating the ORCA user interface inc
 
 ## ORCA Markets
 
-There are currently two types of ORCA markets in the works: lending markets and perpetual markets. Perpetuals markets are currently under development. All available ORCA markets can be seen on the main landing page [https://orca.kujira.app](https://orca.kujira.app).
+There are currently two types of ORCA markets: lending markets and [GHOST](../../ghost-money-market.md) (perpetual) markets. All available ORCA markets can be seen on the main landing page [https://orca.kujira.app](https://orca.kujira.app).
 
-In the future, once cross-chain markets launch, there will be further differentiation between Kujira native lending markets and cross-chain lending markets. ORCA has been redesigned for the Kujira blockchain to bring decentralized community liquidations to all EVM and RUST based projects increasing accessibility and fairness for everyone.
+In the future, once cross-chain markets launch, there will be further differentiation between Kujira native lending markets and cross-chain lending markets. ORCA has been redesigned for the Kujira blockchain to bring decentralized community liquidations to all EVM and RUST based projects increasing accessibility and fairness for everyone. Furthermore, with the launch of [GHOST](../../ghost-money-market.md), Kujira's money market, ORCA got a substantial redesign to account for all the new GHOST markets. &#x20;
 
 &#x20;                                ![](<../../../.gitbook/assets/image (46) (1).png>)&#x20;
 

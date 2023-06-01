@@ -18,6 +18,6 @@
 * Transparent asset management: The transparent asset experience offered by Sonar allows users to easily move their assets between different chains without having to worry about the underlying network.
 * Strong integration: Sonar is integrated into key Kujira protocols
 
-Making waves soon...&#x20;
+Making waves very soon.
 
 Live teaser [here](https://twitter.com/TeamKujira/status/1585000267279667200?s=20\&t=GqHj5hDbRL2vrkfxkC34pA). Sonar V1 February 22nd 2023 walkthrough [here](https://twitter.com/TeamKujira/status/1628490478713798656?s=20).

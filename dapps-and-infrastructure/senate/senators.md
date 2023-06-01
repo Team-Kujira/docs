@@ -26,7 +26,6 @@ These are the current Senators:
 6. Ryan Lion
 7. Vanessa Harris (Technology Poet)&#x20;
 8. Vladimir GG (Qwerto Alivus)
-9. Xulian
 
 ## Genesis Senators
 
