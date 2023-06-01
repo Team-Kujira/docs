@@ -180,6 +180,7 @@
 * [📣 Kujira Amplifier](community/kujira-amplifier.md)
 * [✈ Kujira Communities](community/kujira-communities.md)
 * [📺 Kuji Kast](community/kuji-kast.md)
+* [🗞 Kujira News](community/kujira-news.md)
 * [🦼 Kujira Support](community/kujira-support/README.md)
   * [🎟 Support Ticket System](community/kujira-support/support-ticket-system.md)
   * [🤖 Cosmobot](community/kujira-support/cosmobot.md)
