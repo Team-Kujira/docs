@@ -95,7 +95,7 @@
       * [📈 Analytics](dapps-and-infrastructure/orca/basics/lending-markets/analytics.md)
       * [💹 USK Lending Markets](dapps-and-infrastructure/orca/basics/lending-markets/usk-lending-markets/README.md)
         * [⭕ Isolated FIN Margin](dapps-and-infrastructure/orca/basics/lending-markets/usk-lending-markets/isolated-fin-margin.md)
-      * [🎑 Non-USK Lending Markets](dapps-and-infrastructure/orca/basics/lending-markets/non-usk-lending-markets.md)
+      * [🎑 xAsset Lending Markets](dapps-and-infrastructure/orca/basics/lending-markets/xasset-lending-markets.md)
   * [🕹 How to Integrate ORCA](dapps-and-infrastructure/orca/how-to-integrate-orca.md)
   * [📖 Product Guides](dapps-and-infrastructure/orca/product-guides/README.md)
     * [📰 How to Bid on Collateral](dapps-and-infrastructure/orca/product-guides/how-to-bid-on-collateral.md)
