@@ -11,7 +11,7 @@ The Kujira ecosystem is frenetic. Articles, calls, governance proposals, new fea
 As an **unofficial** _community_ Telegram channel run by [Daniel Lux](../introduction/who-are-team-kujira.md) and [Romano Americano](https://t.me/KujiDAO), we have both the energy and the leeway to share smaller updates that get overlooked elsewhere.
 
 * Catch up on the newest Kujira ecosystem alpha in real time
-* Get reminders on: chain upgrades, scheduled Twitter spaces, upcoming protocol launches, etc.&#x20;
+* Get reminders on: chain upgrades, scheduled [Twitter spaces](https://kujiraspaces.com/), upcoming protocol launches, etc.&#x20;
 * Keep track of: announcements, [Kuji Kast](kuji-kast.md) videos, [Senate](../dapps-and-infrastructure/senate.md) meetings, [Weekly Roundups](kujira-socials/medium.md#weekly-roundup), etc.
 * Stay up to date on: content creators, developers, governance, protocols, senators, & validators
 

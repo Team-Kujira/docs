@@ -6,20 +6,17 @@ This section will cover various basics of navigating the ORCA user interface inc
 
 ## ORCA Markets
 
-There are currently two types of ORCA markets: lending markets and [GHOST](../../ghost-money-market.md) (perpetual) markets. All available ORCA markets can be seen on the main landing page [https://orca.kujira.app](https://orca.kujira.app).
+There are three types of ORCA lending markets: USK backing collateral, Isolated FIN margin, and [GHOST](../../ghost-money-market.md) (perpetual) liquidation markets.
 
-In the future, once cross-chain markets launch, there will be further differentiation between Kujira native lending markets and cross-chain lending markets. ORCA has been redesigned for the Kujira blockchain to bring decentralized community liquidations to all EVM and RUST based projects increasing accessibility and fairness for everyone. Furthermore, with the launch of [GHOST](../../ghost-money-market.md), Kujira's money market, ORCA got a substantial redesign to account for all the new GHOST markets. &#x20;
+All available ORCA markets can be seen on the main landing page [https://orca.kujira.app](https://orca.kujira.app).
 
-&#x20;                                ![](<../../../.gitbook/assets/image (46) (1).png>)&#x20;
+Once cross-chain markets launch, there will be further differentiation between Kujira native and cross-chain markets. ORCA has been redesigned for the Kujira blockchain to bring decentralized community liquidations to all EVM and RUST based projects bringing accessibility and fairness for everyone. When [GHOST](../../ghost-money-market.md) launched, we simplified ORCA's layout to facilitate future scalability.
 
-Each landing page ORCA market displays information about the collateral type being bidded on, the denomination bids can be made in, the market type, the total value locked in the market that can be bid on, the total amount of current ORCA bid liquidity for that market, the max possible discount via ORCA for that market, and the total sum of an individual's currently active bids for that market.
+<figure><img src="../../../.gitbook/assets/ORCAscreenie2.png" alt=""><figcaption></figcaption></figure>
 
-At the moment, only lending markets are available on ORCA, specifically [USK](../../usk-stablecoin.md) lending markets for liquidating collateral used to back USK and for isolated FIN margin.
+On the landing page, each ORCA market displays information about its health, collateral type, bid denomination, total value locked, pool size, max possible discount, and total sum of your bids.
 
-There are two main types of ORCA markets:
-
-* [Lending Markets](lending-markets/)
-* Perpetuals Markets (currently under development)
+Learn more about ORCA's lending markets [here](lending-markets/).
 
 #### SeaShanty
 

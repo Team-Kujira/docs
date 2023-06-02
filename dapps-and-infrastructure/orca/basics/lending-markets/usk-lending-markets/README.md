@@ -4,7 +4,7 @@
 
 ### Purchasing USK
 
-At the moment, all lending markets on ORCA use USK. As a result, users must obtain USK in order to be able to bid on liquidated collateral at a discount. To understand the ins and outs of the ORCA liquidation process, please refer to the explanations in the [lending markets section](../) as well as the provided ATOM liquidation example. USK can either be purchased on FIN by selling a variety of other assets including axlUSDC, ATOM, wBNB, wETH, DOT, LUNA, gPAXg, etc. for it or by minting it via the BLUE [USK mint UI](../../../../blue/mint.md).&#x20;
+At the moment, all USK collateral, all isolated FIN margin, and some GHOST ORCA lending markets use USK as the bid denomination. As a result, users often need USK to bid on liquidated collateral at a discount. To understand the ins and outs of the ORCA liquidation process, please refer to the explanations in the [lending markets section](../) as well as the provided ATOM liquidation example. USK can either be purchased on FIN by selling a variety of other assets including axlUSDC, ATOM, wBNB, wETH, DOT, LUNA, gPAXg, etc. for it, by minting it via the BLUE [USK mint UI](../../../../blue/mint.md), or by borrowing against other compatible assets on GHOST (including [KUJI](../../../../../tokenomics/kuji-token/)).&#x20;
 
 ### How to place bids
 
