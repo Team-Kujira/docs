@@ -10,7 +10,7 @@ description: Democratized DeFi Liquidations
 
 Built on Kujira, ORCA is the world's first public marketplace for bidding on liquidated collateral. By effectively participating in a Dutch auction, users are able to obtain liquidated collateral at up to a 30% discount. To bid on liquidated collateral on ORCA, users can select the desired market and premium, input the amount they want to bid, and hit the "Place My Bid" button.
 
-Now that [GHOST](../ghost-money-market.md) is live, users can also use ORCA to sell yield bearing assets at local tops up to 43% _above_ the market price. Read more [here](basics/lending-markets/xasset-lending-markets.md#sell-yield-bearing-assets-up-to-43-above-local-market-tops).&#x20;
+Now that [GHOST](../ghost-money-market/) is live, users can also use ORCA to sell yield bearing assets at local tops up to 43% _above_ the market price. Read more [here](basics/lending-markets/xasset-lending-markets.md#sell-yield-bearing-assets-up-to-43-above-local-market-tops).&#x20;
 
 ## How it works
 

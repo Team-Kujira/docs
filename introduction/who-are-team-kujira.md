@@ -24,4 +24,4 @@ Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, 
 
 Jan [@JPTG119](https://twitter.com/JPTG119) | Responsible for media and community
 
-KP [@KPeruggi](https://twitter.com/KujiPeruggi)| Creates high quality written content                                               &#x20;
+KP [@KPeruggi](https://twitter.com/KujiPeruggi) | Content and Outreach                                               &#x20;

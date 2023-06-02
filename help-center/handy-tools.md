@@ -16,6 +16,8 @@ BLUE and SONAR are the two easiest ways to track and manage holdings on the Kuji
 
 ## Dashboards
 
+[Kujira Contract Directory](https://rorcual-nodes.github.io/contracts/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7)
+
 [Kujira Track](https://kujira-track.app/)
 
 [SmartStake](https://kujira.smartstake.io/)

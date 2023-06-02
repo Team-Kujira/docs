@@ -88,7 +88,8 @@
     * [📰 How to View a Wallet's Balance](dapps-and-infrastructure/finder/product-guides/how-to-view-the-balance-of-a-wallet.md)
     * [📰 How to Bookmark Wallets for Tracking](dapps-and-infrastructure/finder/product-guides/how-to-bookmark-wallets-for-tracking.md)
     * [📰 How to View and Manage Bookmarked Wallets](dapps-and-infrastructure/finder/product-guides/how-to-view-and-manage-bookmarked-wallets.md)
-* [👻 GHOST (Money Market)](dapps-and-infrastructure/ghost-money-market.md)
+* [👻 GHOST (Money Market)](dapps-and-infrastructure/ghost-money-market/README.md)
+  * [Page 1](dapps-and-infrastructure/ghost-money-market/page-1.md)
 * [🐬 ORCA (Liquidations)](dapps-and-infrastructure/orca/README.md)
   * [🔢 Basics](dapps-and-infrastructure/orca/basics/README.md)
     * [🚛 Lending Markets](dapps-and-infrastructure/orca/basics/lending-markets/README.md)
@@ -168,8 +169,8 @@
 * [🗼 The Kujira Senate](governance/the-kujira-senate/README.md)
   * [💰 Treasury](governance/the-kujira-senate/treasury.md)
 * [⚔ Discord Governance Forum](governance/discord-governance-forum.md)
-* [👓 Smart Stake](governance/smart-stake.md)
 * [🐚 Capybara Labs](governance/capybara-labs.md)
+* [👓 Smart Stake](governance/smart-stake.md)
 
 ## 🏗 Our Venture-Builder Program
 

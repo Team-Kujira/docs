@@ -2,7 +2,7 @@
 
 ## Overview
 
-Although many lending markets on ORCA use USK. Since the launch of GHOST, there are ORCA markets with other bid denominations. Users must obtain those assets to bid on liquidated collateral at a discount in those markets. All of these markets have xAsset bid denominations. xAssets such as xUSK, xaxlUSDC, xKUJI, xATOM, etc. can be obtained by lending the corresponding assets (USK, axlUSDC, KUJI, ATOM, etc.) on [GHOST](../../../ghost-money-market.md).
+Although many lending markets on ORCA use USK. Since the launch of GHOST, there are ORCA markets with other bid denominations. Users must obtain those assets to bid on liquidated collateral at a discount in those markets. All of these markets have xAsset bid denominations. xAssets such as xUSK, xaxlUSDC, xKUJI, xATOM, etc. can be obtained by lending the corresponding assets (USK, axlUSDC, KUJI, ATOM, etc.) on [GHOST](../../../ghost-money-market/).
 
 xAsset lending markets can be separated into two subgroups: stablecoin lending markets & non-stablecoin lending markets. ORCA stablecoin lending markets operate identically to USK lending markets. The biggest difference is that xAssets accrue yield over time from GHOST borrow interest--so even if these markets stay stagnant in the short-term, you are earning yield from GHOST. However, the real fun begins with non-stablecoin lending markets.
 

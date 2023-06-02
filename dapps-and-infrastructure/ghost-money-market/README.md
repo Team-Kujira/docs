@@ -1,6 +1,6 @@
 # 👻 GHOST (Money Market)
 
-## [https://ghost.kujira.app/](ghost-money-market.md#https-ghost.kujira.app)
+## [https://ghost.kujira.app/](./#https-ghost.kujira.app)
 
 ## INTRODUCTION
 
