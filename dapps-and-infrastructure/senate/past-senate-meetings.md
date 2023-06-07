@@ -76,5 +76,7 @@ Ghost Games is almost done with milestone 1 and are just waiting on initial peer
 
 **May 31, 2023 Senate Meeting 20:**  Mike came on to present MantaDAO's detailed liquidity strategy and provided context around his thought process and goals. Senators, armed with community feedback, considered various pros and cons of different approaches and continued the overall MantaDAO grant discussion over the course of 70 minutes. The Senate is keen on funding the grant.
 
+**June 7, 2023 Senate Meeting 21:** Hans & Amit have checked the Ghost Games smart contract (pre-testnet), so the Senate will provide 3750 axlUSDC to fund work on milestone 2 (the front end) next. Senators discussed how to increase proposal visibility including using specific chats. They considered ways to share their opinions on votes in forum posts, on-chain in proposals, or in a spreadsheet for record keeping purposes. They discussed weekly rotating tasks for public transparency & comms involving Twitter & more. Finally, Senators began planning the upcoming election.
+
 
 
