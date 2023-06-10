@@ -2,16 +2,16 @@
 
 ## 🎆 Introduction
 
-* [🐋 Kujira Empowers Everyone](README.md)
-  * [📱 Ecosystem](introduction/what-is-kujira/appchain-ecosystem.md)
-  * [🎊 Where Everyone can be a Whale](introduction/what-is-kujira/a-grand-whalecome-to-kujira.md)
-  * [🎓 Grown-Up DeFi (GUD)](introduction/what-is-kujira/grown-up-defi-gud.md)
-* [✨ Why Kujira](introduction/why-kujira/README.md)
+* [✨ Why Kujira](README.md)
   * [💻 User and Developer Experience](introduction/why-kujira/user-and-developer-experience.md)
   * [⚖ Values](introduction/why-kujira/values/README.md)
     * [👥 Principles](introduction/why-kujira/values/principles.md)
     * [🌳 Sustainability](introduction/why-kujira/values/sustainability.md)
 * [👨💻 👨💻 Meet Team Kujira](introduction/who-are-team-kujira.md)
+* [🐋 Kujira Empowers Everyone](<README (1).md>)
+  * [📱 Ecosystem](introduction/what-is-kujira/appchain-ecosystem.md)
+  * [🎊 Where Everyone can be a Whale](introduction/what-is-kujira/a-grand-whalecome-to-kujira.md)
+  * [🎓 Grown-Up DeFi (GUD)](introduction/what-is-kujira/grown-up-defi-gud.md)
 
 ## 🏝 Kujira Ecosystem
 
@@ -132,6 +132,7 @@
   * [🗓 Scheduler](developers/smart-contracts/scheduler.md)
   * [🎲 Entropy Beacon](developers/smart-contracts/entropy-beacon.md)
 * [💠 Core Module Accounts](developers/core-module-accounts.md)
+* [📄 List of Tokens](developers/list-of-tokens.md)
 * [🎛 dApp Front Ends](developers/dapp-front-ends/README.md)
   * [📊 FIN](developers/dapp-front-ends/fin.md)
 * [✉ Contacting the Team](developers/contacting-the-team.md)
