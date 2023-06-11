@@ -2,16 +2,16 @@
 
 ## 🎆 Introduction
 
-* [✨ Why Kujira](README.md)
+* [🐋 Kujira Empowers Everyone](README.md)
+  * [📱 Ecosystem](introduction/what-is-kujira/appchain-ecosystem.md)
+  * [🎊 Where Everyone can be a Whale](introduction/what-is-kujira/a-grand-whalecome-to-kujira.md)
+  * [🎓 Grown-Up DeFi (GUD)](introduction/what-is-kujira/grown-up-defi-gud.md)
+* [✨ Why Kujira](<README (1).md>)
   * [💻 User and Developer Experience](introduction/why-kujira/user-and-developer-experience.md)
   * [⚖ Values](introduction/why-kujira/values/README.md)
     * [👥 Principles](introduction/why-kujira/values/principles.md)
     * [🌳 Sustainability](introduction/why-kujira/values/sustainability.md)
 * [👨💻 👨💻 Meet Team Kujira](introduction/who-are-team-kujira.md)
-* [🐋 Kujira Empowers Everyone](<README (1).md>)
-  * [📱 Ecosystem](introduction/what-is-kujira/appchain-ecosystem.md)
-  * [🎊 Where Everyone can be a Whale](introduction/what-is-kujira/a-grand-whalecome-to-kujira.md)
-  * [🎓 Grown-Up DeFi (GUD)](introduction/what-is-kujira/grown-up-defi-gud.md)
 
 ## 🏝 Kujira Ecosystem
 
@@ -89,7 +89,8 @@
     * [📰 How to Bookmark Wallets for Tracking](dapps-and-infrastructure/finder/product-guides/how-to-bookmark-wallets-for-tracking.md)
     * [📰 How to View and Manage Bookmarked Wallets](dapps-and-infrastructure/finder/product-guides/how-to-view-and-manage-bookmarked-wallets.md)
 * [👻 GHOST (Money Market)](dapps-and-infrastructure/ghost-money-market/README.md)
-  * [Page 1](dapps-and-infrastructure/ghost-money-market/page-1.md)
+  * [💳 Borrow](dapps-and-infrastructure/ghost-money-market/borrow.md)
+  * [📒 Lend](dapps-and-infrastructure/ghost-money-market/lend.md)
 * [🐬 ORCA (Liquidations)](dapps-and-infrastructure/orca/README.md)
   * [🔢 Basics](dapps-and-infrastructure/orca/basics/README.md)
     * [🚛 Lending Markets](dapps-and-infrastructure/orca/basics/lending-markets/README.md)
