@@ -1,5 +1,7 @@
 # 📻 SONAR (Multichain Wallet)
 
+[https://sonar.kujira.app ](https://sonar.kujira.app)or [https://sonar.kujira.network ](https://sonar.kujira.network)
+
 ## INTRODUCTION
 
 [Sonar](https://mobile.twitter.com/SonarWallet) is a native mobile wallet app that aims to provide users with a seamless and intuitive experience for interacting with blockchain technology. Sonar is more than just a wallet for sending and receiving tokens, but rather a framework for a real payments platform for on-the-ground vendors, e-commerce merchants, and everyday users. It is integrated into key Kujira protocols that focus on payments and commerce, and has a goal of providing a transparent asset experience, allowing users to move their assets between different chains without having to worry about the underlying network.
@@ -18,6 +20,6 @@
 * Transparent asset management: The transparent asset experience offered by Sonar allows users to easily move their assets between different chains without having to worry about the underlying network.
 * Strong integration: Sonar is integrated into key Kujira protocols
 
-Making waves very soon.
+The Android and iPhone betas are now both live via TestFlight.&#x20;
 
 Live teaser [here](https://twitter.com/TeamKujira/status/1585000267279667200?s=20\&t=GqHj5hDbRL2vrkfxkC34pA). Sonar V1 February 22nd 2023 walkthrough [here](https://twitter.com/TeamKujira/status/1628490478713798656?s=20).

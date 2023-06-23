@@ -2,9 +2,9 @@
 description: Governance Structure for Kujira Blockchain
 ---
 
-# 🗼 SENATE (Grant Management)
+# 🗼 SENATE (Grant Oversight)
 
-## [https://blue.kujira.app/senate](https://blue.kujira.app/senate)
+[https://blue.kujira.app/senate](https://blue.kujira.app/senate) or [https://blue.kujira.network.senate](https://blue.kujira.network.senate)
 
 The Kujira Senate is a new governance structure for the Kujira blockchain that aims to facilitate validating on the platform, represent the values of the community, and support the stability and growth of the ecosystem. It is composed of up to 9 experts elected by the staking community and is accountable, transparent, and democratic.
 

@@ -1,6 +1,6 @@
 # 👜 Wallet
 
-## [https://blue.kujira.app/wallet](wallet.md#https-blue.kujira.app-wallet)&#x20;
+[https://blue.kujira.app/wallet](wallet.md#https-blue.kujira.app-wallet) or [https://blue.kujira.network/wallet](wallet.md#https-blue.kujira.app-wallet-or-https-blue.kujira.network-wallet)
 
 ## Overview
 

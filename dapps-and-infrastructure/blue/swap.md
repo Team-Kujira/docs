@@ -1,6 +1,6 @@
 # 🔀 Swap
 
-## [https://blue.kujira.app/swap](swap.md#https-blue.kujira.app-swap)
+[https://blue.kujira.app/swap](swap.md#https-blue.kujira.app-swap) or [https://blue.kujira.network/swap](swap.md#https-blue.kujira.app-swap-or-https-blue.kujira.network-swap)
 
 ## Simple Token Swap User Interface
 

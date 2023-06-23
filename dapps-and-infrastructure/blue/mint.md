@@ -1,5 +1,7 @@
 # 🖨 Mint
 
+[https://blue.kujira.app/mint](mint.md#https-blue.kujira.app-mint-or-https-blue.kujira.network-mint) or [https://blue.kujira.network/mint](mint.md#https-blue.kujira.app-mint-or-https-blue.kujira.network-mint)
+
 ## Overview
 
 The Mint tab is where you can mint [USK](../usk-stablecoin.md), which is a stablecoin pegged to the value of the US dollar, for a yearly 1% fee on all minted USK.

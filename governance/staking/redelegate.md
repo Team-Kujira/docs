@@ -6,7 +6,7 @@ Thankfully, Kujira allows Kujirans to redelegate at any time (with one caveat) f
 
 This cooldown is in place to help secure the network.
 
-Redelegation occurs on [the staking page](https://blue.kujira.app/stake) within the BLUE dApp. Simply select a validator that you are currently staked with. And then select redelegate.
+Redelegation occurs on [the staking page](../../dapps-and-infrastructure/blue/stake.md) within the BLUE dApp. Simply select a validator that you are currently staked with. And then select redelegate.
 
 <img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
 

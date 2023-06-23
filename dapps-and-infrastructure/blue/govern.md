@@ -8,13 +8,27 @@ For the time being, Governance proposals can be assigned to two discrete categor
 
 ## Senate
 
+[https://blue.kujira.app/senate](govern.md#https-blue.kujira.app-senate-or-https-blue.kujira.network-senate) or [https://blue.kujira.network/senate](govern.md#https-blue.kujira.app-senate-or-https-blue.kujira.network-senate)
+
 This tab has the Kujira senators listed each with links to their keybase.io. It is also possible to nominate Senators on this tab. Furthermore, there is a [link](https://medium.com/team-kujira/kujira-governance-grows-up-ca8b7c87753b) to reading more about the role of the Senate. More up to date information can also be found in the Senate [section](../senate.md) of the docs.
 
 On the right side of the page, there is a detailed breakdown of the Senate Treasury (Community Pool) in terms of every asset and the amount of each asset in the Treasury wallet as well as the current total dollar value of the fund. Furthermore, there is a link to the wallet address on FINDER on the bottom right for the sake of transparency.&#x20;
 
 In the future, it will be possible to submit Senate grant proposals on the BLUE senate tab. Senate proposals will take up to 2 weeks of review, but may pass sooner as long as at least 6 senators vote yes on a proposal. The result will automatically be a no if consensus is not achieved within that period.
 
+## Sentinel
+
+[https://blue.kujira.app/sentinel](govern.md#https-blue.kujira.app-sentinel-or-https-blue.kujira.network-sentinel) or [https://blue.kujira.network/sentinel](govern.md#https-blue.kujira.app-sentinel-or-https-blue.kujira.network-sentinel)
+
+The Kujira Sentinel is a technical companion to the Senate. By providing the CW4 multisig contract address with chain-wide contract instantiate permissions, Sentinel creates better development velocity and autonomy for protocol builders, without sacrificing security.&#x20;
+
+Furthermore, by delegating contract instantiation permissions to a multisig of a select group of trusted technical experts, deployed code can be assessed and verified more rigorously than is currently possible with global governance deployments.
+
+Long-term, the Kujira Sentinel will create a foundation for a peer-led audit and review process, significantly reducing the cost to teams launching new protocols, a competitive edge for Kujira.
+
 ## Chain Governance
+
+[https://blue.kujira.app/govern](govern.md#https-blue.kujira.app-govern-or-https-blue.kujira.network-govern) or [https://blue.kujira.network/govern](govern.md#https-blue.kujira.app-govern-or-https-blue.kujira.network-govern)
 
 Governance proposals are submitted by members of the Kujira community and can cover a wide range of topics, including updates to the Kujira platform, changes to network parameters, and new features or services. These proposals are discussed and debated in the Kujira community, and then put to a vote for approval or rejection.
 

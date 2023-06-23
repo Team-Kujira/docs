@@ -4,9 +4,9 @@ description: >-
   backed by $ATOM, $DOT, $wBNB, $wETH, $gPAXG, and $LUNA
 ---
 
-# 🐎 USK Stablecoin
+# 🐎 USK (Stablecoin)
 
-## [https://blue.kujira.app/mint](https://blue.kujira.app/mint)
+[https://blue.kujira.app/mint](https://blue.kujira.app/mint) or [https://blue.kujira.network/mint](https://blue.kujira.network/mint)&#x20;
 
 Kujira's USK stablecoin is a decentralized stablecoin that is soft-pegged to the US dollar and initially backed by ATOM, DOT, wETH, wBNB, LUNA, and gPAXG (with nBTC to be added when live). It is an overcollateralized stablecoin, meaning that it is backed at a minimum of 166%. This helps to ensure the stability of the stablecoin and reduce the risk of liquidation.
 

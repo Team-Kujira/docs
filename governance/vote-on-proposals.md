@@ -14,4 +14,4 @@ It's worth noting that if you don't vote on a proposal, your vote will be deferr
 
 Overall, voting on governance proposals is a key way to participate in the Kujira community and help shape the future of the network. Make sure to make your voice heard by voting and expressing your views on proposals.
 
-[https://blue.kujira.app/govern](https://blue.kujira.app/govern)
+[https://blue.kujira.app/govern](https://blue.kujira.app/govern) or [https://blue.kujira.network/govern](https://blue.kujira.network/govern)&#x20;

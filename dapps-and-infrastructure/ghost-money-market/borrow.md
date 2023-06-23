@@ -4,7 +4,7 @@ description: Gain exposure to market movements without selling
 
 # 💳 Borrow
 
-## [https://ghost.kujira.app/borrow](https://ghost.kujira.app/borrow)
+[https://ghost.kujira.app/borrow](https://ghost.kujira.app/borrow) or [https://ghost.kujira.network/borrow](https://ghost.kujira.network/borrow)
 
 ## Introduction
 

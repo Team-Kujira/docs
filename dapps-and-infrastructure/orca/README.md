@@ -4,7 +4,7 @@ description: Democratized DeFi Liquidations
 
 # 🐬 ORCA (Liquidations)
 
-## [https://orca.kujira.app/](https://orca.kujira.app/)
+[https://orca.kujira.app/](https://orca.kujira.app/) or [https://orca.kujira.network/](https://orca.kujira.network/)
 
 ### Liquidate multiple assets across the whole of Cosmos at the click of a button. No bots, no code, no problems.
 

@@ -4,7 +4,7 @@ description: Easily track BOW liquidity provision (LP) performance
 
 # 📊 Dashboard
 
-## [https://bow.kujira.app/dashboard](https://bow.kujira.app/dashboard)
+[https://bow.kujira.app/dashboard](https://bow.kujira.app/dashboard) or [https://bow.kujira.network/dashboard](https://bow.kujira.network/dashboard)
 
 ## Track LP performance using the BOW dashboard
 
