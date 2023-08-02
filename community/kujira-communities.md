@@ -6,4 +6,4 @@ By placing a spotlight on a few of these communities, we want to bring to light 
 
 At the moment, although official Kujira communications are largely in English, the Kujira Discord, has many community channels for speakers of other languages. We are happy to create new channels if there is enough interest from members of any particular community.&#x20;
 
-Furthermore, we would like to give a hearty shout out to [CeKe](https://twitter.com/CryptoCeKe), and his spirited admin team, who have created the Telegram community Kujira En Espanol that translates official Kujira news into Spanish and is aimed at Spanish speakers [https://twitter.com/KujiraEnEspanol](https://twitter.com/KujiraEnEspanol).&#x20;
+Furthermore, we would like to give a hearty shout out to the vibrant [Kujira En Espanol](https://twitter.com/KujiraEnEspanol), [Kujira Turkey](https://twitter.com/KujiraTurkiye), and [Kujira Germany](https://twitter.com/KujiraGER) communities, which are run by awesome community members. They all translate official Kujira content and double as cultural hubs for native speakers.&#x20;
