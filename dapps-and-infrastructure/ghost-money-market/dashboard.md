@@ -1,6 +1,6 @@
 # 📱 Dashboard
 
-The Dashboard tab is GHOST's frontpage.&#x20;
+The Dashboard tab contains a simple user interface that allows users to track all of their open positions.&#x20;
 
 The GHOST Dashboard contains two sections: 'Borrow Positions' and 'Lending Positions'.&#x20;
 
