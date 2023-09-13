@@ -36,9 +36,9 @@ For example, below is the corresponding graph for axlUSDC:
 
 For any asset available to be lent on GHOST, by navigating to that row of the table, and clicking on 'Lend', you can then enter however much you would like of said asset (up to the maximum amount available in your wallet) and click 'Lend ...' to provide the asset on GHOST.
 
-All lenders on GHOST provide liquidity by lending assets to the platform and get paid a variable interest rate as compensation. When users deposit N units of an asset called “NAME” into the platform, they will receive N liquid units of an asset called “xNAME” in their wallet.&#x20;
+All lenders on GHOST provide liquidity by lending assets to the platform and get paid a variable interest rate as compensation. When users deposit N units of an asset called “TOKEN” into the platform, they will receive N liquid units of an asset called “xTOKEN” in their wallet.&#x20;
 
-xNAME is similar to a receipt token that represents a claim to lent NAME on GHOST. xNAME can be traded on FIN, sent to other wallets, or used with ORCA to bid on liquidations. This is especially attractive as units of xNAME automatically accrue interest that is collected from NAME borrowers’ open loan positions on GHOST. When the lender eventually redeems their xNAME, they will receive back all their NAME and some extra NAME corresponding to that accrued interest.
+xTOKEN is similar to a receipt token that represents a claim to lent TOKEN on GHOST. xTOKEN can be traded on FIN, sent to other wallets, or used with ORCA to bid on liquidations. This is especially attractive as units of xTOKEN automatically accrue interest that is collected from TOKEN borrowers’ open loan positions on GHOST. When the lender eventually redeems their xTOKEN, they will receive back all their TOKEN and some extra TOKEN corresponding to that accrued interest.
 
 Lent assets can be withdrawn on GHOST, by clicking on the ![](<../../.gitbook/assets/image (54).png>)symbol to the right of the lend button contained in the 'your deposit value' column of the table, entering the amount and then clicking 'withdraw ...'
 
