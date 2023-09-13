@@ -89,6 +89,7 @@
     * [📰 How to Bookmark Wallets for Tracking](dapps-and-infrastructure/finder/product-guides/how-to-bookmark-wallets-for-tracking.md)
     * [📰 How to View and Manage Bookmarked Wallets](dapps-and-infrastructure/finder/product-guides/how-to-view-and-manage-bookmarked-wallets.md)
 * [👻 GHOST (Money Market)](dapps-and-infrastructure/ghost-money-market/README.md)
+  * [🔢 Basics](dapps-and-infrastructure/ghost-money-market/basics.md)
   * [💳 Borrow](dapps-and-infrastructure/ghost-money-market/borrow.md)
   * [📒 Lend](dapps-and-infrastructure/ghost-money-market/lend.md)
 * [🐬 ORCA (Liquidations)](dapps-and-infrastructure/orca/README.md)
