@@ -16,7 +16,7 @@ All borrowers must put up collateral (in asset "C") in order to take out a loan 
 
 Depending on the perceived risk relationship between the supplied collateral asset (asset C) and borrowed loan asset (asset L), there is an underlying max allowable loan-to-value (LTV) ratio belonging to that loan. Say the value of the provided collateral is $$v_{c}$$and the value of the borrowed loan is $$v_{l},$$then the current LTV of that loan is$$\frac{v_{l}}{v_{c}}$$(any decimal can be converted into a percentage by multiplying it by 100%).
 
-For stablecoins borrowed against provided stablecoins, the loan is considered relatively safe so the max allowable LTV is 95%. For tokens borrowed against liquid staking derivative version of themselves, they generally have a higher max allowable LTV which depends on each particular case. And in almost every other case, when borrowing one asset against another unrelated asset, the max allowable LTV is 60%. The only exception is when borrowing funds against provided KUJI collateral. The max allowable LTV is 50% which ensures a more stable environment for KUJI as an asset.&#x20;
+For stablecoins borrowed against provided stablecoins, the loan is considered relatively safe so they have slightly higher max allowable LTVs. For tokens borrowed against liquid staking derivative versions of themselves, they generally have a higher max allowable LTV which depends on each particular case. And in almost every other case, when borrowing one asset against another unrelated asset, the max allowable LTV is 60%. The only exception is when borrowing funds against provided KUJI collateral. The max allowable LTV is slightly lower to create less instability in KUJI price.
 
 ### General example
 
