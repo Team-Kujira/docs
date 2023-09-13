@@ -4,7 +4,7 @@
 
 GHOST is Kujira's premier Money Market. As a decentralized money market, GHOST allows would-be lenders and borrowers to cooperate by providing a convenient supply-demand framework. Furthermore, it generates attractive returns for market participants without relying on artificial incentives.  &#x20;
 
-Since GHOST is a decentralized money market, suppliers are covered even if borrowers default on their loans. Furthermore, since all loans on GHOST are overcollateralized, borrowers don't have to apply for loans or go through credit checks. Opening or closing a loan and supplying or redeeming supplied assets is a near instant process that can be done at nearly anytime. The only exception is when the utilization of an asset reaches 100%. In this case, supplied assets of that type cannot be redeemed until some are returned (or more are supplied) to the platform.&#x20;
+Since GHOST is a decentralized money market, suppliers are covered even if borrowers fail to repay their loans. Furthermore, since all loans on GHOST are overcollateralized, borrowers don't have to apply for loans or go through credit checks. Opening or closing a loan and supplying or redeeming supplied assets is a near instant process that can be done at nearly anytime. The only exception is when the utilization of an asset reaches 100%. In this case, supplied assets of that type cannot be redeemed until some are returned (or more are supplied) to the platform.&#x20;
 
 Suppliers supply assets to GHOST to earn variable interest on those provided assets based on their overall utilization by borrowers. Borrowers borrow assets supplied on GHOST (by others) in order to participate in financial speculation or take out loans without selling underlying assets. Borrowers are charged variable interest over time dependent on the borrowed assets' overall utilization by borrowers. This interest rate cycles between high and low over time based on inherent market demand and GHOST's framework. [Here's more about how the interest rate works](basics.md#how-interest-works-on-ghost).
 
@@ -12,7 +12,7 @@ When borrowers fail to pay back their loans in time due to decreases in collater
 
 ## Borrowing on GHOST
 
-All borrowers must put up collateral (in asset "C") in order to take out a loan (in a different asset "L")--this collateral is not supplied to GHOST in the same sense as with "suppliers". The collateral cannot be borrowed by other users and it sits on the platform mainly as a guarantee to ensure the underlying integrity of a corresponding loan in case a borrower defaults.
+All borrowers must put up collateral (in asset "C") in order to take out a loan (in a different asset "L")--this collateral is not supplied to GHOST in the same sense as with "suppliers". The collateral cannot be borrowed by other users and it sits on the platform mainly as a guarantee to ensure the underlying integrity of a corresponding loan. This is necessary in case borrowers exceed max safety on their loans in which case their deposited collateral gets liquidated on ORCA and they get to keep any borrowed funds.
 
 Depending on the perceived risk relationship between the supplied collateral asset (asset C) and borrowed loan asset (asset L), there is an underlying max allowable loan-to-value (LTV) ratio belonging to that loan. Say the value of the provided collateral is $$v_{c}$$and the value of the borrowed loan is $$v_{l},$$then the current LTV of that loan is$$\frac{v_{l}}{v_{c}}$$(any decimal can be converted into a percentage by multiplying it by 100%).
 
@@ -30,9 +30,9 @@ More advanced examples of how to understand and work with borrowing can be found
 
 ## Lending on GHOST
 
-All lenders on GHOST provide liquidity by lending assets to the platform and get paid a variable interest rate as compensation. When users deposit N units of an asset called “NAME” into the platform, they will receive N liquid units of an asset called “xNAME” in their wallet.&#x20;
+All lenders on GHOST provide liquidity by lending assets to the platform and get paid a variable interest rate as compensation. When users deposit N units of an asset called “TOKEN” into the platform, they will receive N liquid units of an asset called “xTOKEN” in their wallet.&#x20;
 
-xNAME is similar to a receipt token that represents a claim to lent NAME on GHOST. xNAME can be traded on FIN, sent to other wallets, or used with ORCA to bid on liquidations. This is especially attractive as units of xNAME automatically accrue interest that is collected from NAME borrowers’ open loan positions on GHOST. When the lender eventually redeems their xNAME, they will receive back all their NAME and some extra NAME corresponding to that accrued interest.
+xTOKEN is similar to a receipt token that represents a claim to lent TOKEN on GHOST. xTOKEN can be traded on FIN, sent to other wallets, or used with ORCA to bid on liquidations. This is especially attractive as units of xTOKEN automatically accrue interest that is collected from TOKEN borrowers’ open loan positions on GHOST. When the lender eventually redeems their xTOKEN, they will receive back all their TOKEN and some extra TOKEN corresponding to that accrued interest.
 
 For example, if you lend 10 ATOM on GHOST, you will receive 10 xATOM in your wallet. Say you leave those ATOM lent to GHOST for a few months and redeem your ATOM at that time. Depending on utilization levels and how much interest was accrued during that period of time from other ATOM borrowers, you may receive back 10 ATOM, 10.1 ATOM, 11 ATOM, etc.&#x20;
 
