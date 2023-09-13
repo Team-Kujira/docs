@@ -22,9 +22,7 @@ For stablecoins borrowed against provided stablecoins, the loan is considered re
 
 Now, for a more concrete example. Let's say at time $$0$$ user U has provided X units of asset C to borrow Y units of assets L; the prices of asset C and L at time t respectively are $$p_{c}(t)$$and $$p_{l}(t);$$ the max allowable loan-to-value (LTV) of asset C as collateral to asset L as a loan is K; and $$I(t)$$is a function representing the instantaneous variable interest rate of asset Y over time. Then, the borrowed funds (the Y units of L), will be liquidated at any future time $$t$$ if&#x20;
 
-$$K < \frac{ \text{value of borrowed loan}}{ \text{value of provided collateral}}+\text{accrued interest until time } t=\frac{yp_{l}(t)}{xp_{c}(t)}+\frac{yp_{l}(t)}{xp_{c}(t)}\int\limits_{0}{t}I(s)ds$$
-
-
+$$K < \frac{ \text{value of borrowed loan}}{ \text{value of provided collateral}}+\text{accrued interest until time } t=\frac{yp_{l}(t)}{xp_{c}(t)}+\frac{yp_{l}(t)}{xp_{c}(t)}\int\limits_{0}^{t}I(s)ds$$
 
 An easier way to think about the maximum allowable LTV is to understand that the interest rate reflects the amount of extra funds you will need to pay back (if you keep your loan open for a sustained period of time). Any extra funds you need to pay back increase your position's LTV and get you closer to liquidation. LTV can also change in other ways. If the price of the asset you provided as collateral goes down, then the LTV will increase. Similarly, if the price of the asset you borrowed goes up, then the LTV will increase. Of course, the reverse can also happen, and push the LTV lower--this is why, it is generally recommended to borrow stablecoins and use relatively stable or high quality assets you are bullish on as collateral (unless you are experienced).
 
