@@ -10,6 +10,8 @@ This tab contains a table of all existing assets that can be lent on GHOST inclu
 
 The table can be sorted ascending or descending by any of these 7 categories at your own convenience.&#x20;
 
+<figure><img src="../../.gitbook/assets/Lend Table.png" alt=""><figcaption></figcaption></figure>
+
 'Asset Name' is the asset symbol. For example, Wrapped Bitcoin has wBTC as its asset name.
 
 'Total Deposited' is the total amount of an asset lent to GHOST collectively across all lenders.
