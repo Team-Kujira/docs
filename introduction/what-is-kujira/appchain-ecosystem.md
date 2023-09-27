@@ -7,6 +7,6 @@ Kujira is a blockchain ecosystem driven first and foremost by its suite of syner
 * [BLUE](https://blue.kujira.app/), the heart of the Kujira ecosystem$$-$$a hub containing a KUJI dashboard, KUJI staking, governance voting, KUJI swapping, Kujira Network bridging / IBC'ing, and rewards claiming
 * [FINDER](https://finder.kujira.app/), a tool to search for present and historical data on the Kujira blockchain
 * [USK](https://blue.kujira.app/mint), a decentralized over-collateralized stablecoin only backed by uncensorable collateral
-* [Sonar](../../dapps-and-infrastructure/kujira-wallet.md), an upcoming sleek, next generation Cosmos wallet which will be available on various desktop and mobile platforms
+* [Sonar](../../dapps-and-infrastructure/kujira-wallet/), an upcoming sleek, next generation Cosmos wallet which will be available on various desktop and mobile platforms
 * [The Kujira Senate](../../dapps-and-infrastructure/senate.md), a new powerful governance mechanism that will springboard decentralization and make Kujira substantially more agile
 * [POD](../../dapps-and-infrastructure/pod/), a decentralization enhancing staking UI built for Cosmos Network

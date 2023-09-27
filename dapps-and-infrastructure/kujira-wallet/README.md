@@ -1,4 +1,4 @@
-# 📻 SONAR (Multichain Wallet)
+# 🧿 SONAR (Multichain Wallet)
 
 [https://sonar.kujira.app ](https://sonar.kujira.app)or [https://sonar.kujira.network ](https://sonar.kujira.network)
 

@@ -1,20 +1,21 @@
 ---
 description: >-
-  An over-collateralized Cosmos stablecoin soft-pegged to the USD and initially
-  backed by $ATOM, $DOT, $wBNB, $wETH, $gPAXG, and $LUNA
+  An over-collateralized Cosmos stablecoin soft-pegged to the USD and backed by
+  a variety of collateral including ATOM, wBTC, wETH, wstETH, wBNB, stATOM,
+  wAVAX, DOT, gPAXG, MNTA, and LUNA
 ---
 
 # 🐎 USK (Stablecoin)
 
 [https://blue.kujira.app/mint](https://blue.kujira.app/mint) or [https://blue.kujira.network/mint](https://blue.kujira.network/mint)&#x20;
 
-Kujira's USK stablecoin is a decentralized stablecoin that is soft-pegged to the US dollar and initially backed by ATOM, DOT, wETH, wBNB, LUNA, and gPAXG (with nBTC to be added when live). It is an overcollateralized stablecoin, meaning that it is backed at a minimum of 166%. This helps to ensure the stability of the stablecoin and reduce the risk of liquidation.
+Kujira's USK stablecoin is a decentralized stablecoin that is soft-pegged to the US dollar and  backed by a variety of collateral including ATOM, wBTC, wETH, wBNB, LUNA, MNTA, DOT, and gPAXG (a full list can be found [here](https://blue.kujira.network/mint)). It is an overcollateralized stablecoin, meaning that it is backed at a minimum of 166%. This helps ensure the stablecoin's stability and reduces risk of liquidation.
 
 * Mint USK by depositing collateral on the Kujira platform
 * Manage USK through the platform's dashboard
 * Maintain a low loan-to-value (LTV) ratio to avoid the risk of liquidation
 * In the event of a liquidation, collateral is put up for auction on [ORCA](orca/)
-* Users can bid on the collateral to help protect the stablecoin and obtain the collateral at a discount
+* Users can bid on collateral to help protect the stablecoin and obtain the collateral at a discount
 
 USK is designed to be sustainable, robust, and usable for payments and commerce. Its codebase is written in Rust, which is a more robust and expressive language than Solidity or JavaScript. Rust is also inherently built to be safer (bug-resistant) and is increasingly used for financial applications due to its level of safety guarantees. As a native Cosmos stablecoin, USK has the potential to drive value accrual for ATOM and can be used for other purposes in the future. It is integrated into the ORCA platform to allow for seamless and publicly accessible liquidations. The USK mechanism is intended to be sovereign, uncensorable, and revenue-generating, and it is intended to provide a secure and reliable foundation for decentralized finance.
 
