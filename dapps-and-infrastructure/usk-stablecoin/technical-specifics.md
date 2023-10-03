@@ -24,9 +24,9 @@ For example, suppose that the maximum allowed LTV is 60% for wBNB supplied to mi
 
 ## Backing Composition&#x20;
 
-USK collateral composition is decided by Kujira community governance. At the moment, the community has been following team guidance of using a 1 million token USK mint cap per backing collateral type to ensure proper diversification of USK backing funds in case of a black swan. The strategy has been working well so far as USK experienced essentially zero volatility throughout the FTX crisis.
+USK collateral composition is decided by Kujira community governance. At the moment, the community has been ensuring diverse USK mint caps uniquely tailored to each backing collateral type to ensure proper diversification of USK backing funds in case of a black swan. The strategy has been working well so far as USK experienced essentially zero volatility throughout the FTX crisis.
 
-The specific backing composition breakdown can be analyzed in real time via either the [dashboard](../bow/dashboard.md) on [blue.kujira.app](https://blue.kujira.app/) or directly via [blue.kujira.app/mint](https://blue.kujira.app/mint). At the moment, USK is backed by ATOM, wrapped ETH, wrapped DOT, wrapped BNB, LUNA, MNTA, and bridged PAXG that are sitting in smart contracts on Kujira which can essentially be used to redeem USK at any time. LUNA has a 300 thousand USK mint cap for the time being whereas the other collateral types have a 1 million USK mint cap. Nomic Bridge Bitcoin is planned to be a supported collateral option in the future once it releases.
+The specific backing composition breakdown can be analyzed in real time via either the [dashboard](../bow/dashboard.md) on [blue.kujira.app](https://blue.kujira.app/) or directly via [blue.kujira.app/mint](https://blue.kujira.app/mint). At the moment, USK is backed by various collateral types including ATOM, wrapped ETH, wrapped DOT, wrapped BNB, LUNA, MNTA, and bridged PAXG that are sitting in smart contracts on Kujira which can essentially be used to redeem USK at any time. Mint cap sizes correspond to the perceived stability of backing collateral. As the supply of USK grows, mint caps will be grown accordingly. Nomic Bridge Bitcoin, nBTC, is planned to be a supported collateral option once it releases later this month.
 
 ## Mint Process
 
@@ -61,6 +61,8 @@ There are other inbuilt mechanisms that help stabilize and influence the USK pri
 As is, as CDP liquidated collateral is purchased at a 30% premium at maximum, over time USK should actually be more than 160% backed, as more USK is burnt than then the amount of backing collateral liquidated from the CDP that would be need to be present to mint that much USK.
 
 In the near future, there will be even more mechanics that help keep the USK price stable and accurate to the 1 USD soft peg.&#x20;
+
+Recently, a new experimental Kujira BOW algorithm launched which requires far less liquidity to keep USK price significantly more stable.
 
 ## Payment Aspects
 
