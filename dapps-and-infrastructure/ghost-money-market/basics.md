@@ -38,7 +38,7 @@ xTOKEN is similar to a receipt token that represents a claim to lent TOKEN on GH
 
 For example, if you lend 10 ATOM on GHOST, you will receive 10 xATOM in your wallet. Say you leave those ATOM lent to GHOST for a few months and redeem your ATOM at that time. Depending on utilization levels and how much interest was accrued during that period of time from other ATOM borrowers, you may receive back 10 ATOM, 10.1 ATOM, 11 ATOM, etc.&#x20;
 
-Using xAssets to liquidate collateral on ORCA is particularly exciting because doing so is equivalent to selling the underlying xTOKEN at a local market top (i.e. when it is most expensive) at up to $$\frac{1}{1-30\%}=\frac{1}{0.7}=42.8\%$$ above the maximum possible market price at that time.
+Using xAssets to liquidate collateral on ORCA is particularly exciting because doing so is equivalent to selling the underlying xTOKEN at a local market top (i.e. when it is most expensive) at $$\frac{1}{1-30\%}=\frac{1}{0.7}=142.8\%$$ of (or 42.8% above) the maximum possible market price at that time.
 
 ## How interest works on GHOST
 
@@ -56,7 +56,7 @@ ORCA has been overhauled in order to smoothly integrate GHOST. In this framework
 
 For example, if GHOST users are able to borrow ATOM (lent by suppliers) against their own provided USK collateral, then an axlUSDC-xATOM liquidation queue will exist on ORCA–where users can bid on liquidated axlUSDC using xATOM at a discount of up to 30%. Note 1. the maximum allowed LTV and maximum allowed discount on ORCA take each other into account and 2. when a user bids with their xATOM on ORCA to purchase discounted axlUSDC, they are forfeiting their receipt/claim to the corresponding supplied ATOM on GHOST. .
 
-That is to say, after a liquidator purchases liquidated axlUSDC at a 30% discount, since the position is liquidated when the LTV of the borrowed ATOM loan position reaches 60%--this ensures that the loan is approximately 160% overcollateralized at the time of liquidation–and even after a 30% discount is applied, the position is still 112% overcollateralized.
+That is to say, after a liquidator purchases liquidated axlUSDC at a 30% discount, since the position is liquidated when the LTV of the borrowed ATOM loan position reaches 60%--this ensures that the loan is approximately 166% overcollateralized at the time of liquidation–and even after a 30% discount is applied, the position is still 116.7% overcollateralized.
 
 Therefore, say the liquidator puts down $70 worth of xATOM on ORCA to purchase the $100 of liquidated axlUSDC at a 30% discount. The liquidator receives $100 of axlUSDC, and ORCA receives $70 worth of xATOM which go back to GHOST to replenish the original lender’s supplied ATOM.&#x20;
 
