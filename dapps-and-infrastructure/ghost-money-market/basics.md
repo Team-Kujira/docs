@@ -26,7 +26,7 @@ $$K < \frac{ \text{value of borrowed loan }+\text{ accrued interest until time }
 
 An easier way to think about the maximum allowable LTV is to understand that the interest rate reflects the amount of extra funds you will need to pay back (if you keep your loan open for a sustained period of time). Any extra funds you need to pay back increase your position's LTV and get you closer to liquidation. LTV can also change in other ways. If the price of the asset you provided as collateral goes down, then the LTV will increase. Similarly, if the price of the asset you borrowed goes up, then the LTV will increase. Of course, the reverse can also happen, and push the LTV lower--this is why, it is generally recommended to borrow stablecoins and use relatively stable or high quality assets you are bullish on as collateral (unless you are experienced).
 
-The simple mental calculation with APR is that when your current loan amount is $$v_{l}$$ and your yearly interest rate is i, then assuming a constant interest rate, in two months, your accrued interest will be $$v_{l}*\frac{i}{6}$$since only 1/6th of a year would have passed (assuming no changes in the loan value).&#x20;
+The simple mental calculation with APR is that when your current loan amount is $$v_{l}$$ and your yearly interest rate is i%, then assuming a constant interest rate, in two months, your accrued interest will be $$v_{l}*\frac{i\%}{6}$$since only 1/6th of a year would have passed (assuming no changes in the loan value).&#x20;
 
 More advanced examples of how to understand and work with borrowing can be found under advanced tutorials.
 
@@ -38,7 +38,7 @@ xTOKEN is similar to a receipt token that represents a claim to lent TOKEN on GH
 
 For example, if you lend 10 ATOM on GHOST, you will receive 10 xATOM in your wallet. Say you leave those ATOM lent to GHOST for a few months and redeem your ATOM at that time. Depending on utilization levels and how much interest was accrued during that period of time from other ATOM borrowers, you may receive back 10 ATOM, 10.1 ATOM, 11 ATOM, etc.&#x20;
 
-Using xAssets to liquidate collateral on ORCA is particularly exciting because doing so is equivalent to selling the underlying xAsset at a local market top (i.e. when it is most expensive) at up to $$\frac{1}{1-30\%}=\frac{1}{0.7}=42.8\%$$ above the maximum possible market price at that time.
+Using xAssets to liquidate collateral on ORCA is particularly exciting because doing so is equivalent to selling the underlying xTOKEN at a local market top (i.e. when it is most expensive) at up to $$\frac{1}{1-30\%}=\frac{1}{0.7}=42.8\%$$ above the maximum possible market price at that time.
 
 ## How interest works on GHOST
 
