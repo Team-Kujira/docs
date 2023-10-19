@@ -189,7 +189,7 @@
   * [🍡 Staking UI](governance/staking/staking-ui.md)
 * [📋 Vote on Proposals](governance/vote-on-proposals.md)
 * [🗄 Submit a Governance Proposal](governance/submit-a-proposal.md)
-* [🗼 The Kujira Senate](governance/the-kujira-senate/README.md)
+* [🗼 (Retired) The Kujira Senate](governance/the-kujira-senate/README.md)
   * [💰 Treasury](governance/the-kujira-senate/treasury.md)
 * [⚔ Discord Governance Forum](governance/discord-governance-forum.md)
 * [🐚 Capybara Labs](governance/capybara-labs.md)
