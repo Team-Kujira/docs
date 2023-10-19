@@ -16,7 +16,7 @@ It is advisable to acquire knowledge about hedging and risk management. Even wit
 
 To use isolated margin on a suitable FIN trading pair, first navigate to the 'Isolated Margin tab:
 
-&#x20;                                     ![](<../../../../.gitbook/assets/image (4).png>)
+&#x20;                                     ![](<../../../../.gitbook/assets/image (4) (2).png>)
 
 To create a FIN margin position, first navigate to a FIN trading pair that has isolated margin trading available. Next, select an amount of USK to leverage and a leverage factor to use to gain exposure to a corresponding amount of the [base asset](../price-chart-and-charting-tools.md#fin-price-charts) equal to the product of the current asset pair exchange rate, the USK amount, and the selected leverage factor for as long as the margin position is open.
 

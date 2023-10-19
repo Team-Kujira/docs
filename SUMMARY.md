@@ -35,6 +35,7 @@
   * [🖨 Mint](dapps-and-infrastructure/blue/mint.md)
   * [🥩 Stake](dapps-and-infrastructure/blue/stake.md)
   * [🏛 Govern](dapps-and-infrastructure/blue/govern.md)
+  * [💿 Developer](dapps-and-infrastructure/blue/developer.md)
   * [📖 Product Guides](dapps-and-infrastructure/blue/product-guides/README.md)
     * [📰 How to Send Tokens](dapps-and-infrastructure/blue/product-guides/how-to-send-tokens.md)
     * [📰 How to Convert balances to KUJI](dapps-and-infrastructure/blue/product-guides/how-to-convert-balances-to-kuji.md)
