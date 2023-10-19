@@ -1,12 +1,10 @@
 # 🔐 Security
 
-Security is essential for decentralized finance and decentralized commerce to run smoothly. At Kujira, we strive to provide top-level security for all of our products and underlying infrastructure. Our USK, ORCA, and Kujira Senate contracts have undergone thorough audits, as detailed in the following links:
+Security is essential for decentralized finance and decentralized commerce to run smoothly. At Kujira, we strive to provide top-level security for all of our products and underlying infrastructure. Our USK and ORCA contracts have undergone thorough audits, as detailed in the following links:
 
 [**ORCA Audit by SCV**](https://assets.kujira.app/kujira-orca-audit-1-0.pdf) **(Smart Contract Verification)**
 
-[**Kujira USK Stablecoin Contracts Audit by SCV**](https://github.com/SCV-Security/PublicReports/blob/main/CW/Kujira/stable-USK/Kujira%20-%20USK%20Stablecoin%20Contracts%20-%20Audit%20Report%20v1.0.pdf) **(Smart Contract Verification)**
-
-[**Kujira Senate Smart Contracts Audit by SCV**](https://github.com/SCV-Security/PublicReports/blob/main/CW/Kujira/Senate/Kujira%20-%20Governance%20Contract%20-%20Audit%20Report%20-%20v1.0.pdf) **(Smart Contract Verification)**
+[**Kujira USK Stablecoin Contracts Audit by SCV**](https://github.com/SCV-Security/PublicReports/blob/main/Kujira/stable-USK/Kujira%20-%20USK%20Stablecoin%20Contracts%20-%20Audit%20Report%20v1.0.pdf) **(Smart Contract Verification)**
 
 To protect yourself and your assets, it is important to familiarize yourself with the following security concepts:
 

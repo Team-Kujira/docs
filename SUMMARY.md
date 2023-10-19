@@ -218,7 +218,7 @@
 
 ## ⛑ Help Center
 
-* [🧑🏫 🧑🏫 Kujira Academy](help-center/kujira-academy.md)
+* [🧑🏫 🧑🏫 Kujira Classroom](help-center/kujira-academy.md)
 * [❓ FAQ](help-center/faq.md)
 * [🧰 Handy Tools](help-center/handy-tools.md)
 * [📒 Glossary](help-center/glossary.md)
