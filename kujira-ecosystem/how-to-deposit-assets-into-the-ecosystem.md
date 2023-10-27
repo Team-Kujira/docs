@@ -79,7 +79,7 @@ Squid is a protocol for cross-chain swaps and liquidity routing on the Axelar Ne
 
 ### Maya Protocol
 
-Maya Protocol is a powerful cross-chain DEX. MAYAChain is a cross-chain AMM that facilitates cross-chain swaps without the need for bridging or wrapped assets. In combination with Local Money and IBC, Maya is a powerful tool for empowering KUJI and USK decentralized self-custody swaps to and from native BTC, ETH, USDT (ERC20), USDC (ERC20), RUNE, DASH and more upcoming assets. This allows for secure asset onboarding without ever needing to use a centralized exchange.&#x20;
+Maya Protocol is a powerful cross-chain DEX. MAYAChain is a cross-chain AMM that facilitates cross-chain swaps without the need for bridging or wrapped assets. Maya is a powerful tool for empowering KUJI and USK decentralized self-custody swaps to and from native BTC, ETH, USDT (ERC20), USDC (ERC20), RUNE, DASH and more upcoming assets. This allows for secure asset onboarding without ever needing to use a centralized exchange.&#x20;
 
 ### Rango
 
