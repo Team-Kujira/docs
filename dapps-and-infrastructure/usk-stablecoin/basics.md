@@ -10,7 +10,7 @@ Empower decentralized finance and real-world payments.&#x20;
 
 ## Design
 
-USK is a decentralized stablecoin _softpegged_ to the US dollar. It is (more than) fully backed by a slowly expanding bucket of diversified crypto assets such as wETH, wBNB, and ATOM, at a collateralization rate of over 166%. USK leverages Kujira's original flagship product ORCA to handle the liquidation layer and make all USK market activity, minting, burning, liquidating, transacting, accessible to everyone. As USK is soft-pegged, it is normal and expected to see some volatility in USK price over time based on changing market supply and demand dynamics for Kujira financial services and payments infrastructure. USK is omnipresent across Kujira's 1st party products and is a central fixture of the Kuijra ecosystem.
+USK is a decentralized stablecoin _softpegged_ to the US dollar. It is (more than) fully backed by a slowly expanding bucket of diversified crypto assets such as wETH, wBNB, and ATOM, at a collateralization rate of over 166%. USK leverages Kujira's original flagship product ORCA to handle the liquidation layer and make all USK market activity, minting, burning, liquidating, transacting, accessible to everyone. As USK is soft-pegged, it is normal and expected to see some volatility in USK price over time based on changing market supply and demand dynamics for Kujira financial services and payments infrastructure. USK is omnipresent across Kujira's 1st party products and is a central fixture of the Kujira ecosystem.
 
 ## Value
 
