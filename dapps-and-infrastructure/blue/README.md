@@ -17,3 +17,4 @@ Navigate to any of these more detailed pages to understand everything BLUE has t
 * [Mint](mint.md) (Mint [USK](../usk-stablecoin.md), Kujira's native stablecoin, using acceptable collateral)
 * [Stake](stake.md) (Bond KUJI with validators to earn rewards and vote on governance proposals)
 * [Govern](govern.md) (Vote on governance proposals, review past proposals, track Kujira Senate activity)
+* [Developer](developer.md) (Store, instantiate, migrate, query, and execute contracts)
