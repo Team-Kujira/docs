@@ -22,7 +22,7 @@ USK is designed to be sustainable, robust, and usable for payments and commerce.
 * Greater focus on payments and real-world applications for decentralized commerce
 * USK synergizes with Kujira's wallet, Sonar as well as all Kujira products
 * Integration with Woo Commerce, one of the largest online merchant providers
-* Initially set a cap of 1 million USK per collateral type to ensure proper diversification
+* Set USK mint caps per collateral type to ensure proper diversification
 
 ORCA is a public marketplace that allows anyone to bid on liquidated collateral from the Kujira platform, effectively participating in a Dutch auction to obtain the collateral at a discount. ORCA has processed a significant amount of liquidity since its launch, with a maximum total value locked (TVL) of $160 million. ORCA operates using a queue-based and anti-bot approach, filling bids from the smallest discount to the biggest, helping to find an optimal discount rate and prevent immediate selling and damage to the market by bot operators. ORCA offers several benefits for partner money markets and users, including a user-friendly interface, transparent bidding process, nearly instant settlement of liquidations, robust yet capital efficient approach, and strong community. Universally accessible, ORCA allows every user to participate in the marketplace and take advantage of its benefits.
 
