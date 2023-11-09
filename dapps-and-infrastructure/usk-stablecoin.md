@@ -32,4 +32,10 @@ Here's a more detailed breakdown describing USK mechanics:
 2. [USK minting and ORCA liquidation guide](https://medium.com/team-kujira/testnet-usk-minting-orca-liquidation-bids-4f1215e9677b)
 3. [Minting USK and managing your position](https://medium.com/team-kujira/team-kujira-minting-usk-and-managing-your-position-6ba405bf1301)
 
-Refer to the [transparency](usk-stablecoin/transparency.md) article to see more information about tracking USK's mechanics and health in action!
+For those interested in a more comprehensive picture of how USK works and to track its mechanics please check out the following topics:
+
+* [Basics](usk-stablecoin/basics.md)
+* [Technical Specifics](usk-stablecoin/technical-specifics.md)
+* [Use Cases](usk-stablecoin/use-cases.md)
+* [Transparency](usk-stablecoin/transparency.md)
+* [How to Mint USK](blue/product-guides/how-to-mint-usk.md)
