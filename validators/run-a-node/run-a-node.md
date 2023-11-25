@@ -27,7 +27,7 @@ sudo useradd -m -s /bin/bash kuji
 
 ### Install Golang
 
-Download `go` and extract go 1.18.5
+Download `go` and extract go 1.20.8
 
 ```
 # remove old go version
@@ -36,10 +36,10 @@ sudo rm -rvf /usr/local/go/
 
 # download and install recent go version
 
-curl -fsSL https://golang.org/dl/go1.18.5.linux-amd64.tar.gz | sudo tar -xzC /usr/local
+curl -fsSL https://golang.org/dl/go1.20.8.linux-amd64.tar.gz | sudo tar -xzC /usr/local
 
 # remove unneeded installer
-rm go1.18.5.linux-amd64.tar.gz
+rm go1.20.8.linux-amd64.tar.gz
 
 # source go
 cat <<EOF >> ~/.profile
@@ -65,7 +65,7 @@ sudo su -l kuji
 ```bash
 git clone https://github.com/Team-Kujira/core $HOME/kujira-core
 cd $HOME/kujira-core
-git checkout v0.8.5
+git checkout v0.9.1
 make install
 ```
 
