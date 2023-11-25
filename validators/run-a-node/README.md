@@ -28,20 +28,20 @@ sudo su -s /bin/bash -l kuji
 
 ### Install Golang
 
-1. Download `go` 1.18.x
+1. Download `go` 1.20.x
 
 ```
 # remove old go version
 sudo rm -rvf /usr/local/go/
 
 # download recent go version
-wget https://golang.org/dl/go1.18.3.linux-amd64.tar.gz
+wget https://golang.org/dl/go1.20.8.linux-amd64.tar.gz
 
 # install go
-sudo tar -C /usr/local -xzf go1.18.3.linux-amd64.tar.gz
+sudo tar -C /usr/local -xzf go1.20.8.linux-amd64.tar.gz
 
 # remove unneeded installer
-rm go1.18.3.linux-amd64.tar.gz
+rm go1.20.8.linux-amd64.tar.gz
 
 # source go
 cat <<EOF >> ~/.profile
@@ -61,7 +61,7 @@ go version
 ```bash
 git clone https://github.com/Team-Kujira/core $HOME/kujira-core
 cd $HOME/kujira-core
-git checkout v0.8.5
+git checkout v0.9.1
 ```
 
 1. Build and install `kujirad` (using the `kuji` user created above)
