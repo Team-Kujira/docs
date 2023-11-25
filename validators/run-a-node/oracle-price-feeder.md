@@ -32,10 +32,10 @@ sudo apt install -y build-essential git unzip curl
 
 ### Install go toolchain
 
-1. Download and extract go 1.18.5.
+1. Download and extract go 1.20.8.
 
 ```bash
-curl -fsSL https://golang.org/dl/go1.18.5.linux-amd64.tar.gz | sudo tar -xzC /usr/local
+curl -fsSL https://golang.org/dl/go1.20.8.linux-amd64.tar.gz | sudo tar -xzC /usr/local
 ```
 
 1. Login as `kujioracle`.
@@ -65,15 +65,15 @@ go version  # should output "go version go1.18.5 linux/amd64"
 sudo su -l kujioracle
 ```
 
-1. Build `kujirad` v0.7.1. We'll use the binary to create the keyring file.
+1. Build `kujirad` v0.9.1. We'll use the binary to create the keyring file.
 
 ```bash
 git clone https://github.com/Team-Kujira/core
 cd core
-git checkout v0.8.5
+git checkout v0.9.1
 make install
 cd ..
-kujirad version  # should output "0.7.1"
+kujirad version  # should output "0.9.1"
 ```
 
 1. Build `price-feeder`.
@@ -131,73 +131,19 @@ sudo su -l kujioracle
 
 1.  Create the config file with your favorite text editor (for example `nano`).
 
+    * Refer to config.example.toml for a sample file.
     * Replace `<wallet_address>` with your oracle wallet address (e.g. `kujira16jchc8l8hfk98g4gnqk4pld29z385qyseeqqd0`)
     * Replace `<validator_address>` with your validator address (e.g. `kujiravaloper1e9rm4nszmfg3fdhrw6s9j69stqddk7ga2x84yf`)
-
-    ```toml
-    gas_adjustment = 1.5
-    gas_prices = "0.00125ukuji"
-    enable_server = true
-    enable_voter = true
-    provider_timeout = "500ms"
-
-    [server]
-    listen_addr = "0.0.0.0:7171"
-    read_timeout = "20s"
-    verbose_cors = true
-    write_timeout = "20s"
-
-    [[deviation_thresholds]]
-    base = "USDT"
-    threshold = "2"
-
-    [[currency_pairs]]
-    base = "ATOM"
-    providers = [
-      "binance",
-      "kraken",
-      "osmosis",
-    ]
-    quote = "USD"
-
-    [account]
-    address = "<wallet_address>"
-    chain_id = "kaiyo-1"
-    validator = "<validator_address>"
-    prefix = "kujira"
-
-    [keyring]
-    backend = "file"
-    dir = "/home/kujioracle/.kujira"
-
-    [rpc]
-    grpc_endpoint = "localhost:9090"
-    rpc_timeout = "500ms"
-    tmrpc_endpoint = "http://localhost:26657"
-
-    [telemetry]
-    enable_hostname = true
-    enable_hostname_label = true
-    enable_service_label = true
-    enabled = true
-    global_labels = [["chain_id", "kaiyo-1"]]
-    service_name = "price-feeder"
-    type = "prometheus"
-
-    [[provider_endpoints]]
-    name = "binance"
-    rest = "https://api1.binance.us"
-    websocket = "stream.binance.us:9443"
-    ```
-
+    
+    
 #### Configure the currency pairs
 
 The `[[currency_pairs]]` provided in the config above is only an example, each validator should modify this to submit prices for the denoms whitelisted by the chain. Keep an eye out for governance proposals introducing new denoms.
 
 **NOTE:** It is important that currency pairs in this config exactly match those in the currently configured whitelist for the chain:
 
-* Testnet: [harpoon-4](https://lcd.harpoon.kujira.setten.io/oracle/params)
-* Mainnet: [kaiyo-1](https://lcd.kaiyo.kujira.setten.io/oracle/params)
+* Testnet: [harpoon-4](https://kujira-testnet-api.polkachu.com//oracle/params)
+* Mainnet: [kaiyo-1](https://lcd-kujira.mintthemoon.xyz/oracle/params)
 
 You can also query the oracle params using `kujirad`
 
