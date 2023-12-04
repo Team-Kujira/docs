@@ -73,7 +73,7 @@ The Nomic bridge is a design for a Bitcoin sidechain that enables decentralized 
 
 The Inter-Blockchain Communication (IBC) Protocol allows blockchains to communicate with each other and exchange data about state or transactions. It is particularly useful for application-specific blockchains in the Cosmos network and offers a standardized way for applications on different chains to communicate. IBC is a permissionless way to relay data packets between blockchains and relies on the security of the participating chains. It is much more secure than traditional bridging methods.&#x20;
 
-[Here](https://winkhub.app/posts/depositing-funds-to-kujira#Cosmos-Chains) is a short guide on how to use IBC to bridge assets to the Kujira ecosystem.
+[Here](https://winkhub.app/posts/depositing-funds-to-kujira#Cosmos-Chains) is a quick guide on how to use IBC to bridge assets to the Kujira ecosystem.
 
 ### 0xSquid
 
