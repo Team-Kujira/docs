@@ -2,7 +2,7 @@
 description: Look on to see how Kujira wallet balances can be viewed on FINDER
 ---
 
-# 📰 How to View a Wallet's Balance
+# How to View a Wallet's Balance
 
 * Navigate to [finder.kujira.app](https://finder.kujira.app/)
 

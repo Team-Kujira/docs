@@ -2,7 +2,7 @@
 description: The body amplifying community voices
 ---
 
-# 🫂 Senators
+# Senators
 
 ## Overview
 

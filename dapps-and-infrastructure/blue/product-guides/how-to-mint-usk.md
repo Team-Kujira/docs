@@ -2,7 +2,7 @@
 description: Follow these steps to mint USK using different type of collateral on BLUE
 ---
 
-# 📰 How to Mint USK
+# How to Mint USK
 
 * Navigate to [blue.kujira.app/mint](https://blue.kujira.app/mint)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar).

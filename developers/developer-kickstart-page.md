@@ -1,4 +1,4 @@
-# 🏠 Developer Kickstart Page
+# Developer Kickstart Page
 
 ## Overview
 

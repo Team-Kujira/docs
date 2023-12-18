@@ -1,4 +1,4 @@
-# 📰 How to List a New Pair
+# How to List a New Pair
 
 * Navigate to [fin.kujira.app/listing](https://fin.kujira.app/listing)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar).

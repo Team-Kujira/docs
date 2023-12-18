@@ -1,4 +1,4 @@
-# 🗝 Treasury
+# Treasury
 
 ## [https://blue.kujira.app/senate](https://blue.kujira.app/senate)
 

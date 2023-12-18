@@ -1,4 +1,4 @@
-# 📰 Medium
+# Medium
 
 Medium is the primary means for the Kujira team to provide formal, detailed blog posts about new products, project events, partnerships, changes in tokenomics, summaries of recent happenings, or anything else of importance that the team wants to communicate in a formal, precise way to the wider community.
 

@@ -4,7 +4,7 @@ description: >-
   L1.
 ---
 
-# 📰 How to Redelegate any Cosmos L1 Token
+# How to Redelegate any Cosmos L1 Token
 
 * Navigate to [pod.kujira.app](https://pod.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

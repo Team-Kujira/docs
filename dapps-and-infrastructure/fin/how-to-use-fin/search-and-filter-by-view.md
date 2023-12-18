@@ -1,4 +1,4 @@
-# 🔭 Search and Filter by View
+# Search and Filter by View
 
 ## Overview
 

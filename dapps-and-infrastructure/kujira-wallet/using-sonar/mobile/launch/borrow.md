@@ -1,3 +1,3 @@
-# 📇 Borrow
+# Borrow
 
 Coming soon...

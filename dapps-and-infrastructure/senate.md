@@ -2,7 +2,7 @@
 description: Governance Structure for Kujira Blockchain
 ---
 
-# 🗼 (Retired) SENATE (Grant Oversight)
+# (Retired) SENATE (Grant Oversight)
 
 [https://blue.kujira.app/senate](https://blue.kujira.app/senate) or [https://blue.kujira.network.senate](https://blue.kujira.network.senate)
 

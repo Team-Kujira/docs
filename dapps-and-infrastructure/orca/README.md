@@ -2,7 +2,7 @@
 description: Democratized DeFi Liquidations
 ---
 
-# 🐬 ORCA (Liquidations)
+# ORCA (Liquidations)
 
 [https://orca.kujira.app/](https://orca.kujira.app/) or [https://orca.kujira.network/](https://orca.kujira.network/)
 

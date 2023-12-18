@@ -2,7 +2,7 @@
 description: Embrace Excellence
 ---
 
-# ✨ Why Kujira
+# Why Kujira
 
 Here are some of the reasons why Kujira stands out:
 

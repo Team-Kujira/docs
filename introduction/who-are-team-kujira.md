@@ -1,4 +1,4 @@
-# 👨💻 👨💻 Meet Team Kujira
+# Meet Team Kujira
 
 Team Kujira is a dedicated group of individuals working to build and grow the Kujira platform. Here is a brief introduction to some of the key members of the team:
 

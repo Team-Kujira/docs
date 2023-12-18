@@ -1,4 +1,4 @@
-# 🔁 Redelegate
+# Redelegate
 
 After a delegator bonds KUJI to a validator, sometimes for whatever reason (that validator votes in a way they do not agree with, the validator gets slashed, or they come to prefer/like another validator they discover) they want to stake with another validator instead.
 

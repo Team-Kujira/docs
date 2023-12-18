@@ -1,4 +1,4 @@
-# 🎦 Media Coverage
+# Media Coverage
 
 Kujira has been featured in several notable media outlets, including:
 

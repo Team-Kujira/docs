@@ -2,7 +2,7 @@
 description: Standard colors used across the Kujira dApps.
 ---
 
-# 🇰🇲 🇰🇲 Colors
+# Colors
 
 ### Primary Colors
 

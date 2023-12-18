@@ -1,4 +1,4 @@
-# 🥙 Oracle Price Feeder
+# Oracle Price Feeder
 
 ## Introduction
 
@@ -129,20 +129,18 @@ kujirad tx oracle set-feeder <oracle_wallet> --from <validator_wallet> --fees 25
 sudo su -l kujioracle
 ```
 
-1.  Create the config file with your favorite text editor (for example `nano`).
+1. Create the config file with your favorite text editor (for example `nano`).
+   * Refer to config.example.toml for a sample file.
+   * Replace `<wallet_address>` with your oracle wallet address (e.g. `kujira16jchc8l8hfk98g4gnqk4pld29z385qyseeqqd0`)
+   * Replace `<validator_address>` with your validator address (e.g. `kujiravaloper1e9rm4nszmfg3fdhrw6s9j69stqddk7ga2x84yf`)
 
-    * Refer to config.example.toml for a sample file.
-    * Replace `<wallet_address>` with your oracle wallet address (e.g. `kujira16jchc8l8hfk98g4gnqk4pld29z385qyseeqqd0`)
-    * Replace `<validator_address>` with your validator address (e.g. `kujiravaloper1e9rm4nszmfg3fdhrw6s9j69stqddk7ga2x84yf`)
-    
-    
 #### Configure the currency pairs
 
 The `[[currency_pairs]]` provided in the config above is only an example, each validator should modify this to submit prices for the denoms whitelisted by the chain. Keep an eye out for governance proposals introducing new denoms.
 
 **NOTE:** It is important that currency pairs in this config exactly match those in the currently configured whitelist for the chain:
 
-* Testnet: [harpoon-4](https://kujira-testnet-api.polkachu.com//oracle/params)
+* Testnet: [harpoon-4](https://kujira-testnet-api.polkachu.com/oracle/params)
 * Mainnet: [kaiyo-1](https://lcd-kujira.mintthemoon.xyz/oracle/params)
 
 You can also query the oracle params using `kujirad`

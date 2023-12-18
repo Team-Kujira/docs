@@ -2,7 +2,7 @@
 description: Wield the first 100% decentralised order book exchange on Cosmos.
 ---
 
-# 📊 FIN
+# FIN
 
 At Kujira, we are proud to introduce Fin, the first fully decentralized order book exchange built on the Cosmos blockchain. With Fin, users can seamlessly and securely trade a variety of assets with complete trustlessness and transparency.
 

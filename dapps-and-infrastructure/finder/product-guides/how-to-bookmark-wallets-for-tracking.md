@@ -2,7 +2,7 @@
 description: Follow these steps to bookmark any Kujira wallet address
 ---
 
-# 📰 How to Bookmark Wallets for Tracking
+# How to Bookmark Wallets for Tracking
 
 * Navigate to [finder.kujira.app](https://finder.kujira.app/)
 

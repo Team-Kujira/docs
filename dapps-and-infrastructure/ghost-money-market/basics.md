@@ -1,4 +1,4 @@
-# 🔢 Basics
+# Basics
 
 ## What is GHOST?
 

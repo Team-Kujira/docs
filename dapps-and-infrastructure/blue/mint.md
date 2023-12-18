@@ -1,4 +1,4 @@
-# 🖨 Mint
+# Mint
 
 [https://blue.kujira.app/mint](mint.md#https-blue.kujira.app-mint-or-https-blue.kujira.network-mint) or [https://blue.kujira.network/mint](mint.md#https-blue.kujira.app-mint-or-https-blue.kujira.network-mint)
 

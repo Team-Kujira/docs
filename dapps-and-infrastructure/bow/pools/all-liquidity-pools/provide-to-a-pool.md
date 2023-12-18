@@ -1,4 +1,4 @@
-# 🧑🌾 Provide to a Pool
+# Provide to a Pool
 
 ## Overview
 

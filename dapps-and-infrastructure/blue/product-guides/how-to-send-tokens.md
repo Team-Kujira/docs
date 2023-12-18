@@ -2,7 +2,7 @@
 description: Follow these steps to Send tokens from your wallet to a Kujira address.
 ---
 
-# 📰 How to Send Tokens
+# How to Send Tokens
 
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)
 

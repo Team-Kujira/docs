@@ -4,7 +4,7 @@ description: >-
   chain to Kujira.
 ---
 
-# 📰 How to use IBC
+# How to use IBC
 
 * Navigate to [blue.kujira.app/ibc](https://blue.kujira.app/ibc)
 * Regardless of the chain you are sending tokens from, on the top left, where it says Kuijra, choose Axelar instead.

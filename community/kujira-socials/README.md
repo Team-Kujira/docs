@@ -4,7 +4,7 @@ description: >-
   a variety of social media channels.
 ---
 
-# 👫 Kujira Social Media
+# Kujira Social Media
 
 Our main social media channels include:
 

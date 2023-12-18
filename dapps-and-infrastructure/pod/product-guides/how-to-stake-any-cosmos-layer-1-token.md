@@ -4,7 +4,7 @@ description: >-
   native chain.
 ---
 
-# 📰 How to Stake any Cosmos Layer 1 Token
+# How to Stake any Cosmos Layer 1 Token
 
 * Navigate to [pod.kujira.app](https://pod.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

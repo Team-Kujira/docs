@@ -1,3 +1,3 @@
-# 🖥 Desktop
+# Desktop
 
 Coming soon...

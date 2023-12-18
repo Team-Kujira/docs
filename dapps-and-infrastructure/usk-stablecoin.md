@@ -5,7 +5,7 @@ description: >-
   wAVAX, DOT, gPAXG, MNTA, and LUNA
 ---
 
-# 🐎 USK (Stablecoin)
+# USK (Stablecoin)
 
 [https://blue.kujira.app/mint](https://blue.kujira.app/mint) or [https://blue.kujira.network/mint](https://blue.kujira.network/mint)&#x20;
 

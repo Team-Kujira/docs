@@ -1,4 +1,4 @@
-# 🌳 Sustainability
+# Sustainability
 
 Sustainability is a core value at Kujira. We believe that decentralized finance needs a strong and resilient foundation to survive and thrive. That's why we've prioritized sustainability in all of our products and initiatives.
 

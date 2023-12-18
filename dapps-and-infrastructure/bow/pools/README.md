@@ -1,4 +1,4 @@
-# 🤽 Pools
+# Pools
 
 [https://bow.kujira.app/pools](https://bow.kujira.app/pools) or [https://bow.kujira.network/pools](https://bow.kujira.network/dashboard)
 

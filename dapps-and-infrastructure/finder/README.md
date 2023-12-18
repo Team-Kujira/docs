@@ -1,4 +1,4 @@
-# 🔎 FINDER (Explorer)
+# FINDER (Explorer)
 
 [https://finder.kujira.app/](https://finder.kujira.app/kaiyo-1/) or [https://finder.kujira.network/](https://finder.kujira.network/)
 

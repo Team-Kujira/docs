@@ -1,4 +1,4 @@
-# 💡 Using Sonar
+# Using Sonar
 
 SONAR allows Kujira to provide a highly customized native experience for the Kujira blockchain.
 

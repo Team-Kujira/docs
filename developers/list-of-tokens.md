@@ -2,7 +2,7 @@
 description: Browse Tokens on Kujira
 ---
 
-# 📄 List of Tokens
+# List of Tokens
 
 ## [https://finder.kujira.app/kaiyo-1/tokens](https://finder.kujira.app/kaiyo-1/tokens)
 

@@ -1,4 +1,4 @@
-# 🧰 Handy Tools
+# Handy Tools
 
 ## Position Management and Alerts
 

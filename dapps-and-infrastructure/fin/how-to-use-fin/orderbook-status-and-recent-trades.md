@@ -1,4 +1,4 @@
-# ⛽ Orderbook status and Recent Trades
+# Orderbook status and Recent Trades
 
 ## Overview
 

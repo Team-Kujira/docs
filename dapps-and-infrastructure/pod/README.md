@@ -2,7 +2,7 @@
 description: Staking UI for Cosmos Network
 ---
 
-# 📿 POD (Cross-chain Staking)
+# POD (Cross-chain Staking)
 
 [https://pod.kujira.app/](https://pod.kujira.app/) or [https://pod.kujira.network/](https://pod.kujira.network/)
 

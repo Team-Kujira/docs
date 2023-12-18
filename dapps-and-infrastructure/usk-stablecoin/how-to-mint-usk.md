@@ -1,4 +1,4 @@
-# 🖨 How to Mint USK
+# How to Mint USK
 
 ## [https://blue.kujira.app/mint](https://blue.kujira.app/mint)
 

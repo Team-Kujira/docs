@@ -1,4 +1,4 @@
-# ⚙ Community Tooling
+# Community Tooling
 
 ***
 

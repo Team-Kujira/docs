@@ -1,4 +1,4 @@
-# 📒 Glossary
+# Glossary
 
 [Active Set](../governance/staking/#consensus): Only validators in the active set produce blocks and contribute to Kujira consensus. Inactive or deactivating validators do not earn staking rewards on staked KUJI.
 

@@ -1,4 +1,4 @@
-# 🧙♂ 🧙♂ Price Oracle
+# Price Oracle
 
 Every 30 seconds, all 75 validators in the Kujira active set are required to post a transaction containing the current price for a range of assets, aggregated from a number of sources. This creates an on-chain source of truth which can be queried from a UI front-end, the CLI and also in smart contracts.
 

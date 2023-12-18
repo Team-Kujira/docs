@@ -1,4 +1,4 @@
-# 🔌 Setup
+# Setup
 
 The first step to using SONAR is to successfully download the right application.
 

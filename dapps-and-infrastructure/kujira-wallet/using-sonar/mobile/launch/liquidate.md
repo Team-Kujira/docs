@@ -1,3 +1,3 @@
-# 🦈 Liquidate
+# Liquidate
 
 Coming soon...

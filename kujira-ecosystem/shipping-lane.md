@@ -1,4 +1,4 @@
-# 🚢 Shipping Lane
+# Shipping Lane
 
 ### Overview
 

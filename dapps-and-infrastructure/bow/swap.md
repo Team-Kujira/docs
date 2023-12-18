@@ -1,4 +1,4 @@
-# 🔀 Swap
+# Swap
 
 [https://bow.kujira.app/swap](https://bow.kujira.app/swap) or [https://bow.kujira.network/swap](https://bow.kujira.network/swap)
 

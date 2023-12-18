@@ -4,7 +4,7 @@ description: >-
   most common interactions with FINDER
 ---
 
-# 📖 Product Guides
+# Product Guides
 
 [how-to-view-the-balance-of-a-wallet.md](how-to-view-the-balance-of-a-wallet.md "mention")
 

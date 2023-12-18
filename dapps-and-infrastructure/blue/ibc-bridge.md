@@ -2,7 +2,7 @@
 description: Transferring assets to and from Kujira
 ---
 
-# 🌐 IBC / Bridge
+# IBC / Bridge
 
 ## Overview
 

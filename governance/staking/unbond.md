@@ -1,4 +1,4 @@
-# ⛓ Unbond
+# Unbond
 
 Staking KUJI on the Kujira network is an instantaneous process. Unstaking or unbonding KUJI is a bit more complicated. To unbond KUJI on the Kujira network, 14 days must lapse for the unbonding process to finish. As with Staking KUJI, KUJI can be unbonded in the [stake tab](../../dapps-and-infrastructure/blue/stake.md) on BLUE.&#x20;
 

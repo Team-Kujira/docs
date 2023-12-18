@@ -1,4 +1,4 @@
-# 🔎 Pool Overview
+# Pool Overview
 
 ## Overview
 

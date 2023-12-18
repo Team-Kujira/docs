@@ -1,4 +1,4 @@
-# 💸 Staking Rewards
+# Staking Rewards
 
 For more information about staking in general, please see this section.
 

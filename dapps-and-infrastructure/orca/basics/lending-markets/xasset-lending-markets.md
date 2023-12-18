@@ -1,4 +1,4 @@
-# 🎑 xAsset Lending Markets
+# xAsset Lending Markets
 
 ## Overview
 

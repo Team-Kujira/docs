@@ -2,7 +2,7 @@
 description: Follow these steps to nominate a candidate for the Kujira Senate.
 ---
 
-# 📰 How to Nominate a Candidate for the Senate
+# How to Nominate a Candidate for the Senate
 
 * Navigate to [blue.kujira.app/senate](https://blue.kujira.app/senate)
 

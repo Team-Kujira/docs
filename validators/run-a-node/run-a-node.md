@@ -1,4 +1,4 @@
-# 🛠 Create a validator
+# Create a validator
 
 This guide assumes you're running on Ubuntu 22.04 LTS - the commands will probably work just fine on 20.04 LTS or Debian.
 

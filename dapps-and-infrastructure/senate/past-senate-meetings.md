@@ -1,4 +1,4 @@
-# 📝 Past Senate Meetings
+# Past Senate Meetings
 
 This page contains dates & agendas of past Senate meetings to maintain full transparency and accountability to the Kujira community. Minutes are ordered in reverse starting from most recent.
 

@@ -1,4 +1,4 @@
-# ⭕ Isolated FIN Margin
+# Isolated FIN Margin
 
 ## Overview
 

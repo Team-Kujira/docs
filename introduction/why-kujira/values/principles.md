@@ -2,7 +2,7 @@
 description: These are the Kujira principles we hold for the team and community
 ---
 
-# 👥 Principles
+# Principles
 
 **Collaboration and cooperation lead to success**
 

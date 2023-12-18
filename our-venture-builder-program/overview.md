@@ -1,4 +1,4 @@
-# 🕹 Overview
+# Overview
 
 Our venture-builder program, Kujira Labs, is an accelerator program meant to supercharge the Kujira ecosystem. Kujira is a semi-permissioned ecosystem -- meaning one must pass a governance vote to build. With [the Kujira Senate](../dapps-and-infrastructure/senate.md), dynamically evaluating new projects and funding proposals, we should be able to eliminate almost all rug pulls, scammers, or projects with awful tokenomics.
 

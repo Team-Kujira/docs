@@ -1,4 +1,4 @@
-# 🎟 How to Participate
+# How to Participate
 
 ### Overview
 

@@ -1,4 +1,4 @@
-# 📱 Dashboard
+# Dashboard
 
 The Dashboard tab contains a simple user interface that allows users to track all of their open positions.&#x20;
 

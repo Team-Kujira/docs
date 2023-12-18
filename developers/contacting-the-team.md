@@ -1,4 +1,4 @@
-# ✉ Contacting the Team
+# Contacting the Team
 
 The two best ways of contacting the team are either through emailing them directly or reaching out to them on Telegram, Discord, or Twitter.
 

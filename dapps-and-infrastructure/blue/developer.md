@@ -1,4 +1,4 @@
-# 💿 Developer
+# Developer
 
 ## Overview
 

@@ -4,7 +4,7 @@ description: >-
   in this case).
 ---
 
-# 📰 How to View the Analytics on a Liquidation Market
+# How to View the Analytics on a Liquidation Market
 
 * Navigate to [orca.kujira.app](https://orca.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

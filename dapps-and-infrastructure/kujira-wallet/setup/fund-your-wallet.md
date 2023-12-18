@@ -1,4 +1,4 @@
-# 🔽 Fund your wallet
+# Fund your wallet
 
 To get started on the Kujira network, and begin using the SONAR wallet, it is first necessary to fund your wallet with assets.&#x20;
 

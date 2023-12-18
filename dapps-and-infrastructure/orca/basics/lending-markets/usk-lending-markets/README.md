@@ -1,4 +1,4 @@
-# 💹 USK Lending Markets
+# USK Lending Markets
 
 ## Overview
 

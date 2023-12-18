@@ -1,4 +1,4 @@
-# 📊 Dashboard
+# Dashboard
 
 [https://blue.kujira.app/](https://blue.kujira.app/) or [https://blue.kujira.network/](https://blue.kujira.network/)
 

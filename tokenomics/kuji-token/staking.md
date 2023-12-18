@@ -1,4 +1,4 @@
-# 💱 Staking KUJI
+# Staking KUJI
 
 Staking KUJI on the Kujira Network with a Kujira validator allows users to earn a basket of apex assets over time. All fees collected on the network are paid directly to stakers through the validators, rather than being converted to KUJI first. This makes it easy for users to accumulate a diversified staking yield rather than just more KUJI. Kujira is also adding the option to redeem staking rewards as KUJI based on popular demand.
 

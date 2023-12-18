@@ -2,7 +2,7 @@
 description: Kujira Ecosystem Dashboard
 ---
 
-# 🔷 BLUE (Central Hub)
+# BLUE (Central Hub)
 
 ## [https://blue.kujira.app/](https://blue.kujira.app/) or [https://blue.kujira.network/](./#https-blue.kujira.app-https-blue.kujira.network)&#x20;
 

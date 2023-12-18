@@ -1,3 +1,3 @@
-# 📤 Lend
+# Lend
 
 Coming soon...

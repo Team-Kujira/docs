@@ -2,7 +2,7 @@
 description: This guide will allow you to check the status of Active Proposals and vote.
 ---
 
-# 📰 How to Check the Status of Governance Proposals and/or Vote
+# How to Check the Status of Governance Proposals and/or Vote
 
 * Navigate to [blue.kujira.app/govern](https://blue.kujira.app/govern)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

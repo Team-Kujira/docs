@@ -2,7 +2,7 @@
 description: Submit a community pool spend proposal
 ---
 
-# 🗄 Submit a Governance Proposal
+# Submit a Governance Proposal
 
 As a member of the Kujira community, you have the opportunity to submit proposals for consideration by the network. One type of proposal is a community pool spend proposal, which involves requesting funds from the community pool for a specific purpose.
 

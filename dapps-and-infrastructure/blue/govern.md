@@ -1,4 +1,4 @@
-# 🏛 Govern
+# Govern
 
 ## Overview
 

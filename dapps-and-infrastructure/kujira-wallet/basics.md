@@ -1,3 +1,3 @@
-# 🔢 Basics
+# Basics
 
 Coming soon...

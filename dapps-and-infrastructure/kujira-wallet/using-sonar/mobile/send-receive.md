@@ -1,3 +1,3 @@
-# 📪 Send/Receive
+# Send/Receive
 
 Coming soon...

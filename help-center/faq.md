@@ -1,4 +1,4 @@
-# ❓ FAQ
+# FAQ
 
 ### I can't find my order on FIN even though it should have gone through did I lose my money?&#x20;
 

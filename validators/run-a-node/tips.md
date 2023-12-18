@@ -1,4 +1,4 @@
-# 🗒 Tips
+# Tips
 
 ### Disk utilization
 

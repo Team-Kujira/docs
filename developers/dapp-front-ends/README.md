@@ -1,4 +1,4 @@
-# 🎛 dApp Front Ends
+# dApp Front Ends
 
 ## Overview
 

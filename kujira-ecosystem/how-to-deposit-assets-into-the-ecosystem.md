@@ -2,7 +2,7 @@
 description: How to deposit funds in the ecosystem
 ---
 
-# 💰 Moving Funds to Kujira
+# Moving Funds to Kujira
 
 There are several options available for moving funds to the Kujira blockchain. Depending on your level of experience with decentralized finance (DeFi) and where your funds are located, you can choose the most appropriate method for your needs.
 

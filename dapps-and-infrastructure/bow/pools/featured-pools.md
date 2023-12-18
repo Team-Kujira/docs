@@ -1,4 +1,4 @@
-# 🎬 Featured Pools
+# Featured Pools
 
 ## Featured Pools
 

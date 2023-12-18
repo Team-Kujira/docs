@@ -2,7 +2,7 @@
 description: Follow these steps to convert the small balances in your wallet to KUJI.
 ---
 
-# 📰 How to Convert balances to KUJI
+# How to Convert balances to KUJI
 
 * Navigate to [blue.kujira.app/wallet](https://blue.kujira.app/wallet)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

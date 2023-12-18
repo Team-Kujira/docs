@@ -1,4 +1,4 @@
-# 👓 Smart Stake
+# Smart Stake
 
 Smart Stake is a member of the Kujira active validator set that validates on many chains.
 

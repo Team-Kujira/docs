@@ -1,4 +1,4 @@
-# 🍵 Stake LP with a Pool
+# Stake LP with a Pool
 
 ## Overview
 

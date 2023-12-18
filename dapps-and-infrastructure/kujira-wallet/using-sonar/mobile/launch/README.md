@@ -1,4 +1,4 @@
-# 🚀 Launch
+# Launch
 
 Launch Kujira's 1st party native decentralized applications on SONAR's smooth mobile interface:
 

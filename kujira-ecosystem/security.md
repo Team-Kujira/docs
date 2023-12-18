@@ -1,4 +1,4 @@
-# 🔐 Security
+# Security
 
 Security is essential for decentralized finance and decentralized commerce to run smoothly. At Kujira, we strive to provide top-level security for all of our products and underlying infrastructure. Our USK and ORCA contracts have undergone thorough audits, as detailed in the following links:
 

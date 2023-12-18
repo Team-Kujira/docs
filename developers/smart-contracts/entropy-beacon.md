@@ -1,4 +1,4 @@
-# 🎲 Entropy Beacon
+# Entropy Beacon
 
 We give a big thanks to [Entropic Labs](https://entropiclabs.io/beacon/) who are bringing cryptographically verifiable on-chain randomness to Kujira.
 

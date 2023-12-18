@@ -4,7 +4,7 @@ description: >-
   type.
 ---
 
-# 📰 How to View Active Bids on Collateral
+# How to View Active Bids on Collateral
 
 * Navigate to [orca.kujira.app](https://orca.kujira.app/)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

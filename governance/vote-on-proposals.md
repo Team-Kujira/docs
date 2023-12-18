@@ -2,7 +2,7 @@
 description: Help shape the future of Kujira by voting on governance proposals.
 ---
 
-# 📋 Vote on Proposals
+# Vote on Proposals
 
 Governance proposals are submitted by members of the Kujira community and can cover a wide range of topics, including updates to the Kujira platform, changes to network parameters, and new features or services. These proposals are discussed and debated in the Kujira community, and then put to a vote for approval or rejection.
 

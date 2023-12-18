@@ -1,4 +1,4 @@
-# 🔘 Coingecko API
+# Coingecko API
 
 This documents the REST endpoints to query live data from the FIN markets for our Coingecko integration.
 
@@ -69,7 +69,7 @@ None
 
 ### GET \`[https://api.kujira.app/api/coingecko/tickers](https://api.kujira.app/api/coingecko/tickers)\`
 
-#### Query Options&#x20;
+#### Query Options
 
 None
 
@@ -94,4 +94,3 @@ None
   ]
 }
 ```
-

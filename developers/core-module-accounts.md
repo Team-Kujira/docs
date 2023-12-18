@@ -1,4 +1,4 @@
-# 💠 Core Module Accounts
+# Core Module Accounts
 
 There are a few "Core Module" accounts on the Kujira Blockchain. These are created by modules within the Cosmos SDK and our own bespoke modules. Generally they are of little significance when building on the chain, but a few such as `fee_collector` are critical to the operation of the chain.&#x20;
 

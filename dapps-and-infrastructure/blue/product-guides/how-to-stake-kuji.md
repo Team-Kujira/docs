@@ -2,7 +2,7 @@
 description: This guide will teach you how to stake KUJI on BLUE.
 ---
 
-# 📰 How to Stake KUJI
+# How to Stake KUJI
 
 * Navigate to [blue.kujira.app/stake](https://blue.kujira.app/stake)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

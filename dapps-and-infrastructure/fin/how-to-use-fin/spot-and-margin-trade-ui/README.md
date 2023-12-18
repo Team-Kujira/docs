@@ -1,4 +1,4 @@
-# 📱 Spot and Margin Trade UI
+# Spot and Margin Trade UI
 
 ## Overview
 

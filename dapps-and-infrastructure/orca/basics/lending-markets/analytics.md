@@ -1,4 +1,4 @@
-# 📈 Analytics
+# Analytics
 
 ## Overview
 

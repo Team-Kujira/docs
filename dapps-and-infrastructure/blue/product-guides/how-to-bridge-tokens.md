@@ -2,7 +2,7 @@
 description: Follow these steps to bridge tokens to the Kujira blockchain.
 ---
 
-# 📰 How to Bridge tokens
+# How to Bridge tokens
 
 * Navigate to [blue.kujira.app/bridge](https://blue.kujira.app/bridge)
 * Connect on the top right to your Keplr or Sonar wallet by clicking the connect wallet button and selecting the corresponding wallet (Keplr or Sonar)

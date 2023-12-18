@@ -1,4 +1,4 @@
-# 💻 User and Developer Experience
+# User and Developer Experience
 
 ### Semi-Permissioned
 

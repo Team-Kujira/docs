@@ -1,4 +1,4 @@
-# 📣 Kujira Amplifier
+# Kujira Amplifier
 
 The Kujira Amplifier Telegram chat is an outreach focused community building space that spreads Kujira content. 'Kujira Amplifier' amplifies well-researched Kujira ecosystem related threads, catchy memes, and colorful graphics to share and explain the Kujira mission far and wide. The Kujira community's passion is leveraged by the Kujira ecosystem to expand more quickly.&#x20;
 

@@ -4,7 +4,7 @@ description: >-
   most common interactions with BOW
 ---
 
-# 📖 Product Guides
+# Product Guides
 
 [how-to-view-lp-positions.md](how-to-view-lp-positions.md "mention")
 

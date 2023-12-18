@@ -2,7 +2,7 @@
 description: A decentralized 100% on-chain orderbook exchange
 ---
 
-# 📊 FIN (DEX)
+# FIN (DEX)
 
 [https://fin.kujira.app/](https://fin.kujira.app/) or [https://fin.kujira.network/](https://fin.kujira.network/)
 

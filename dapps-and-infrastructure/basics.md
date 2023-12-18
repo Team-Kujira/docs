@@ -2,7 +2,7 @@
 description: Helpful tips and tricks for navigating Kujira's 1st party products
 ---
 
-# 🔢 Basics
+# Basics
 
 ### Overview
 

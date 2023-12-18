@@ -1,4 +1,4 @@
-# 📚 Technical Specifics
+# Technical Specifics
 
 ## Overview
 

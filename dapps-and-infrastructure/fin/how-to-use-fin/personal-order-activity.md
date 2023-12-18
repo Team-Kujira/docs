@@ -1,4 +1,4 @@
-# 📂 Personal Order Activity
+# Personal Order Activity
 
 ## Overview
 

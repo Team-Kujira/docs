@@ -1,4 +1,4 @@
-# 💹 Price Chart and Charting Tools
+# Price Chart and Charting Tools
 
 ## Overview
 

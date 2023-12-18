@@ -1,4 +1,4 @@
-# 🚛 Lending Markets
+# Lending Markets
 
 ### Overview
 

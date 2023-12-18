@@ -1,4 +1,4 @@
-# 🎶 Discord
+# Discord
 
 The Kujira Discord is a community hub that offers many channels for various types of activity. It can be accessed at [https://discord.gg/teamkujira](https://discord.gg/teamkujira). Along with Telegram, Discord is the primary way to:
 

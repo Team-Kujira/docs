@@ -1,4 +1,4 @@
-# 📝 How to Use FIN
+# How to Use FIN
 
 ## Overview
 

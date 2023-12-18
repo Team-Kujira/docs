@@ -1,4 +1,4 @@
-# 🔐 Create a wallet
+# Create a wallet
 
 ## Overview
 

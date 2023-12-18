@@ -1,4 +1,4 @@
-# 🏠 Home
+# Home
 
 Home is your home base while using SONAR.
 

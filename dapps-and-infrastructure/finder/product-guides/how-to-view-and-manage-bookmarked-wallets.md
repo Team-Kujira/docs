@@ -2,7 +2,7 @@
 description: This guide explains how to view and manage bookmarks
 ---
 
-# 📰 How to View and Manage Bookmarked Wallets
+# How to View and Manage Bookmarked Wallets
 
 * Navigate to [finder.kujira.app](https://finder.kujira.app/)
 * Click on ‘My Bookmarks’ and you will see a list of bookmarked wallets

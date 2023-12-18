@@ -1,4 +1,4 @@
-# 🐥 Twitter
+# Twitter
 
 Kujira uses Twitter as a platform to share updates and announcements with the community. Our Twitter account often features threads that:
 

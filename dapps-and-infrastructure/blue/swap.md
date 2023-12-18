@@ -1,4 +1,4 @@
-# 🔀 Swap
+# Swap
 
 [https://blue.kujira.app/swap](swap.md#https-blue.kujira.app-swap) or [https://blue.kujira.network/swap](swap.md#https-blue.kujira.app-swap-or-https-blue.kujira.network-swap)
 

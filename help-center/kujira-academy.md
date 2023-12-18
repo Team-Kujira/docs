@@ -4,7 +4,7 @@ description: >-
   technology
 ---
 
-# 🧑🏫 🧑🏫 Kujira Academy
+# Kujira Classroom
 
 Welcome to Kujira Academy, where our goal is to make blockchain technology accessible to everyone. We understand that navigating the world of decentralized finance (DeFi) can be overwhelming, which is why we've created Kujira Academy as a resource for learning about all things DeFi.
 
