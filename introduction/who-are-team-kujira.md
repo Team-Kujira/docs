@@ -18,7 +18,7 @@ Amit [@Const\_amit](https://twitter.com/const\_amit) | Core team Smart Contract 
 
 Dan Tanaka [@Dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev
 
-Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Research & strategy | KujiDAO cofounder
+Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Research & writing | building WinkHUB | KujiDAO cofounder
 
 Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, moderator, advisor
 
