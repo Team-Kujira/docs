@@ -2,7 +2,7 @@
 description: A Grand Whalecome to Kujira
 ---
 
-# 🎊 Kujira: Where Everyone can be a Whale
+# Where Everyone can be a Whale
 
 At Kujira, our mission is to provide fair and equal opportunities for all investors in the decentralized finance (DeFi) space. Our origin story begins in May 2021, when a liquidation cascade on the [Anchor platform](https://twitter.com/anchor\_protocol?lang=en) caused the price of [Terra](https://docs.terra.money/) LUNA to drop from $16 to $4 in just one week. Many retail investors who had leveraged their assets were liquidated at large discounts by a small group of elites, who were able to buy the liquidated assets at a steep discount using expensive bots. This liquidation event, which wiped out over a billion dollars worth of LUNA, exposed the weaknesses of DeFi markets and the need for a sustainable foundation that could withstand market fluctuations.
 

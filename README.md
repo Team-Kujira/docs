@@ -2,7 +2,7 @@
 description: Sustainable Sovereign Layer 1 Ecosystem
 ---
 
-# 🐋 What is Kujira
+# Kujira Empowers Everyone
 
 Kujira is a decentralized ecosystem revolutionizing payment infrastructure and providing sustainable FinTech solutions to protocols, builders, and web 3 users. An innovation hub of revenue-generating products with great user experience that allow retail investors to access opportunities previously only available to the wealthy and elite.
 

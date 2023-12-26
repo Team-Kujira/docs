@@ -2,7 +2,7 @@
 description: The next evolution of decentralized finance
 ---
 
-# 🎓 Grown-Up DeFi (GUD)
+# Grown-Up DeFi (GUD)
 
 ## "The secret of change is to focus all of your energy, not on fighting the old, but on building the new"
 
