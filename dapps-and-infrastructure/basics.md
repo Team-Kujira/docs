@@ -18,7 +18,7 @@ One convenient feature that has been added to [blue.kujira.app](https://blue.kuj
 
 ### Changing Gas
 
-One very important aspect of the Kuijra blockchain is that all tokens on the network are native tokens. This means that gas fees may be paid in any token. If you are trying to accumulate USK, KUJI, or some other token, there is no need to spend USK, KUJI, etc. for every transaction on the chain.&#x20;
+One very important aspect of the Kuijra blockchain is that all tokens on the network are native tokens. This means that gas fees may be paid in any token that is allow-listed. If you are trying to accumulate USK, KUJI, or some other token, there is no need to spend USK, KUJI, etc. for every transaction on the chain. Only some tokens are currently allow listed to pay gas.
 
 To change the token used to pay gas fees, simply hover above your wallet address on the top right corner of the webpage and select + click on a token that you wish to use for gas fees. Once successful, the desired gas fee token should display with a small gas pump symbol next to it.
 

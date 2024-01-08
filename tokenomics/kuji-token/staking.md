@@ -7,7 +7,7 @@ Some key points about staking KUJI on the Kujira Network include:
 * Earn a basket of apex assets by staking KUJI with a Kujira validator
 * Fees collected on the network are paid directly to stakers through the validators
 * Easy to accumulate a diversified staking yield
-* Option to redeem staking rewards as KUJI
+* Option to redeem staking rewards as KUJI (using Fuzion's DustBuster)
 * Kujira is [sustainable](../../introduction/why-kujira/values/sustainability.md) and does not rely on inflationary tokens to incentivize staking
 * Revenue from Kujira's internal dApps, such as ORCA and FIN, as well as a portion of revenue from each external protocol that launches on the chain, is sent back to stakers
 
