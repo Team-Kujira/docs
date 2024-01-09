@@ -10,21 +10,29 @@ To submit a community pool spend proposal, you will need to provide a JSON file 
 
 Example:
 
-`$ kujirad tx gov submit-proposal community-pool-spend <path/to/proposal.json> --from=<key_or_address>`
+`$ kujirad tx gov submit-proposal <path/to/proposal.json> --from=<key_or_address>`
 
 Where proposal.json contains the following information:
 
 ```
 {
-  "title": "Community Pool Spend",
-  "description": "Protocol Launch Application",
-  "recipient": "kujira1s5afhd6gxevu37mkqcvvsj8qeylhn0rz46zdlq",
-  "amount": "10000000ukuji",
-  "deposit": "10000000ukuji"
+ "messages": [
+  {
+   "@type": "/cosmos.distribution.v1beta1.MsgCommunityPoolSpend",
+   "authority": "kujira10d07y265gmmuvt4z0w9aw880jnsr700jt23ame",
+   "recipient": "kujira<address_of_receipient>",
+   "amount": [{"denom": "ukuji", "amount": "<amount_without_decimals>"}]
+  }
+ ],
+ "metadata": "ipfs://<HAHSH>",
+ "deposit": "100000000factory/kujira1qk00h5atutpsv900x202pxx42npjr9thg58dnqpa72f2p7m2luase444a7/uusk",
+ "title": "<title>",
+ "summary": "<discription>"
 }
+
 ```
 
-`kujirad tx gov submit-proposal community-pool-spend [proposal-file] [flags]`
+`kujirad tx gov submit-proposal [proposal-file] [flags]`
 
 ### Options
 
