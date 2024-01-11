@@ -30,6 +30,7 @@ Kujira is a blockchain ecosystem driven first and foremost by its suite of syner
 
 * [ORCA](../../dapps-and-infrastructure/orca/), the world’s first public marketplace for liquidated collateral
 * [FIN](../../dapps-and-infrastructure/fin/), Cosmos’ first decentralized, permissionless, 100% on-chain, fair matching order book style                                     token exchange&#x20;
+* [BOW](../../dapps-and-infrastructure/bow/), a highly capital-efficient market making framework for FIN that ensures optimal trading conditions and incentivizes liquidity providers
 * [BLUE](../../dapps-and-infrastructure/blue/), the heart of the Kujira ecosystem$$-$$a hub containing a KUJI dashboard, KUJI staking, governance voting, KUJI swapping, Kujira Network bridging / IBC'ing, and rewards claiming
 * [FINDER](../../dapps-and-infrastructure/finder/), a tool to search for present and historical data on the Kujira blockchain
 * [USK](../../dapps-and-infrastructure/usk-stablecoin.md), a decentralized over-collateralized stablecoin only backed by uncensorable collateral
