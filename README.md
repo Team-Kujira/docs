@@ -22,7 +22,7 @@ layout:
 
 ## The Kujira blockchain
 
-Kujira is a decentralized ecosystem that revolutionizes payment infrastructure and provides sustainable FinTech solutions to web 3 protocols, builders, and users.
+[Kujira](https://www.kujira.network) is a decentralized ecosystem that revolutionizes payment infrastructure and provides sustainable FinTech solutions to web 3 protocols, builders, and users.
 
 An innovation hub of revenue-generating products with great user experience, Kujira allows retail investors to access opportunities previously only available to the wealthy and elite.
 
@@ -44,5 +44,5 @@ Furthermore, we are inclusive of all blockchains and networks.
 * _Built for every level of crypto experience_ (including the general public)
 * **You do not need to risk more than you can afford to lose**
 * _Access to financial opportunities_ previously exclusive to the wealthy and elite
-* _People can generate income regardless of market direction_
+* _People can generate income in any market environment_
 * _Inclusive of every blockchain and network_

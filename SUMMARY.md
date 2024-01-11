@@ -106,6 +106,7 @@
     * [How to Bid on Collateral](dapps-and-infrastructure/orca/product-guides/how-to-bid-on-collateral.md)
     * [How to View Active Bids on Collateral](dapps-and-infrastructure/orca/product-guides/how-to-view-active-bids-on-collateral.md)
     * [How to View the Analytics on a Liquidation Market](dapps-and-infrastructure/orca/product-guides/how-to-view-the-analytics-on-a-liquidation-market.md)
+* [PILOT (Launchpad)](dapps-and-infrastructure/pilot-launchpad.md)
 * [POD (Cross-chain Staking)](dapps-and-infrastructure/pod/README.md)
   * [Product Guides](dapps-and-infrastructure/pod/product-guides/README.md)
     * [How to Stake any Cosmos Layer 1 Token](dapps-and-infrastructure/pod/product-guides/how-to-stake-any-cosmos-layer-1-token.md)
