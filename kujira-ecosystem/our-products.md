@@ -2,7 +2,7 @@
 description: Core Infrastructure and Decentralized Applications
 ---
 
-# 🗃 Our Products
+# Our Products
 
 ### Overview
 

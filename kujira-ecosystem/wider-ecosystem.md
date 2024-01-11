@@ -2,7 +2,7 @@
 description: Community Infrastructure and Decentralized Applications
 ---
 
-# 🐳 Wider Ecosystem
+# Wider Ecosystem
 
 Kujira is not just limited to its own first party dApps, but also hosts a variety of third party projects that are built on the Kujira ecosystem. These projects are led by teams and community members from all over, and can be found on the ecosystem projects page on the Kujira website. These projects are an integral part of the Kujira chain, just as important as the first party products themselves. By hosting and supporting these third party projects, Kujira aims to foster a diverse and thriving ecosystem that benefits all of its users.
 
