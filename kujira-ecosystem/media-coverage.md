@@ -1,6 +1,6 @@
 ---
-cover: ../.gitbook/assets/Kujira docs is for everyone (2).jpeg
-coverY: 0
+cover: ../.gitbook/assets/film improved.png
+coverY: 4
 ---
 
 # Media Coverage
