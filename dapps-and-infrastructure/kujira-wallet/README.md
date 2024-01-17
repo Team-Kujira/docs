@@ -22,7 +22,7 @@ Integrated into key protocols**,** **Sonar makes Kujira more accessible than eve
 * Transparent asset experience: Sonar has a goal of providing a transparent asset experience, allowing users to move their assets between different chains without having to worry about the underlying network.
 * Simple integration: We are open to integrate with other blockchain projects and are available to discuss any integrations.
 
-### Coming soon
+### COMING SOON
 
 * Passkey support: **wallet setup no longer requires a seed phrase** (it will be optional).
 * Kado integration: **onboard to Kujira in just 3 step**s. Download Sonar, enter a $ amount to onramp, then click the confirm button.
