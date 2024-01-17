@@ -1,7 +1,7 @@
 ---
 description: How to deposit funds in the ecosystem
-cover: ../.gitbook/assets/Kujira docs is for everyone (2).jpeg
-coverY: 0
+cover: ../.gitbook/assets/whales money 2.png
+coverY: -3
 ---
 
 # Moving Funds to Kujira
