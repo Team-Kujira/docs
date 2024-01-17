@@ -2,6 +2,8 @@
 description: >-
   Follow these steps to check the analytic page on any liquidation market (wETH
   in this case).
+cover: ../../../.gitbook/assets/ORCA analytics.png
+coverY: 0
 ---
 
 # How to View the Analytics on a Liquidation Market

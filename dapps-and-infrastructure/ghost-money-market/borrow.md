@@ -1,5 +1,7 @@
 ---
 description: Gain exposure to market movements without selling
+cover: ../../.gitbook/assets/ghost-og-1.png
+coverY: 0
 ---
 
 # Borrow

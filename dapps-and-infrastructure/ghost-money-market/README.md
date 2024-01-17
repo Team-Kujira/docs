@@ -1,5 +1,7 @@
 ---
 description: Do you believe in GHOST?
+cover: ../../.gitbook/assets/ghost-og-1.png
+coverY: 0
 ---
 
 # GHOST (Money Market)

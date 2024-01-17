@@ -1,11 +1,20 @@
+---
+cover: ../../../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+coverY: 0
+---
+
 # Sustainability
 
-Sustainability is a core value at Kujira. We believe that decentralized finance needs a strong and resilient foundation to survive and thrive. That's why we've prioritized sustainability in all of our products and initiatives.
+Sustainability is a core value at Kujira.&#x20;
 
-* We've avoided inflationary incentives such as airdrops and liquidity pool rewards, as we believe they can harm the long-term health of the Kujira ecosystem.
-* Instead, we've focused on building high-quality, fee-charging dApps that generate real yield from genuine demand for our products.
+We believe that decentralized finance needs a strong and resilient foundation to survive and thrive.
+
+That's why we've prioritized sustainability in all of our products and initiatives.
+
+* We adopt and encourage capital efficient implementations of traditionally inflationary incentives such as airdrops or liquidity pool rewards. We do this to avoid harming the long-term health of the Kujira ecosystem. [**KUJI**](../../../tokenomics/kuji-token/) **is a non-inflationary asset and will never be airdropped to anyone**.
+* We have focused on building high-quality, fee-charging dApps that generate real yield from genuine demand for our products.
 * We've minimized dApp fees to make them more accessible to users, while still ensuring a sustainable revenue model.
-* 100% of our dApp revenue is shared with KUJI stakers, and all staking rewards from our 13.8 million KUJI staked with genesis validators are redistributed back to stakers. This helps to increase the yield for everyone in the Kujira ecosystem.
+* 98% of our dApp revenue is shared with KUJI stakers, and all staking rewards from our 13.8 million KUJI staked with genesis validators are redistributed back to stakers. This helps to increase the yield for everyone in the Kujira ecosystem.
 
 Another essential aspect of sustainability is giving back. Charity is an important aspect of the Kujira ecosystem. We believe in supporting disadvantaged communities. Our team and community have demonstrated this commitment through various charitable initiatives.
 

@@ -2,6 +2,8 @@
 description: >-
   Following these steps you will learn how to incentivize the ATOM/USK pool on
   BOW. These steps can be followed on any pool to provide incentives.
+cover: ../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
 ---
 
 # How to Provide Incentives

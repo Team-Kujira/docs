@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
+---
+
 # Swap
 
 [https://bow.kujira.app/swap](https://bow.kujira.app/swap) or [https://bow.kujira.network/swap](https://bow.kujira.network/swap)

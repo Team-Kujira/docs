@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/ghost-og-1.png
+coverY: 0
+---
+
 # Basics
 
 ## What is GHOST?

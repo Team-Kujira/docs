@@ -1,3 +1,8 @@
+---
+cover: ../../../../.gitbook/assets/ORCA analytics.png
+coverY: 29
+---
+
 # Analytics
 
 ## Overview

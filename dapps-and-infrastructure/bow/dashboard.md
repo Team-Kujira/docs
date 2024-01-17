@@ -1,5 +1,7 @@
 ---
 description: Easily track BOW liquidity provision (LP) performance
+cover: ../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
 ---
 
 # Dashboard

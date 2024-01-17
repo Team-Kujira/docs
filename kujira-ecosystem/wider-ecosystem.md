@@ -1,5 +1,7 @@
 ---
 description: Community Infrastructure and Decentralized Applications
+cover: ../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+coverY: 0
 ---
 
 # Wider Ecosystem

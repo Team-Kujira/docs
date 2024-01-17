@@ -2,6 +2,8 @@
 description: >-
   This guide will walk you through the steps to check your open positions on
   BOW.
+cover: ../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
 ---
 
 # How to View LP positions

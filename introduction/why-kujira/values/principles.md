@@ -1,12 +1,16 @@
 ---
 description: These are the Kujira principles we hold for the team and community
+cover: ../../../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+coverY: 0
 ---
 
 # Principles
 
 **Collaboration and cooperation lead to success**
 
-We believe in collaboration and cooperation to build sustainable projects with transparent, honest business models and passionate builders. As a tight-knit community, we can achieve great things if we all work together.
+We believe in collaboration and cooperation to build sustainable projects with transparent, honest business models and passionate builders.
+
+As a tight-knit community, we can achieve great things if we all work together.
 
 
 
@@ -18,7 +22,7 @@ We value honesty and transparency and aim to exceed expectations.
 
 **Building the future of DeFi with value**.
 
-We're building the future of DeFi with valuable, synergistic technology and partners that can make a difference.
+We're building valuable, composable technology with partners that can make a difference.
 
 
 
@@ -30,4 +34,6 @@ We support projects with substance and longevity for the benefit of our communit
 
 **We are open-minded and focused on growth.**
 
-We are open to new ideas and perspectives, and we don't spread hate or negativity. We focus on building value and challenging the status quo.
+We are open to new ideas and perspectives, and we don't spread hate or negativity.&#x20;
+
+We focus on building value and challenging the status quo.

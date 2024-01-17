@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/sonar cover test (1).png
+coverY: 0
+---
+
 # Using Sonar
 
 SONAR allows Kujira to provide a highly customized native experience for the Kujira blockchain.

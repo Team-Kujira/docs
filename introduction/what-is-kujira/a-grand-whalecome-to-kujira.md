@@ -1,5 +1,7 @@
 ---
 description: A Grand Whalecome to Kujira
+cover: ../../.gitbook/assets/everyonecanbeawhale.png
+coverY: -78.39755351681957
 ---
 
 # Where Everyone can be a Whale

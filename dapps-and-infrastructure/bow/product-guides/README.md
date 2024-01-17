@@ -2,6 +2,8 @@
 description: >-
   In this section you will find detailed step-by-step guide with visuals for the
   most common interactions with BOW
+cover: ../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
 ---
 
 # Product Guides

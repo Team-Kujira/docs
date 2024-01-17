@@ -1,3 +1,8 @@
+---
+cover: ../../../../.gitbook/assets/orca cover test 2.png
+coverY: -47.705570291777185
+---
+
 # xAsset Lending Markets
 
 ## Overview

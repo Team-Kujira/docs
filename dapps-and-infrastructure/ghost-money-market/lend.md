@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/ghost-og-1.png
+coverY: 0
+---
+
 # Lend
 
 [https://ghost.kujira.app/lend](https://ghost.kujira.app/lend) or [https://ghost.kujira.network/lend](https://ghost.kujira.network/lend)

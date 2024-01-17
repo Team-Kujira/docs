@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/sonar cover test (1).png
+coverY: 0
+---
+
 # Setup
 
 The first step to using SONAR is to successfully download the right application.

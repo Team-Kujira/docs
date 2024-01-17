@@ -120,7 +120,7 @@
   * [Past Senate Proposals](dapps-and-infrastructure/senate/past-senate-proposals.md)
   * [Past Senate Meetings](dapps-and-infrastructure/senate/past-senate-meetings.md)
   * [Transparency](dapps-and-infrastructure/senate/transparency.md)
-* [SONAR (Multichain Wallet)](dapps-and-infrastructure/kujira-wallet/README.md)
+* [SONAR (Native Wallet)](dapps-and-infrastructure/kujira-wallet/README.md)
   * [Basics](dapps-and-infrastructure/kujira-wallet/basics.md)
   * [Setup](dapps-and-infrastructure/kujira-wallet/setup/README.md)
     * [Create a wallet](dapps-and-infrastructure/kujira-wallet/setup/create-a-wallet.md)

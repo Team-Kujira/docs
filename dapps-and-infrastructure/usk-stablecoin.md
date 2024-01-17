@@ -3,6 +3,8 @@ description: >-
   An over-collateralized Cosmos stablecoin soft-pegged to the USD and backed by
   a variety of collateral including ATOM, wBTC, wETH, wstETH, wBNB, stATOM,
   wAVAX, DOT, gPAXG, MNTA, and LUNA
+cover: ../.gitbook/assets/usk docs test.png
+coverY: 44
 ---
 
 # USK (Stablecoin)

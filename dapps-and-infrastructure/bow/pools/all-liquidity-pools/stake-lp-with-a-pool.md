@@ -1,3 +1,8 @@
+---
+cover: ../../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
+---
+
 # Stake LP with a Pool
 
 ## Overview

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/usk docs test.png
+coverY: 0
+---
+
 # Technical Specifics
 
 ## Overview

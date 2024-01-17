@@ -1,5 +1,7 @@
 ---
 description: The next evolution of decentralized finance
+cover: ../../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+coverY: 0
 ---
 
 # Grown-Up DeFi (GUD)

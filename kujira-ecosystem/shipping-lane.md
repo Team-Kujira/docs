@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/shippinglane.webp
+coverY: 0
+---
+
 # Shipping Lane
 
 ### Overview

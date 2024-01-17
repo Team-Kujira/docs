@@ -1,5 +1,7 @@
 ---
 description: Helpful tips and tricks for navigating Kujira's 1st party products
+cover: ../.gitbook/assets/basicsdocs.png
+coverY: -20
 ---
 
 # Basics

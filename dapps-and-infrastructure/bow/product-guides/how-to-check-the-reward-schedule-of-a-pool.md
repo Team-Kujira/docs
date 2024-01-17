@@ -2,6 +2,8 @@
 description: >-
   This steps will guide you through the process of  checking the reward schedule
   on DOT/USK pool. You can use these steps to check the schedule on any pool.
+cover: ../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
 ---
 
 # How to Check the Reward Schedule of a Pool

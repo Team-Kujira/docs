@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/orca cover test 2.png
+coverY: -41.633952254641905
+---
+
 # Basics
 
 ## Overview

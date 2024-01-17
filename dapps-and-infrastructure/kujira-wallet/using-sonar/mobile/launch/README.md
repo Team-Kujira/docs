@@ -1,3 +1,8 @@
+---
+cover: ../../../../../.gitbook/assets/sonar cover test (1).png
+coverY: 0
+---
+
 # Launch
 
 Launch Kujira's 1st party native decentralized applications on SONAR's smooth mobile interface:

@@ -1,5 +1,7 @@
 ---
 description: Kujira's Revolutionary Liquidity Hub
+cover: ../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
 ---
 
 # BOW (Liquidity Engine)

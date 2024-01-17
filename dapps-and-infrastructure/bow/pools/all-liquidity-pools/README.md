@@ -1,3 +1,8 @@
+---
+cover: ../../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
+---
+
 # All Liquidity Pools
 
 This section of the 'Pools' page not only comes with a nifty search bar that filters for specific liquidity pools but also contains slightly different information from the featured pools section. Each liquidity pair has information displaying total pool liquidity, retroactive APR calculated based on the past 21 days of trading, current combined APR, personal LP balance, unstaked personal LP balance, as well as available token incentives for that liquidity pair.

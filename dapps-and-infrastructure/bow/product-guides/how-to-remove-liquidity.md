@@ -1,5 +1,7 @@
 ---
 description: Follow these steps to check remove liquidity from a pool on BOW.
+cover: ../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
 ---
 
 # How to Remove Liquidity

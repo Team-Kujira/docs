@@ -1,6 +1,11 @@
+---
+cover: ../../.gitbook/assets/usk docs test.png
+coverY: 0
+---
+
 # How to Mint USK
 
-## [https://blue.kujira.app/mint](https://blue.kujira.app/mint)
+## [https://blue.kujira.network/mint](how-to-mint-usk.md#https-blue.kujira.network-mint)
 
 ## Overview
 

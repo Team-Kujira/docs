@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/orca cover test 2 (1).png
+coverY: -54
+---
+
 # How to Integrate ORCA
 
 A new era of ORCA is here. Developers can empower their communities and allow them to participate in and profit from liquidations more easily than ever before.

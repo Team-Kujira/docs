@@ -1,5 +1,7 @@
 ---
 description: This guide will walk you through the steps to add liquidity to a pool on BOW.
+cover: ../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
 ---
 
 # How to Add Liquidity

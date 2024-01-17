@@ -1,6 +1,28 @@
+---
+description: The dynamic duo behind WinkHUB who host weekly Twitter spaces
+cover: ../.gitbook/assets/Kujira docs is for everyone (1).jpeg
+coverY: 0
+layout:
+  cover:
+    visible: true
+    size: full
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+---
+
 # Kuji Kast
 
 A fantastic media initiative led by @Togwos and @MaximusD that features various types of in-depth hilarious content including interviews with protocols building on Kujira, meme competitions, and other stimulating content, wink. They have a [Twitter](https://twitter.com/KujiKast) and [YouTube](https://www.youtube.com/c/KujiKast).
+
+<figure><img src="../.gitbook/assets/kuji kast.png" alt=""><figcaption></figcaption></figure>
 
 Released Episodes:
 

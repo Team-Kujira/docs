@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+coverY: 0
+---
+
 # User and Developer Experience
 
 ### Semi-Permissioned

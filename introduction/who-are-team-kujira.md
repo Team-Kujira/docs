@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+coverY: 0
+---
+
 # Meet Team Kujira
 
 Team Kujira is a dedicated group of individuals working to build and grow the Kujira platform. Here is a brief introduction to some of the key members of the team:
