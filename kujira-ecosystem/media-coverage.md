@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+coverY: 0
+---
+
 # Media Coverage
 
 Kujira has been featured in several notable media outlets, including:
