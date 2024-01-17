@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Kujira docs is for everyone.jpeg
+coverY: 0
+---
+
 # Support Ticket System
 
 The Kujira Discord's Support Ticket System allows all community members to ask private questions to trained moderators for help with various issues.&#x20;

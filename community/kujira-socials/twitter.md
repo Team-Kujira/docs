@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Kujira docs is for everyone (1).jpeg
+coverY: 0
+---
+
 # Twitter
 
 Kujira uses Twitter as a platform to share updates and announcements with the community. Our Twitter account often features threads that:

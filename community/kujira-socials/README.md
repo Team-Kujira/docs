@@ -2,6 +2,8 @@
 description: >-
   To stay in touch with our community, Team Kujira and volunteer moderators use
   a variety of social media channels.
+cover: ../../.gitbook/assets/Kujira docs is for everyone (1).jpeg
+coverY: 0
 ---
 
 # Kujira Social Media

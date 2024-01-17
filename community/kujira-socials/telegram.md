@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Kujira docs is for everyone.jpeg
+coverY: 0
+---
+
 # Telegram
 
 Telegram is one of the primary ways to directly communicate with the Kujira team and experienced chat moderators, as well as engage with the community in a more informal setting. It is also a useful platform for receiving updates and announcements from the team. Kujira has three official Telegram chats.

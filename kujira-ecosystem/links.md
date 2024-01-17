@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Important links 1.png
+coverY: 0
+---
+
 # Links
 
 * Visit our main website: [kujira.app](https://kujira.app/)

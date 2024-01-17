@@ -1,5 +1,7 @@
 ---
 description: Kujira alpha 24/7
+cover: ../.gitbook/assets/Kujira docs is for everyone (1).jpeg
+coverY: 0
 ---
 
 # Kujira News

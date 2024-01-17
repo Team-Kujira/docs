@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+coverY: 0
+---
+
 # Kujira Communities
 
 Kujira community members hail from diverse backgrounds. We hope to grow many subcommunities passionate about sharing Kujira with more people run by earnest actors. Often, these groups go beyond and above to allow their members to enjoy the Kujira experience from the lens of their own cultures or languages.

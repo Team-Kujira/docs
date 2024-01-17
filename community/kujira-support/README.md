@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/Kujira docs is for everyone.jpeg
+coverY: 0
+---
+
 # Kujira Support
 
 The stellar Kujira moderation team has implemented top level support practices and services across various platforms to give our users the best possible blockchain and community experience. These support tools include the support ticket system in the Kujira Discord, the friendly Cosmobot in the main Kujira Telegram chat, various product guides in the Kujira docs, and the ever open and friendly DMs of our amazing support team members. If you're ever stuck or last, make sure to either create a support ticket on the Kujira Discord or ask a question in one of the Kujira Telegram or Discord chats.&#x20;
