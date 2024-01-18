@@ -10,9 +10,9 @@ coverY: -78.39755351681957
 
 At Kujira, **we have always been determined to provide fair and equal opportunities for all investors** in the decentralized finance (DeFi) space.
 
-On May 2021, a liquidation cascade on the [Anchor platform](https://twitter.com/anchor\_protocol?lang=en) caused the price of [Terra](https://docs.terra.money/) LUNA to drop from $16 to $4 in just one week. Many retail investors who had leveraged their assets were liquidated at large discounts by a small group of elites, who were able to buy the liquidated assets at a steep discount using expensive bots.&#x20;
+On May 2021, a liquidation cascade on the [Anchor platform](https://twitter.com/anchor\_protocol?lang=en) caused the price of [Terra](https://docs.terra.money/) LUNA to drop from $16 to $4 in just one week. **Many retail investors who had leveraged their assets were liquidated at large discounts by a small group of elites**, who were able to buy the liquidated assets at a steep discount using expensive bots.&#x20;
 
-This liquidation event, which wiped out over a billion dollars worth of LUNA, exposed the weaknesses of DeFi markets and the need for a sustainable foundation that could withstand market fluctuations.
+This liquidation event, which wiped out over a billion dollars worth of LUNA, exposed the weaknesses of DeFi markets and the **need for a sustainable foundation that could withstand market fluctuations**.
 
 In response to this event, Team Kujira created the first decentralized liquidations platform. Available to retail and institutional investors alike, the protocol provided a level playing field and prevented the paying of higher prices for faster or better liquidations. **Within just four months, we opened up Anchor liquidations to over 50,000 users** who did not need advanced bots or coding expertise to participate.
 
@@ -25,6 +25,8 @@ In response to this event, Team Kujira created the first decentralized liquidati
 In response, we introduced FIN, the first decentralized, permissionless, 100% on-chain, non-FIFO order book style token exchange on the Terra blockchain.
 
 When the Terra blockchain was halted, we decided to launch our own semi-permissioned Cosmos sovereign chain, and in just six weeks, we built & launched a new layer 1 (L1) and relaunched FIN on it.
+
+<figure><img src="../../.gitbook/assets/kujira network.png" alt=""><figcaption><p><a href="https://kujira.network/">Kujira main page</a></p></figcaption></figure>
 
 ## Everyone can be a whale
 
