@@ -11,7 +11,7 @@ coverY: 44
 
 [https://blue.kujira.app/mint](https://blue.kujira.app/mint) or [https://blue.kujira.network/mint](https://blue.kujira.network/mint)&#x20;
 
-Kujira's USK stablecoin is a decentralized stablecoin that is soft-pegged to the US dollar and  backed by a variety of collateral including ATOM, wBTC, wETH, wBNB, LUNA, MNTA, DOT, and gPAXG (a full list can be found [here](https://blue.kujira.network/mint)). It is an overcollateralized stablecoin, meaning that it is backed at a minimum of 166%. This helps ensure the stablecoin's stability and reduces risk of liquidation.
+Kujira's USK stablecoin is a decentralized stablecoin that is soft-pegged to the US dollar and  backed by a variety of collateral including ATOM, wBTC, wETH, wBNB, LUNA, MNTA, DOT, and gPAXG (a full list can be found [here](https://blue.kujira.network/mint)). It is an overcollateralized stablecoin, backed at a minimum of 166%. This helps ensure the stablecoin's stability and reduces risk of liquidation.
 
 * Mint USK by depositing collateral on the Kujira platform
 * Manage USK through the platform's dashboard

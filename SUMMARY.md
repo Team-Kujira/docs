@@ -112,6 +112,7 @@
     * [How to Stake any Cosmos Layer 1 Token](dapps-and-infrastructure/pod/product-guides/how-to-stake-any-cosmos-layer-1-token.md)
     * [How to Redelegate any Cosmos L1 Token](dapps-and-infrastructure/pod/product-guides/how-to-redelegate-any-cosmos-l1-token.md)
     * [How to Unstake any Cosmos L1 Token](dapps-and-infrastructure/pod/product-guides/how-to-unstake-any-cosmos-l1-token.md)
+* [Pond](dapps-and-infrastructure/pond.md)
 * [(Retired) SENATE (Grant Oversight)](dapps-and-infrastructure/senate.md)
   * [Senators](dapps-and-infrastructure/senate/senators.md)
   * [Constitution](dapps-and-infrastructure/senate/constitution.md)

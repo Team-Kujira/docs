@@ -1,5 +1,7 @@
 ---
 description: Kujira Ecosystem Dashboard
+cover: ../../.gitbook/assets/blue logo full 8.png
+coverY: 0
 ---
 
 # BLUE (Central Hub)
