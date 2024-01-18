@@ -16,7 +16,7 @@ This liquidation event, which wiped out over a billion dollars worth of LUNA, ex
 
 In response to this event, Team Kujira created the first decentralized liquidations platform. Available to retail and institutional investors alike, the protocol provided a level playing field and prevented the paying of higher prices for faster or better liquidations. **Within just four months, we opened up Anchor liquidations to over 50,000 users** who did not need advanced bots or coding expertise to participate.
 
-<figure><img src="../../.gitbook/assets/ORCA terra.png" alt="" width="563"><figcaption><p>ORCA on Terra</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/ORCA terra.png" alt="" width="563"><figcaption><p><a href="../../dapps-and-infrastructure/orca/">ORCA</a> on Terra</p></figcaption></figure>
 
 ## Learning from the past
 
