@@ -1,6 +1,6 @@
 ---
 description: Kujira Ecosystem Dashboard
-cover: ../../.gitbook/assets/blue logo full 8.png
+cover: ../../.gitbook/assets/blue_heading 1.png
 coverY: 0
 ---
 
