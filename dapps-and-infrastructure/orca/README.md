@@ -38,11 +38,11 @@ In this way, ORCA offers several benefits for partner money markets and users, i
 
 ## Analytics
 
-Furthermore, at present we have basic ORCA liquidation analytics available for all users on all of our ORCA markets. In the future, we will have more sophisticated liquidation analytics incorporated as well.
+Furthermore, at present we have basic ORCA liquidation analytics available for all users on all of our ORCA markets. In the future, we will offer more sophisticated liquidation analytics as well.
 
 ## 1st Party Integrations
 
-FIN, ORCA, GHOST, and USK all have co-integrations. USK relies on ORCA as a liquidation settlement layer. You can read more [here](../usk-stablecoin.md). GHOST also relies on ORCA to handle associated liquidations.
+FIN, ORCA, GHOST, and USK all have co-integrations. USK relies on ORCA as a liquidation settlement layer. You can learn more [here](../usk-stablecoin.md). GHOST also relies on ORCA to handle associated liquidations.
 
 ## Audit
 
