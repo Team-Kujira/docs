@@ -1,5 +1,7 @@
 ---
 description: Follow these steps to bridge tokens to the Kujira blockchain.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Bridge tokens

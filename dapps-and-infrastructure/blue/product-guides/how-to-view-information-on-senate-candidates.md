@@ -2,6 +2,8 @@
 description: >-
   Follow this guide to view all the information related to the Kujira Senate
   candidates.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to View Information on Senate Candidates

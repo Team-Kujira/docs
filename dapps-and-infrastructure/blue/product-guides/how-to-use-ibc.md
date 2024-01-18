@@ -2,6 +2,8 @@
 description: >-
   Following these steps will teach you to transfer tokens from another Cosmos
   chain to Kujira.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to use IBC

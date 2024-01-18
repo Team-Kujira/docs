@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blue_heading-3.png
+coverY: 0
+---
+
 # Mint
 
 [https://blue.kujira.app/mint](mint.md#https-blue.kujira.app-mint-or-https-blue.kujira.network-mint) or [https://blue.kujira.network/mint](mint.md#https-blue.kujira.app-mint-or-https-blue.kujira.network-mint)

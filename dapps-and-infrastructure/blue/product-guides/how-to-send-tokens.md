@@ -1,5 +1,7 @@
 ---
 description: Follow these steps to Send tokens from your wallet to a Kujira address.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Send Tokens

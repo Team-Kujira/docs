@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blue_heading-3.png
+coverY: 0
+---
+
 # Dashboard
 
 [https://blue.kujira.app/](https://blue.kujira.app/) or [https://blue.kujira.network/](https://blue.kujira.network/)

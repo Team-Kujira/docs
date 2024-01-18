@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blue_heading-3.png
+coverY: 0
+---
+
 # Wallet
 
 [https://blue.kujira.app/wallet](wallet.md#https-blue.kujira.app-wallet) or [https://blue.kujira.network/wallet](wallet.md#https-blue.kujira.app-wallet-or-https-blue.kujira.network-wallet)

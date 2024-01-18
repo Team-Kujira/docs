@@ -2,6 +2,8 @@
 description: >-
   After this guide you will be able to redelegate KUJI from one validator to
   another.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Redelegate KUJI

@@ -2,6 +2,8 @@
 description: >-
   Follow these steps to unstake your KUJI. Remember that this process takes 2
   weeks to complete and you will not receive rewards during the process.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Unstake KUJI

@@ -1,5 +1,7 @@
 ---
 description: This guide will teach you how to stake KUJI on BLUE.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Stake KUJI

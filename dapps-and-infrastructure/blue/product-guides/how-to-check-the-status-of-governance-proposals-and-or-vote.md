@@ -1,5 +1,7 @@
 ---
 description: This guide will allow you to check the status of Active Proposals and vote.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Check the Status of Governance Proposals and/or Vote

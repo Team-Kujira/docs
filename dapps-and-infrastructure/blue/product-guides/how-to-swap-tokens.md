@@ -1,5 +1,7 @@
 ---
 description: Follow these steps to Swap tokens using the BLUE swap interface.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Swap tokens

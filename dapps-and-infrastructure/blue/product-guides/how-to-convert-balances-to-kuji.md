@@ -1,5 +1,7 @@
 ---
 description: Follow these steps to convert the small balances in your wallet to KUJI.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Convert balances to KUJI

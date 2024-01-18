@@ -1,5 +1,7 @@
 ---
 description: Follow these steps to nominate a candidate for the Kujira Senate.
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Nominate a Candidate for the Senate

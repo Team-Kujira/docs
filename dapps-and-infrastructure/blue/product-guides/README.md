@@ -2,6 +2,8 @@
 description: >-
   In this section you will find detailed step-by-step guide with visuals for the
   most common interactions with BLUE
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # Product Guides

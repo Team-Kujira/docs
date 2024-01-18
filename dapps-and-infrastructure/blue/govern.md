@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blue_heading-3.png
+coverY: 0
+---
+
 # Govern
 
 ## Overview
@@ -6,15 +11,15 @@ The Govern tab on BLUE allows users to interact with Kujira Governance. Nominate
 
 For the time being, Governance proposals can be assigned to two discrete categories: Senate and Chain Governance. Senate proposals relate in essence to the expenditure of community funds on projects wishing to launch on Kujira, public initiatives for the Kujira blockchain, public infrastructure, and other miscellaneous services which require community funding. Chain Governance is everything else, but can be thought of more specifically as a category encompassing all technical upgrades to the chain.  &#x20;
 
-## Senate
+## (Retired) Senate
 
 [https://blue.kujira.app/senate](govern.md#https-blue.kujira.app-senate-or-https-blue.kujira.network-senate) or [https://blue.kujira.network/senate](govern.md#https-blue.kujira.app-senate-or-https-blue.kujira.network-senate)
 
-This tab has the Kujira senators listed each with links to their keybase.io. It is also possible to nominate Senators on this tab. Furthermore, there is a [link](https://medium.com/team-kujira/kujira-governance-grows-up-ca8b7c87753b) to reading more about the role of the Senate. More up to date information can also be found in the Senate [section](../senate.md) of the docs.
+This tab had the Kujira senators listed each with links to their keybase.io. It was also possible to nominate Senators on this tab. Furthermore, there is a [link](https://medium.com/team-kujira/kujira-governance-grows-up-ca8b7c87753b) to reading more about the role of the Senate. More up to date information can also be found in the Senate [section](../senate.md) of the docs.
 
-On the right side of the page, there is a detailed breakdown of the Senate Treasury (Community Pool) in terms of every asset and the amount of each asset in the Treasury wallet as well as the current total dollar value of the fund. Furthermore, there is a link to the wallet address on FINDER on the bottom right for the sake of transparency.&#x20;
+On the right side of the page, there was a detailed breakdown of the Senate Treasury (Community Pool) in terms of every asset and the amount of each asset in the Treasury wallet as well as the current total dollar value of the fund. Furthermore, there was a link to the wallet address on FINDER on the bottom right for the sake of transparency.&#x20;
 
-In the future, it will be possible to submit Senate grant proposals on the BLUE senate tab. Senate proposals will take up to 2 weeks of review, but may pass sooner as long as at least 6 senators vote yes on a proposal. The result will automatically be a no if consensus is not achieved within that period.
+Senate proposals took up to 2 weeks of review, but sometimes passed sooner when at least 6 senators voted in favor. The result was automatically no if consensus wasn't achieved within that period.
 
 ## Sentinel
 

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blue_heading-3.png
+coverY: 0
+---
+
 # Stake
 
 [https://blue.kujira.app/stake](stake.md#https-blue.kujira.app-stake-or-https-blue.kujira.network-stake) or [https://blue.kujira.network/stake](stake.md#https-blue.kujira.app-stake-or-https-blue.kujira.network-stake)

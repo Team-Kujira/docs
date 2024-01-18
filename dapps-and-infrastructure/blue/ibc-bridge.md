@@ -1,5 +1,7 @@
 ---
 description: Transferring assets to and from Kujira
+cover: ../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # IBC / Bridge

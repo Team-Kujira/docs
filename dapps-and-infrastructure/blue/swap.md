@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/blue_heading-3.png
+coverY: 0
+---
+
 # Swap
 
 [https://blue.kujira.app/swap](swap.md#https-blue.kujira.app-swap) or [https://blue.kujira.network/swap](swap.md#https-blue.kujira.app-swap-or-https-blue.kujira.network-swap)

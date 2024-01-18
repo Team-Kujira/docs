@@ -1,5 +1,7 @@
 ---
 description: Follow these steps to mint USK using different type of collateral on BLUE
+cover: ../../../.gitbook/assets/blue_heading-3.png
+coverY: 0
 ---
 
 # How to Mint USK
