@@ -6,7 +6,7 @@ coverY: 0
 
 # Grown-Up DeFi (GUD)
 
-> "The secret of change is to focus all of your energy, not on fighting the old, but on building the new"
+> "The secret of change is to focus all of your energy, not on fighting the old, but on building the new."
 
 ## GUD Principles
 
