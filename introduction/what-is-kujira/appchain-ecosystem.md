@@ -1,7 +1,7 @@
 ---
 description: First-Class Product Suite
-cover: ../../.gitbook/assets/kujira ecosystem (1).png
-coverY: 252.40583554376656
+cover: ../../.gitbook/assets/Kujira docs is for everyone (1).jpeg
+coverY: 0
 layout:
   cover:
     visible: true
