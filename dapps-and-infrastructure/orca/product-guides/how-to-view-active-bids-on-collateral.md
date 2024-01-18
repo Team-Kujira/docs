@@ -2,8 +2,8 @@
 description: >-
   After this guide, you will be able to check your active bids on a collateral
   type.
-cover: ../../../.gitbook/assets/orca cover test 2 (1).png
-coverY: -45.97082228116711
+cover: ../../../.gitbook/assets/orca_heading.png
+coverY: 0
 ---
 
 # How to View Active Bids on Collateral

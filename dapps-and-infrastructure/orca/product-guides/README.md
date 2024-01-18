@@ -2,8 +2,8 @@
 description: >-
   In this section you will find detailed step-by-step guide with visuals for the
   most common interactions with ORCA
-cover: ../../../.gitbook/assets/orca cover test 2 (2).png
-coverY: -50
+cover: ../../../.gitbook/assets/orca_heading.png
+coverY: 0
 ---
 
 # Product Guides

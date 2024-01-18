@@ -1,6 +1,6 @@
 ---
-cover: ../../../../.gitbook/assets/orca cover test 2.png
-coverY: -45.103448275862064
+cover: ../../../../.gitbook/assets/orca_heading.png
+coverY: 0
 ---
 
 # Lending Markets

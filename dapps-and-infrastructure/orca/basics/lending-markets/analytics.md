@@ -1,6 +1,6 @@
 ---
-cover: ../../../../.gitbook/assets/ORCA analytics.png
-coverY: 29
+cover: ../../../../.gitbook/assets/orca_heading.png
+coverY: 0
 ---
 
 # Analytics

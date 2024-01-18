@@ -1,6 +1,6 @@
 ---
-cover: ../../.gitbook/assets/orca cover test 2 (1).png
-coverY: -54
+cover: ../../.gitbook/assets/orca_heading.png
+coverY: 0
 ---
 
 # How to Integrate ORCA

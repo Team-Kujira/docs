@@ -1,6 +1,6 @@
 ---
-cover: ../../../../../.gitbook/assets/orca cover test 2.png
-coverY: -44.236074270557026
+cover: ../../../../../.gitbook/assets/orca_heading.png
+coverY: 0
 ---
 
 # USK Lending Markets

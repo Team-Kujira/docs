@@ -2,8 +2,8 @@
 description: >-
   This simple steps will guide you on how to bid on collateral (ATOM in this
   particular case) on ORCA.
-cover: ../../../.gitbook/assets/orca cover test 2 (1).png
-coverY: -44.236074270557026
+cover: ../../../.gitbook/assets/orca_heading.png
+coverY: 0
 ---
 
 # How to Bid on Collateral

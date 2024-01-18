@@ -1,7 +1,7 @@
 ---
 description: Democratized DeFi Liquidations
-cover: ../../.gitbook/assets/orca cover test 2.png
-coverY: -53.094547057217085
+cover: ../../.gitbook/assets/orca_heading.png
+coverY: 0
 layout:
   cover:
     visible: true

@@ -1,6 +1,6 @@
 ---
-cover: ../../../../../.gitbook/assets/orca cover test 2.png
-coverY: -39.03183023872679
+cover: ../../../../../.gitbook/assets/orca_heading.png
+coverY: 0
 ---
 
 # Isolated FIN Margin
