@@ -6,11 +6,11 @@ coverY: 0
 
 # Pond
 
-Pond creates an entire local [#Kujira](https://twitter.com/hashtag/Kujira?src=hashtag\_click) network, complete with price feeders, and scaffolds out a dApp template that you can start building on straight away.
+Pond creates an entire local Kujira network, complete with price feeders, and scaffolds out a dApp template that you can start building on straight away.
 
 It takes just 3 commands to get the network running & the Pond-UI will configure itself automatically & connect to your local Pond network.
 
-Simply follow the steps [here](https://t.co/dcaNkYk2Pb).
+Simply follow the steps [here](https://github.com/Team-Kujira/pond-ui).
 
 <figure><img src="../.gitbook/assets/pond logo (1).png" alt=""><figcaption></figcaption></figure>
 
