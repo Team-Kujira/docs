@@ -6,7 +6,7 @@ coverY: 0
 
 # Principles
 
-**Collaboration and cooperation lead to success**
+**Collaboration and cooperation lead to success.**
 
 We believe in collaboration and cooperation to build sustainable projects with transparent, honest business models and passionate builders.
 

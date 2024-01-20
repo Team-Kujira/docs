@@ -4,7 +4,7 @@
 
 * [Kujira Empowers Everyone](README.md)
   * [Ecosystem](introduction/what-is-kujira/appchain-ecosystem.md)
-  * [Where Everyone can be a Whale](introduction/what-is-kujira/a-grand-whalecome-to-kujira.md)
+  * [Where Everyone Can Be a Whale](introduction/what-is-kujira/a-grand-whalecome-to-kujira.md)
   * [Grown-Up DeFi (GUD)](introduction/what-is-kujira/grown-up-defi-gud.md)
 * [Why Kujira](<README (1).md>)
   * [User and Developer Experience](introduction/why-kujira/user-and-developer-experience.md)

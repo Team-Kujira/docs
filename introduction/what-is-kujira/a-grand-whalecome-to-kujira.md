@@ -4,13 +4,13 @@ cover: ../../.gitbook/assets/everyonecanbeawhale.png
 coverY: -78.39755351681957
 ---
 
-# Where Everyone can be a Whale
+# Where Everyone Can Be a Whale
 
-## The beginning
+## The Beginning
 
 At Kujira, **we have always been determined to provide fair and equal opportunities for all investors** in the decentralized finance (DeFi) space.
 
-On May 2021, a liquidation cascade on the [Anchor platform](https://twitter.com/anchor\_protocol?lang=en) caused the price of [Terra](https://docs.terra.money/) LUNA to drop from $16 to $4 in just one week. **Many retail investors who had leveraged their assets were liquidated at large discounts by a small group of elites**, who were able to buy the liquidated assets at a steep discount using expensive bots.&#x20;
+On May 2021, a liquidation cascade on the [Anchor platform](https://twitter.com/anchor\_protocol?lang=en) caused the price of [Terra](https://docs.terra.money/) LUNA to drop from $16 to $4 in just one week. **Many retail investors who had leveraged their assets were liquidated at large discounts by a small group of elites** that were able to buy the liquidated assets at a steep discount using expensive bots.&#x20;
 
 This liquidation event, which wiped out over a billion dollars worth of LUNA, exposed the weaknesses of DeFi markets and the **need for a sustainable foundation that could withstand market fluctuations**.
 
@@ -18,7 +18,7 @@ In response to this event, Team Kujira created the first decentralized liquidati
 
 <figure><img src="../../.gitbook/assets/ORCA terra.png" alt="" width="563"><figcaption><p><a href="../../dapps-and-infrastructure/orca/">ORCA</a> on Terra</p></figcaption></figure>
 
-## Learning from the past
+## Learning from the Past
 
 **As we saw the inherent weaknesses of DeFi markets, we realized the need for a robust infrastructure layer that would allow investors to make money in all market environments**. Our thesis was validated by multiple events in 2022, including the collapses of Terra, 3AC, and various centralized exchanges.
 
@@ -28,7 +28,7 @@ When the Terra blockchain was halted, we decided to launch our own semi-permissi
 
 <figure><img src="../../.gitbook/assets/kujira network.png" alt=""><figcaption><p><a href="https://kujira.network/">Kujira main page</a></p></figcaption></figure>
 
-## Everyone can be a whale
+## Everyone Can Be a whale
 
 At Kujira, _we believe that_ _everyone has the opportunity to be a "whale"_ – to have access to large amounts of funds, strategic market information, and time. That's why we are building an ever-growing suite of interconnected dApps that provide our users with detailed analytics and automated innovation to level the playing field in the DeFi space.
 

@@ -30,7 +30,7 @@ If you are new to cryptocurrencies, one easy way to move funds into the Kujira b
 
 ### Local Money
 
-[Local](https://localmoney.io/) is a decentralized P2P marketplace for the multi-chain world with fast and easy on-off ramps. Local Money enables peer to peer transactions that greatly reduces the burden of moving funds on or off chain. Created as a decentralized alternative built on the success of P2P giants Binance P2P, Localbitcoins, and LocalCryptos who have more than 10 million monthly visits–Local Money is set to expand crypto-fiat access.
+[Local](https://localmoney.io/) is a decentralized P2P marketplace for the multi-chain world with fast and easy on-off ramps. Local Money enables peer to peer transactions that greatly reduce the burden of moving funds on or off chain. Created as a decentralized alternative built on the success of P2P giants Binance P2P, Localbitcoins, and LocalCryptos who have more than 10 million monthly visits–Local Money is set to expand crypto-fiat access.
 
 ## Migrating Terra KUJI to Kujira
 

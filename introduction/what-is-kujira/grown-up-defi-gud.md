@@ -20,7 +20,7 @@ But we also believe that **DeFi needs to mature in order to realize its full pot
 
 <figure><img src="../../.gitbook/assets/whale liberty.png" alt="" width="563"><figcaption></figcaption></figure>
 
-## Wake up call
+## Wake-Up Call
 
 2022 was a wake-up call for the DeFi space, with multiple high-profile failures and collapses. It's clear that we need a new approach to DeFi that prioritizes sustainability and long-term value.
 

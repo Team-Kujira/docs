@@ -7,7 +7,7 @@ coverY: 0
 
 ### Overview
 
-Every now and then people need a helping hand navigating the treacherous seas of decentralized finance so they can coexist peacefully with the giant whales 🐋 and other sea life lurking beneath the surface. As we help steer the Kujira community through saccharine and bitter times alike, we guide our constituents through our safe yet bombastic shipping lane. Detailed below are the past events and landmarks along our long, long shipping lane as we take our stand on shipping, payments, and commerce.
+Every now and then people need a helping hand navigating the treacherous seas of decentralized finance so they can coexist peacefully with the giant whales 🐋 and other sea life lurking beneath the surface. As we help steer the Kujira community through saccharine and bitter times alike, we guide our constituents through our safe yet performant shipping lane. Detailed below are the past events and landmarks along our long, long shipping lane as we take our stand on shipping, payments, and commerce.
 
 [Here](https://docs.google.com/document/d/16vf3V5pCFrOCeEd5AZrwC5Vi\_SI\_GjAC\_n91Y1LkEQA/edit) is the monthly Kujira Shipping Lane since inception&#x20;
 
