@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="365px" height="88px" viewBox="0 0 365 88" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>kujira-chain square</title>
+    <g id="kujira-chain-square" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="kujira" transform="translate(-0, 13)" fill="#FFFFFF" fill-rule="nonzero">
+            <polygon id="Path" points="9.44564047 53.8482239 9.44564047 36.6523143 14.1280947 31.1625404 32.212056 53.8482239 43.8374596 53.8482239 20.3444564 25.4305705 42.2228202 0 30.5166846 0 9.44564047 25.6727664 9.44564047 0 0 0 0 53.8482239"></polygon>
+            <path d="M74.8116254,54.8170075 C90.3928956,54.8170075 98.0624327,45.9364909 98.0624327,32.5349839 L98.0624327,0 L88.5360603,0 L88.5360603,32.2927879 C88.5360603,40.8503767 83.7728741,46.4208827 74.8116254,46.4208827 C65.7696448,46.4208827 61.0064586,40.8503767 61.0064586,32.2927879 L61.0064586,0 L51.4800861,0 L51.4800861,32.6157158 C51.4800861,45.8557589 59.1496233,54.8170075 74.8116254,54.8170075 Z" id="Path"></path>
+            <path d="M105.854236,75 C116.26866,75 124.018929,69.2680301 124.018929,56.9967707 L124.018929,0 L114.573289,0 L114.573289,56.8353068 C114.573289,62.7287406 110.94035,66.6038751 105.127648,66.6038751 C101.010318,66.6038751 98.1039671,64.5048439 95.9242039,62.1636168 L91.5646775,69.3487621 C95.3590801,73.3853606 100.28373,75 105.854236,75 Z" id="Path"></path>
+            <polygon id="Path" points="149.974258 53.8482239 149.974258 0 140.528617 0 140.528617 53.8482239"></polygon>
+            <path d="M190.138413,0 C200.795033,0 207.737982,6.94294941 207.737982,16.8729817 C207.737982,26.4800861 201.440889,31.6469322 194.982331,32.6964478 L208.141642,53.8482239 L197.242826,53.8482239 L185.294495,33.7459634 L175.929586,33.7459634 L175.929586,53.8482239 L166.483946,53.8482239 L166.483946,0 Z M188.846701,8.3153929 L175.929586,8.3153929 L175.929586,25.4305705 L188.846701,25.4305705 C194.175011,25.4305705 198.050146,22.0398278 198.050146,16.8729817 C198.050146,11.7061356 194.175011,8.3153929 188.846701,8.3153929 Z" id="Combined-Shape"></path>
+            <path d="M249.516777,0 L270.668553,53.8482239 L259.931201,53.8482239 L255.975334,43.5145318 L231.271351,43.5145318 L227.315485,53.8482239 L216.578133,53.8482239 L237.729909,0 L249.516777,0 Z M243.623343,9.52637244 L233.935506,35.1991389 L253.311179,35.1991389 L243.623343,9.52637244 Z" id="Combined-Shape"></path>
+        </g>
+        <path d="M325,0 C347.09139,0 365,17.90861 365,40 C365,62.09139 347.09139,80 325,80 C302.90861,80 285,62.09139 285,40 C285,17.90861 302.90861,0 325,0 Z M325,4 C305.117749,4 289,20.117749 289,40 C289,59.882251 305.117749,76 325,76 C344.882251,76 361,59.882251 361,40 C361,20.117749 344.882251,4 325,4 Z" id="Oval-Copy-4" fill="#E53935" fill-rule="nonzero"></path>
+        <g id="Group-Copy-2" transform="translate(297, 14.8192)" fill="#E53935">
+            <rect id="Rectangle" x="4.96917478" y="14.2711105" width="22" height="4"></rect>
+            <rect id="Rectangle-Copy-5" x="30.9691748" y="14.2711105" width="20" height="4"></rect>
+            <rect id="Rectangle-Copy-9" x="30.9691748" y="7.27111048" width="20" height="4"></rect>
+            <rect id="Rectangle-Copy-11" x="8.96917478" y="7.27111048" width="13" height="4"></rect>
+            <rect id="Rectangle-Copy-10" transform="translate(39.2725, 5.5744) rotate(-315) translate(-39.2725, -5.5744)" x="34.7724756" y="3.57441134" width="9" height="4"></rect>
+            <rect id="Rectangle-Copy-14" transform="translate(18.0368, 13.3949) rotate(125) translate(-18.0368, -13.3949)" x="14.0367846" y="11.3948715" width="8" height="4"></rect>
+            <rect id="Rectangle-Copy-13" transform="translate(7.6609, 9.7482) rotate(125) translate(-7.6609, -9.7482)" x="-2.83914333" y="7.74824934" width="21" height="4"></rect>
+            <rect id="Rectangle-Copy-15" transform="translate(32.6836, 39.1947) rotate(115) translate(-32.6836, -39.1947)" x="28.1835725" y="37.194732" width="9" height="4"></rect>
+            <rect id="Rectangle-Copy-16" transform="translate(49.5288, 41.0073) scale(-1, 1) rotate(115) translate(-49.5288, -41.0073)" x="43.0288091" y="39.0073476" width="13" height="4"></rect>
+            <rect id="Rectangle-Copy-6" x="30.9691748" y="27.2711105" width="20" height="4"></rect>
+            <rect id="Rectangle-Copy-17" x="33.9691748" y="45.2711105" width="9" height="4"></rect>
+            <rect id="Rectangle-Copy" x="5.96917478" y="31.2711105" width="20" height="4"></rect>
+            <rect id="Rectangle-Copy-4" x="6.96917478" y="23.2711105" width="18" height="3"></rect>
+            <rect id="Rectangle" x="4.96917478" y="17.2711105" width="4" height="18"></rect>
+            <rect id="Rectangle-Copy-2" x="13.9691748" y="17.2711105" width="4" height="18"></rect>
+            <rect id="Rectangle-Copy-7" x="30.9691748" y="17.2711105" width="4" height="11"></rect>
+            <rect id="Rectangle-Copy-12" x="38.9691748" y="29.2711105" width="4" height="20"></rect>
+            <rect id="Rectangle-Copy-18" x="4.96917478" y="38.2711105" width="4" height="9"></rect>
+            <rect id="Rectangle-Copy-19" x="10.9691748" y="38.2711105" width="4" height="9"></rect>
+            <rect id="Rectangle-Copy-20" x="16.9691748" y="38.2711105" width="4" height="9"></rect>
+            <rect id="Rectangle-Copy-21" x="22.9691748" y="38.2711105" width="4" height="4"></rect>
+            <rect id="Rectangle-Copy-8" x="46.9691748" y="17.2711105" width="4" height="11"></rect>
+            <rect id="Rectangle-Copy-3" x="22.9691748" y="17.2711105" width="4" height="18"></rect>
+        </g>
+    </g>
+</svg>

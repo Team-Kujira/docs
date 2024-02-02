@@ -231,6 +231,7 @@
 
 * [Colors](brand-assets/colors.md)
 * [Logo Options](brand-assets/logo-options/README.md)
+  * [Kujira Brand](brand-assets/logo-options/kujira-brand.md)
   * [Product Logos](brand-assets/logo-options/product-logos.md)
   * [Legacy Logos](brand-assets/logo-options/legacy-logos.md)
 * [Fonts](brand-assets/fonts.md)
