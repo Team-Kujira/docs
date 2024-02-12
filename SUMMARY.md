@@ -155,6 +155,8 @@
   * [Price Oracle](developers/smart-contracts/oracle.md)
   * [Scheduler](developers/smart-contracts/scheduler.md)
   * [Entropy Beacon](developers/smart-contracts/entropy-beacon.md)
+* [Indexers](developers/indexers/README.md)
+  * [SubQuery](developers/indexers/subquery.md)
 * [Core Module Accounts](developers/core-module-accounts.md)
 * [List of Tokens](developers/list-of-tokens.md)
 * [dApp Front Ends](developers/dapp-front-ends/README.md)
