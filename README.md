@@ -1,11 +1,11 @@
 ---
 description: Sustainable Sovereign Layer 1 Ecosystem
-cover: .gitbook/assets/Kujira docs is for everyone (2).jpeg
-coverY: 24.791289135484007
+cover: .gitbook/assets/docs-banner.png
+coverY: 0
 layout:
   cover:
     visible: true
-    size: full
+    size: hero
   title:
     visible: true
   description:
