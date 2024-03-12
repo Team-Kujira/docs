@@ -20,4 +20,6 @@
 
 {% file src="../../.gitbook/assets/kujira-square (1).png" %}
 
-square
+### Dale (the mail whale)
+
+{% file src="../../.gitbook/assets/dale-square.png" %}
