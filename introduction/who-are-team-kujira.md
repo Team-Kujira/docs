@@ -23,10 +23,14 @@ Amit [@Const\_amit](https://twitter.com/const\_amit) | Core team Smart Contract 
 
 Dan Tanaka [@Dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev
 
-Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Research & writing | building WinkHUB | KujiDAO cofounder
+Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Research & writing | WinkHUB core team | KujiDAO cofounder
 
 Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, moderator, advisor
 
 Jan [@JPTG119](https://twitter.com/JPTG119) | Responsible for media and community
 
-KP [@KPeruggi](https://twitter.com/KPeruggi) | Content and Outreach                                               &#x20;
+KP [@KPeruggi](https://twitter.com/KPeruggi) | Content and Outreach    &#x20;
+
+Mint [@mintthemoon](https://twitter.com/mintthemoon) | Kujira Name Service | central Gojira backend dev | Kujira relayer/validator
+
+Starsquid @starsquid\_io | Kujira Price Oracles                                       &#x20;

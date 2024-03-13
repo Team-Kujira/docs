@@ -15,15 +15,19 @@ The on-chain scheduler allows protocols to be designed with far less reliance on
 
 ### Native Token Generation
 
-Smart contract developers no longer need to handle two individual entry points into their contracts, only needing to design for a native denomination. In doing so, every token on the network will be a native Cosmos token, and associated liquidation and trading revenue (with more to come) will all accrue to KUJI stakers.
+Smart contract developers no longer need to handle two individual entry points into their contracts, only needing to design for a native denomination.
+
+In doing so, every token on the network will be a 'native' Cosmos token, and associated Kujira product revenue from trading, liquidations, borrowing, etc. will all accrue to KUJI stakers.
 
 ### Build with Cosmos SDK
 
 Access the entire Cosmos ecosystem seamlessly in an environment with proven security and interoperability via IBC.
 
-### CosmWasm 1.1 Support
+### CosmWasm Support & Confio Integration
 
 Leverage Rust’s expressive type system and CosmWasm’s best in class architecture to fearlessly build safe and secure smart contracts.
+
+Moreover, as one of the first few chains to sign up for Confio's subscription model, our developers have unparalleled access to CosmWasm's tooling and utility & dedicated support from CosmWasm experts.&#x20;
 
 ### Thriving Community
 
@@ -35,7 +39,9 @@ A long term view for real-world use, revenue, and sustainability, for builders, 
 
 ### Better Tokenomics
 
-All projects launching on Kujira can propose to list their token on FIN, our CLOB DEX. Thus, tokens are not needed for liquidity pools although protocols can source liquidity however they want. Furthermore, as KUJI stakers receive a proportional share of every cent of Kujira protocol revenue, Kujira projects with tokens on FIN are constantly ‘airdropped’ to all KUJI stakers. This advertising lessens any need for inflationary incentives.
+All projects launching on Kujira can propose to list their token on [FIN](../../dapps-and-infrastructure/fin/), our CLOB DEX. Our liquidity engine, [BOW](../../dapps-and-infrastructure/bow/), plays off the special nature of FIN to drastically reduce liquidity needed to incentivize trading. Projects are therefore able to save on tokens that would otherwise be needed for liquidity pools, which gives them stronger tokenomics appeal than their competitors.
+
+Projects can also take advantage of Kujira's unique on-chain tooling that allows them to make the most of their funds and tokens in various ways while preserving liquidity and capital. &#x20;
 
 ### Sophisticated On-Chain Price Oracle
 
