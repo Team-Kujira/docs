@@ -63,6 +63,8 @@ There are several options and flags that can be used with this command, includin
   -y, --yes                      Skip tx broadcasting prompt confirmation
 ```
 
-Once a proposal is submitted, there is a 24-hour deposit window during which a threshold of 10,000 KUJI must be reached from the proposer's wallet or any other community member's wallet in order for the proposal to be deposited on-chain and the voting period (48 hours) to begin. The KUJI tokens deposited must be liquid (not staked) and will be returned to the wallet after the threshold is met. If the threshold is not met during the deposit period, the deposited tokens will be burned.
+It is best to use the Kujira Discord forum to discuss governance related proposals and matters in advance. This helps crowd-fund proposals, get the wider community engaged in voting, receive valuable community feedback, and gauge community sentiment ahead of proposal submission.&#x20;
 
-Users can support proposals they believe in by depositing the required amount through the UI on https://blue.kujira.app/govern. Simply navigate to the proposal and use the deposit feature to contribute.
+To submit a proposal you need an initial deposit of 100 [USK](../dapps-and-infrastructure/usk-stablecoin.md). After that there is a 24-hour window during which a threshold of 500 USK must be reached from the proposer's wallet or any other community members' wallets in order for the proposal to be deposited on-chain and the voting period (48 hours) to begin. Any deposited USK will be returned to the original wallets after the threshold is met. If the threshold is not met during the deposit period, the deposited tokens will be burned.
+
+Users can support proposals they believe in by depositing the required amount through the UI on [https://blue.kujira.app/govern](https://blue.kujira.app/govern). Simply navigate to the proposal and use the deposit feature to contribute.
