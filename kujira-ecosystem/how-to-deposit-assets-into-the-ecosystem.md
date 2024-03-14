@@ -18,7 +18,7 @@ If you were a KUJI holder on Terra and held KUJI or sKUJI at 1:58 AM UTC on May 
 
 ### Option 3: Bridging & Cross-chain Tools
 
-If you are an experienced DeFi user, there are several bridging tools available that you can use to move your funds to Kujira. Some examples include Axelar, IBC, Squid, Maya, and Rango. Our detailed guide below breaks down the different options and provides more information on how to use these tools.
+If you are an experienced DeFi user, there are several bridging tools available that you can use to move your funds to Kujira. Some examples include Axelar, IBC, Squid, Maya, and Rango. Another popular method involves moving native USDC across chains or from Coinbase to Kujira and vice versa using Circle's Cross-Chain Transfer Protocol (CCTP). Our detailed guide below breaks down the different options and provides more information on how to use these tools.
 
 ## On-Ramping Funds to Kujira
 
@@ -66,6 +66,14 @@ Here is a step-by-step guide to the bridging process:
 If you have native USDC on Ethereum, you can bridge it to Kujira mainnet by following the same steps as above, but configuring the left side of the bridge to show "Ethereum" instead.
 
 Alternatively, you can deposit USDC directly from a centralized exchange (CEX) into Kujira. To do this, navigate to the "Crosschain Bridge" section of the bridging page and follow the steps
+
+### Cross-Chain Transfer Protocol
+
+Kujira's native wallet [SONAR](../dapps-and-infrastructure/kujira-wallet/) integrates Circle's Cross-Chain Transfer Protocol (CCTP) by leveraging the power of IBC under the hood to facilitate sending native USDC stablecoins from Kujira to Coinbase and vice versa.
+
+Please note that you cannot directly send your native USDC to any other destination. Once your USDC is in Coinbase, you can then send it to other supported DeFi networks.
+
+This is one of the **simplest and cheapest** onboarding mechanisms for DeFi beginners. The only thing to keep in mind is that if you move your USDC on-chain to a new SONAR wallet, you'll need to change your wallet gas fees to being USDC, so that you are able to perform further transactions. You can find a guide on how to do this [here](../dapps-and-infrastructure/kujira-wallet/setup/customize-your-settings.md#technical-aspects).
 
 ### Nomic Bridging
 
