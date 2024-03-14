@@ -1,6 +1,6 @@
 ---
 description: >-
-  The dynamic duo who host weekly Kujira Twitter spaces + run Kujira's NFT
+  Dynamic duo who host weekly Kujira Twitter spaces + run Kujira's NFT
   marketplace & media site
 cover: ../.gitbook/assets/Kujira docs is for everyone (1).jpeg
 coverY: 0
