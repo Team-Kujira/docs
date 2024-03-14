@@ -5,7 +5,7 @@ coverY: 4
 
 # Media Coverage
 
-Kujira has been featured in several notable media outlets, including:
+Kujira has been featured in various media, including:
 
 {% tabs %}
 {% tab title="Written Publications" %}
@@ -20,9 +20,27 @@ Kujira has been featured in several notable media outlets, including:
 [Growing Up with Kujira](https://research.thetie.io/growing-up-with-kujira/) - The Tie
 {% endtab %}
 
-{% tab title="Video Interviews" %}
+{% tab title="Twitter Spaces" %}
+[Kujira Founders Chinwag 1](https://terraspaces.org/2022/10/06/kujira-wine-and-chinwag-a-night-with-hans-brett/)
 
+[Kujira Founders Chinwag 2](https://terraspaces.org/2023/03/30/a-chinwag-with-hans-brett-dove-special-guests/)
+
+[Kujira Founders Chinwag 3](https://terraspaces.org/2023/10/24/a-full-team-kujira-chinwag/)
+
+[NFTs on Kujira](https://terraspaces.org/2024/03/07/nfts-on-kujira/)
+
+[The Kuji Kast Spaces with Nami](https://terraspaces.org/2023/10/17/the-kuji-kast-spaces-with-nami/)
+
+[Kujira x Injective the evolution of onchain orderbooks](https://terraspaces.org/2024/01/19/kujira-x-injective-the-evolution-of-onchain-orderbooks/)
+
+And many others. Check out an exhaustive list of Kujira spaces [here](https://terraspaces.org/kujira/).
+{% endtab %}
+
+{% tab title="Video Interviews" %}
+[Dove at Shade Stablecoin Summit part 1](https://www.youtube.com/watch?v=75XOwmF6bl8)
+
+[Dove at Shade Stablecoin Summit part 2](https://www.youtube.com/watch?v=wA8ZzK3KTDo)
 {% endtab %}
 {% endtabs %}
 
-These outlets have written about Kujira's technology, products, and impact on the decentralized financial ecosystem. Be sure to check out their coverage to learn more about what Kujira is doing and what people are saying about us.
+These articles, spaces, and interviews cover Kujira's technology, products, and impact on the decentralized financial ecosystem. Be sure to check out this coverage to learn more about what Kujira is doing and what people are saying about us.
