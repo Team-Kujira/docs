@@ -23,7 +23,7 @@ The Kujira Amplifier Telegram chat is an outreach focused community building spa
 
 <figure><img src="../.gitbook/assets/amplifier.jpg" alt=""><figcaption></figcaption></figure>
 
-High quality community engagement attracts developers, integrations, and partnerships. Related efforts can clear up misinformation, introduce the Kujira message to more people, increase user retention, and attract the interest of content creators, skilled individuals, and protocols/DAOs/chains/ecosystems over time.
+High quality community engagement attracts developers, integrations, and partnerships. Related efforts can clear up misinformation, introduce the Kujira message to more people, increase user retention, and attract the interest of content creators, skilled individuals, and protocols / DAOs / chains / ecosystems over time.
 
 Join the amplifier pod of likeminded Kujirans who want to spread the Kujira message today [here](https://t.me/kujiraamplifier) and find a related library of helpful Kujira media assets [here](https://t.me/kujiraamplifierlibrary).  &#x20;
 

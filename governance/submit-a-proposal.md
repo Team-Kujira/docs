@@ -4,6 +4,8 @@ description: Submit a community pool spend proposal
 
 # Submit a Governance Proposal
 
+## Overview
+
 As a member of the Kujira community, you have the opportunity to submit proposals for consideration by the network. One type of proposal is a community pool spend proposal, which involves requesting funds from the community pool for a specific purpose.
 
 To submit a community pool spend proposal, you will need to provide a JSON file with the proposal details and an initial deposit. Here is an example of the command to use:
@@ -63,8 +65,10 @@ There are several options and flags that can be used with this command, includin
   -y, --yes                      Skip tx broadcasting prompt confirmation
 ```
 
+## Proposal Submission Process
+
 It is best to use the Kujira Discord forum to discuss governance related proposals and matters in advance. This helps crowd-fund proposals, get the wider community engaged in voting, receive valuable community feedback, and gauge community sentiment ahead of proposal submission.&#x20;
 
-To submit a proposal you need an initial deposit of 100 [USK](../dapps-and-infrastructure/usk-stablecoin.md). After that there is a 24-hour window during which a threshold of 500 USK must be reached from the proposer's wallet or any other community members' wallets in order for the proposal to be deposited on-chain and the voting period (48 hours) to begin. Any deposited USK will be returned to the original wallets after the threshold is met. If the threshold is not met during the deposit period, the deposited tokens will be burned.
+To submit a proposal (which you can do [here](https://blue.kujira.network/govern/new)) you need an initial deposit of 100 [USK](../dapps-and-infrastructure/usk-stablecoin.md). After that there is a 24-hour window during which a threshold of 500 USK must be reached from the proposer's wallet or any other community members' wallets in order for the proposal to be deposited on-chain and the 48 hour voting period to begin. Any deposited USK will be returned to the original wallets after reaching the threshold. If the threshold is not met during the deposit period, the deposited tokens will be burned.
 
-Users can support proposals they believe in by depositing the required amount through the UI on [https://blue.kujira.app/govern](https://blue.kujira.app/govern). Simply navigate to the proposal and use the deposit feature to contribute.
+Users can support proposals they believe in by depositing the required amount through the UI on [https://blue.kujira.app/govern](https://blue.kujira.app/govern). Simply navigate to the proposal & use the deposit feature to contribute.

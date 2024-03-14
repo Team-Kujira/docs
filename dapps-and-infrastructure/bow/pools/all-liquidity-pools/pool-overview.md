@@ -31,7 +31,7 @@ Incentives can either be provided as one of two types: decreasing or fixed (as r
 
 #### &#x20;                                                ![](<../../../../.gitbook/assets/image (14).png>) &#x20;
 
-#### &#x20;                                                 ![](<../../../../.gitbook/assets/image (5).png>)
+#### &#x20;                                                 ![](<../../../../.gitbook/assets/image (5) (1).png>)
 
 Decreasing incentives linearly reduce from the start to finish of a provision period. The total amount of remaining incentives can be calculated using the triangle area rule 1/2\*base\*height. The remaining incentives are shaded in green.
 

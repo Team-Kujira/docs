@@ -33,4 +33,4 @@ KP [@KPeruggi](https://twitter.com/KPeruggi) | Content and Outreach    &#x20;
 
 Mint [@mintthemoon](https://twitter.com/mintthemoon) | Kujira Name Service | central Gojira backend dev | Kujira relayer/validator
 
-Starsquid @starsquid\_io | Kujira Price Oracles                                       &#x20;
+Starsquid [@starsquid\_io](https://twitter.com/starsquid\_io) | Kujira Price Oracles                                       &#x20;

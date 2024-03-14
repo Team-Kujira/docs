@@ -8,6 +8,8 @@ description: $KUJI is the native token on the Kujira Network
 
 The KUJI token is the native token on the Kujira Network. It has a total supply of 122,398,190.844391 (122.4 million) tokens. The original supply of 150 million tokens was reduced through a governance vote on January 18, 2022, which resulted in the burning of liquidity pool rewards.
 
+_KUJI is a fully circulating token._
+
 ### Utility
 
 The KUJI token serves several important functions on the Kujira Network. It is used to pay network fees and dApp fees, and all fees collected are distributed to KUJI stakers.
@@ -29,4 +31,4 @@ Treasury          6.75M    24 month vesting
 Rewards          8.648M    * adjusted after burn
 ```
 
-The release schedule will conclude on November 9, 2023 at 12pm UTC, when all tokens will be fully vested.
+**The release schedule concluded on November 9, 2023 at 12pm UTC, when all tokens fully vested**.

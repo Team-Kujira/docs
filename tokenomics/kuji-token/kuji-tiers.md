@@ -8,4 +8,4 @@ These symbols are tied to the amount of KUJI that a user has staked across all K
 * The middle symbol will light up when a user has staked 5000 KUJI or more.
 * The rightmost symbol will light up when a user has staked 50000 KUJI or more.
 
-So what do these symbols represent? That's currently a mystery - the team at Kujira has not yet revealed the significance of these symbols. However, it is worth noting that these are not the only symbols that may appear in the future. Stay tuned for updates from Kujira on this front.&#x20;
+Do these symbols represent something significant? That's currently a mystery. It is worth noting that these are not the only symbols that may appear in the future. Stay tuned for new updates.

@@ -8,7 +8,7 @@ This cooldown is in place to help secure the network.
 
 Redelegation occurs on [the staking page](../../dapps-and-infrastructure/blue/stake.md) within the BLUE dApp. Simply select a validator that you are currently staked with. And then select redelegate.
 
-<img src="../../.gitbook/assets/image (1) (1).png" alt="" data-size="original">
+<img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" data-size="original">
 
 Next search for a new validator that you would like to redelegate to as seen in the picture below&#x20;
 

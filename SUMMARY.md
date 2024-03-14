@@ -171,6 +171,7 @@
   * [KUJI Sustainability](tokenomics/kuji-token/kuji-sustainability.md)
   * [Kujira Governance](tokenomics/kuji-token/kujira-governance.md)
   * [Lending and Borrowing KUJI](tokenomics/kuji-token/lending-and-borrowing-kuji.md)
+  * [Buying Kujira NFTs](tokenomics/kuji-token/buying-kujira-nfts.md)
 
 ## Validators
 
@@ -216,9 +217,10 @@
   * [Discord](community/kujira-socials/discord.md)
   * [Telegram](community/kujira-socials/telegram.md)
   * [Twitter](community/kujira-socials/twitter.md)
+  * [WinkHUB](community/kujira-socials/winkhub.md)
+  * [Medium](community/kujira-socials/medium.md)
   * [Reddit](community/kujira-socials/reddit.md)
   * [Instagram](community/kujira-socials/instagram.md)
-  * [Medium](community/kujira-socials/medium.md)
   * [YouTube](community/kujira-socials/youtube.md)
 
 ## Help Center

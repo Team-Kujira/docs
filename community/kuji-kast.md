@@ -1,5 +1,7 @@
 ---
-description: The dynamic duo behind WinkHUB who host weekly Twitter spaces
+description: >-
+  The dynamic duo who host weekly Kujira Twitter spaces + run Kujira's NFT
+  marketplace & media site
 cover: ../.gitbook/assets/Kujira docs is for everyone (1).jpeg
 coverY: 0
 layout:
@@ -20,11 +22,13 @@ layout:
 
 # Kuji Kast
 
-A fantastic media initiative led by @Togwos and @MaximusD that features various types of in-depth hilarious content including interviews with protocols building on Kujira, meme competitions, and other stimulating content, wink. They have a [Twitter](https://twitter.com/KujiKast) and [YouTube](https://www.youtube.com/c/KujiKast).
+[Kuji Kast](https://twitter.com/KujiKast) is a media initiative led by [WinkHUB](kujira-socials/winkhub.md) founders [@Togwos](https://twitter.com/Togwos) and [@MaximusD](https://twitter.com/maximus\_d12) that features various types of in-depth hilarious content including interviews with protocols building on Kujira, meme competitions, and other stimulating content. They have a [Twitter](https://twitter.com/KujiKast) and [YouTube](https://www.youtube.com/c/KujiKast).
+
+At this point in time, they focus on (bi)weekly Twitter spaces analyzing recent developments in the Kujira ecosystem while also often bringing on special guests to dive deep into relevant news.
 
 <figure><img src="../.gitbook/assets/kuji kast.png" alt=""><figcaption></figcaption></figure>
 
-Released Episodes:
+Released YouTube Episodes:
 
 July 7, 2022 [Episode 1](https://www.youtube.com/watch?v=7y-Wph-BKpc): The Start of Something Beautiful&#x20;
 

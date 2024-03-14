@@ -1,8 +1,10 @@
 # Medium
 
-Medium is the primary means for the Kujira team to provide formal, detailed blog posts about new products, project events, partnerships, changes in tokenomics, summaries of recent happenings, or anything else of importance that the team wants to communicate in a formal, precise way to the wider community.
+Medium was the primary means for the Kujira team to provide formal, detailed blog posts about new products, project events, partnerships, changes in tokenomics, summaries of recent happenings, or anything else of importance that the team wants to communicate in a formal, precise way to the wider community.
 
 The official Medium can be found at [https://medium.com/team-kujira](https://medium.com/team-kujira)
+
+**All Kujira team content has been moved to Kujira's native content website**: [WinkHUB](https://winkhub.app/).
 
 ### Announcements
 
