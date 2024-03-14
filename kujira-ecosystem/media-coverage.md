@@ -8,7 +8,7 @@ coverY: 4
 Kujira has been featured in various media, including:
 
 {% tabs %}
-{% tab title="Written Publications" %}
+{% tab title="Articles" %}
 [How a Terra App Allows Users to Buy Ethereum At Big Discount](https://www.forbes.com/sites/youngjoseph/2021/12/28/how-a-terra-app-allows-users-to-buy-ethereum-at-big-discount/?sh=5dad9cd73dc7) - Forbes
 
 [Here’s How Traders Capitalize on Crypto Market Crashes and Liquidations](https://cointelegraph.com/news/here-s-how-traders-capitalize-on-crypto-market-crashes-and-liquidations) - Coin Telegraph
