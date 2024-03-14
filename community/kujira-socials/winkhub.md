@@ -10,7 +10,7 @@
 
 ## Kujira Academy
 
-[WinkHUB is also the home of Kujira Academy](https://winkhub.app/creators/kujira-academy)--a home-grown initiative getting community members involved to spread the word and educate people about Kujira.&#x20;
+[WinkHUB is also the home](https://winkhub.app/creators/kujira-academy) of [Kujira Academy](https://twitter.com/KujiraAcademy)--a home-grown initiative getting community members involved to spread the word and educate people about Kujira.&#x20;
 
 ## Kujira Encyclopedia
 
