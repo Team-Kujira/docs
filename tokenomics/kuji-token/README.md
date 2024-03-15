@@ -1,5 +1,7 @@
 ---
 description: $KUJI is the native token on the Kujira Network
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # KUJI Token

@@ -1,10 +1,10 @@
 ---
 description: Efficiently build applications on Kujira
-cover: ../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+cover: ../.gitbook/assets/docs-banner.png
 coverY: 0
 ---
 
-# Pond
+# Pond (Developer Toolkit)
 
 Pond creates an entire local Kujira network, complete with price feeders, and scaffolds out a dApp template that you can start building on straight away.
 

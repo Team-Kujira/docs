@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Discord Governance Forum
 
 The Discord Governance Forum is an important platform for the Kujira community to discuss new project proposals and ideas for the Kujira chain. It is also a place where community members can communicate their views and engage with others about governance proposals.

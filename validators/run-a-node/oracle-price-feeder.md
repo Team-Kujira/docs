@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Oracle Price Feeder
 
 ## Introduction

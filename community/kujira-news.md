@@ -1,6 +1,6 @@
 ---
 description: Kujira alpha 24/7
-cover: ../.gitbook/assets/Kujira docs is for everyone (1).jpeg
+cover: ../.gitbook/assets/docs-banner.png
 coverY: 0
 ---
 

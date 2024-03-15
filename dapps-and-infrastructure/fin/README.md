@@ -1,6 +1,6 @@
 ---
 description: A decentralized 100% on-chain orderbook exchange
-cover: ../../.gitbook/assets/fin logo test 103.png
+cover: ../../.gitbook/assets/docs-banner.png
 coverY: 0
 ---
 

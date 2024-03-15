@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Staking KUJI
 
 Staking KUJI on the Kujira Network with a Kujira validator allows users to earn [xKUJI](../../dapps-and-infrastructure/ghost-money-market/lend.md#how-does-lending-work-on-ghost) and [xUSK](../../dapps-and-infrastructure/usk-stablecoin.md) over time. All fees collected on the network are paid directly to stakers through the validators, after being converted to KUJI first. This makes it easy for users to accumulate a diversified staking yield rather than just more KUJI. Kujira is also adding the option to redeem staking rewards as KUJI based on popular demand.

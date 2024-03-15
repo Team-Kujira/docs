@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Contacting the Senate
 
 There are a number of ways to contact the Kujira Senate.&#x20;

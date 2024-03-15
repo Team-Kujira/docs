@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # How to Save Favourite Pairs
 
 * Navigate to [fin.kujira.app](https://fin.kujira.app/)

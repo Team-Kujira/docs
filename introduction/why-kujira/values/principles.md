@@ -1,6 +1,6 @@
 ---
 description: These are the Kujira principles we hold for the team and community
-cover: ../../../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+cover: ../../../.gitbook/assets/docs-banner.png
 coverY: 0
 ---
 

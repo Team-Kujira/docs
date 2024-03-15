@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Slashing
 
 Running a validator is an important responsibility. Validators must meet strict standards and constantly monitor the network and participate in [consensus](./#consensus). Validators that misbehave and fail to meet these standards are slashed as a penalty.

@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Listing tokens on FIN
 
 FIN offers a user interface at [https://fin.kujira.app/listing](https://fin.kujira.app/listing) or [https://fin.kujira.network/listing](https://fin.kujira.network/listing) that allows community members to propose the launch of a new token pair on the FIN platform. In order to use this feature, you must have a Sonar or Keplr wallet and be connected.

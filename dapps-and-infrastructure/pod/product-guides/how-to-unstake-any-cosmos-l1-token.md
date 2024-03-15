@@ -1,5 +1,7 @@
 ---
 description: Follow this guide to Unstake from one validator on any Cosmos L1.
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to Unstake any Cosmos L1 Token

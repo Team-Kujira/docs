@@ -1,5 +1,7 @@
 ---
 description: 'FIN: A DEX Built to Last'
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # Overview

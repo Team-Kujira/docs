@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Constitution
 
 The Constitution is a living document detailing the structure, scope, and mechanics of the Kujira Senate. Section 1 covers the formation & structure of the Senate. Section 2 covers the function, purpose, and parameters of the Senate multisig wallet. Section 3 covers the role and scope of the Senate in relation to the community grant request process.&#x20;

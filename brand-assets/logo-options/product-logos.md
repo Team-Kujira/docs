@@ -1,10 +1,15 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Product Logos
 
 ### BLUE
 
-{% file src="../../.gitbook/assets/kujira-blue.svg" %}
+{% file src="../../.gitbook/assets/kujira-blue (1).svg" %}
 
-{% file src="../../.gitbook/assets/kujira-blue.png" %}
+{% file src="../../.gitbook/assets/kujira-blue (1).png" %}
 
 ### ORCA
 

@@ -2,6 +2,8 @@
 description: >-
   These steps will walk you through the process of checking your history for a
   determined pair on FIN.
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to Look at Your History

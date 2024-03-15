@@ -1,5 +1,7 @@
 ---
 description: Fair, decentralized launchpad
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # PILOT (Launchpad)

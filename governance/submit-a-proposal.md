@@ -1,5 +1,7 @@
 ---
 description: Submit a community pool spend proposal
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # Submit a Governance Proposal

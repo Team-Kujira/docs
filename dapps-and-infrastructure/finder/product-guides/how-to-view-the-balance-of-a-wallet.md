@@ -1,5 +1,7 @@
 ---
 description: Look on to see how Kujira wallet balances can be viewed on FINDER
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to View a Wallet's Balance

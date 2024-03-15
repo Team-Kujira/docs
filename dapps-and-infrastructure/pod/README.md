@@ -1,5 +1,7 @@
 ---
 description: Staking UI for Cosmos Network
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # POD (Cross-chain Staking)

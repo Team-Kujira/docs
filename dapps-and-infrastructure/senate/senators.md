@@ -1,5 +1,7 @@
 ---
 description: The body amplifying community voices
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # Senators

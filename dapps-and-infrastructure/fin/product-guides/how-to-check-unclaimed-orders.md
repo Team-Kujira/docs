@@ -2,6 +2,8 @@
 description: >-
   After this guide you will be able to check if your limit orders on FIN have
   been filled.
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to Check Unclaimed Orders

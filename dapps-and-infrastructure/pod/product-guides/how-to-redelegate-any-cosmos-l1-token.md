@@ -2,6 +2,8 @@
 description: >-
   Follow this guide to Redelegate from one validator to another on any Cosmos
   L1.
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to Redelegate any Cosmos L1 Token

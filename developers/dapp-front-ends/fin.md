@@ -1,5 +1,7 @@
 ---
 description: Wield the first 100% decentralised order book exchange on Cosmos.
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # FIN

@@ -2,6 +2,8 @@
 description: >-
   Latest chain token icons can be downloaded from
   https://github.com/cosmos/chain-registry/tree/master/kujira/images
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # Native Token Logos

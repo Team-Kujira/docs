@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Entropy Beacon
 
 We give a big thanks to [Entropic Labs](https://entropiclabs.io/beacon/) who are bringing cryptographically verifiable on-chain randomness to Kujira.

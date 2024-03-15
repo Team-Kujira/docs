@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # (Retired) The Kujira Senate
 
 The Kujira Senate was a governance structure for the Kujira blockchain aiming to support the stability and growth of the ecosystem, facilitate validating on the platform, and represent the values of the community. It was composed of up to nine experts elected by the staking community and is accountable, transparent, and democratic.

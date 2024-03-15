@@ -1,5 +1,7 @@
 ---
 description: This guide explains how to view and manage bookmarks
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to View and Manage Bookmarked Wallets

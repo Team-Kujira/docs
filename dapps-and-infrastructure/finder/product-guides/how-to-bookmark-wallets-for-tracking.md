@@ -1,5 +1,7 @@
 ---
 description: Follow these steps to bookmark any Kujira wallet address
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to Bookmark Wallets for Tracking

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Handy Tools
 
 ## Position Management and Alerts

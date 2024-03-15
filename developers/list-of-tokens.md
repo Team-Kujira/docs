@@ -1,5 +1,7 @@
 ---
 description: Browse Tokens on Kujira
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # List of Tokens

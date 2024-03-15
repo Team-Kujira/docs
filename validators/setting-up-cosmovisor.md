@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Cosmovisor Setup
 
 Setting up Cosmovisor is relatively straightforward. However, it does expect certain environment variables and folder structure to be set.

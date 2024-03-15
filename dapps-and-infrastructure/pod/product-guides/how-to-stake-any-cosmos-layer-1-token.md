@@ -2,6 +2,8 @@
 description: >-
   This guide will guide you through the steps to Stake any Cosmos token on its
   native chain.
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to Stake any Cosmos Layer 1 Token

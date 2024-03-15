@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Genesis Validator Allocation
 
 Kujira was able to quickly recover from the collapse of Terra by working hard to rebuild and relaunch in just six weeks. This would not have been possible without the support of our dedicated and brave validators who stood by us during the launch of our new blockchain.

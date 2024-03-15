@@ -1,5 +1,7 @@
 ---
 description: Standard colors used across the Kujira dApps.
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # Colors

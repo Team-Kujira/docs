@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Treasury
 
 ## [https://blue.kujira.app/senate](https://blue.kujira.app/senate)

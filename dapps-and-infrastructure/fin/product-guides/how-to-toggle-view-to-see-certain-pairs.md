@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # How to Toggle View to see Certain Pairs
 
 * Navigate to [fin.kujira.app](https://fin.kujira.app/)

@@ -1,6 +1,6 @@
 ---
 description: The next evolution of decentralized finance
-cover: ../../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+cover: ../../.gitbook/assets/docs-banner.png
 coverY: 0
 ---
 

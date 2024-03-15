@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Scheduler
 
 The on-chain scheduler allows you to hook automated contract execution into the end of every N-th block. These are instantiated via governance, as they add computational load and gas costs to every block, and thus must be managed.&#x20;

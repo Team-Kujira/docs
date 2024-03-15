@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Orderbook status and Recent Trades
 
 ## Overview

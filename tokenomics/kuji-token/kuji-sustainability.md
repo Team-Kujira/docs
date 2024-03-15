@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # KUJI Sustainability
 
 Since KUJI is not an inflationary asset and relies on adoption of its decentralized applications and products to generate fees, KUJI is sustainable. It does not rely on a Ponzi like structure to reward stakers in KUJI printed out of thin air.

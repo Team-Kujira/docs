@@ -1,5 +1,7 @@
 ---
 description: Help shape the future of Kujira by voting on governance proposals.
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # Vote on Proposals

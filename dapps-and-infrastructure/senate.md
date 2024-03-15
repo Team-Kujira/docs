@@ -1,5 +1,7 @@
 ---
 description: Governance Structure for Kujira Blockchain
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # (Retired) SENATE (Grant Oversight)

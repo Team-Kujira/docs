@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Instagram
 
 In the past, our Instagram posts on Terra (a decentralized platform that Kujira was a part of) mainly revolved around important mechanics of the Kujira dApp ecosystem and KUJI/sKUJI tokenomics. They often contained additional analysis supplementary to our Medium & Twitter and were often presented in parts.

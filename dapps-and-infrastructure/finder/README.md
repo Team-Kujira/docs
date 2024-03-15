@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # FINDER (Explorer)
 
 [https://finder.kujira.app/](https://finder.kujira.app/kaiyo-1/) or [https://finder.kujira.network/](https://finder.kujira.network/)

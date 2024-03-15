@@ -2,6 +2,8 @@
 description: >-
   Follow these steps to learn how to sell an asset on FIN bot as a market sell
   or a limit sell.
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to Sell ATOM for USK

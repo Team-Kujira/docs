@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Capybara Labs
 
 Capybara Labs is a Kujira community validator that has received funding from the Kujira community pool to provide various useful services and analytics for our community.

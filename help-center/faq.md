@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # FAQ
 
 ### I can't find my order on FIN even though it should have gone through did I lose my money?&#x20;

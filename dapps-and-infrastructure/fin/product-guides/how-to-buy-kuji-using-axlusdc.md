@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # How to Buy KUJI Using axlUSDC
 
 * Navigate to [fin.kujira.ap](https://fin.kujira.app/)

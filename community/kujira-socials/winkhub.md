@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # WinkHUB
 
 ## [https://twitter.com/TeamWinkHUB](https://twitter.com/TeamWinkHUB)

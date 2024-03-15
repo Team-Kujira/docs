@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Staking UI
 
 At Kujira, we have created a custom [staking UI](../../dapps-and-infrastructure/blue/stake.md) to support network decentralization on proof of stake (PoS) blockchains. The degree of decentralization on a PoS blockchain can be determined, in part, by the Nakamoto coefficient. This coefficient represents the smallest number of validators that could potentially collude and take control of the network. A more uniform distribution of validator delegations leads to a higher Nakamoto coefficient and increased decentralization.

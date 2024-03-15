@@ -1,6 +1,6 @@
 ---
 description: First-Class Product Suite
-cover: ../../.gitbook/assets/Kujira docs is for everyone.jpeg
+cover: ../../.gitbook/assets/docs-banner.png
 coverY: 0
 layout:
   cover:

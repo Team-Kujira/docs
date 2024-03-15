@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # How to List a New Pair
 
 * Navigate to [fin.kujira.app/listing](https://fin.kujira.app/listing)

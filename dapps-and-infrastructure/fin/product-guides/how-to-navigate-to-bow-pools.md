@@ -2,6 +2,8 @@
 description: >-
   This little helpers will let you fly to BOW pools or CALC strategies
   instantly.
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # How to Navigate to BOW Pools

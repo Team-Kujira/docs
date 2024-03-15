@@ -1,3 +1,8 @@
+---
+cover: ../../.gitbook/assets/docs-banner.png
+coverY: 0
+---
+
 # Cosmobot
 
 Cosmobot is a very friendly security-enhancing community moderation tool powered by Rose and Sub Zero that is often seen prowling various Cosmos related Telegram chats. Cosmobot is effective at deterring spam by implementing a clever captcha gate process that combines helpful phishing prevention tips with visual challenges. A sample from the startup process is contained below.

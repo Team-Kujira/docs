@@ -2,6 +2,8 @@
 description: >-
   In this section you will find detailed step-by-step guide with visuals for the
   most common interactions with FIN
+cover: ../../../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # Product Guides

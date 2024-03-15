@@ -1,6 +1,6 @@
 ---
 description: Everything you need in Kujira right at your fingertips
-cover: ../.gitbook/assets/Kujira docs is for everyone (2).jpeg
+cover: ../.gitbook/assets/docs-banner.png
 coverY: 0
 ---
 

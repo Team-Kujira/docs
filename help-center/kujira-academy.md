@@ -2,6 +2,8 @@
 description: >-
   Here we guide and inform our users about the ins and outs of blockchain
   technology
+cover: ../.gitbook/assets/docs-banner.png
+coverY: 0
 ---
 
 # Kujira Classroom
