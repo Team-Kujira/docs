@@ -27,6 +27,7 @@
 ## dApps & Infrastructure
 
 * [Basics](dapps-and-infrastructure/basics.md)
+* [Welcome to Kujira (Landing Page)](dapps-and-infrastructure/welcome-to-kujira-landing-page.md)
 * [BLUE (Central Hub)](dapps-and-infrastructure/blue/README.md)
   * [Dashboard](dapps-and-infrastructure/blue/dashboard.md)
   * [Wallet](dapps-and-infrastructure/blue/wallet.md)
