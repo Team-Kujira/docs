@@ -8,7 +8,7 @@ description: $KUJI is the native token on the Kujira Network
 
 The KUJI token is the native token on the Kujira Network. It has a total supply of 122,398,190.844391 (122.4 million) tokens. The original supply of 150 million tokens was reduced through a governance vote on January 18, 2022, which resulted in the burning of liquidity pool rewards.
 
-_KUJI is a fully circulating token._
+_**KUJI is a fully circulating token**._
 
 ### Utility
 

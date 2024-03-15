@@ -25,7 +25,7 @@ The Instantiate tab can be used to create (or instantiate) contracts using store
 
 The Migrate tab used to migrate a contract to a new code ID. To do this, provide a current code ID, a desired migrate Code ID, then select the desired contract and finally execute migration.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ## Query & Execute
 
