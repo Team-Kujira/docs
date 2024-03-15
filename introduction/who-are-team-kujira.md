@@ -17,13 +17,13 @@ Hans [@Codehans1](https://twitter.com/codehans1) | Hen, central back-end & smart
 
 ### Core Team
 
-Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager and runs the Rorcual validator with a partner
+Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager and runs the [Rorcual](https://twitter.com/Rorcual\_nodes) validator with a partner
 
 Amit [@Const\_amit](https://twitter.com/const\_amit) | Core team Smart Contract Wizard&#x20;
 
 Dan Tanaka [@Dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev
 
-Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Research & writing | WinkHUB core team | KujiDAO cofounder
+Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Research & writing | [WinkHUB](../community/kujira-socials/winkhub.md) core team | [KujiDAO](https://twitter.com/kuji\_DAO) cofounder
 
 Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, moderator, advisor
 
@@ -31,6 +31,6 @@ Jan [@JPTG119](https://twitter.com/JPTG119) | Responsible for media and communit
 
 KP [@KPeruggi](https://twitter.com/KPeruggi) | Content and Outreach    &#x20;
 
-Mint [@mintthemoon](https://twitter.com/mintthemoon) | Kujira Name Service | central Gojira backend dev | Kujira relayer/validator
+Mint [@mintthemoon](https://twitter.com/mintthemoon) | Kujira Name Service | central [Gojira](https://winkhub.app/posts/kujira-name-system-is-launching-on-the-gojira-nft-marketplace) backend dev | Kujira relayer/validator
 
-Starsquid [@starsquid\_io](https://twitter.com/starsquid\_io) | Kujira Price Oracles                                       &#x20;
+Starsquid [@starsquid\_io](https://twitter.com/starsquid\_io) | Kujira Price Oracles & [Kujira Pond](../dapps-and-infrastructure/pond.md)                                    &#x20;
