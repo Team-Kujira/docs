@@ -6,6 +6,8 @@ coverY: 0
 
 # Welcome to Kujira (Landing Page)
 
+[Kujira.network](https://kujira.network/)
+
 ## Overview
 
 Welcome to the Kujira blockchain. Our landing page is filled with handy links to many useful resources. It provides an essential overview of everything our ecosystem has to offer. <img src="../.gitbook/assets/image (63).png" alt="" data-size="line">
@@ -80,7 +82,7 @@ The tab at the top of the page redirect you to our various products, application
 
 <figure><img src="../.gitbook/assets/image (78).png" alt="" width="563"><figcaption></figcaption></figure>
 
-**Developers**: Kujira is built for builders. Find out everything you need to know about what makes Kujira such a great place to build.&#x20;
+**Developers**: _Kujira is built for builders_. [Find out everything](https://kujira.network/developers) you need to know about what makes Kujira such a great place to build.&#x20;
 
 <figure><img src="../.gitbook/assets/image (79).png" alt="" width="563"><figcaption><p>Kujira's excellence at a glance</p></figcaption></figure>
 
@@ -94,61 +96,83 @@ The tab at the top of the page redirect you to our various products, application
 
 ### Links for Developers
 
-Getting Started:
+**Getting Started**: _Kujira is built for builders_. Find out everything you need to know about what makes Kujira such a great place to build.&#x20;
 
-Developer Hub:
+<figure><img src="../.gitbook/assets/image (79).png" alt="" width="563"><figcaption><p>Kujira's excellence at a glance</p></figcaption></figure>
 
-Rust Documentation:
+<figure><img src="../.gitbook/assets/image (81).png" alt="" width="563"><figcaption><p>Kujira has a host of unique features</p></figcaption></figure>
 
-GitHub:
+**Developer Hub**: [A hub](https://build.kujira.app/) for Kujira developer documentation. Includes essential links for getting started.
 
-Developer Tools:
+<figure><img src="../.gitbook/assets/image (83).png" alt="" width="563"><figcaption><p>Kujira's developer hub</p></figcaption></figure>
 
-Token List:
+**Rust Documentation**: A general repository of information that applies to Rust on Kujira. Stay up to date by catching up on our documentation [here](https://docs.rs/kujira/latest/kujira/).&#x20;
+
+<figure><img src="../.gitbook/assets/image (85).png" alt="" width="563"><figcaption><p>Kujira's Rust documentation</p></figcaption></figure>
+
+**GitHub**: [Kujira's GitHub](https://github.com/Team-Kujira) contains many essential files that can help you learn about Kujira's code and how to build on top of our blockchain and product stack.&#x20;
+
+<figure><img src="../.gitbook/assets/image (87).png" alt="" width="563"><figcaption><p>Kujira's GitHUB</p></figcaption></figure>
+
+**Developer Tools**: The [developer section](blue/developer.md) on [BLUE](blue/) contains various tools that builders can delve into to enhance their experience. Store, instantiate, migrate, query & execute, etc. with your code.
+
+<figure><img src="../.gitbook/assets/image (89).png" alt="" width="563"><figcaption><p>Developer tooling on Kujira <a href="blue/">BLUE</a></p></figcaption></figure>
+
+**Token List**: [A list of all tokens](https://finder.kujira.network/kaiyo-1/tokens) on the Kujira Network, complete with links to each token's dedicated page on [Finder](finder/), our blockchain explorer.
+
+<figure><img src="../.gitbook/assets/image (90).png" alt="" width="563"><figcaption><p>Part of Kujira's token list</p></figcaption></figure>
 
 ### Links For Everyone
 
-Documentation:
+**Documentation**: An exhaustive ever-growing set of documentation explaining everything you might want to know about Kujira. You're reading part of our docs right now. [Here](https://docs.kujira.app/)'s the intro page.
 
-Kujira Academy:
+<figure><img src="../.gitbook/assets/image (92).png" alt="" width="563"><figcaption><p><a href="https://app.gitbook.com/o/MN0hnJUd0BNCPpxWSUty/s/yPeco0BDFBM85kKY4Hkl/">Kujira empowers everyone</a></p></figcaption></figure>
 
-Run a Node:
+**Kujira Academy**: [Kujira Academy](../help-center/kujira-academy.md) is the education hub of Kujira with its roots on [WinkHUB](../community/kujira-socials/winkhub.md). Academy combines education about various DeFi topics & an international Kujira ambassador program targeting university students as well as the general public.&#x20;
 
-Media Assets:
+<figure><img src="../.gitbook/assets/image (95).png" alt="" width="563"><figcaption><p><a href="https://winkhub.app/creators/kujira-academy">Kujira Academy articles</a></p></figcaption></figure>
 
-Blockchain Explorer:
+**Run a Node**: [Learn the ins and outs](../validators/run-a-node/) in Kujira's docs of how to set up and run your own [validator](broken-reference) node for the Kujira network.&#x20;
 
-Privacy Policy:
+<figure><img src="../.gitbook/assets/image (96).png" alt="" width="563"><figcaption><p><a href="../validators/run-a-node/">A detailed guide on Kuijra nodes</a> </p></figcaption></figure>
+
+**Media Assets**: We want everyone to know Kuijra's brand assets so anyone can help spread the word about Kujira&#x20;
+
+**Blockchain Explorer**:
+
+**Privacy Policy**:
 
 ### General Ecosystem Links
 
-Native dApps:
+**Native dApps**:
 
-Built on Kujira:
+**Built on Kujira**:
 
-Sonar Mobile App:
+**Sonar Mobile App**:
 
 ### Socials
 
 #### Official Socials
 
-Twitter:
+**Twitter**:
 
-Discord:
+**Discord**:
 
-Telegram:
+**Telegram**:
 
-Medium:
+**Medium**:
 
 #### Community Socials
 
-WinkHUB:
+**WinkHUB**:
 
-CoinGecko:
+**CoinGecko**:
 
-YouTube:
+**YouTube**:
 
-Reddit:
+**Reddit**:
 
-Instagram:
+**Instagram**:
+
+## [Kujira.network](https://kujira.network/)
 
