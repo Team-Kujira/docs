@@ -136,43 +136,73 @@ The tab at the top of the page redirect you to our various products, application
 
 <figure><img src="../.gitbook/assets/image (96).png" alt="" width="563"><figcaption><p><a href="../validators/run-a-node/">A detailed guide on Kuijra nodes</a> </p></figcaption></figure>
 
-**Media Assets**: We want everyone to know Kuijra's brand assets so anyone can help spread the word about Kujira&#x20;
+**Media Assets**: Anyone can help spread the word about Kujira or build on the ecosystem with the same core design elements. [Stay in theme](https://docs.kujira.app/brand-assets/logo-options) while sharing the essence of Kujira.
 
-**Blockchain Explorer**:
+<figure><img src="../.gitbook/assets/image (97).png" alt="" width="563"><figcaption><p><a href="https://docs.kujira.app/brand-assets/logo-options">Explore Kujira's media assets</a> central to the brand</p></figcaption></figure>
 
-**Privacy Policy**:
+**Blockchain Explorer**: Dive into the Kujira Network and look up information on tokens, wallets, smart contracts, and other ecosystem activity on our [Finder](finder/) application. Helpful for users and devs alike.
+
+<figure><img src="../.gitbook/assets/image (99).png" alt="" width="563"><figcaption><p><a href="https://finder.kujira.network/kaiyo-1/contract/kujira1pw96huy6z02uk8hdpruk6g8u700dp8yxjhp46c24rwkzay2lfd3quqdum5">FIN KUJI-USDC Smart Contract</a> on <a href="https://finder.kujira.network/">FINDER</a></p></figcaption></figure>
+
+**Privacy Policy**: [The Privacy policy](https://kujira.network/privacy-policy) explains how [Sonar](kujira-wallet/), an developed by the Kuijra team collects, uses, and protects user information. Sonar is a wallet app with native features of the Kujira blockchain.
+
+<figure><img src="../.gitbook/assets/image (101).png" alt="" width="563"><figcaption><p>Sonar App Privacy Policy</p></figcaption></figure>
 
 ### General Ecosystem Links
 
-**Native dApps**:
+**Native dApps**: Kujira offers a complete base layer of composable [first-party products](https://docs.kujira.app/introduction/readme/appchain-ecosystem) that allow users to participate in the decentralized financial ecosystem based on their risk appetite and desired return.
 
-**Built on Kujira**:
+<figure><img src="../.gitbook/assets/image (103).png" alt="" width="563"><figcaption><p><a href="https://docs.kujira.app/kujira-ecosystem/our-products">A description of Kujira's 1st party products</a> with official URLs.</p></figcaption></figure>
 
-**Sonar Mobile App**:
+**Built on Kujira**:  The [Kujira ecosystem](../kujira-ecosystem/wider-ecosystem.md) is constantly growing. [This](https://kujira.network/ecosystem) is an overview of all the dApps, protocols, products, and services calling Kujira their home blockchain.
+
+<figure><img src="../.gitbook/assets/image (105).png" alt="" width="563"><figcaption><p><a href="https://kujira.network/ecosystem">Some of the key teams building on Kujira</a></p></figcaption></figure>
+
+**Sonar Mobile App**: [Your gateway to the decentralized economy](kujira-wallet/). [Access this site](https://sonar.kujira.network/) on mobile to download the iOS or Android Sonar beta.&#x20;
+
+<figure><img src="../.gitbook/assets/image (107).png" alt="" width="563"><figcaption><p><a href="kujira-wallet/">Sonar</a> offers the premier Kujira native experience. A wallet that is more than just a wallet.</p></figcaption></figure>
 
 ### Socials
 
 #### Official Socials
 
-**Twitter**:
+**Twitter**: [Find all of our up to date official announcements](../community/kujira-socials/twitter.md) and communications on the [Kujira Twitter](https://twitter.com/TeamKujira).&#x20;
 
-**Discord**:
+<figure><img src="../.gitbook/assets/image (109).png" alt="" width="563"><figcaption><p><a href="https://twitter.com/TeamKujira">The official Kujira Twitter account</a> is filled with tons of alpha</p></figcaption></figure>
 
-**Telegram**:
+**Discord**: [Chat with our community](../community/kujira-socials/discord.md), file support tickets, check out protocols, ask dev questions to builders, participate in governance, discuss with other validators, etc. in our vibrant [Kujira Discord](https://discord.gg/teamkujira).&#x20;
 
-**Medium**:
+<figure><img src="../.gitbook/assets/image (110).png" alt="" width="563"><figcaption><p><a href="https://discord.gg/teamkujira">Check out our bustling Kujira Discord</a></p></figcaption></figure>
+
+**Telegram**: [The Kuijra Telegram](../community/kujira-socials/telegram.md) contains a majority of the most up to date alpha and leaks as well as a huge portion of the Kujira community and team who are always happy to chat. [Come join in!](https://t.me/team\_kujira)
+
+<figure><img src="../.gitbook/assets/image (111).png" alt="" width="563"><figcaption><p>Kujira is a family. <a href="../community/kujira-socials/telegram.md">Meet</a> other excited and passionate people on the <a href="https://t.me/team_kujira">Kujira Telegram</a>.</p></figcaption></figure>
+
+**Medium**: [Our old platform of choice](../community/kujira-socials/medium.md) for official announcements of new products, weekly write-ups, ecosystem analysis, and other team content. [WinkHUB](../community/kujira-socials/winkhub.md) is Kujira's new community content epicenter and our new home for all of the above and more.&#x20;
+
+<figure><img src="../.gitbook/assets/image (112).png" alt="" width="563"><figcaption><p><a href="https://app.gitbook.com/s/8miqcNZ3zghCUnG2VGBE/">Kujira's old center for official written content</a></p></figcaption></figure>
 
 #### Community Socials
 
-**WinkHUB**:
+**WinkHUB**: [Kujira's content epicenter](../community/kujira-socials/winkhub.md) and educational hub. Home to content (articles and videos) [by the Kujira team](https://winkhub.app/creators/dale-the-mail-whale), [Kujira Academy](https://winkhub.app/creators/kujira-academy), [protocols building on Kujira](https://winkhub.app/categories/kujira-dapps), and passionate [community members](https://winkhub.app/creators).
 
-**CoinGecko**:
+<figure><img src="../.gitbook/assets/image (113).png" alt="" width="563"><figcaption><p><a href="../community/kujira-socials/winkhub.md">Find detailed articles and videos about the Kujira ecosystem on WinkHUB</a>.</p></figcaption></figure>
 
-**YouTube**:
+**CoinGecko**: Find basic information about the [KUJI token](../tokenomics/kuji-token/) including historical price action, statistics on its current market cap, trading volume, supply, and where you can trade it on [CoinGecko](https://www.coingecko.com/en/coins/kujira).
 
-**Reddit**:
+<figure><img src="../.gitbook/assets/image (114).png" alt=""><figcaption><p>Find detailed information about the <a href="../tokenomics/kuji-token/">KUJI token</a> on <a href="https://www.coingecko.com/en/coins/kujira">CoinGecko</a>. Notice that KUJI is fully circulating and non-inflationary.</p></figcaption></figure>
 
-**Instagram**:
+**YouTube**: Kujira's official [YouTube](../community/kujira-socials/youtube.md) channel. Includes some basic video tutorials.&#x20;
+
+<figure><img src="../.gitbook/assets/image (115).png" alt="" width="563"><figcaption><p><a href="https://www.youtube.com/@TeamKujiraDeFi/featured">Kujira Official YouTube Channel</a></p></figcaption></figure>
+
+**Reddit**: [Kujira's official community subreddit](../community/kujira-socials/reddit.md). Moderated by community volunteers.
+
+<figure><img src="../.gitbook/assets/image (118).png" alt="" width="563"><figcaption><p><a href="../community/kujira-socials/reddit.md">Kujira's community subreddit</a></p></figcaption></figure>
+
+**Instagram**: [Kujira's official Instagram account](../community/kujira-socials/instagram.md).
+
+<figure><img src="../.gitbook/assets/image (119).png" alt="" width="563"><figcaption><p><a href="../community/kujira-socials/instagram.md">Kujira's official Instagram account</a></p></figcaption></figure>
 
 ## [Kujira.network](https://kujira.network/)
 
