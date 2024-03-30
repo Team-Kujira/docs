@@ -13,10 +13,10 @@ This cooldown is in place to help secure the network.
 
 Redelegation occurs on [the staking page](../../dapps-and-infrastructure/blue/stake.md) within the BLUE dApp. Simply select a validator that you are currently staked with. And then select redelegate.
 
-<img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" data-size="original">
+<figure><img src="../../.gitbook/assets/image (158).png" alt="" width="563"><figcaption><p>Select the Redelegate button</p></figcaption></figure>
 
 Next search for a new validator that you would like to redelegate to as seen in the picture below&#x20;
 
-![](<../../.gitbook/assets/image (7).png>)
+<figure><img src="../../.gitbook/assets/image (159).png" alt="" width="563"><figcaption><p>Choose an amount to redelegate and select a validator to redelegate to.</p></figcaption></figure>
 
-Finally click Redelegate KUJI to finish the process.&#x20;
+Finally click _Redelegate KUJI_ to finish the process.&#x20;

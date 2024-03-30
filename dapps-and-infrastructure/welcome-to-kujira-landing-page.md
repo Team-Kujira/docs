@@ -12,7 +12,7 @@ coverY: 0
 
 Welcome to the Kujira blockchain. Our landing page is filled with handy links to many useful resources. It provides an essential overview of everything our ecosystem has to offer. <img src="../.gitbook/assets/image (63).png" alt="" data-size="line">
 
-<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (62).png" alt=""><figcaption><p>Kujira landing page</p></figcaption></figure>
 
 ## Top Tabs
 
@@ -48,7 +48,7 @@ The tab at the top of the page redirect you to our various products, application
 
 **Liquidity Pools**: By adding liquidity to specific pools on [BOW](bow/), you can earn a slice of all profits made on [FIN](fin/) from trading that pair + any extra third party [incentives](bow/product-guides/how-to-provide-incentives.md) for the pool.
 
-<figure><img src="../.gitbook/assets/image (73).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (73).png" alt="" width="563"><figcaption><p>Kujira's liquidity engine</p></figcaption></figure>
 
 ### Market Tab
 
@@ -56,19 +56,19 @@ The tab at the top of the page redirect you to our various products, application
 
 **Mint USK**: You can mint USK by using your tokens as collateral. USK is the access pass to the dApp suite of the Kujira ecosystem. Learn more [here](usk-stablecoin.md).
 
-<figure><img src="../.gitbook/assets/image (74).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (74).png" alt="" width="563"><figcaption><p>Mint USK in <a href="blue/">BLUE</a></p></figcaption></figure>
 
 **Lend & Borrow**: Kujira's Money Market, [GHOST](ghost-money-market/), connects would-be lenders and borrowers to allow you to make your assets do more. Earn interest on lent assets or enter leveraged positions by borrowing against your supplied collateral.
 
-<figure><img src="../.gitbook/assets/image (76).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (76).png" alt="" width="563"><figcaption><p>Lend your assets in <a href="ghost-money-market/">GHOST</a> to make them work for you</p></figcaption></figure>
 
 **Liquidate**: Kujira's fair liquidations engine, [ORCA](orca/), is the world's first public decentralized liquidation marketplace. Participate in Dutch auctions to purchase assets at up to a 30% (or 44%) discount (when liquidating shorts).
 
-<figure><img src="../.gitbook/assets/image (75).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (75).png" alt="" width="563"><figcaption><p>The <a href="orca/">ORCA</a> liquidation queue</p></figcaption></figure>
 
 **Fund Projects**: [PILOT](pilot-launchpad.md), is a joint project between the Kujira and [Fuzion](https://twitter.com/Fuzion\_App) teams, and functions as a unique, fair platform that allows founders to raise capital from token launches and community members to participate in token sales at ground floor valuations.&#x20;
 
-<figure><img src="../.gitbook/assets/image (77).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (77).png" alt="" width="563"><figcaption><p>The outcome of the WINK <a href="pilot-launchpad.md">PILOT</a> sale</p></figcaption></figure>
 
 ### Discover Tab
 
@@ -80,7 +80,7 @@ The tab at the top of the page redirect you to our various products, application
 
 **Native dApps**: Discover the [building blocks](../introduction/what-is-kujira/appchain-ecosystem.md) of our composable, tight-knight DeFi powerhouse.&#x20;
 
-<figure><img src="../.gitbook/assets/image (78).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (78).png" alt="" width="563"><figcaption><p><a href="../kujira-ecosystem/our-products.md">The Kujira product stack</a></p></figcaption></figure>
 
 **Developers**: _Kujira is built for builders_. [Find out everything](https://kujira.network/developers) you need to know about what makes Kujira such a great place to build.&#x20;
 
@@ -90,7 +90,7 @@ The tab at the top of the page redirect you to our various products, application
 
 **Documentation**: These extensive docs you're reading right now cover pretty much everything you might want to know about Kujira. To supplement your knowledge, you can also check out [WinkHUB](../community/kujira-socials/winkhub.md) which has [Kujira Academy](https://winkhub.app/creators/kujira-academy) and the [Kujira Encyclopedia](https://winkhub.app/posts/the-kujira-encyclopedia-issue-1).&#x20;
 
-<figure><img src="../.gitbook/assets/image (82).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (82).png" alt="" width="563"><figcaption><p>Kujira's official documentation</p></figcaption></figure>
 
 ## Bottom Tabs
 

@@ -13,4 +13,4 @@ To address this, our staking UI includes visual indicators to help users make in
 
 In addition, the staking UI includes an "optimize" feature. When you enter the amount of KUJI you want to stake and select optimize, the UI will automatically select all the blue validators (those with voting power below the equal power threshold) that are safe to delegate to in order to bring the network closer to a uniform staking distribution. While this is a convenient option, users are also welcome to research and select validators that align with their own values.
 
-We will continue to improve the staking UI based on user feedback and innovation. An extended version of this UI that applies to all Cosmos network chains can also be found.
+We will continue to improve the staking UI based on user feedback and innovation. An extended version of this UI that applies to all Cosmos network chains can also be found [here](../../dapps-and-infrastructure/pod/).
