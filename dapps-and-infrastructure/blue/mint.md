@@ -11,6 +11,8 @@ coverY: 0
 
 The Mint tab is where you can mint [USK](../usk-stablecoin.md), which is a stablecoin pegged to the value of the US dollar, for a yearly 1% fee on all minted USK.
 
+<figure><img src="../../.gitbook/assets/image (127).png" alt=""><figcaption><p>BLUE Mint tab</p></figcaption></figure>
+
 ## Utility
 
 Minting USK allows users to A. take advantage of price arbitrage if USK is worth more than a dollar by converting it to other assets and slowly unwinding positions, B. use preferred backing assets of choice to enter a leveraged bet, C. use preferred backing assets in combination with money markets to perform delta neutral leveraged bets, D. use USK in [ORCA](../orca/) markets to buy liquidated collateral at a discount, E. use USK to provide liquidity in [BOW](../bow/) and obtain rewards from trading activity and incentives, or F. borrow against owned assets to raise capital without needing to liquidate them to preserve upside. &#x20;

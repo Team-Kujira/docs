@@ -7,6 +7,8 @@ coverY: 0
 
 [https://blue.kujira.app/](https://blue.kujira.app/) or [https://blue.kujira.network/](https://blue.kujira.network/)
 
+<figure><img src="../../.gitbook/assets/image (157).png" alt="" width="142"><figcaption><p>BLUE Dashboard tab</p></figcaption></figure>
+
 ## Overview
 
 The BLUE dashboard provides key analytics for the Kujira blockchain, including:
@@ -23,6 +25,8 @@ The BLUE dashboard provides key analytics for the Kujira blockchain, including:
 * Personal amount of staked KUJI
 * Graphical breakdown of total KUJI supply, including the treasury
 * Graphical breakdown of total USK supply, including backing collateral breakdown
+
+<figure><img src="../../.gitbook/assets/image (156).png" alt=""><figcaption><p>BLUE Dashboard is full of useful ecosystem information</p></figcaption></figure>
 
 ## About the Data
 

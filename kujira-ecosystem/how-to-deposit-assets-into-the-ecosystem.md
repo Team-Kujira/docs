@@ -96,3 +96,7 @@ Maya Protocol is a powerful cross-chain DEX. MAYAChain is a cross-chain AMM that
 ### Rango
 
 Rango is a multi-chain DEX and bridge aggregator that facilitates the transfer of funds between different blockchains. Integrated with Kujira, Rango empowers blockchain users on many different chains to efficiently and smoothly transfer assets from Kujira to other networks and vice-versa.
+
+## Further Reading
+
+If you would like to explore more resources about how to move funds to Kujira check out [this detailed guide](https://winkhub.app/posts/depositing-funds-to-kujira) by Kujira Academy on [WinkHUB](../community/kujira-socials/winkhub.md). And [here](../developers/indexers/) are even more articles and videos about how to onboard funds to Kujira.

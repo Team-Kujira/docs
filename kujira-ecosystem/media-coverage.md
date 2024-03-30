@@ -13,11 +13,17 @@ Kujira has been featured in various media, including:
 
 [Here’s How Traders Capitalize on Crypto Market Crashes and Liquidations](https://cointelegraph.com/news/here-s-how-traders-capitalize-on-crypto-market-crashes-and-liquidations) - Coin Telegraph
 
-[Kujira Everyone Deserves to be a Whale](https://blog.bybit.com/en-US/post/kujira-everyone-deserves-to-be-a-whale-blt775ca9f6ea3cb5eb/) - Bybit
+[Kujira: The Terra Luna Survivor That Now Has Its Own Blockchain](https://blog.hedgehog.app/kujira-being-a-terra-project-during-the-collapse-to-creating-their-own-blockchain/) - Hedgehog
+
+[Kujira: Everyone Deserves to be a Whale](https://blog.bybit.com/en-US/post/kujira-everyone-deserves-to-be-a-whale-blt775ca9f6ea3cb5eb/) - Bybit
+
+[Kujira: An Inclusive Approach to Crypto Wealth](https://learn.bybit.com/defi/what-is-kujira-crypto-kuji-token/) - Bybit
 
 [Former Terra-Affiliated Project Kujira to Issue Stablecoin](https://www.coindesk.com/markets/2022/08/09/former-terra-affiliated-project-kujira-to-issue-stablecoin/) - CoinDesk
 
 [Growing Up with Kujira](https://research.thetie.io/growing-up-with-kujira/) - The Tie
+
+[What is Kujira? Decentralisation Meets Sustainable Fintech](https://zerocap.com/insights/research-lab/what-is-kujira-kuji/) - Zerocap
 {% endtab %}
 
 {% tab title="Twitter Spaces" %}
