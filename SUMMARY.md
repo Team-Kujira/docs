@@ -17,6 +17,7 @@
 
 * [Our Products](kujira-ecosystem/our-products.md)
 * [Wider Ecosystem](kujira-ecosystem/wider-ecosystem.md)
+* [Kujira Roadmap](kujira-ecosystem/kujira-roadmap.md)
 * [How to Participate](kujira-ecosystem/how-to-participate.md)
 * [Moving Funds to Kujira](kujira-ecosystem/how-to-deposit-assets-into-the-ecosystem.md)
 * [Shipping Lane](kujira-ecosystem/shipping-lane.md)
