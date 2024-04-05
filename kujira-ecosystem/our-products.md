@@ -25,6 +25,3 @@ Kujira offers a complete base layer of high quality composable first-party produ
 {% endtabs %}
 
 Aside from reading the docs sections linked above, you can learn more about our core applications [here](https://kujira.network/dapps) on [Kujira's landing page](../dapps-and-infrastructure/welcome-to-kujira-landing-page.md).&#x20;
-
-###
-
