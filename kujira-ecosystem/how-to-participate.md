@@ -1,4 +1,5 @@
 ---
+description: How to get involved in the Kujira ecosystem
 cover: ../.gitbook/assets/docs-banner.png
 coverY: 0
 ---
