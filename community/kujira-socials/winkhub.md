@@ -11,7 +11,7 @@ coverY: 0
 
 [Kujira's content epicenter](https://winkhub.app/) boasts all sorts of content from long-form research reports, to analysis pieces by community members, informative videos, important announcements, and walkthroughs about different protocols and DeFi concepts.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Articles on WinkHUB</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Articles on WinkHUB</p></figcaption></figure>
 
 ## Kujira Academy
 

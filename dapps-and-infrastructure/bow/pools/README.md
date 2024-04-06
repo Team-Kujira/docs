@@ -5,7 +5,7 @@ coverY: 0
 
 # Pools
 
-[https://bow.kujira.app/pools](https://bow.kujira.app/pools) or [https://bow.kujira.network/pools](https://bow.kujira.network/dashboard)
+[https://bow.kujira.network/pools](https://bow.kujira.network/dashboard)
 
 The BOW 'Pools' page is at the center of the streamlined BOW experience:
 

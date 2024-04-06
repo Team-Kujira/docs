@@ -6,7 +6,7 @@ coverY: 0
 
 # GHOST (Money Market)
 
-[https://ghost.kujira.app/](./#https-ghost.kujira.app) or [https://ghost.kujira.network/](https://ghost.kujira.network/)
+[https://ghost.kujira.network/](https://ghost.kujira.network/)
 
 ## INTRODUCTION
 

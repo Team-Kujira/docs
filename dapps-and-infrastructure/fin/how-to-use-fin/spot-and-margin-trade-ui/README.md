@@ -15,7 +15,7 @@ All FIN pairs allow spot trading and use a simple fee structure. FIN charges dif
 
 FIN pairs without isolated margin trading typically have a UI split between limit and market orders.
 
-&#x20;                                 ![](<../../../../.gitbook/assets/image (36).png>)
+<figure><img src="../../../../.gitbook/assets/image (39).png" alt=""><figcaption><p><a href="../../../../tokenomics/kuji-token/">KUJI</a> / <a href="../../../usk-stablecoin.md">USK</a> spot trading user interface</p></figcaption></figure>
 
 ### Placing Orders
 
@@ -31,7 +31,7 @@ Upon selecting a FIN trading pair, the FIN trade UI defaults to the spot limit o
 
 &#x20;As a non-zero amount of [quote asset](../#fin-trading-pair-notation) to spend or [base asset](../#fin-trading-pair-notation) to sell is entered into the UI, corresponding information will be listed below: the total amount of the quote asset or base asset that is available in a user's wallet to spend on a trade, the estimated amount of acquired base asset or quote asset respectively after spending quote assets or selling base assets, the effective average exchange rate between the quote and base asset, total fees that would be spent, and estimated slippage. The UI also has a handy mechanism for automatically selecting 25%, 50%, 75%, or 100% of the relevant quote asset to spend or base asset to sell as part of the trade.&#x20;
 
-&#x20;                                             ![](<../../../../.gitbook/assets/image (21).png>)
+<figure><img src="../../../../.gitbook/assets/image (38).png" alt=""><figcaption><p>USK / axlUSDC market sell</p></figcaption></figure>
 
 When performing a market order to spend quote assets (or sell base assets), corresponding FIN trading fees are always 0.15% taken off from what would have been the total purchased base assets (or received quote assets). This mechanism leverages the fact that FIN is an orderbook and that every trade on the platform needs to be made between two parties. Each party pays fees in terms of the asset they would have received.
 
@@ -47,7 +47,7 @@ Unlike the FIN market trading UI, the limit order trading UI requires two separa
 
 Once the amount of quote asset to spend (or base asset to sell) and desired trading pair exchange rate ceiling/floor are entered into the UI, corresponding information will be listed below: the total amount of the quote asset or base asset that is available in a user's wallet to spend on a trade, total fees that would be spent, and the estimated amount of acquired base asset or quote asset respectively after spending quote assets or selling base assets.
 
-&#x20;                                                  ![](<../../../../.gitbook/assets/image (38).png>)
+<figure><img src="../../../../.gitbook/assets/image (37).png" alt=""><figcaption><p>KUJI / axlUSDC limit buy</p></figcaption></figure>
 
 When performing a limit order to spend quote assets (or sell base assets), depending on whether the limit order is adding or removing liquidity from the orderbook, corresponding FIN trading fees will either be 0.075% or 0.15% taken off from what would have been the total purchased base assets (or received quote assets). This mechanism leverages the fact that FIN is an orderbook and that every trade on the platform needs to be made between two parties. Each party pays fees in terms of the asset they would have received. Refer to the market orders section for an example of how FIN fees work in action.
 
@@ -58,3 +58,5 @@ Aside from relatively limited fixed price swap orders (special limit orders that
 ## Margin Trading
 
 Certain FIN trading pairs allow users the option to use margin to perform FIN trades at anywhere between 1X and 2.5X leverage. Currently isolated FIN margin is available on every USK collateral / USK pair except for gPAXG/USK by using ORCA as a liquidation settlement layer. Currently only spot longs are available; however, with time spot shorts and limit orders using margin will also be possible. Read more [here](isolated-fin-margin.md) about isolated FIN margin.
+
+<figure><img src="../../../../.gitbook/assets/image (36).png" alt=""><figcaption><p>FIN Isolated margin</p></figcaption></figure>

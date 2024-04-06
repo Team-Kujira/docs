@@ -5,7 +5,7 @@ coverY: 0
 
 # Analytics
 
-## Overview
+Overview
 
 ORCA liquidation analytics can help supplement user strategy as part of the ORCA bid selection process. ORCA analytics exist for each ORCA lending market. By taking a look at the amount of collateral at imminent risk of liquidation, it is possible to understand the amount of collateral that will be liquidated as long as the price of the asset being bidded on falls to a certain level.
 

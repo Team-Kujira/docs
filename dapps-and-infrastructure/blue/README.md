@@ -6,7 +6,7 @@ coverY: 0
 
 # BLUE (Central Hub)
 
-## [https://blue.kujira.app/](https://blue.kujira.app/) or [https://blue.kujira.network/](./#https-blue.kujira.app-https-blue.kujira.network)&#x20;
+## [https://blue.kujira.network/](./#https-blue.kujira.app-https-blue.kujira.network)&#x20;
 
 BLUE is your all-in-one dashboard for the Kujira ecosystem. Here, you can bond [KUJI,](../../tokenomics/kuji-token/) vote on governance, swap KUJI, bridge to the Kujira network, and claim rewards. This is the hub of the Kujira blockchain, where you can shape its future through governance and earn a portion of Kujira's revenue by staking KUJI.
 

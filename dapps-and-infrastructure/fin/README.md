@@ -6,7 +6,7 @@ coverY: 0
 
 # FIN (DEX)
 
-[https://fin.kujira.app/](https://fin.kujira.app/) or [https://fin.kujira.network/](https://fin.kujira.network/)
+[https://fin.kujira.network/](https://fin.kujira.network/)
 
 FIN is a decentralized orderbook exchange that allows for the trading of assets on different blockchains. It provides a fully decentralized trading experience without the need for outdated liquidity pools or inflationary incentives, and removes the risk of impermanent loss.
 

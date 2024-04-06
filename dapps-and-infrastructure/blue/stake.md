@@ -5,7 +5,7 @@ coverY: 0
 
 # Stake
 
-[https://blue.kujira.app/stake](stake.md#https-blue.kujira.app-stake-or-https-blue.kujira.network-stake) or [https://blue.kujira.network/stake](stake.md#https-blue.kujira.app-stake-or-https-blue.kujira.network-stake)
+[https://blue.kujira.network/stake](stake.md#https-blue.kujira.app-stake-or-https-blue.kujira.network-stake)
 
 ## Overview
 

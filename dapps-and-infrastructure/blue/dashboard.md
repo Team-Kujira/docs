@@ -5,7 +5,7 @@ coverY: 0
 
 # Dashboard
 
-[https://blue.kujira.app/](https://blue.kujira.app/) or [https://blue.kujira.network/](https://blue.kujira.network/)
+[https://blue.kujira.network/](https://blue.kujira.network/)
 
 <figure><img src="../../.gitbook/assets/image (157).png" alt="" width="142"><figcaption><p>BLUE Dashboard tab</p></figcaption></figure>
 

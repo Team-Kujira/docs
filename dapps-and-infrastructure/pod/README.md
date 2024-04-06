@@ -6,7 +6,7 @@ coverY: 0
 
 # POD (Cross-chain Staking)
 
-[https://pod.kujira.app/](https://pod.kujira.app/) or [https://pod.kujira.network/](https://pod.kujira.network/)
+[https://pod.kujira.network/](https://pod.kujira.network/)
 
 POD is a custom staking user interface (UI) designed to support decentralization on the Cosmos network, a proof-of-stake (PoS) blockchain.
 

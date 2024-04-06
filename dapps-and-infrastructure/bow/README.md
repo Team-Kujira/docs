@@ -6,7 +6,7 @@ coverY: 0
 
 # BOW (Liquidity Engine)
 
-[https://bow.kujira.app/](https://bow.kujira.app/) or [https://bow.kujira.network/](https://bow.kujira.network/)
+[https://bow.kujira.network/](https://bow.kujira.network/)
 
 ## Market Making Framework for FIN Orderbook DEX
 

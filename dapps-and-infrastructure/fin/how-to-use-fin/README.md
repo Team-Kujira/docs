@@ -23,5 +23,3 @@ The FIN trading experience can be broken down into a few main aspects:
 * [Personal order activity ](personal-order-activity.md)
 * [Spot and margin trade UI ](spot-and-margin-trade-ui/)
 
-##
-

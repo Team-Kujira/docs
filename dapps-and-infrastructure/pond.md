@@ -12,7 +12,7 @@ It takes just 3 commands to get the network running & the Pond-UI will configure
 
 Simply follow the steps [here](https://github.com/Team-Kujira/pond-ui).
 
-<figure><img src="../.gitbook/assets/pond logo (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/pond logo (1).png" alt=""><figcaption><p>Kujira POND interface</p></figcaption></figure>
 
 Pond will come with pre-installed contracts for all key Kujira apps including USK, FIN, GHOST, BOW, ORCA, and PILOT. Furthermore, protocol teams can PR to have theirs applications included as well.
 

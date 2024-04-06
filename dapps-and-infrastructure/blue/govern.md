@@ -5,7 +5,7 @@ coverY: 0
 
 # Govern
 
-[https://blue.kujira.app/govern](govern.md#https-blue.kujira.app-govern-or-https-blue.kujira.network-govern) or [https://blue.kujira.network/govern](govern.md#https-blue.kujira.app-govern-or-https-blue.kujira.network-govern)
+[https://blue.kujira.network/govern](govern.md#https-blue.kujira.app-govern-or-https-blue.kujira.network-govern)
 
 ## Overview
 
@@ -17,7 +17,7 @@ For the time being, Governance proposals can be assigned to two discrete categor
 
 ## (Retired) Senate
 
-[https://blue.kujira.app/senate](govern.md#https-blue.kujira.app-senate-or-https-blue.kujira.network-senate) or [https://blue.kujira.network/senate](govern.md#https-blue.kujira.app-senate-or-https-blue.kujira.network-senate)
+[https://blue.kujira.network/senate](govern.md#https-blue.kujira.app-senate-or-https-blue.kujira.network-senate)
 
 This tab had the Kujira senators listed each with links to their keybase.io. It was also possible to nominate Senators on this tab. Furthermore, there is a [link](https://medium.com/team-kujira/kujira-governance-grows-up-ca8b7c87753b) to reading more about the role of the Senate. More up to date information can also be found in the Senate [section](../senate.md) of the docs.
 
@@ -27,7 +27,7 @@ Senate proposals took up to 2 weeks of review, but sometimes passed sooner when 
 
 ## Sentinel
 
-[https://blue.kujira.app/sentinel](govern.md#https-blue.kujira.app-sentinel-or-https-blue.kujira.network-sentinel) or [https://blue.kujira.network/sentinel](govern.md#https-blue.kujira.app-sentinel-or-https-blue.kujira.network-sentinel)
+[https://blue.kujira.network/sentinel](govern.md#https-blue.kujira.app-sentinel-or-https-blue.kujira.network-sentinel)
 
 The Kujira Sentinel is a technical companion to the Senate. By providing the CW4 multisig contract address with chain-wide contract instantiate permissions, Sentinel creates better development velocity and autonomy for protocol builders, without sacrificing security.&#x20;
 
@@ -39,7 +39,7 @@ Long-term, the Kujira Sentinel will create a foundation for a peer-led audit and
 
 ## Chain Governance
 
-[https://blue.kujira.app/govern](govern.md#https-blue.kujira.app-govern-or-https-blue.kujira.network-govern) or [https://blue.kujira.network/govern](govern.md#https-blue.kujira.app-govern-or-https-blue.kujira.network-govern)
+[https://blue.kujira.network/govern](govern.md#https-blue.kujira.app-govern-or-https-blue.kujira.network-govern)
 
 Governance proposals are submitted by members of the Kujira community and can cover a wide range of topics, including updates to the Kujira platform, changes to network parameters, and new features or services. These proposals are discussed and debated in the Kujira community, and then put to a vote for approval or rejection.
 
@@ -55,7 +55,7 @@ The second phase is the voting phase. Once a proposal achieves a sufficient depo
 * At least 50% of the total non-abstain votes yes. Alternatively, the yes percentage of the total vote must be higher than the no and no with veto percentages of the total vote combined. Votes are weighted based on amount of KUJI staked on a 1 to 1 basis.
 * Finally, fewer than 33% of votes may be no with veto. No with veto is reserved for bad faith proposals and and a no with veto percentage over 33% burns the proposer's 10K KUJI deposit at the end of the voting period.&#x20;
 
-<figure><img src="../../.gitbook/assets/image (122).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (122).png" alt="" width="563"><figcaption><p>Sample governance proposal voting UI</p></figcaption></figure>
 
 Finally, at the end of the voting period the vote passes or fails to execute. Read more [here](https://docs.kujira.app/governance/vote-on-proposals).&#x20;
 

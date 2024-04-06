@@ -5,7 +5,7 @@ coverY: 0
 
 # Lend
 
-[https://ghost.kujira.app/lend](https://ghost.kujira.app/lend) or [https://ghost.kujira.network/lend](https://ghost.kujira.network/lend)
+[https://ghost.kujira.network/lend](https://ghost.kujira.network/lend)
 
 ## Overview
 
@@ -15,7 +15,7 @@ This tab contains a table of all existing assets that can be lent on GHOST inclu
 
 The table can be sorted ascending or descending by any of these 7 categories at your own convenience.&#x20;
 
-<figure><img src="../../.gitbook/assets/Lend Table.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Lend Table.png" alt=""><figcaption><p>USK lending tab information</p></figcaption></figure>
 
 'Asset Name' is the asset symbol. For example, Wrapped Bitcoin has wBTC as its asset name.
 
@@ -35,7 +35,7 @@ By clicking the 'more' button on a particular asset's row, it is possible to see
 
 For example, below is the corresponding graph for axlUSDC:
 
-<figure><img src="../../.gitbook/assets/RelationshipChart.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/RelationshipChart.png" alt=""><figcaption><p>Chart displaying axlUSDC utilization rate curve on GHOST</p></figcaption></figure>
 
 ## How does Lending work on GHOST
 
@@ -45,5 +45,5 @@ All lenders on GHOST provide liquidity by lending assets to the platform and get
 
 xTOKEN is similar to a receipt token that represents a claim to lent TOKEN on GHOST. xTOKEN can be traded on FIN, sent to other wallets, or used with ORCA to bid on liquidations. This is especially attractive as units of xTOKEN automatically accrue interest that is collected from TOKEN borrowers’ open loan positions on GHOST. When the lender eventually redeems their xTOKEN, they will receive back all their TOKEN and some extra TOKEN corresponding to that accrued interest.
 
-Lent assets can be withdrawn on GHOST, by clicking on the ![](<../../.gitbook/assets/image (54).png>)symbol to the right of the lend button contained in the 'your deposit value' column of the table, entering the amount and then clicking 'withdraw ...'
+Lent assets can be withdrawn on GHOST, by clicking on the ![](<../../.gitbook/assets/image (54) (1).png>)symbol to the right of the lend button contained in the 'your deposit value' column of the table, entering the amount and then clicking 'withdraw ...'
 

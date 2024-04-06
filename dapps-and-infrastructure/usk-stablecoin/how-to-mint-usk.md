@@ -15,7 +15,7 @@ There are a few different steps involved in minting USK, but the process has bee
 
 ## Step 1: Selecting USK collateral&#x20;
 
-Kujira governance is extremely active bringing constant evolution to the Kujira blockchain. As a result, new USK collateral can be added relatively quickly. One way to stay on top of possible options for minting USK is to look at the USK collateral dashboard at the bottom of the page on [blue.kujira.app](https://blue.kujira.app) or directly look through all the available collateral types using the [blue.kujira.app/mint](https://blue.kujira.app/mint) user interface.
+Kujira governance is extremely active bringing constant evolution to the Kujira blockchain. As a result, new USK collateral can be added relatively quickly. One way to stay on top of possible options for minting USK is to look at the USK collateral dashboard at the bottom of the page on [blue.kujira.network](how-to-mint-usk.md#https-blue.kujira.network-mint) or directly look through all the available collateral types using the [blue.kujira.network/mint](how-to-mint-usk.md#https-blue.kujira.network-mint) user interface.
 
 The first step of the USK mint process is to select preferred backing collateral. After all, minting USK is akin to a leveraged bet on the provided collateral. USK is programmatically coded to be 166% collateralized. As a result, any mint positions backed by underlying collateral also need to be 166% collateralized and cannot have too much downside volatility to avoid being liquidated via [ORCA](../orca/).
 
@@ -31,7 +31,7 @@ Assuming those three considerations are satisfactory, then a specific collateral
 
 ## Step 2: Depositing collateral and minting USK
 
-The second step in the USK mint process is to interact with the BLUE mint user interface [blue.kujira.app/mint](https://blue.kujira.app/mint), deposit collateral(s) chosen in step 1, and mint a corresponding amount of USK. Detail steps about how to use the mint user interface can be found in the '[How to Mint USK](../blue/product-guides/how-to-mint-usk.md)' product guide and a short synopsis about the mint tab can be found in the BLUE '[Mint](../blue/mint.md)' entry.
+The second step in the USK mint process is to interact with the BLUE mint user interface [blue.kujira.network/mint](how-to-mint-usk.md#https-blue.kujira.network-mint), deposit collateral(s) chosen in step 1, and mint a corresponding amount of USK. Detail steps about how to use the mint user interface can be found in the '[How to Mint USK](../blue/product-guides/how-to-mint-usk.md)' product guide and a short synopsis about the mint tab can be found in the BLUE '[Mint](../blue/mint.md)' entry.
 
 The main gist of the process is to navigate to the part of the page where to deposit collateral, then provide a selected amount of that collateral and pay gas fees. The next action is the most important part of step 2, choosing an amount of USK to mint.&#x20;
 

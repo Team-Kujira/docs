@@ -13,7 +13,7 @@ Another important aspect of the FIN experience is the price chart as well as FIN
 
 FIN price charts are similar to other trading view charts.
 
-&#x20;                                     ![](<../../../.gitbook/assets/image (11).png>)
+<figure><img src="../../../.gitbook/assets/image (30).png" alt=""><figcaption><p>KUJI / axlUSDC pair over time using the 1h view</p></figcaption></figure>
 
 Overall trading activity over the course of a selected time period (default of 1 hour) is summarized and represented either as a green or red bar depending on whether there was more buy or sell demand in aggregate over that selected time period. Price changes are reflected over time.
 

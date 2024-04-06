@@ -17,7 +17,7 @@ Integrated protocols do not need to worry about liquidators arbitraging and dump
 
 Each integrated protocol or application has the ability to customize the ORCA liquidation queue however they would like to maximize its appeal to their target communities. They can choose to allow half percentage discount liquidations, set their own minimum and maximum percentage liquidation discount, and choose their preferred assets to use to bid on liquidated collateral in the ORCA queue.&#x20;
 
-&#x20;                           ![](<../../../../.gitbook/assets/image (47).png>)
+<figure><img src="../../../../.gitbook/assets/image (46).png" alt=""><figcaption><p>ORCA queues using USK bids ranging from 0% discount to 30% discount</p></figcaption></figure>
 
 Each lending market contains its own unique ORCA liquidation queue with discounts ranging from 0% to the maximum allowed percentage. All USK collateral lending markets have a 30% maximum bid and bid premiums must be whole numbers.
 

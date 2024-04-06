@@ -15,7 +15,7 @@ BOW helps create liquidity for FIN and is responsible for placing some of these 
 
 For heightened experience, FIN only displays limit orders sufficiently close to the current FIN market price to most closely reflect short-term trading pair demand or supply.
 
-&#x20;                                           ![](<../../../.gitbook/assets/image (41).png>)
+<figure><img src="../../../.gitbook/assets/image (31).png" alt="" width="323"><figcaption><p>ATOM / <a href="../../usk-stablecoin.md">USK</a> orderbook</p></figcaption></figure>
 
 There are 3 different orderbook views: the default buy and sell limit order views, with limit sells in red and limit buys in green; the second limit sell view, only showing red limit sells (showing more of the sell side of the orderbook); and the third limit buy view, only showing green limit buys (showing more of the buy side of the orderbook). The 3 different views have different uses to understand more extreme order predictions for short or long-term price changes, especially for large limit orders.
 
@@ -27,13 +27,10 @@ The buy and sell side orderbook activity contains 3 important pieces of informat
 
 Recent FIN trading activity for a specific pair is also captured on the top right of the screen in the user interface. Before the UI is explained in detail it is important to explain the concept of maker/taker.
 
-&#x20;Maker and taker FIN transactions have different fees. Maker orders refer to actions that supply liquidity to the FIN orderbook i.e. placing a limit order (whether a buy or sell) where as taker orders refer to actions that remove liquidity from the FIN orderbook i.e. placing a market order. In some cases, limit orders can also be taker orders. Suppose there is an order to sell 10 KUJI in the orderbook at X price and a user enters a limit order to buy 10 KUJI in the orderbook at X price--since the result of that order is the overall reduction of FIN orderbook liquidity for that trading pair, the limit order is still treated as a taker order. Currently maker orders and taker orders respectively have 0.075% and 0.15% fees. In the near future, FIN will transition to a model where maker orders have _negative_ fees and taker orders will have slightly higher fees to sustainably earn revenue and encourage more orderbook liquidity.&#x20;
+&#x20;Maker and taker FIN transactions have different fees. Maker orders refer to actions that supply liquidity to the FIN orderbook i.e. placing a limit order (whether a buy or sell) where as taker orders refer to actions that remove liquidity from the FIN orderbook i.e. placing a market order. In some cases, limit orders can also be taker orders. Suppose there is an order to sell 10 [KUJI](../../../tokenomics/kuji-token/) in the orderbook at X price and a user enters a limit order to buy 10 KUJI in the orderbook at X price--since the result of that order is the overall reduction of FIN orderbook liquidity for that trading pair, the limit order is still treated as a taker order. Currently maker orders and taker orders respectively have 0.075% and 0.15% fees. In the near future, FIN will transition to a model where maker orders have _negative_ fees and taker orders will have slightly higher fees to sustainably earn revenue and encourage more orderbook liquidity.&#x20;
 
 Building on this understanding of maker/taker orders, it is easier to explain the details of the FIN recent trading activity UI. This UI only displays taker orders i.e. (market and limit) buys and sells that removed liquidity from the FIN orderbook. Buys are displayed in green text whereas sells are displayed in red text. Three additional pieces of data are stored for each recent taker order: the price of the base asset in terms of the quote asset; the amount of the base asset purchased or sold; and the _local_ time in hours, minutes, and seconds when the order was placed.&#x20;
 
-&#x20;                                             ![](<../../../.gitbook/assets/image (13).png>)
+<figure><img src="../../../.gitbook/assets/image (32).png" alt="" width="302"><figcaption><p>ATOM / USK recent trades</p></figcaption></figure>
 
 The recent trading activity shows the latest 25 FIN transactions, more transactions can be seen on external third parties such as Coinhall. Transaction history can give traders a better idea of orderbook flow over a period of time--especially in conjunction with recently released announcements or news.&#x20;
-
-&#x20;
-

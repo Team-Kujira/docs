@@ -5,7 +5,7 @@ coverY: 0
 
 # Swap
 
-[https://blue.kujira.app/swap](swap.md#https-blue.kujira.app-swap) or [https://blue.kujira.network/swap](swap.md#https-blue.kujira.app-swap-or-https-blue.kujira.network-swap)
+[https://blue.kujira.network/swap](swap.md#https-blue.kujira.app-swap-or-https-blue.kujira.network-swap)
 
 ## Simple Token Swap User Interface
 

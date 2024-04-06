@@ -13,7 +13,7 @@ At the moment, USK's main 1st party integrations in the Kujira ecosystem are wit
 
 ## BLUE use case&#x20;
 
-USK can be minted on the [https://blue.kujira.app/mint](https://blue.kujira.app/mint) page. A separate [Dashboard](../blue/dashboard.md) tracking USK backing collateral is part of the main [https://blue.kujra.app](https://blue.kujra.app) page. USK can be bridged from Kujira to any Cosmos chain via the [https://blue.kujira.app/ibc](https://blue.kujra.app) page. Furthermore, USK can be sent from one Kujira address to another via [https://blue.kujira.app/wallet](https://blue.kujira.app/wallet). In fact, using the wallet tab, USK can be sent on a linear vested basis to a chosen wallet by specifying an end date when performing such a send. USK can also be used on the swap tab to exchange assets.&#x20;
+USK can be minted on the [https://blue.kujira.network/mint](https://www.blue.kujira.network/mint) page. A separate [Dashboard](../blue/dashboard.md) tracking USK backing collateral is part of the main [https://blue.kujra.network](https://www.blue.kujira.network/) page. USK can be bridged from Kujira to any Cosmos chain via the [https://blue.kujira.network/ibc](https://www.blue.kujira.network/ibc) page. Furthermore, USK can be sent from one Kujira address to another via [https://blue.kujira.network/wallet](https://www.blue.kujira.network/wallet). In fact, using the wallet tab, USK can be sent on a linear vested basis to a chosen wallet by specifying an end date when performing such a send. USK can also be used on the swap tab to exchange assets.&#x20;
 
 ## FIN use case
 

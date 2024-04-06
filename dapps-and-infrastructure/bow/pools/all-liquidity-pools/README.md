@@ -17,4 +17,4 @@ The incentivize pages are bow.kujira.app/incentivize/'liquidity pool contract ad
 
 After confirming current incentives, there is a user interface to assist in providing pool incentives. First select an incentive token and total amount, a distribution start date (and time), a distribution end date (and time), and an incentive type (fixed or linearly decreasing over time). Note that incentivization is a one-way transaction which has a 10 USK fee to discourage spam.&#x20;
 
-&#x20;                                                ![](<../../../../.gitbook/assets/image (39).png>)
+<figure><img src="../../../../.gitbook/assets/image (16).png" alt=""><figcaption><p>Adding incentives to a BOW LP</p></figcaption></figure>

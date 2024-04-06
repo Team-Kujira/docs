@@ -31,9 +31,19 @@ Team Kujira
 
 Kujira docs [developer section](broken-reference)
 
-[https://github.com/Team-Kujira](https://github.com/Team-Kujira) Kujira Github
+Here is the Kujira Github: [https://github.com/Team-Kujira](https://github.com/Team-Kujira)
 
-Of particular interest are the following Github subsections
+Next are some essential developer resources
+
+* [https://github.com/Team-Kujira/pond-ex](https://github.com/Team-Kujira/pond-ex): Your personal local Kujira blockchain. Start testing your smart contract in minutes
+* [https://docs.rs/kujira/latest/kujira/](https://docs.rs/kujira/latest/kujira/): Find out how you can interact with the Kujira blockchain and core products from your smart contract
+* [https://github.com/Team-Kujira/kujira.js](https://github.com/Team-Kujira/kujira.js): JS Pro? Understand how you can interact with the Kujira products from your application
+* [docs.kujira.app](https://t.co/lzqEm8qFod): New to Kujira? Here’s your place to start! Find out what makes us special and what tools you can choose from
+* [build.kujira.app](https://t.co/xRDEXQg20j): Time to start building! Your central place around all things development
+* [https://kujiraecosystem.com](https://t.co/U7swLdiy5J): Find out what’s happening in the whole Kujira ecosystem
+* [https://github.com/Team-Kujira/kujira.ui](https://github.com/Team-Kujira/kujira.ui): UI components in typescript
+
+Furthermore you may also be interested in the following specific Github sections
 
 * [https://github.com/Team-Kujira/core](https://github.com/Team-Kujira/core) Kujira core repository
 * [https://github.com/Team-Kujira/kujira.js](https://github.com/Team-Kujira/kujira.js) Javascript Interfaces for the Kujira blockchain
@@ -46,6 +56,4 @@ Of particular interest are the following Github subsections
 * [https://github.com/Team-Kujira/kujira-rs-testing](https://github.com/Team-Kujira/kujira-rs-testing) Mock interface to test Cosmwasm contracts
 * [https://github.com/Team-Kujira/fin-bot-demo](https://github.com/Team-Kujira/fin-bot-demo) Kujira [FIN](../dapps-and-infrastructure/fin/) DEX bot integration
 
-[https://docs.rs/kujira/latest/kujira/](https://docs.rs/kujira/latest/kujira/) The list of all interfaces that are made available by Kujira's modules, that dApp developers can utilize in their contracts
-
-[https://entropiclabs.io/beacon/docs/quickstart](https://entropiclabs.io/beacon/docs/quickstart) Entropy Beacon docs&#x20;
+Finally, [https://entropiclabs.io/beacon/docs/quickstart](https://entropiclabs.io/beacon/docs/quickstart) contains the Entropy Beacon docs&#x20;

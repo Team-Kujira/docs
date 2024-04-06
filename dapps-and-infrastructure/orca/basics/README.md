@@ -17,7 +17,7 @@ All available ORCA markets can be seen on the main landing page [https://orca.ku
 
 Once cross-chain markets launch, there will be further differentiation between Kujira native and cross-chain markets. ORCA has been redesigned for the Kujira blockchain to bring decentralized community liquidations to all EVM and RUST based projects bringing accessibility and fairness for everyone. When [GHOST](../../ghost-money-market/) launched, we simplified ORCA's layout to facilitate future scalability.
 
-<figure><img src="../../../.gitbook/assets/ORCAscreenie2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ORCAscreenie2.png" alt=""><figcaption><p>All ORCA markets</p></figcaption></figure>
 
 On the landing page, each ORCA market displays information about its health, collateral type, bid denomination, total value locked, pool size, max possible discount, and total sum of your bids.
 
