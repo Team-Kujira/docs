@@ -1,3 +1,8 @@
+---
+cover: ../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
+---
+
 # Rewards
 
 [https://bow.kujira.network/usk?tab=rewards](https://bow.kujira.network/usk?tab=rewards)

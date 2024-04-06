@@ -1,5 +1,7 @@
 ---
 description: View various details about USK multi-staking
+cover: ../../../.gitbook/assets/Kujira BOW (1).png
+coverY: 0
 ---
 
 # Overview

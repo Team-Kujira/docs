@@ -19,5 +19,6 @@ Explore everything the BOW Pools section has to offer:
 * [All Liquidity Pools](all-liquidity-pools/)
   * [Pool Overview](all-liquidity-pools/pool-overview.md)
   * [Provide to a Pool](all-liquidity-pools/provide-to-a-pool.md)
+  * [Leveraged Liquidity](all-liquidity-pools/leveraged-liquidity.md)
   * [Stake LP with a Pool](all-liquidity-pools/stake-lp-with-a-pool.md)
 

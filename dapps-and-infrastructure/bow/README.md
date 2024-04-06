@@ -23,3 +23,12 @@ To use BOW, connect your wallet to the Pools tab and top up on the Swap tab if n
 ## Benefits of BOW
 
 BOW offers several benefits to the ecosystem, including an on-chain solution for market making that doesn't rely on a third party and the ability to incentivize pool depth through fees and rewards. It also provides a stable and deep order book for traders, leading to higher volume and stability.
+
+## Navigate BOW
+
+The BOW application has 4 main&#x20;
+
+* [Dashboard](dashboard.md)
+* [Pools](pools/)
+* [Swap](swap.md)
+* [Stake USK](stake-usk/)

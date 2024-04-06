@@ -37,7 +37,3 @@ It paves the groundwork for higher ORCA volumes, FIN perpetuals (as well as FX t
 * Liquidity: GHOST will supercharge the FIN orderbook, ORCA volume, and BOW liquidity
 * Strengthened USK: GHOST introduces a powerful new way to arbitrage USK back to peg
 * Strong integration: GHOST is integrated into key Kujira protocols like FIN, BOW, BLUE, & ORCA
-
-
-
-##
