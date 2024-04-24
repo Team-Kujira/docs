@@ -45,7 +45,7 @@ Pilot Launches:
 
 Kujira Events:
 
-<table><thead><tr><th width="160">Event Name</th><th width="329">Description</th><th width="133">Timeline</th><th>Link</th></tr></thead><tbody><tr><td><a href="https://twitter.com/AwesomWasm">AwesomWasm</a></td><td>Kujira x Neutron Hackathon in Berlin</td><td>May 28 - 30 </td><td><a href="https://twitter.com/TeamKujira/status/1776288379228835978">Here</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<table><thead><tr><th width=160>Event Name<th width=329>Description<th width=133>Timeline<th>Link<tbody><tr><td><a href=https://twitter.com/KujiraAcademy>Kujira Academy</a><td>Kujira Lisbon Takeover<td>18 April 2024<td><a href=https://twitter.com/TeamKujira/status/1783161815599308892>Here</a><tr><td><a href=https://twitter.com/AwesomWasm>AwesomWasm</a><td>Kujira x Neutron Hackathon in Berlin<td>28-30 May 2024<td><a href=https://twitter.com/TeamKujira/status/1776288379228835978>Here</a><tr><td><td><td><td></table>
 
 
 
