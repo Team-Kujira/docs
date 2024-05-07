@@ -9,7 +9,7 @@ Since KUJI is not an inflationary asset and relies on adoption of its decentrali
 
 [Stakers are rewarded with KUJI as well as USK and USDC](https://x.com/TeamKujira/status/1767231977340477755?s=20) that are converted from tokens paid as fees on Kujira dApps such as FIN. This creates constant buy pressure for KUJI while allowing it to be sustainable.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt="" width="563"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt="" width="563"><figcaption></figcaption></figure>
 
 Without needing to pivot its mechanism, we as developers can simply concentrate on building out the best products possible, fostering a strong community, and bringing high integrity to everything we do.&#x20;
 

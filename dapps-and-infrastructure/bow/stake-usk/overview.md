@@ -12,11 +12,11 @@ coverY: 0
 
 The left half of the multi-stake Overview page shows current pool incentives that are distributed to all USK multi-stake users. These LPs are distributed equally across every LP/ Basically, for bigger pools, the same amount of LP nets a smaller share of the overall daily fees distributed to that pool from the overall incentives. Therefore, it makes the most sense to stake your USK LPs in smaller pools (which have higher APRs), and the ultimate result is equalizing overall USK liquidity size across BOW pairs.&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (4).png" alt="" width="307"><figcaption><p>USK Multi-stake current incentive schedules</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (4) (1).png" alt="" width="307"><figcaption><p>USK Multi-stake current incentive schedules</p></figcaption></figure>
 
 By clicking on the 'add incentives to this pool' hyperlink, it will bring up an interface that allows you to deposit various tokens and select custom settings. You can select either decreasing or fixed incentive types. You can read more about how this works [here](https://docs.kujira.app/dapps-and-infrastructure/bow/pools/all-liquidity-pools/pool-overview#incentive-release-schedule).&#x20;
 
-<figure><img src="../../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Adding Incentives to the USK Multi-stake pools</p></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Adding Incentives to the USK Multi-stake pools</p></figcaption></figure>
 
 ## Incentivized Tokens
 

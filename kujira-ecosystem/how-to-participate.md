@@ -20,7 +20,7 @@ On BLUE, [KUJI](../tokenomics/kuji-token/) stakers can collect interest bearing 
 
 Users interested in staking on other Cosmos chains in an effective way that promotes greater decentralization can use [POD](../dapps-and-infrastructure/pod/) to stake on any other Cosmos chain via the POD application on Kujira.
 
-Eager would-be investors can use [PILOT](../dapps-and-infrastructure/pilot-launchpad.md) to get in on the ground floor of new project launches and fundraises. This gives you access to opportunities previous limited to the wealthy and elite who were the only individuals with any hope of seeing early rounds to invest in an asset.&#x20;
+Eager would-be investors can use [PILOT](../dapps-and-infrastructure/pilot-launchpad.md) to get in on the ground floor of new project launches and fundraises. This gives you access to opportunities previous limited to the wealthy and elite who were the only individuals with any hope of seeing early rounds to invest in an asset. On the flip side, for aspiring founders, PILOT provides a premier launch mechanism that empowers teams with control of the quantity of tokens and the price range they are sold for. PILOT removes the anxiety of first come, first served, and eliminates the randomness of lotteries for participation queues.&#x20;
 
 New projects can apply to be listed on [FIN](../dapps-and-infrastructure/fin/). Projects can also advertise to the entire Kujira community by providing incentives on [BOW](../dapps-and-infrastructure/bow/). Users can also provide liquidity and stake it on BOW to farm incentives and earn rewards. Developers who want to build on Kujira can apply to participate in [Kujira Labs](broken-reference)$$-$$our virtual & in-person accelerator program in Lisbon, Portugal.
 

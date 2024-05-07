@@ -5,4 +5,4 @@ coverY: 0
 
 # Mint
 
-Mint USK directly on SONAR on the Mint tab. Read more about Kujira's native stablecoin USK [here](../../../../usk-stablecoin.md).
+Mint [USK](../../../../usk-stablecoin.md), Kujira's native stablecoin, directly on SONAR on the Mint tab.

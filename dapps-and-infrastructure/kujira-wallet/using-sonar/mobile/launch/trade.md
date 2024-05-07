@@ -5,4 +5,4 @@ coverY: 0
 
 # Trade
 
-Trade assets cleanly on FIN and set powerful limit orders to get the best possible deals when swapping between various assets. Read more about FIN [here](../../../../fin/).&#x20;
+Trade assets cleanly on [FIN](../../../../fin/) and set powerful limit orders to get the best possible deals when swapping between various assets.

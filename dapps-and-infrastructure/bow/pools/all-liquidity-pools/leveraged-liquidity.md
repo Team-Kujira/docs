@@ -27,6 +27,8 @@ If you're satisfied with the overview, simply click the blue 'Update Position' b
 
 <figure><img src="../../../../.gitbook/assets/image (166).png" alt=""><figcaption><p>This is what the LP looks like after updating the leveraged LP position based on the criteria above.</p></figcaption></figure>
 
+BOW Leveraged LP positions can be updated at any time to borrow more or less funds and/or add or remove collateral.&#x20;
+
 ## Repay & Close&#x20;
 
 When you are ready to close your leveraged LP position, simply hit the red 'Repay & Close' button on the bottom left and it will automatically fill up the LP page fields with the necessary values to close the position and display what would happen when doing such.

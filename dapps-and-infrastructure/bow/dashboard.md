@@ -14,7 +14,7 @@ The BOW dashboard displays all active BOW liquidity provision (LP) token positio
 
 Additional information is displayed for each active pair like this:
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="403"><figcaption><p>ATOM / axlUSDC LP position balance and unclaimed rewards</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (12).png" alt="" width="403"><figcaption><p>ATOM / axlUSDC LP position balance and unclaimed rewards</p></figcaption></figure>
 
 ### APR
 
