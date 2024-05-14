@@ -17,7 +17,7 @@ The information displayed on this tab includes your position size, the amount of
 
 <figure><img src="../../../../.gitbook/assets/image (165).png" alt=""><figcaption><p>What happens if I update my leveraged LP position by borrowing 0.5 <a href="../../../../tokenomics/kuji-token/">KUJI</a> and 0.1 ATOM</p></figcaption></figure>
 
-It is possible to slide the LTV bar for both assets manually to attempt to borrow an open that opens your position to a specific desired LTV. Or you can manually enter however much of each asset you would like to borrow.&#x20;
+It is possible to slide the LTV bar for both assets manually to attempt to borrow corresponding amounts that opens your position to a specific desired LTV. Or you can manually enter however much of each asset you would like to borrow.&#x20;
 
 After doing so, you see a little chart below on the left which displays the amount your LP token collateral increases or decreases, the amount of each asset that is being borrowed or repaid in GHOST, and. the net change of each asset in the LP balance.
 
