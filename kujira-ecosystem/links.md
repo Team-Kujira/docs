@@ -16,7 +16,7 @@ coverY: 0
 * Join our Telegram price discussion channel: [https://t.me/KUJI\_Price\_Discussion](https://t.me/KUJI\_Price\_Discussion)
 * Join our Telegram announcements channel: [https://t.me/kujira\_announcements](https://t.me/kujira\_announcements)
 * Join our Telegram [amplifier](../community/kujira-amplifier.md) channel: [https://t.me/kujiraamplifier](https://t.me/kujiraamplifier)
-* Join our Discord: [https://discord.gg/teamkujira](https://discord.gg/teamkujira)
+* Join our Discord: [https://discord.gg/u3Hj32EXDT](https://discord.gg/u3Hj32EXDT)
 * Follow our Twitter: [https://twitter.com/TeamKujira](https://twitter.com/TeamKujira)
 * Follow Dale the Mail Whale on Twitter: [https://twitter.com/DaleMailWhale](https://twitter.com/DaleMailWhale)
 * Follow our [WinkHUB](../community/kujira-socials/winkhub.md): [https://winkhub.app/creators/dale-the-mail-whale](https://winkhub.app/creators/dale-the-mail-whale)

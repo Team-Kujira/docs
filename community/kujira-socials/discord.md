@@ -5,7 +5,7 @@ coverY: 0
 
 # Discord
 
-The Kujira Discord is a community hub that offers many channels for various types of activity. It can be accessed at [https://discord.gg/teamkujira](https://discord.gg/teamkujira). Along with Telegram, Discord is the primary way to:
+The Kujira Discord is a community hub that offers many channels for various types of activity. It can be accessed at [https://discord.gg/u3Hj32EXDT](https://discord.gg/u3Hj32EXDT). Along with Telegram, Discord is the primary way to:
 
 $$\bullet$$ Directly communicate with the team (and experienced & friendly chat moderators)
 
