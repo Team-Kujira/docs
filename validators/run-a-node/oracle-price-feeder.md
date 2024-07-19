@@ -37,10 +37,10 @@ sudo apt install -y build-essential git unzip curl
 
 ### Install go toolchain
 
-1. Download and extract go 1.20.8.
+1. Download and extract go 1.21.8.
 
 ```bash
-curl -fsSL https://golang.org/dl/go1.20.8.linux-amd64.tar.gz | sudo tar -xzC /usr/local
+curl -fsSL https://golang.org/dl/go1.21.8.linux-amd64.tar.gz | sudo tar -xzC /usr/local
 ```
 
 1. Login as `kujioracle`.
@@ -59,7 +59,7 @@ export GO111MODULE=on
 export PATH=\$PATH:/usr/local/go/bin:\$HOME/go/bin
 EOF
 source ~/.bashrc
-go version  # should output "go version go1.18.5 linux/amd64"
+go version  # should output "go version go1.21.8 linux/amd64"
 ```
 
 ## Build `price-feeder`
@@ -70,15 +70,15 @@ go version  # should output "go version go1.18.5 linux/amd64"
 sudo su -l kujioracle
 ```
 
-1. Build `kujirad` v0.9.1. We'll use the binary to create the keyring file.
+1. Build `kujirad` v1.1.0. We'll use the binary to create the keyring file.
 
 ```bash
 git clone https://github.com/Team-Kujira/core
 cd core
-git checkout v0.9.1
+git checkout v1.1.0
 make install
 cd ..
-kujirad version  # should output "0.9.1"
+kujirad version  # should output "1.1.0"
 ```
 
 1. Build `price-feeder`.
@@ -181,9 +181,11 @@ validator = "kujiravaloper...." # validator address
 prefix = "kujira"
 ```
 
-Ensure the `validator` address is set to [your validator address.](https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L52)
+Ensure the `validator` address is set to your validator address.
 
-Ensure that `address` is set to the address of [your feeder wallet](https://github.com/Team-Kujira/oracle-price-feeder/blob/master/config.example.toml#L50). By default this is the same as the `kujira` address for your validator key, however it's likely that you'll want to set a delegate feeder account to your validator so that you can run price-feeder on a separate user account or separate server, with different keys.
+Ensure that `address` is set to the address of your feeder wallet. By default this is the same as the `kujira` address for your validator key, however it's likely that you'll want to set a delegate feeder account to your validator so that you can run price-feeder on a separate user account or separate server, with different keys.
+
+Follow the instructions in [feeder-config](https://github.com/starsquidnodes/feeder-config/blob/main/README.md) to set up the right currency pairs and enpoints. For a deeper overview of the oracle fetures and setup check the official [oracle-price-feeder](https://github.com/Team-Kujira/oracle-price-feeder)
 
 To set a delegate:
 
