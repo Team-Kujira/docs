@@ -5,7 +5,7 @@ coverY: 0
 
 # Meet Team Kujira
 
-Team Kujira is a dedicated group of individuals working to build and grow the Kujira platform. Here is a brief introduction to some of the key members of the team:
+Team Kujira is a dedicated group of individuals working to build and grow the Kujira platform. Here is a brief introduction to the team:
 
 ### Our 3 Founders
 
@@ -15,22 +15,22 @@ Dove [@Deadrightdove](https://twitter.com/deadrightdove) | Dove, CEO and public 
 
 Hans [@Codehans1](https://twitter.com/codehans1) | Hen, central back-end & smart contract developer for Kujira                                                                                                                          &#x20;
 
-### Core Team
+### Wider Team
 
-Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager and runs the [Rorcual](https://twitter.com/Rorcual\_nodes) validator with a partner
+Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager | [Rorcual](https://twitter.com/Rorcual\_nodes) validator
 
-Amit [@Const\_amit](https://twitter.com/const\_amit) | Core team Smart Contract Wizard&#x20;
+Amit [@Const\_amit](https://twitter.com/const\_amit) | Smart Contract Wizard&#x20;
 
-Dan Tanaka [@Dantanakakujira](https://twitter.com/dantanakakujira) | Growth lead and head biz dev
+Dan Tanaka [@Dantanakakujira](https://twitter.com/dantanakakujira) | Growth & biz dev
 
-Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Research & writing | [WinkHUB](../community/kujira-socials/winkhub.md) core team | [KujiDAO](https://twitter.com/kuji\_DAO) cofounder
+Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Writing & Research | [WinkHUB](../community/kujira-socials/winkhub.md) team | [KujiDAO](https://twitter.com/kuji\_DAO) validator
 
 Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, moderator, advisor
 
-Jan [@JPTG119](https://twitter.com/JPTG119) | Responsible for media and community
+Jan [@JPTG119](https://twitter.com/JPTG119) | Media & Community
 
-KP [@KPeruggi](https://twitter.com/KPeruggi) | Content and Outreach    &#x20;
+KP [@KPeruggi](https://twitter.com/KPeruggi) | Content & Outreach    &#x20;
 
-Mint [@mintthemoon](https://twitter.com/mintthemoon) | Kujira Name Service | central [Gojira](https://winkhub.app/posts/kujira-name-system-is-launching-on-the-gojira-nft-marketplace) backend dev | Kujira relayer/validator
+Mint [@mintthemoon](https://twitter.com/mintthemoon) | Kujira Name Service | [Gojira](https://winkhub.app/posts/kujira-name-system-is-launching-on-the-gojira-nft-marketplace) dev | Kujira relayer/validator
 
 Starsquid [@starsquid\_io](https://twitter.com/starsquid\_io) | Kujira Price Oracles & [Kujira Pond](../dapps-and-infrastructure/pond.md)                                    &#x20;
