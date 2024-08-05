@@ -17,13 +17,13 @@ Hans [@Codehans1](https://twitter.com/codehans1) | Hen, central back-end & smart
 
 ### Wider Team
 
-Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager | [Rorcual](https://twitter.com/Rorcual\_nodes) validator
+Alex [@Unconumb](https://twitter.com/Unconumb) | Community manager, [Rorcual](https://twitter.com/Rorcual\_nodes) validator
 
 Amit [@Const\_amit](https://twitter.com/const\_amit) | Smart Contract Wizard&#x20;
 
 Dan Tanaka [@Dantanakakujira](https://twitter.com/dantanakakujira) | Growth & biz dev
 
-Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Writing & Research | [WinkHUB](../community/kujira-socials/winkhub.md) team | [KujiDAO](https://twitter.com/kuji\_DAO) validator
+Daniel Lux [@Thuxo\_Lux](https://twitter.com/Thuxo\_Lux) | Writing & Research, [WinkHUB](../community/kujira-socials/winkhub.md) team, [KujiDAO](https://twitter.com/kuji\_DAO) validator
 
 Dave [@Brinstar\_Kuji](https://twitter.com/Brinstar\_Kuji) | CFA Charterholder, moderator, advisor
 
@@ -31,6 +31,6 @@ Jan [@JPTG119](https://twitter.com/JPTG119) | Media & Community
 
 KP [@KPeruggi](https://twitter.com/KPeruggi) | Content & Outreach    &#x20;
 
-Mint [@mintthemoon](https://twitter.com/mintthemoon) | Kujira Name Service | [Gojira](https://winkhub.app/posts/kujira-name-system-is-launching-on-the-gojira-nft-marketplace) dev | Kujira relayer/validator
+Mint [@mintthemoon](https://twitter.com/mintthemoon) | Kujira Name Service, [Gojira](https://winkhub.app/posts/kujira-name-system-is-launching-on-the-gojira-nft-marketplace) dev, Kujira relayer/validator
 
 Starsquid [@starsquid\_io](https://twitter.com/starsquid\_io) | Kujira Price Oracles & [Kujira Pond](../dapps-and-infrastructure/pond.md)                                    &#x20;
