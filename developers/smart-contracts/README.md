@@ -13,11 +13,13 @@ If you are new to CosmWASM and Smart Contracts, we recommend checking out the CW
 
 {% embed url="https://github.com/InterWasm/cw-template" %}
 
-When you are ready to deploy, you will need a local build of the chain core, in order to store your code on-chain and submit governance proposals to instantiate it.
+When you are ready to deploy, you will need a local build of the chain core, in order to store your code on-chain and submit governance proposals to instantiate it. This requires go1.18 or newer.
 
 ```bash
 git clone https://github.com/Team-Kujira/core
 cd core
+go mod download all
+go mod tidy
 make install
 ```
 
